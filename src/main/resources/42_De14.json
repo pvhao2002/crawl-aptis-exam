@@ -1,0 +1,1907 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 4053,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man is reading the news about a housing development plan. How many new houses are going to be built?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8a36c74c02bf79ebe1ff4acabe2d3688.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12675,
+            "vanbanphanhoi": "2500",
+            "fileupload": ""
+          },
+          {
+            "id": 12676,
+            "vanbanphanhoi": "1500",
+            "fileupload": ""
+          },
+          {
+            "id": 12677,
+            "vanbanphanhoi": "2000",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4052,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man is talking to a waiter. What drink does the man choose?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/83981699cabf6073d53705d2b37e2cab.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12672,
+            "vanbanphanhoi": "Milk tea",
+            "fileupload": ""
+          },
+          {
+            "id": 12673,
+            "vanbanphanhoi": "Hot tea",
+            "fileupload": ""
+          },
+          {
+            "id": 12674,
+            "vanbanphanhoi": "Iced tea",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4054,
+        "vanbancauhoi": "Two friends are talking with each other. What did they both buy?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/49f6c02a99b4ec9284b1b528b99e4b65.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12678,
+            "vanbanphanhoi": "Clothes",
+            "fileupload": ""
+          },
+          {
+            "id": 12679,
+            "vanbanphanhoi": "Tea",
+            "fileupload": ""
+          },
+          {
+            "id": 12680,
+            "vanbanphanhoi": "Cakes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4055,
+        "vanbancauhoi": "Louis is calling his friend Standar. Where will Luis meet Standar?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0a3c3a86f0b771651d45fb8f06d70a49.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12681,
+            "vanbanphanhoi": "Outside the station",
+            "fileupload": ""
+          },
+          {
+            "id": 12682,
+            "vanbanphanhoi": "At the cafe",
+            "fileupload": ""
+          },
+          {
+            "id": 12683,
+            "vanbanphanhoi": "Near the ticket counter",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4056,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eTom is calling his mom. Who is visiting Tom this weekend?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/871fd54a7a7a987414d04425b1ad1124.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12684,
+            "vanbanphanhoi": "His mother and uncle",
+            "fileupload": ""
+          },
+          {
+            "id": 12685,
+            "vanbanphanhoi": "His sister and children",
+            "fileupload": ""
+          },
+          {
+            "id": 12686,
+            "vanbanphanhoi": "His mother and sister",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4057,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA woman is talking about her plan for the holiday. What will she do during the holiday?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a3fa54a6a1212b8b361b57be8272a802.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12687,
+            "vanbanphanhoi": "Go for a bike ride",
+            "fileupload": ""
+          },
+          {
+            "id": 12688,
+            "vanbanphanhoi": "Go for a run",
+            "fileupload": ""
+          },
+          {
+            "id": 12689,
+            "vanbanphanhoi": "Go for a walk",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4058,
+        "vanbancauhoi": "A woman is discussing with her team. How many chairs does she need?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2abbc3dea8737bdfd9a5bc5f06180057.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12690,
+            "vanbanphanhoi": "12",
+            "fileupload": ""
+          },
+          {
+            "id": 12691,
+            "vanbanphanhoi": "15",
+            "fileupload": ""
+          },
+          {
+            "id": 12692,
+            "vanbanphanhoi": "20",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4059,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eJane is calling her friend Martha. What time are they going to meet?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a6dd35b9af1815302b10fe764340c826.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12693,
+            "vanbanphanhoi": "4.00",
+            "fileupload": ""
+          },
+          {
+            "id": 12696,
+            "vanbanphanhoi": "5.30",
+            "fileupload": ""
+          },
+          {
+            "id": 12697,
+            "vanbanphanhoi": "6.00",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4060,
+        "vanbancauhoi": "A woman is going home after shopping. What did she buy?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7a62e5cccbcebc000ba196640f9724e9.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12698,
+            "vanbanphanhoi": "A dress",
+            "fileupload": ""
+          },
+          {
+            "id": 12699,
+            "vanbanphanhoi": "A blouse",
+            "fileupload": ""
+          },
+          {
+            "id": 12700,
+            "vanbanphanhoi": "A hat",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4061,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA woman is talking about her babysitter. How old is the babysitter?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9bac07e22afeeb8c52db0f7512ef7e91.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12701,
+            "vanbanphanhoi": "20",
+            "fileupload": ""
+          },
+          {
+            "id": 12702,
+            "vanbanphanhoi": "21",
+            "fileupload": ""
+          },
+          {
+            "id": 12703,
+            "vanbanphanhoi": "22",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4062,
+        "vanbancauhoi": "A woman is calling her son. What time will the mother meet the son?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/aa15bd82646f97d2ebfee8d44861f084.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12704,
+            "vanbanphanhoi": "3 o\u0027clock",
+            "fileupload": ""
+          },
+          {
+            "id": 12705,
+            "vanbanphanhoi": "4 o’clock",
+            "fileupload": ""
+          },
+          {
+            "id": 12706,
+            "vanbanphanhoi": "5 o\u0027clock",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4063,
+        "vanbancauhoi": "A man is talking about his job. Where is he working now?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/acc1ed958898dd94f4c49dbc3af057da.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12707,
+            "vanbanphanhoi": "At a university",
+            "fileupload": ""
+          },
+          {
+            "id": 12708,
+            "vanbanphanhoi": "In a big company",
+            "fileupload": ""
+          },
+          {
+            "id": 12709,
+            "vanbanphanhoi": "In a bank",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4064,
+        "vanbancauhoi": "The man is talking about his key. Where did he find the key?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/05bf881f1beedf854404518dfe82880c.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12710,
+            "vanbanphanhoi": "In his car",
+            "fileupload": ""
+          },
+          {
+            "id": 12711,
+            "vanbanphanhoi": "In the front door",
+            "fileupload": ""
+          },
+          {
+            "id": 12712,
+            "vanbanphanhoi": "In the bedroom",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 771,
+        "title": "Đề 14 - Listening 14",
+        "des": "Listen to the opinions of 4 people talking about the purposes of using the Internet. Choose the correct answer.",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4065,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson A: I spend quite a bit of my free time online, \u003cstrong\u003emostly because I love \u003c/strong\u003e\u003c/span\u003e\u003cstrong\u003ewatching movie\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e\u003cstrong\u003es\u003c/strong\u003e. The Internet makes it so easy to find a wide variety of films, from the latest releases to old classics. I can stream them directly on my laptop or TV without needing to go out and buy DVDs or rent movies. I just pick a film and relax. It’s the best way to unwind after a long day, and I can watch whatever I want, whenever I want.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b3de23cc37a8fe8622e633c2cfa5f209.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12713,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12714,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12715,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              },
+              {
+                "id": 12716,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12717,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4066,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson B: The main reason I use the Internet is to\u003c/span\u003e\u003cstrong\u003e stay in touch with my friends\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. It’s great because I can talk to people who live far away without any issues. Whether it\u0027s through social media, video calls, or messaging apps, the Internet allows me to communicate easily and quickly. My best friend loves using the Internet for studying online courses, but that’s not really for me. I prefer just chatting and staying connected through messages and calls.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6f76ceeffed2741782a7b1afeb8b103a.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12718,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12719,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12720,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              },
+              {
+                "id": 12721,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12722,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4067,
+            "vanbancauhoi": "Speaker C _",
+            "vanbangiaithich": "\u003cp\u003ePerson C: For me, the Internet is an essential tool for \u003cstrong\u003ecompleting my school assignments\u003c/strong\u003e. I use it to research information, find articles, and access educational websites that help me understand my subjects better. It’s so convenient because I can find everything I need online without having to spend hours in the library. I also use it to download notes and submit my homework. It has really made studying more efficient, and I can work from anywhere, whether it’s at home or on the go.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/cb0f341eb7eff89b1483d52cd13d480e.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12723,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12724,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12725,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              },
+              {
+                "id": 12726,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12727,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4068,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson D: Whenever I need to plan a trip or get somewhere, I always use the Internet to find \u003c/span\u003e\u003cstrong\u003etransportation details\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I can check train schedules, bus routes, and even look up flights. It helps me figure out the best way to travel, and I can even buy tickets online. I like how I can get real-time updates about delays or changes. It makes traveling much easier and saves me the hassle of standing in line at stations or airports.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/36a0c3a919cd1312014c58b36d64a086.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12728,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12729,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12730,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              },
+              {
+                "id": 12731,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12732,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 772,
+        "title": "Đề 14 - Listening 15",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA man and a woman are discussing beauty. Which opinion is expressed by who?\u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6026cf24f7db5693f93c47517ceac133.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4069,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003ePeople share similar ideas about beauty _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12733,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12734,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12735,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4070,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eIdeas about beauty change over time _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12736,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12737,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12738,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4071,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eBeauty can be found in unlikely places _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12739,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12740,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12741,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4072,
+            "vanbancauhoi": "Traditional ideas about beauty are going to change _",
+            "vanbangiaithich": "\u003cp\u003eWoman: Hi David. You look so serious reading while watching that beauty show. What happened?\u003c/p\u003e\r\n\u003cp\u003eMan: You know, I’ve been thinking a lot about beauty lately. \u003cstrong\u003eIt seems like so many people share similar ideas about it,\u003c/strong\u003e especially with social media showing the same types of looks and trends everywhere. It’s almost like there’s a formula for what’s considered beautiful.\u003c/p\u003e\r\n\u003cp\u003eWoman: That’s a good point. \u003cstrong\u003eHowever, I believe that ideas about beauty change over time.\u003c/strong\u003e What we find beautiful today might not be the same in a few years. Just look at how fashion and beauty standards have shifted over the decades! Remember how popular certain hairstyles or clothing styles were?\u003c/p\u003e\r\n\u003cp\u003eMan: It’s fascinating to see how those perceptions evolve. And \u003cstrong\u003eI think beauty can be found in unexpected places too.\u003c/strong\u003e For instance, when I walk through my neighborhood, I notice beauty not only in nature, like the way the sun sets or flowers bloom, but also in everyday moments—like a street musician playing a beautiful tune or people sharing a laugh.\u003c/p\u003e\r\n\u003cp\u003eWoman: Those little things can be incredibly beautiful. \u003cstrong\u003eAnd I think traditional ideas of beauty are going to change even more. \u003c/strong\u003ePeople are starting to value authenticity and unique qualities rather than just sticking to old standards.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12742,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12743,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12744,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 773,
+        "title": "Đề 14 - Listening 16",
+        "des": "\u003cspan xss\u003dremoved\u003eListen to a man discussing goal setting. Choose the correct answers.\u003c/span\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b29ff128b17b3a12c9451dfd4f78d04c.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4073,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat does the speaker say about short-term goals?\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12745,
+                "vanbanphanhoi": "It allows you to be more flexible",
+                "fileupload": ""
+              },
+              {
+                "id": 12746,
+                "vanbanphanhoi": "It creates pressure and limits creativity",
+                "fileupload": ""
+              },
+              {
+                "id": 12747,
+                "vanbanphanhoi": "It only apply to specific situations or certain types of people",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4074,
+            "vanbancauhoi": "What is the speaker\u0026rsquo;s opinion about goal setting?",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: When discussing short-term goals, many people mistakenly think they only apply to specific situations or certain types of people. Some believe these goals create pressure and limit creativity, making it seem like they’re not worth the effort. However, this view is quite misleading. In reality,\u003c/span\u003e\u003cstrong\u003e short-term goals can actually be very flexible\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. They allow you to adjust your plans as life changes. For example, if you set a goal to read a few books this month, you might think that\u0027s too rigid, but you can easily change that goal if unexpected things come up, like work commitments or social events.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eNow, when we consider setting goals overall, there’s a common belief that having too many goals leads to confusion and distraction. Some argue that this approach complicates things and makes it difficult to focus on what really matters. However, this perspective fails to recognize that \u003c/span\u003e\u003cstrong\u003eclear goals actually help prevent mistakes\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. They provide a sense of direction, guiding our choices. But the irony is that without flexibility, we might miss opportunities for creativity. So, while both short-term and long-term goals can be useful, it’s important to strike a balance to avoid feeling overwhelmed.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12748,
+                "vanbanphanhoi": "It can lead to confusion and distraction",
+                "fileupload": ""
+              },
+              {
+                "id": 12749,
+                "vanbanphanhoi": "It can prevent you from making mistakes",
+                "fileupload": ""
+              },
+              {
+                "id": 12750,
+                "vanbanphanhoi": "It can bring about opportunities for individuals",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 774,
+        "title": "Đề 14 - Listening 17",
+        "des": "\u003cspan xss\u003dremoved\u003eListen to a TV producer sharing his thoughts on the latest scripts for a new show. Choose the correct answers.\u003c/span\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/612d9abf67c8453bb071841e1dd612ad.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4075,
+            "vanbancauhoi": "What does the producer think about the dialogues in the new show?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12751,
+                "vanbanphanhoi": "They are perfectly written and engaging.",
+                "fileupload": ""
+              },
+              {
+                "id": 12752,
+                "vanbanphanhoi": "They seem unrealistic.",
+                "fileupload": ""
+              },
+              {
+                "id": 12753,
+                "vanbanphanhoi": "They reflect real-life conversations well.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4076,
+            "vanbancauhoi": "How is the current industry demand affecting the quality of script production?",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTV producer: Recently, I’ve been reviewing the scripts for our new show, and I can\u0027t help but notice that the dialogues feel a bit off. \u003c/span\u003e\u003cstrong\u003eThey come across as too polished, almost like the characters are reading from a script rather than having real conversations.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e I wonder if viewers will notice this lack of authenticity. Some might think it adds a nice touch, but I believe people connect better with genuine interactions.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThen there\u0027s the issue of industry demand. While it’s great that there’s a push for more content,\u003c/span\u003e\u003cstrong\u003e I feel like this rush can hurt the quality of our scripts\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. We’re moving so fast that it’s easy to overlook important details. Some might argue that the pressure leads to innovation, but I worry that we might lose the essence of good storytelling in the process. Balancing speed and quality is becoming increasingly difficult, and I hope we can maintain our standards.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12754,
+                "vanbanphanhoi": "It is allowing for more thorough script development.",
+                "fileupload": ""
+              },
+              {
+                "id": 12755,
+                "vanbanphanhoi": "It is leading to more innovative ideas.",
+                "fileupload": ""
+              },
+              {
+                "id": 12756,
+                "vanbanphanhoi": "It is negatively influencing script production.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 628,
+      "title": "Đề 14 - Reading p1",
+      "des": "\u003cp\u003e\u003cstrong\u003eChoose one word from the list for each gap. The first one is done for you.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eDear Sam,\u003c/p\u003e\r\n\u003cp\u003eI hope you\u0027re doing \u003cstrong\u003ewell\u003c/strong\u003e!\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLet’s plan to meet up soon!\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eBest,\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAnna\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3445,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eI wanted to tell you about my recent trip to the park.  It was \u003c/span\u003e\u003cspan xss\u003dremoved\u003e\u003cstrong\u003e_\u003c/strong\u003e\u003c/span\u003e\u003cspan xss\u003dremoved\u003e a lovely day to be outside.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10701,
+              "vanbanphanhoi": "only",
+              "fileupload": ""
+            },
+            {
+              "id": 10702,
+              "vanbanphanhoi": "just",
+              "fileupload": ""
+            },
+            {
+              "id": 10703,
+              "vanbanphanhoi": "very",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3446,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e I thought it was \u003c/span\u003e\u003cstrong\u003e_ \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ehot to walk around for long.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10704,
+              "vanbanphanhoi": "not",
+              "fileupload": ""
+            },
+            {
+              "id": 10705,
+              "vanbanphanhoi": "really",
+              "fileupload": ""
+            },
+            {
+              "id": 10706,
+              "vanbanphanhoi": "too",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3449,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI met friends _\u003c/span\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cspan xss\u003dremoved\u003e my birthday party, and we had a great time. \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10712,
+              "vanbanphanhoi": "under",
+              "fileupload": ""
+            },
+            {
+              "id": 10713,
+              "vanbanphanhoi": "on",
+              "fileupload": ""
+            },
+            {
+              "id": 10714,
+              "vanbanphanhoi": "at",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3450,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWe decided to grab _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e snacks for our picnic.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10715,
+              "vanbanphanhoi": "much",
+              "fileupload": ""
+            },
+            {
+              "id": 10716,
+              "vanbanphanhoi": "any",
+              "fileupload": ""
+            },
+            {
+              "id": 10717,
+              "vanbanphanhoi": "some",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3451,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI can’t wait to _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e you the pictures we took!\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10718,
+              "vanbanphanhoi": "give",
+              "fileupload": ""
+            },
+            {
+              "id": 10719,
+              "vanbanphanhoi": "make",
+              "fileupload": ""
+            },
+            {
+              "id": 10720,
+              "vanbanphanhoi": "work",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 629,
+      "title": "Đề 14 - Reading p2",
+      "des": "\u003cp\u003e\u003cstrong\u003e The sentences below are some instructions. Put the sentences in the right order.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eTom Harper       \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3452,
+          "vanbancauhoi": "0. This is the short sumary of Tom Harper life.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 10721,
+              "vanbanphanhoi": "When he was young, he began writing short stories for a magazine",
+              "fileupload": ""
+            },
+            {
+              "id": 10722,
+              "vanbanphanhoi": "He soon wrote regularly for that magazine, sharing his creative ideas with many readers",
+              "fileupload": ""
+            },
+            {
+              "id": 10723,
+              "vanbanphanhoi": "At one point, he almost left his job, but then he decided to create unusual characters",
+              "fileupload": ""
+            },
+            {
+              "id": 10724,
+              "vanbanphanhoi": "The characters he imagined became some of the most famous in literature",
+              "fileupload": ""
+            },
+            {
+              "id": 10725,
+              "vanbanphanhoi": "This popularity made him rich and successful",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 630,
+      "title": "Đề 14 - Reading p3",
+      "des": "\u003cstrong\u003eThe sentences below are from some instructions. Put the sentences in the right order.\u003cbr\u003e\u003cbr\u003eKey card information\u003cbr\u003e\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3453,
+          "vanbancauhoi": "0. The following is the instruction of how to use the key card.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 10726,
+              "vanbanphanhoi": "To access the building and use the lift, you need to use the key card",
+              "fileupload": ""
+            },
+            {
+              "id": 10727,
+              "vanbanphanhoi": "If you lose this, please see the staff member at the front desk",
+              "fileupload": ""
+            },
+            {
+              "id": 10728,
+              "vanbanphanhoi": "He or she will ask your name and flat number and will write these down",
+              "fileupload": ""
+            },
+            {
+              "id": 10729,
+              "vanbanphanhoi": "You will also need to show him or her your identification card",
+              "fileupload": ""
+            },
+            {
+              "id": 10730,
+              "vanbanphanhoi": "He or she will take a copy of it and give you a new card",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 631,
+      "title": "Đề 14 - Reading p4",
+      "des": "\u003cstrong\u003eFour people share their feelings about reading books. Read their answers and answer the questions below.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eI have to read a lot for my job, and I find that reading factual books is often boring. The material tends to be dry and lacks excitement. After a long day at work, I usually feel too exhausted to read much, which means I have limited time for reading anything enjoyable.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eMy wife is always complaining that she can’t read many books. I don’t have that problem because I plan the reading schedule carefully. I set aside specific times each week for reading, which helps me stay on track. This way, I can enjoy my books while she finds it challenging to keep up.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eWhen I was a child, I struggled to finish one book at a time. It felt overwhelming to stay focused on a single story. However, now that I’m older, I enjoy exploring many genres and even read multiple books at once. I have a long list of books I want to read in the future, which keeps me excited.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eI keep a novel on the bedside table because I want to read before sleeping. However, I often find myself getting sleepy as soon as I start reading, which makes it difficult to concentrate. As a result, it has taken me several months to finish this book, and I still haven’t completed it.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3454,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks reading factual books is boring? -\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10731,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10732,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10733,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10734,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3455,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho reads more than another family member? -\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10735,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10736,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10737,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10738,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3456,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho has limited time for reading? -\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10740,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10741,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10742,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10743,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3457,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho has difficulty in finishing a book? -\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10744,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10745,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10746,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10747,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3458,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho reads many books at once? -\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10748,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10749,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10752,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10753,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3459,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho plans the reading schedule? -\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10754,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10755,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3460,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho wants to read more? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10756,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10757,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10758,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10759,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 632,
+      "title": "Đề 14 - Reading part 5",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1-7) from the drop-down box.\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003ch1\u003e\u003cstrong\u003eVegetarian Food\u003c/strong\u003e\u003c/h1\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3461,
+          "vanbancauhoi": "1. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eNowadays, there are many delicious options for those who choose not to eat meat. From vibrant salads loaded with fresh vegetables to hearty grain bowls filled with quinoa and beans, the possibilities are endless. Creative recipes often incorporate a variety of fruits, nuts, and plant-based proteins, providing a satisfying array of flavors and textures. International cuisines, such as Indian curries or Mediterranean mezze, showcase the versatility of meat-free dining and highlight the diverse ways people can enjoy plant-based meals.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10760,
+              "vanbanphanhoi": "The ethical and environmental implications of factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 10761,
+              "vanbanphanhoi": "Numerous health benefits of plant-based diets",
+              "fileupload": ""
+            },
+            {
+              "id": 10762,
+              "vanbanphanhoi": "Diverse types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 10763,
+              "vanbanphanhoi": "Understanding the possible global food crisis and its causes",
+              "fileupload": ""
+            },
+            {
+              "id": 10764,
+              "vanbanphanhoi": "Recipes for popular vegetarian dishes",
+              "fileupload": ""
+            },
+            {
+              "id": 10765,
+              "vanbanphanhoi": "Shared global responsibility towards sustainable eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10766,
+              "vanbanphanhoi": "Respect for life: embracing compassion for all living beings",
+              "fileupload": ""
+            },
+            {
+              "id": 10767,
+              "vanbanphanhoi": "Various explanations behind dietary choices and preferences",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3462,
+          "vanbancauhoi": "2. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe reasons behind dietary choices can be as diverse as the individuals making them. Many people opt for a vegetarian lifestyle due to ethical concerns, environmental awareness, or health considerations. Some may be motivated by cultural traditions or personal beliefs, while others seek new culinary experiences. Understanding these motivations fosters respectful discussions about food choices and their implications, promoting a more inclusive dialogue around dietary preferences.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10768,
+              "vanbanphanhoi": "The ethical and environmental implications of factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 10769,
+              "vanbanphanhoi": "Numerous health benefits of plant-based diets",
+              "fileupload": ""
+            },
+            {
+              "id": 10770,
+              "vanbanphanhoi": "Diverse types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 10771,
+              "vanbanphanhoi": "Understanding the possible global food crisis and its causes",
+              "fileupload": ""
+            },
+            {
+              "id": 10772,
+              "vanbanphanhoi": "Recipes for popular vegetarian dishes",
+              "fileupload": ""
+            },
+            {
+              "id": 10773,
+              "vanbanphanhoi": "Shared global responsibility towards sustainable eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10774,
+              "vanbanphanhoi": "Respect for life: embracing compassion for all living beings",
+              "fileupload": ""
+            },
+            {
+              "id": 10775,
+              "vanbanphanhoi": "Various explanations behind dietary choices and preferences",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3463,
+          "vanbancauhoi": "3. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAs the global population continues to grow, concerns about food security and sustainability intensify. The increasing demand for resources puts immense pressure on agricultural systems, leading to potential shortages and rising prices. Without significant changes in our consumption patterns and food production methods, we may face a considerable crisis soon. This reality underscores the need for diverse dietary choices, including vegetarian options, which can alleviate some of the pressure on our food systems.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10776,
+              "vanbanphanhoi": "The ethical and environmental implications of factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 10777,
+              "vanbanphanhoi": "Numerous health benefits of plant-based diets",
+              "fileupload": ""
+            },
+            {
+              "id": 10778,
+              "vanbanphanhoi": "Diverse types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 10779,
+              "vanbanphanhoi": "Understanding the possible global food crisis and its causes",
+              "fileupload": ""
+            },
+            {
+              "id": 10780,
+              "vanbanphanhoi": "Recipes for popular vegetarian dishes",
+              "fileupload": ""
+            },
+            {
+              "id": 10781,
+              "vanbanphanhoi": "Shared global responsibility towards sustainable eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10782,
+              "vanbanphanhoi": "Respect for life: embracing compassion for all living beings",
+              "fileupload": ""
+            },
+            {
+              "id": 10783,
+              "vanbanphanhoi": "Various explanations behind dietary choices and preferences",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3464,
+          "vanbancauhoi": "4. _\u003cbr\u003e\r\n\u003cp\u003eThe industrial approach to livestock production raises numerous ethical and environmental questions. Large-scale operations often prioritize efficiency over animal welfare, resulting in cramped living conditions and the overuse of antibiotics. This practice not only impacts the lives of animals but contributes to pollution and greenhouse gas emissions. As awareness of these issues grows, many advocates push for more humane and sustainable farming practices, which align better with the ethical motivations of those choosing plant-based diets.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10784,
+              "vanbanphanhoi": "The ethical and environmental implications of factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 10786,
+              "vanbanphanhoi": "Numerous health benefits of plant-based diets",
+              "fileupload": ""
+            },
+            {
+              "id": 10787,
+              "vanbanphanhoi": "Diverse types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 10788,
+              "vanbanphanhoi": "Understanding the possible global food crisis and its causes",
+              "fileupload": ""
+            },
+            {
+              "id": 10789,
+              "vanbanphanhoi": "Recipes for popular vegetarian dishes",
+              "fileupload": ""
+            },
+            {
+              "id": 10790,
+              "vanbanphanhoi": "Shared global responsibility towards sustainable eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10791,
+              "vanbanphanhoi": "Respect for life: embracing compassion for all living beings",
+              "fileupload": ""
+            },
+            {
+              "id": 10792,
+              "vanbanphanhoi": "Various explanations behind dietary choices and preferences",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3465,
+          "vanbancauhoi": "5. _\u003cbr\u003e\r\n\u003cp\u003eIn an interconnected world, our food consumption choices carry significant weight. Each individual\u0027s decisions can influence broader societal impacts, affecting everything from environmental sustainability to animal welfare. Embracing a sense of stewardship encourages us to consider how our eating habits impact not just our health, but also the health of the planet. By making conscious choices, such as incorporating more plant-based meals, we can collectively work towards a more equitable and sustainable future for all.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10793,
+              "vanbanphanhoi": "The ethical and environmental implications of factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 10794,
+              "vanbanphanhoi": "Numerous health benefits of plant-based diets",
+              "fileupload": ""
+            },
+            {
+              "id": 10795,
+              "vanbanphanhoi": "Diverse types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 10796,
+              "vanbanphanhoi": "Understanding the possible global food crisis and its causes",
+              "fileupload": ""
+            },
+            {
+              "id": 10797,
+              "vanbanphanhoi": "Recipes for popular vegetarian dishes",
+              "fileupload": ""
+            },
+            {
+              "id": 10800,
+              "vanbanphanhoi": "Various explanations behind dietary choices and preferences",
+              "fileupload": ""
+            },
+            {
+              "id": 13136,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 13137,
+              "vanbanphanhoi": "Respect for life",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3466,
+          "vanbancauhoi": "6. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eOpting for a diet rich in plant-based foods offers numerous advantages for overall well-being. Research suggests that a variety of fruits, vegetables, whole grains, and legumes can lower the risk of chronic diseases such as heart disease and diabetes. These foods are often high in essential nutrients and low in unhealthy fats. Embracing a more plant-centered way of eating not only supports personal health but also aligns with global sustainability efforts, enhancing vitality and energy levels for everyone.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10801,
+              "vanbanphanhoi": "The ethical and environmental implications of factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 10802,
+              "vanbanphanhoi": "Numerous health benefits of plant-based diets",
+              "fileupload": ""
+            },
+            {
+              "id": 10803,
+              "vanbanphanhoi": "Diverse types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 10804,
+              "vanbanphanhoi": "Understanding the possible global food crisis and its causes",
+              "fileupload": ""
+            },
+            {
+              "id": 10805,
+              "vanbanphanhoi": "Recipes for popular vegetarian dishes",
+              "fileupload": ""
+            },
+            {
+              "id": 10806,
+              "vanbanphanhoi": "Shared global responsibility towards sustainable eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10807,
+              "vanbanphanhoi": "Respect for life: embracing compassion for all living beings",
+              "fileupload": ""
+            },
+            {
+              "id": 10808,
+              "vanbanphanhoi": "Various explanations behind dietary choices and preferences",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3467,
+          "vanbancauhoi": "7. _\u003cbr\u003eRecognizing the intrinsic value of all living beings is essential for fostering a compassionate world. This perspective encourages reflection on our interactions with nature and other creatures, promoting empathy and kindness. By cultivating a mindset of respect, we can appreciate the interconnectedness of life and acknowledge the importance of coexisting harmoniously with all beings. Such an approach inspires actions that contribute to a more peaceful and sustainable planet, ultimately benefiting both individuals and society as a whole.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10809,
+              "vanbanphanhoi": "The ethical and environmental implications of factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 10810,
+              "vanbanphanhoi": "Numerous health benefits of plant-based diets",
+              "fileupload": ""
+            },
+            {
+              "id": 10811,
+              "vanbanphanhoi": "Diverse types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 10812,
+              "vanbanphanhoi": "Understanding the possible global food crisis and its causes",
+              "fileupload": ""
+            },
+            {
+              "id": 10813,
+              "vanbanphanhoi": "Recipes for popular vegetarian dishes",
+              "fileupload": ""
+            },
+            {
+              "id": 10814,
+              "vanbanphanhoi": "Shared global responsibility towards sustainable eating",
+              "fileupload": ""
+            },
+            {
+              "id": 13140,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 13141,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 777,
+      "title": "Đề 14 - Speaking 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/faf399ee1475795ca5e6e264ec9d17f1.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4083,
+          "vanbancauhoi": "Describe 2 pictures.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/745f7d8e83a8604c4d305e16a1aa40ba.png\"\u003e",
+          "vanbangiaithich": "Both pictures are beautiful, let me describe them\u003cbr\u003eIn the first picture\u003cbr\u003eThere are 3 people, a man, a woman and a kid. They are in a car.\u003cbr\u003eIt is clear that they are reading a map\u003cbr\u003eI guess that they are happy.\u003cbr\u003eI guess that they are family\u003cbr\u003eTurning to the second picture\u003cbr\u003eThere are 2 people, a man and a woman. They are on a train\u003cbr\u003eIt is clear that they are looking outside\u003cbr\u003eI guess they are friends and they are happy\u003cbr\u003eI love both pictures because they are all beautiful",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3c4cd8efe0794dc08ad580fc3cafaa9b.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12767,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2162162faaf5212b9386ce8c1be41540.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4084,
+          "vanbancauhoi": "What is the difference between these kinds of travel?\u0026nbsp;",
+          "vanbangiaithich": "It is an interesting question, let me answer it. In the first picture, going by car is fast and convenient. Besides, we can travel directly to the destination without transferring to other transports. In the second picture, going by train is more affordable. Moreover, the atmosphere is relaxing and enjoyable.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/45d2b152f4b1b7a40b757c0c25a243a0.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12768,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5d6a4a9adc24b1915b12ff51dd524570.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4085,
+          "vanbancauhoi": "What are the benefits of traveling by train?\u0026nbsp;",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn my opinion, traveling by train is fun and interesting. Additionally, the train allows us to relax and move around, which is very comfortable for longer trips. Besides, train journeys often provide beautiful scenic views and give the opportunity to make friends with other passengers.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2506613af683363b693b00def06f14b9.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12769,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b226959f7f8a1d8a5d3a2498aec6341b.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "title": "Đề 14 - Speaking 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ca658ed04f0322da5b3562dd72e8792d.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4077,
+          "vanbancauhoi": "Describe a typical meal in your country.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eVietnam is an agricultural country so our typical meal always has rice.The  family\u0027s choices on the dishes are different ,but we will likely have meat or fish, vegetable and fruits for after the meal. That\u0027s all I want to share and thank you for listening\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eA typical meal in my country includes rice, meat, and vegetables. Many people eat rice with chicken, pork, or fish. We also have a bowl of soup on the side. People in my country enjoy fresh and healthy food.\u003c/span\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/11968a2f3df07f36505d304eb7ba550c.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12757,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fcddadd115b254caccc01312484eccc3.mp3"
+            },
+            {
+              "id": 12758,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/45004c63a4626de88f04376e9e65aab1.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4078,
+          "vanbancauhoi": "What do people in your country like to read?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eIn my country, young people like reading novels or magazines,which can be read on websites. While older people tend to read newspapers to keep up with changes in the world every day. That\u0027s all I want to share and thank you for listening\u003c/p\u003e\r\n\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003ePeople in my country like to read newspapers and books. Some people enjoy reading stories, while others like news or information about their city. Children often read comic books or school books for fun.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2b9c38613316ae14d4ba34b67b37ca61.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12759,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0989ba7fc2d30f52a75fb845f90519ee.mp3"
+            },
+            {
+              "id": 12760,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0b620844e66ed3b358dbf99dd1d91536.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4079,
+          "vanbancauhoi": "Please tell me about your favorite time of year.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1:\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e My favorite time of year is spring. At this time, the weather is warm. Moreover, Spring is a time when my family can reunite, and we can rest after a year of hard work. I love spring very much.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2:\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e My favorite time of year is autumn. I love the cooler weather and the way the leaves change color; everything looks so vibrant. It\u0027s also a cozy season with warm drinks and sweaters. Plus, autumn has some fun holidays like Halloween, which adds excitement. The atmosphere feels calm and refreshing, making it a perfect time to go for long walks.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fb2062dd83fe753e48cb4dde738e2e8a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12761,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/cd54b5331fe2250e582211d5a2b4c2f2.mp3"
+            },
+            {
+              "id": 12762,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a845503dec9f6bf9d441136b934791c6.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "title": "Đề 14 - Speaking 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9efe7c528067fc17462b9f88a93a4924.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4080,
+          "vanbancauhoi": "Describe this picture.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/b948b8f4d66e7ed54f0cc65614e4b74a.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the picture, I can see 5 people, a man, 3 women and a child. They are inside\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the background, I can see it is a kitchen with a lot of cookware.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIt is clear that they are having dinner and talking with others\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI guess that they are happy because I see them smiling\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe picture is so beautiful, I love it\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ccbffc8cd400f8debf34174185005546.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12763,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/00f9b36b9a157c1fa5d4cee27eaaf8af.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4081,
+          "vanbancauhoi": "When was the last time you had meals with your family?\u0026nbsp;",
+          "vanbangiaithich": "The last time I had meals with my family was yesterday. We had dinner at Sen, which is a famous buffet restaurant in Hanoi. The food was diverse and delicious so we enjoyed it a lot. There were so many options, from fresh seafood to tasty desserts. We spent quality time together, sharing stories and laughter.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6a3608a1dc3f19d56bee96b3b27de9b5.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12764,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9f8d9e5804fefff5a46d82b7824f55f7.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4082,
+          "vanbancauhoi": "Why is it important to have family meals together?",
+          "vanbangiaithich": "\u003cp\u003eThere are various reasons why it is important to have family meals together. First, it is fun \u0026 interesting because members can share about their day. Second, it is a wonderful way to remain healthy and decrease the risk of diseases.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a11b5a278b1e72ed9341523433985ff2.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12766,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b3e7094ff4d5c5ec9a681cd89c1447f3.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "title": "Đề 14 - Speaking 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e6147334fdf37b43343d4a1b193614a9.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4086,
+          "vanbancauhoi": "Describe a time when you have to do something you don\u0027t want to?\u003cbr\u003eHow do you feel when it ends?\u003cbr\u003eHow do people motivate themselves to do things that they don\u0027t like?",
+          "vanbangiaithich": "\u003cbr\u003eNow I\u0027m going to answer 3 questions.\u003cbr\u003eRegarding the first question, a time when I have to do something I don\u0027t want to was a few weeks ago. I decided to clean and organize my room from top to bottom. It took me the whole weekend, but when I finished, I felt good seeing everything in its place.\u003cbr\u003eTurning to the second question, I feel really happy when it ends. \u003cbr\u003eAs for the final question, there are many ways for people to motivate themselves to do things that they don\u0027t like. One way is to find encouragement and support. When I was cleaning my room, my family cheered me on and offered to help.\u003cbr\u003eThat\u0027s all I want to share. Thank you for listening.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/28a8e42375de64598cdd2d71e09acf40.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12770,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d5cf2b0567701647d6d542a338f28fcf.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 735,
+      "title": "Đề 14 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a photography club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3895,
+          "vanbancauhoi": "Do you like shopping?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12307,
+              "vanbanphanhoi": "Yes, I do.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3896,
+          "vanbancauhoi": "What do you usually do in the morning?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12308,
+              "vanbanphanhoi": "I usually brush my teeth.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3897,
+          "vanbancauhoi": "What is your favorite animal?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12309,
+              "vanbanphanhoi": "I like dogs.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3898,
+          "vanbancauhoi": "Where did you go last night?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12310,
+              "vanbanphanhoi": "I went to the cinema.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3899,
+          "vanbancauhoi": "What is your favorite time of year?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12311,
+              "vanbanphanhoi": "I like summer.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 737,
+      "title": "Đề 14 - Writing part 3",
+      "des": "\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e\r\n\u003cp\u003e\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003cdiv class\u003d\"questions-container\"\u003e\r\n\u003cdiv class\u003d\"card invisible\"\u003e\r\n\u003cdiv\u003e\r\n\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3 col-sm-6 col-md-6\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e \u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3901,
+          "vanbancauhoi": "Sajed: My favorite family photograph is a picture of me when I was a child. Can you tell me about one of your family photos?\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12313,
+              "vanbanphanhoi": "One of my favorite family photographs is the one with my siblings and me at the beach. We were building sandcastles together, and everyone was laughing. It captures a joyful moment, which reminds me of our fun time.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3903,
+          "vanbancauhoi": "Jo: I enjoy taking photos of people, especially if they are doing something active. What kind of photographs do you like taking and why?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12317,
+              "vanbanphanhoi": "I enjoy taking photos of nature, especially flowers and trees. I love how colorful and beautiful they look in pictures. Besides, it helps me share the beauty of nature with others.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3905,
+          "vanbancauhoi": "Chris: People are always taking photos of themselves with their phones these days. Do you think this is a good thing? Why or why not?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12321,
+              "vanbanphanhoi": "I think taking selfies with phones can be a good thing, as it allows people to capture and share their moment quickly. Besides, it is cheaper and more convenient than using a digital camera.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 736,
+      "title": "Đề 14 - Writing part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a new member of the photography club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3900,
+          "vanbancauhoi": "When and where do you like taking photographs?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12312,
+              "vanbanphanhoi": "I enjoy taking photographs at family events, especially during birthdays and holidays. I prefer taking pictures in the afternoon when the light is warm and soft.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 738,
+      "title": "Đề 14 - Writing part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of the photography club. You received this email from the club’s manager.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eDear Member,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eAs you know, every year we hold a competition for the best photograph from our members. In the past we have had just one single category. This year we are thinking about having separate categories for men and women and another category for people under 16. Before we make any changes, we would like to hear from you. What do you think of the proposed change? Please do not forget to tell us the reason for your opinion. \u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eBests,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eClub Manager.\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3908,
+          "vanbancauhoi": "Write an email to your friend. Write about your feelings and what you think the club should do about the situation. Write about 50 words. Recommended time: 10 minutes.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12326,
+              "vanbanphanhoi": "Hi Lisa,\r\nHow are you today? I hope you and your family have a great day. \r\nI just got an email from the club about adding categories for male, female and people under 16 in this year\u0027s photo contest.\r\nI think this change is quite good because it gives more people a chance, as well as creating fairness.\r\nWhat do you think about this? I hope to hear from you soon.\r\nYours,\r\nHanna.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3910,
+          "vanbancauhoi": "Write an email to the president of the club. Write about your feelings and what you think the club should do about the situation. Write 120\u0026ndash;150 words. Recommended time: 20 minutes.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12329,
+              "vanbanphanhoi": "Dear Club Manager,\r\nMy name is Hanna. I have been a member for 2 months. I am writing in response to your latest email.\r\nAccording to the email, every year we hold a competition for the best photograph from our members. In the past we have had just one single category. This year we are thinking about having separate categories for men and women and another category for people under 16.\r\nTo be honest, I felt delighted about this change.\r\nI appreciate the thoughtful consideration the club is giving to make the contest more open and fair for all members. I believe that creating these categories is an excellent idea. Not only does it allow more members to participate under fairer conditions, but it also encourages younger members to join without feeling too young or too old. Moreover, by adding a category for those under 16, we’re showing a commitment to developing young talents, which could increase interest in our club.  By implementing these changes, we can ensure better attendance and engagement, enhancing the overall experience for everyone involved.\r\nI hope my suggestions will be useful.\r\nI am looking forward to hearing from you soon.\r\nBest regards,\r\nHanna.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

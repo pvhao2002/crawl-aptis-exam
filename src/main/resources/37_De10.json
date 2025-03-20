@@ -1,0 +1,1937 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3877,
+        "vanbancauhoi": "\u003cp\u003eListen to the speaker talking on the radio. What is she talking about?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a8aae5c0a6d45315029481ff3a150b87.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12241,
+            "vanbanphanhoi": "Her favorite hobby",
+            "fileupload": ""
+          },
+          {
+            "id": 12242,
+            "vanbanphanhoi": "Her journey to work",
+            "fileupload": ""
+          },
+          {
+            "id": 12243,
+            "vanbanphanhoi": "Her weekend plans",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3878,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to the conversation about the directions. Where is the library located?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ffc98d334d3fce8daf8fcfa60d1a81b4.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12244,
+            "vanbanphanhoi": "On the left of the square",
+            "fileupload": ""
+          },
+          {
+            "id": 12245,
+            "vanbanphanhoi": "In front of the square",
+            "fileupload": ""
+          },
+          {
+            "id": 12246,
+            "vanbanphanhoi": "Behind the square",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3879,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to the woman talking about her holiday plans. Where is she going next?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f1686946aac769887302bd256d8f0a2c.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12247,
+            "vanbanphanhoi": "The east",
+            "fileupload": ""
+          },
+          {
+            "id": 12248,
+            "vanbanphanhoi": "The north",
+            "fileupload": ""
+          },
+          {
+            "id": 12249,
+            "vanbanphanhoi": "The south",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3880,
+        "vanbancauhoi": "Listen to a writer talking about her job. What is her first job?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4ca7e99795245f3a7e09b16148c4613c.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12250,
+            "vanbanphanhoi": "Teacher",
+            "fileupload": ""
+          },
+          {
+            "id": 12251,
+            "vanbanphanhoi": "Doctor",
+            "fileupload": ""
+          },
+          {
+            "id": 12252,
+            "vanbanphanhoi": "Engineer",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3882,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to the conversation. Who is she taking a photo of?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/97519d7a795eca5d19f7efe2db9837b4.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12253,
+            "vanbanphanhoi": "The boys’ and the girls’ team",
+            "fileupload": ""
+          },
+          {
+            "id": 12254,
+            "vanbanphanhoi": "The girls’ team",
+            "fileupload": ""
+          },
+          {
+            "id": 12255,
+            "vanbanphanhoi": "Sue and Lily",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3883,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eListen to the speaker talking about their weekly schedule. When is the meeting scheduled?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/faa36b0009b00c9c96ca89f6ddad26fc.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12256,
+            "vanbanphanhoi": "Monday morning",
+            "fileupload": ""
+          },
+          {
+            "id": 12257,
+            "vanbanphanhoi": "Friday evening",
+            "fileupload": ""
+          },
+          {
+            "id": 12258,
+            "vanbanphanhoi": "Wednesday afternoon",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3884,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eListening to a man talking about his business trip. What does he like in Dubai?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9aa65fc0b93566bc897662d293121e2e.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12259,
+            "vanbanphanhoi": "He enjoy the food there",
+            "fileupload": ""
+          },
+          {
+            "id": 12260,
+            "vanbanphanhoi": "He enjoys his job there",
+            "fileupload": ""
+          },
+          {
+            "id": 12261,
+            "vanbanphanhoi": "He enjoys the people there",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3886,
+        "vanbancauhoi": "Stephanie is looking for a job taking care of children. How old is she?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f676bfaf6a02fcbdee60f226b116a6cb.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12266,
+            "vanbanphanhoi": "21",
+            "fileupload": ""
+          },
+          {
+            "id": 12267,
+            "vanbanphanhoi": "20",
+            "fileupload": ""
+          },
+          {
+            "id": 12268,
+            "vanbanphanhoi": "22",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3885,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eListening to a woman’s announcement. Where will they wait for the bus?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1499b605ac1f9bf8610878d0e97d5283.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12262,
+            "vanbanphanhoi": "Behind the hotel’s main entrance",
+            "fileupload": ""
+          },
+          {
+            "id": 12263,
+            "vanbanphanhoi": "By the hotel’s main entrance",
+            "fileupload": ""
+          },
+          {
+            "id": 12264,
+            "vanbanphanhoi": "By the hotel’s side entrance",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3887,
+        "vanbancauhoi": "Listen to a woman giving advice on saving money. What advice does she give to save money?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/05816923bc29d489c331e41b2b103119.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12269,
+            "vanbanphanhoi": "Buy in bulk",
+            "fileupload": ""
+          },
+          {
+            "id": 12270,
+            "vanbanphanhoi": "Use the public transport",
+            "fileupload": ""
+          },
+          {
+            "id": 12271,
+            "vanbanphanhoi": "Put money into the bank",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3888,
+        "vanbancauhoi": "Listen to a teacher talking about meeting preparations. What is the teacher preparing for the meeting now?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/380e972a7adae9f51d3c1819d6cf4393.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12272,
+            "vanbanphanhoi": "Set up the chairs",
+            "fileupload": ""
+          },
+          {
+            "id": 12273,
+            "vanbanphanhoi": "Organize the documents",
+            "fileupload": ""
+          },
+          {
+            "id": 12274,
+            "vanbanphanhoi": "Order the food",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3889,
+        "vanbancauhoi": "Listen to an actor discussing his hobbies.What does the actor like to do in his free time?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ecf50d2964434beaa232d780249239b8.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12275,
+            "vanbanphanhoi": "Drawing",
+            "fileupload": ""
+          },
+          {
+            "id": 12276,
+            "vanbanphanhoi": "Watching movies",
+            "fileupload": ""
+          },
+          {
+            "id": 12277,
+            "vanbanphanhoi": "Playing sports",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3890,
+        "vanbancauhoi": "Listen to a principal talking about new school facilities. What new facility will the school have?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3b7ec64f153d477dca7a95ffce1cd879.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12279,
+            "vanbanphanhoi": "a new library",
+            "fileupload": ""
+          },
+          {
+            "id": 12280,
+            "vanbanphanhoi": "a sports field",
+            "fileupload": ""
+          },
+          {
+            "id": 12281,
+            "vanbanphanhoi": "the performance space",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 731,
+        "title": "Đề 10 - Listening c14",
+        "des": "Four people are talking about Running. Complete the sentences below.",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3891,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe city gives me new things to see every time I run. I like the busy streets and different buildings around me. Stopping at traffic lights and watching out for people helps me stay alert. \u003c/span\u003e\u003cstrong\u003eRunning in the street\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e is what I love most. I also get to find new places in my city this way. The hard ground makes my legs stronger. It can be a bit dangerous with cars, but that\u0027s what makes it exciting for me.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a59480bb3b9b31b66b071c0dbb3a3738.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12282,
+                "vanbanphanhoi": "at the seaside",
+                "fileupload": ""
+              },
+              {
+                "id": 12283,
+                "vanbanphanhoi": "prefer running in the street",
+                "fileupload": ""
+              },
+              {
+                "id": 12284,
+                "vanbanphanhoi": "on the running track",
+                "fileupload": ""
+              },
+              {
+                "id": 12285,
+                "vanbanphanhoi": "around a lake",
+                "fileupload": ""
+              },
+              {
+                "id": 12286,
+                "vanbanphanhoi": "in the fitness center",
+                "fileupload": ""
+              },
+              {
+                "id": 12287,
+                "vanbanphanhoi": "on forest trails",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3892,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe clean air by the sea makes me feel good and helps clear my head. I enjoy feeling the sand under my feet, which helps make my legs stronger. The sound of the waves makes a nice beat for my run. \u003c/span\u003e\u003cstrong\u003eThere\u0027s nothing better than running by the seaside\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. Seeing the sun come up or go down while I run is really pretty. The cool wind from the sea keeps me from getting too hot. And after I\u0027m done, I can jump in the water to cool off.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2f0413a753fe68bb8f3fcd7fea52c232.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12288,
+                "vanbanphanhoi": "at the seaside",
+                "fileupload": ""
+              },
+              {
+                "id": 12289,
+                "vanbanphanhoi": "prefer running in the street",
+                "fileupload": ""
+              },
+              {
+                "id": 12290,
+                "vanbanphanhoi": "on the running track",
+                "fileupload": ""
+              },
+              {
+                "id": 12291,
+                "vanbanphanhoi": "around a lake",
+                "fileupload": ""
+              },
+              {
+                "id": 12292,
+                "vanbanphanhoi": "in the fitness center",
+                "fileupload": ""
+              },
+              {
+                "id": 12293,
+                "vanbanphanhoi": "on forest trails",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3893,
+            "vanbancauhoi": "Speaker C _\u0026nbsp;",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe track lets me know exactly how far I\u0027ve run and helps me set goals. The smooth surface is better for my knees and ankles. There are no bumps or things in the way, so I can focus on how I run. For me, \u003c/span\u003e\u003cstrong\u003ethe running track is the best place to run\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I can easily see how long each lap takes me. Having other runners around makes me want to try harder. I can run on the track in almost any weather, which is great.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d6c495228e11993f253552a2ad65ebaf.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12294,
+                "vanbanphanhoi": "at the seaside",
+                "fileupload": ""
+              },
+              {
+                "id": 12295,
+                "vanbanphanhoi": "prefer running in the street",
+                "fileupload": ""
+              },
+              {
+                "id": 12296,
+                "vanbanphanhoi": "on the running track",
+                "fileupload": ""
+              },
+              {
+                "id": 12297,
+                "vanbanphanhoi": "around a lake",
+                "fileupload": ""
+              },
+              {
+                "id": 12298,
+                "vanbanphanhoi": "in the fitness center",
+                "fileupload": ""
+              },
+              {
+                "id": 12299,
+                "vanbanphanhoi": "on forest trails",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3894,
+            "vanbancauhoi": "Speaker D _\u0026nbsp;",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eInside, I don\u0027t have to worry about it being too hot, cold, or rainy. I can use the treadmill and other machines to mix up my workout. The soft surface of the treadmill is easier on my knees than the road.\u003c/span\u003e\u003cstrong\u003e I like running in the fitness center best\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I can change how steep or fast the treadmill goes to make it more challenging. The machines tell me how fast my heart is beating and how well I\u0027m doing. And when I\u0027m done, I can take a shower and change right there.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ec2cf4ea9f8821da2a43a1e66e804442.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12300,
+                "vanbanphanhoi": "at the seaside",
+                "fileupload": ""
+              },
+              {
+                "id": 12301,
+                "vanbanphanhoi": "prefer running in the street",
+                "fileupload": ""
+              },
+              {
+                "id": 12302,
+                "vanbanphanhoi": "on the running track",
+                "fileupload": ""
+              },
+              {
+                "id": 12303,
+                "vanbanphanhoi": "around a lake",
+                "fileupload": ""
+              },
+              {
+                "id": 12305,
+                "vanbanphanhoi": "in the fitness center",
+                "fileupload": ""
+              },
+              {
+                "id": 12306,
+                "vanbanphanhoi": "on forest trails",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 732,
+        "title": "Đề 10 - Listening C15",
+        "des": "\u003cspan xss\u003dremoved\u003eListen to two people discussing changes in the workplace. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/span\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2520bda516dacb9a4a70ef6b0ed7935d.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3902,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eContinuity is very important in the workplace. _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12314,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12315,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12316,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3904,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eJob security cannot always be guaranteed. _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12318,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12319,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12320,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3906,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eJob satisfaction is an important motivator. _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12322,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12323,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12324,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3909,
+            "vanbancauhoi": "\u003cp\u003eTechnology is good for the entire economy. _\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eMan: It seems like every workplace is going through so many changes lately.\u003cstrong\u003e But honestly, I think Continuity is still very important.\u003c/strong\u003e When things remain steady, it gives people a sense of security. If everything changes too fast, it’s hard for employees to keep up and the organization can lose its way. Continuity is important in keeping everyone focused.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eWoman: I get where you\u0027re coming from, but I feel like these days, nothing is certain.\u003cstrong\u003e Job security isn\u0027t something we can rely on anymore. \u003c/strong\u003eThere’s always the risk of layoffs, especially with the economy being unpredictable. People are moving from job to job more than ever before, and you can’t always count on staying in one place for long.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eMan: That’s definitely a concern\u003cstrong\u003e. But regardless of job security or stability, one thing we both can agree on is that job satisfaction is a huge motivator. \u003c/strong\u003eWhen people love what they do, they’re more likely to stay, even when times get tough. It’s the main reason many of us keep pushing through the challenges.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eWoman: \u003cstrong\u003eAbsolutely\u003c/strong\u003e! I think when people are satisfied with their work, they’re willing to go the extra mile. It’s not just about the paycheck; it’s about feeling fulfilled. That’s what really makes the difference in the workplace.\u003c/p\u003e\r\n\u003cbr\u003eMan: You’re right. \u003cstrong\u003eAnd another thing that’s making a difference is technology. It’s been a game-changer for the economy, making things faster and more efficient. \u003c/strong\u003eThe growth we’ve seen in so many industries is because of how we’ve embraced new technologies. It’s definitely helping businesses thrive.",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12351,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12352,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12353,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 733,
+        "title": "Đề 10 - Listening C16",
+        "des": "Listen to an expert talk about how to manage personal finances and answer the questions below.",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/79ba4c44d21b62eed29f5729e74508e1.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3911,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eHow does the speaker recommend saving money effectively?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12330,
+                "vanbanphanhoi": "Saving a large amount only on a daily basis.",
+                "fileupload": ""
+              },
+              {
+                "id": 12331,
+                "vanbanphanhoi": "Organizing their resources more effectively",
+                "fileupload": ""
+              },
+              {
+                "id": 12332,
+                "vanbanphanhoi": "Use credit cards to manage expenses",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3912,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWho does the speaker believe can save money most successfully?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eGood afternoon, everyone! Today, I want to share a few simple tips on how you can manage your personal finances better. Now, I know that saving money can sometimes feel challenging, but there are a few habits that can make it easier. One of the best ways to save effectively is to set aside a fixed amount every month.\u003c/span\u003e\u003cstrong\u003e I recommend you make this a habit. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eYou can even automate it by setting up a transfer from your checking account to your savings account. This way, the money is put aside before you even get a chance to spend it. If you just wait until the end of the month to save whatever is left over, there’s a good chance there won’t be much left—especially with all the small, unexpected expenses that pop up. So, it’s all about making saving a priority and keeping it consistent.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eNow, when it comes to managing your finances overall, one key piece of advice is to get help from people who know more than you. That could mean speaking with a financial advisor if you’re able, but \u003c/span\u003e\u003cstrong\u003eit could also mean getting advice from someone in your life who’s really good with money—whether that’s a friend, a family member, or even an online resource. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eYou don’t have to figure everything out on your own. Learning from others can save you time and help you avoid costly mistakes, especially if you\u0027re new to budgeting or long-term planning.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eRemember, managing money doesn’t have to be complicated. By saving regularly and learning from others, you can start to feel more confident about your finances.\"\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12333,
+                "vanbanphanhoi": "Get advice from people that have experience",
+                "fileupload": ""
+              },
+              {
+                "id": 12334,
+                "vanbanphanhoi": "Keep all your savings in a single account",
+                "fileupload": ""
+              },
+              {
+                "id": 12335,
+                "vanbanphanhoi": "Avoid making any long-term financial plans",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 734,
+        "title": "Đề 10- Listening C17",
+        "des": "Listen to a woman talk about security camera and answer the questions below.",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dd487de1f0b7e3caad750b5942907ff7.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3913,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat is the speaker’s opinion about security cameras at work?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12336,
+                "vanbanphanhoi": "People are unnecessarily worried about them",
+                "fileupload": ""
+              },
+              {
+                "id": 12337,
+                "vanbanphanhoi": "Most people don\u0027t even realize cameras are present.",
+                "fileupload": ""
+              },
+              {
+                "id": 12338,
+                "vanbanphanhoi": "Cameras should be placed to ensure complete coverage.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3914,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eHow does the speaker suggest people should feel about security cameras at work?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI\u0027ve noticed that some of my coworkers get a bit nervous about the security cameras in our office. They often say things like, \u0027It feels like we\u0027re being watched all the time,\u0027 or \u0027I don\u0027t like feeling like I\u0027m not trusted.\u0027 But honestly, I think people worry too much about it. These cameras aren\u0027t there to spy on us or catch us doing something wrong. They\u0027re actually there to keep us safe. I mean, think about it - if something were to happen, like a theft or an accident, wouldn\u0027t you want there to be a record of it?\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003ePlus, knowing the cameras are there can actually prevent bad things from happening in the first place. I believe that once people understand the real purpose of these cameras, \u003c/span\u003e\u003cstrong\u003ethey\u0027ll feel much better about them. Instead of feeling worried, we should feel glad that our company cares about our safety.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e It\u0027s just one more way they\u0027re looking out for us while we\u0027re at work.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou know, I remember when we first got the cameras installed. Some people were really upset about it. But after a while, most of us hardly even notice them anymore. They\u0027re just part of the background now. And there have been times when they\u0027ve been really helpful. Like when someone\u0027s bag went missing, the cameras helped us figure out what happened.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\u003cspan xss\u003dremoved\u003eI think it\u0027s important to remember that these cameras are in public areas, not in private spaces like bathrooms or changing rooms. They\u0027re not meant to invade our privacy, just to make sure everyone follows the rules and stays safe.\u003c/span\u003e\u003cstrong\u003e In the end, I think having them makes our workplace better for everyone. It\u0027s a small thing that can make a big difference in keeping us all secure\u003c/strong\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12339,
+                "vanbanphanhoi": "People often find them intimidating and invasive.",
+                "fileupload": ""
+              },
+              {
+                "id": 12340,
+                "vanbanphanhoi": "Many believe they are only useful after incidents have occurred.",
+                "fileupload": ""
+              },
+              {
+                "id": 12341,
+                "vanbanphanhoi": "People should feel reassured about their presence",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 724,
+      "title": "Đề 10 - Reading p3",
+      "des": "\u003cspan xss\u003dremoved\u003eThe sentences below are from some directions. Put the sentences in the right order. The first sentence is done for you.\u003c/span\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3850,
+          "vanbancauhoi": "\u003cp\u003e\u003cstrong\u003eHow to plant your rose trees\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cem\u003e\u003cspan xss\u003dremoved\u003e To plant roses effectively, follow these steps\u003c/span\u003e\u003c/em\u003e\u003cbr\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 12135,
+              "vanbanphanhoi": "In the chosen place, dig a deep hole in the ground",
+              "fileupload": ""
+            },
+            {
+              "id": 12136,
+              "vanbanphanhoi": "Put the base of the rose and cover the root with lease earth",
+              "fileupload": ""
+            },
+            {
+              "id": 12137,
+              "vanbanphanhoi": "Push this down by hand until the tree is straight",
+              "fileupload": ""
+            },
+            {
+              "id": 12138,
+              "vanbanphanhoi": "Once you planted it, water them everyday",
+              "fileupload": ""
+            },
+            {
+              "id": 12139,
+              "vanbanphanhoi": "The amount of water depends on the weather condition",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "title": "Đề 10 - Reading p1",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eChoose one word from the list for each gap. The first one is done for you \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eDear Mum and Dad, \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI have just (\u003c/span\u003e\u003cstrong\u003ebought\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e/ brought/drawn) a new car\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eHope you have a good day!\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eTracy\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3844,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI am never _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e to work and I get to work at 9am\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12115,
+              "vanbanphanhoi": "lately",
+              "fileupload": ""
+            },
+            {
+              "id": 12116,
+              "vanbanphanhoi": "late",
+              "fileupload": ""
+            },
+            {
+              "id": 12117,
+              "vanbanphanhoi": "early",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3845,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the morning, I attend the _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e in the office\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12118,
+              "vanbanphanhoi": "music",
+              "fileupload": ""
+            },
+            {
+              "id": 12119,
+              "vanbanphanhoi": "meetings",
+              "fileupload": ""
+            },
+            {
+              "id": 12120,
+              "vanbanphanhoi": "computer",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3846,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI eat lunch in the _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e near my work\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12121,
+              "vanbanphanhoi": "park",
+              "fileupload": ""
+            },
+            {
+              "id": 12122,
+              "vanbanphanhoi": "supermarket",
+              "fileupload": ""
+            },
+            {
+              "id": 12123,
+              "vanbanphanhoi": "theater",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3847,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eAfter works, I buy food in a _.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12124,
+              "vanbanphanhoi": "house",
+              "fileupload": ""
+            },
+            {
+              "id": 12125,
+              "vanbanphanhoi": "garden",
+              "fileupload": ""
+            },
+            {
+              "id": 12126,
+              "vanbanphanhoi": "shop",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3848,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI always _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e a good dinner for myself\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12127,
+              "vanbanphanhoi": "take",
+              "fileupload": ""
+            },
+            {
+              "id": 12128,
+              "vanbanphanhoi": "cook",
+              "fileupload": ""
+            },
+            {
+              "id": 12129,
+              "vanbanphanhoi": "make",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "title": "Đề 10 - Reading p2",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe sentences below are from a biography. Order the sentences to make a story. The first sentence of the story is an example.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3849,
+          "vanbancauhoi": "\u003cp xss\u003dremoved\u003e\u003cstrong\u003eEarly life of Jay Mist\u003c/strong\u003e\u003c/p\u003e\r\n\u003cem\u003e0. Jay mist is a famous American actor but his parents come from India.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 12130,
+              "vanbanphanhoi": "When he was young, his parent left their country and moved to the United States",
+              "fileupload": ""
+            },
+            {
+              "id": 12131,
+              "vanbanphanhoi": "He started his high school and began strength training in his free time",
+              "fileupload": ""
+            },
+            {
+              "id": 12132,
+              "vanbanphanhoi": "Jay was really good at it and entered some body building competitions",
+              "fileupload": ""
+            },
+            {
+              "id": 12133,
+              "vanbanphanhoi": "At one of these events, an acting agent saw him and gave him a starring role",
+              "fileupload": ""
+            },
+            {
+              "id": 12134,
+              "vanbanphanhoi": "It was a big action company so he became successful quickly",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "title": "Đề 10 - Reading p5",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eRead the text. Match the headings to the paragraphs. There is one heading that you will not use.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp xss\u003dremoved\u003e\u003cstrong\u003eThe benefits of learning instruments\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3859,
+          "vanbancauhoi": "1._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eResearch indicates that children who play an instrument experience various positive effects. They become more engaged in school, leading to improved academic performance, especially in comprehension and math. Learning to play music also enhances their fine and gross motor skills and coordination. It can positively impact mental health and well-being and help with memory and social interactions. Moreover, playing an instrument fosters a sense of accomplishment, boosts confidence, and allows for self-expression in children. These benefits make learning music a wonderful experience for your child.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12168,
+              "vanbanphanhoi": "A great opportunity to broaden social circle",
+              "fileupload": ""
+            },
+            {
+              "id": 12169,
+              "vanbanphanhoi": "Enhance sensitivity others’ feeling",
+              "fileupload": ""
+            },
+            {
+              "id": 12170,
+              "vanbanphanhoi": "A great sense of well-being",
+              "fileupload": ""
+            },
+            {
+              "id": 12171,
+              "vanbanphanhoi": "A creative outlet of expressing emotions",
+              "fileupload": ""
+            },
+            {
+              "id": 12172,
+              "vanbanphanhoi": "A physical demanding activity",
+              "fileupload": ""
+            },
+            {
+              "id": 12173,
+              "vanbanphanhoi": "A good way to boost memory",
+              "fileupload": ""
+            },
+            {
+              "id": 12174,
+              "vanbanphanhoi": "A way to learn discipline and importance of routine",
+              "fileupload": ""
+            },
+            {
+              "id": 12175,
+              "vanbanphanhoi": "Organize their time effectively to learn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3860,
+          "vanbancauhoi": "2._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eLearning and playing music has been linked to enhanced memory function. Memorizing sheet music, chords, and melodies exercises the brain, improving memory and cognitive abilities. The process of learning new pieces and practicing them regularly helps strengthen neural connections, leading to improved memory retention and recall in other areas of life as well.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12176,
+              "vanbanphanhoi": "A great opportunity to broaden social circle",
+              "fileupload": ""
+            },
+            {
+              "id": 12177,
+              "vanbanphanhoi": "Enhance sensitivity others’ feeling",
+              "fileupload": ""
+            },
+            {
+              "id": 12178,
+              "vanbanphanhoi": "A great sense of well-being",
+              "fileupload": ""
+            },
+            {
+              "id": 12179,
+              "vanbanphanhoi": "A creative outlet of expressing emotions",
+              "fileupload": ""
+            },
+            {
+              "id": 12180,
+              "vanbanphanhoi": "A physical demanding activity",
+              "fileupload": ""
+            },
+            {
+              "id": 12181,
+              "vanbanphanhoi": "A good way to boost memory",
+              "fileupload": ""
+            },
+            {
+              "id": 12182,
+              "vanbanphanhoi": "A way to learn discipline and importance of routine",
+              "fileupload": ""
+            },
+            {
+              "id": 12183,
+              "vanbanphanhoi": "Organize their time effectively to learn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3861,
+          "vanbancauhoi": "3._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003ePlaying an instrument isn’t only good for your brain, it’s also a fantastic opportunity to connect with other like-minded individuals. Joining a band, orchestra, or music group allows musicians to collaborate, share experiences, and develop friendships. Music also has a universal language, making it easier to communicate and connect with people from diverse backgrounds and cultures.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12184,
+              "vanbanphanhoi": "A great opportunity to broaden social circle",
+              "fileupload": ""
+            },
+            {
+              "id": 12185,
+              "vanbanphanhoi": "Enhance sensitivity others’ feeling",
+              "fileupload": ""
+            },
+            {
+              "id": 12186,
+              "vanbanphanhoi": "A great sense of well-being",
+              "fileupload": ""
+            },
+            {
+              "id": 12187,
+              "vanbanphanhoi": "A creative outlet of expressing emotions",
+              "fileupload": ""
+            },
+            {
+              "id": 12188,
+              "vanbanphanhoi": "A physical demanding activity",
+              "fileupload": ""
+            },
+            {
+              "id": 12189,
+              "vanbanphanhoi": "A good way to boost memory",
+              "fileupload": ""
+            },
+            {
+              "id": 12190,
+              "vanbanphanhoi": "A way to learn discipline and importance of routine",
+              "fileupload": ""
+            },
+            {
+              "id": 12191,
+              "vanbanphanhoi": "Organize their time effectively to learn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3862,
+          "vanbancauhoi": "4._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eUnless you’re an out-of-this-world child prodigy, learning to play an instrument isn’t a skill you can master overnight. Learning music takes time and effort, and helps children understand that if they want to be good at something, they’ll need to put in the hours and organize their time effectively. This disciplined approach fosters a strong work ethic, patience, and perseverance that can be applied to other areas of life.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12192,
+              "vanbanphanhoi": "A great opportunity to broaden social circle",
+              "fileupload": ""
+            },
+            {
+              "id": 12193,
+              "vanbanphanhoi": "Enhance sensitivity others’ feeling",
+              "fileupload": ""
+            },
+            {
+              "id": 12194,
+              "vanbanphanhoi": "A great sense of well-being",
+              "fileupload": ""
+            },
+            {
+              "id": 12195,
+              "vanbanphanhoi": "A creative outlet of expressing emotions",
+              "fileupload": ""
+            },
+            {
+              "id": 12196,
+              "vanbanphanhoi": "A physical demanding activity",
+              "fileupload": ""
+            },
+            {
+              "id": 12197,
+              "vanbanphanhoi": "A good way to boost memory",
+              "fileupload": ""
+            },
+            {
+              "id": 12198,
+              "vanbanphanhoi": "A way to learn discipline and importance of routine",
+              "fileupload": ""
+            },
+            {
+              "id": 12199,
+              "vanbanphanhoi": "Organize their time effectively to learn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3863,
+          "vanbancauhoi": "5._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMusic serves as a channel for individuals to express themselves and communicate in special ways. When kids learn to play an instrument, they can explore their inner world and share thoughts uniquely, even when they struggle to do so verbally. Additionally, playing music can be a form of stress relief. The act of playing an instrument requires concentration and focus, which can help children relax and unwind. It can also provide a healthy way to channel their emotions and energy.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12200,
+              "vanbanphanhoi": "A great opportunity to broaden social circle",
+              "fileupload": ""
+            },
+            {
+              "id": 12201,
+              "vanbanphanhoi": "Enhance sensitivity others’ feeling",
+              "fileupload": ""
+            },
+            {
+              "id": 12202,
+              "vanbanphanhoi": "A great sense of well-being",
+              "fileupload": ""
+            },
+            {
+              "id": 12203,
+              "vanbanphanhoi": "A creative outlet of expressing emotions",
+              "fileupload": ""
+            },
+            {
+              "id": 12204,
+              "vanbanphanhoi": "A physical demanding activity",
+              "fileupload": ""
+            },
+            {
+              "id": 12205,
+              "vanbanphanhoi": "A good way to boost memory",
+              "fileupload": ""
+            },
+            {
+              "id": 12206,
+              "vanbanphanhoi": "A way to learn discipline and importance of routine",
+              "fileupload": ""
+            },
+            {
+              "id": 12207,
+              "vanbanphanhoi": "Organize their time effectively to learn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3864,
+          "vanbancauhoi": "6._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eBeing a musician in a five-minute song requires physical and mental involvement, but emotional connection is even more crucial. It\u0027s not just about the music\u0027s mood but also our own feelings. Music develops focus, which helps in life. Research shows that music education improves emotional intelligence, understanding our emotions and others\u0027. Musicians learn to listen and cooperate with others, being attentive and adaptable. This fosters better appreciation of others\u0027 emotions and viewpoints.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12208,
+              "vanbanphanhoi": "A great opportunity to broaden social circle",
+              "fileupload": ""
+            },
+            {
+              "id": 12209,
+              "vanbanphanhoi": "Enhance sensitivity others’ feeling",
+              "fileupload": ""
+            },
+            {
+              "id": 12210,
+              "vanbanphanhoi": "A great sense of well-being",
+              "fileupload": ""
+            },
+            {
+              "id": 12211,
+              "vanbanphanhoi": "A creative outlet of expressing emotions",
+              "fileupload": ""
+            },
+            {
+              "id": 12212,
+              "vanbanphanhoi": "A physical demanding activity",
+              "fileupload": ""
+            },
+            {
+              "id": 12213,
+              "vanbanphanhoi": "A good way to boost memory",
+              "fileupload": ""
+            },
+            {
+              "id": 12214,
+              "vanbanphanhoi": "A way to learn discipline and importance of routine",
+              "fileupload": ""
+            },
+            {
+              "id": 12215,
+              "vanbanphanhoi": "Organize their time effectively to learn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3865,
+          "vanbancauhoi": "7._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003ePlaying a musical instrument has been shown to help mental health by reducing stress, anxiety and depression. It requires all of your attention allowing you an escape from day-to-day stresses and creates a feeling of mindfulness and calm. Music releases dopamine, the feel-good chemical in the brain, so playing an instrument makes people happy! Factor in the sense of achievement you\u0027ll feel when you learn a new note or master a piece and you\u0027ll never have felt better.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12216,
+              "vanbanphanhoi": "A great opportunity to broaden social circle",
+              "fileupload": ""
+            },
+            {
+              "id": 12217,
+              "vanbanphanhoi": "Enhance sensitivity others’ feeling",
+              "fileupload": ""
+            },
+            {
+              "id": 12218,
+              "vanbanphanhoi": "A great sense of well-being",
+              "fileupload": ""
+            },
+            {
+              "id": 12219,
+              "vanbanphanhoi": "A creative outlet of expressing emotions",
+              "fileupload": ""
+            },
+            {
+              "id": 12220,
+              "vanbanphanhoi": "A physical demanding activity",
+              "fileupload": ""
+            },
+            {
+              "id": 12221,
+              "vanbanphanhoi": "A good way to boost memory",
+              "fileupload": ""
+            },
+            {
+              "id": 12222,
+              "vanbanphanhoi": "A way to learn discipline and importance of routine",
+              "fileupload": ""
+            },
+            {
+              "id": 12223,
+              "vanbanphanhoi": "Organize their time effectively to learn",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "title": "Đề 10 - Reading p4",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eFour people respond in the comments section of an online newspaper about their last holiday. Read their comments and answer the questions below.\u003cbr\u003e\u003cbr\u003e\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eAli\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI went to this island to visit some remote beaches. I thought walking shoes would be helpful. However, when I arrived, I realized that I had forgotten to bring them. The remoteness means there are no other visitors. It is good, but it has its downside. There is nowhere to buy food and drink, so I have to bring my own.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBruno\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eBeing an architect, when I go abroad, I am very curious about the construction of local buildings. I often lay down at the beach and buy some souvenirs at the local shop. This time, I traveled by taxi to go around. There is no one to share so the cost is high. However, it’s worth it because I could see some beautiful traditional houses.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eCarla\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe sharp bends of the island look dangerous and that put me off hiring a car, especially when it is costly. Therefore, I chose to travel by bus. However, the bus service is not very frequent. If they improve it, it would be perfect. I visit some famous places near my hotel on foot. I love it because I can see many beautiful locations.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eDeniz\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI stayed in a village and ate at various local restaurants. I cannot recommend a specific dish because everything was amazing. However, if you want to cook by yourself, you would need to take a bus to the town. There is a street market where you can buy some local products. I had some real bargains there.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3851,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho forgot something to bring?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12140,
+              "vanbanphanhoi": "Ali",
+              "fileupload": ""
+            },
+            {
+              "id": 12141,
+              "vanbanphanhoi": "Bruno",
+              "fileupload": ""
+            },
+            {
+              "id": 12142,
+              "vanbanphanhoi": "Carla",
+              "fileupload": ""
+            },
+            {
+              "id": 12143,
+              "vanbanphanhoi": "Deniz",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3852,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks public transport should be improved?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12144,
+              "vanbanphanhoi": "Ali",
+              "fileupload": ""
+            },
+            {
+              "id": 12145,
+              "vanbanphanhoi": "Bruno",
+              "fileupload": ""
+            },
+            {
+              "id": 12146,
+              "vanbanphanhoi": "Carla",
+              "fileupload": ""
+            },
+            {
+              "id": 12147,
+              "vanbanphanhoi": "Deniz",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3853,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho liked the food?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12148,
+              "vanbanphanhoi": "Ali",
+              "fileupload": ""
+            },
+            {
+              "id": 12149,
+              "vanbanphanhoi": "Bruno",
+              "fileupload": ""
+            },
+            {
+              "id": 12150,
+              "vanbanphanhoi": "Carla",
+              "fileupload": ""
+            },
+            {
+              "id": 12151,
+              "vanbanphanhoi": "Deniz",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3854,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho paid a lot of money on transport?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12152,
+              "vanbanphanhoi": "Ali",
+              "fileupload": ""
+            },
+            {
+              "id": 12153,
+              "vanbanphanhoi": "Bruno",
+              "fileupload": ""
+            },
+            {
+              "id": 12154,
+              "vanbanphanhoi": "Carla",
+              "fileupload": ""
+            },
+            {
+              "id": 12155,
+              "vanbanphanhoi": "Deniz",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3855,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho liked walking?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12156,
+              "vanbanphanhoi": "Ali",
+              "fileupload": ""
+            },
+            {
+              "id": 12157,
+              "vanbanphanhoi": "Bruno",
+              "fileupload": ""
+            },
+            {
+              "id": 12158,
+              "vanbanphanhoi": "Carla",
+              "fileupload": ""
+            },
+            {
+              "id": 12159,
+              "vanbanphanhoi": "Deniz",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3856,
+          "vanbancauhoi": "Who liked to buy things made on the island?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12160,
+              "vanbanphanhoi": "Ali",
+              "fileupload": ""
+            },
+            {
+              "id": 12161,
+              "vanbanphanhoi": "Bruno",
+              "fileupload": ""
+            },
+            {
+              "id": 12162,
+              "vanbanphanhoi": "Carla",
+              "fileupload": ""
+            },
+            {
+              "id": 12163,
+              "vanbanphanhoi": "Deniz",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3858,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho liked being alone?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12164,
+              "vanbanphanhoi": "Ali",
+              "fileupload": ""
+            },
+            {
+              "id": 12165,
+              "vanbanphanhoi": "Bruno",
+              "fileupload": ""
+            },
+            {
+              "id": 12166,
+              "vanbanphanhoi": "Carla",
+              "fileupload": ""
+            },
+            {
+              "id": 12167,
+              "vanbanphanhoi": "Deniz",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 743,
+      "title": "Đề 10 - Speaking p1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ca9d0fb670d2e88e1c94553b1f5cbe80.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3926,
+          "vanbancauhoi": "\u003cp\u003eWhat is the best way to travel in your country?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cstrong\u003e\u003cbr\u003eVersion 1: \u003c/strong\u003e\u003cbr\u003e\r\n\u003cp\u003eIn Vietnam the best way to get around ( \u003d travel) in the country is traveling by train.\u003c/p\u003e\r\n\u003cp\u003eTraveling by train is \u003cstrong\u003eso \u003c/strong\u003echeap and convenient \u003cstrong\u003ethat \u003c/strong\u003eeveryone can \u003cstrong\u003eafford \u003c/strong\u003e( \u003d pay) a ticket.\u003c/p\u003e\r\n\u003cp\u003eBesides, when we travel by train, we can have more time to enjoy the beautiful scenery from the window. \u003c/p\u003e\r\n\u003cp\u003eIf we travel from the north to the south of Vietnam, we can have the chance to sightsee many beautiful places along the route.\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eLet me tell you about the best way to travel around your country\u003c/p\u003e\r\n\u003cp\u003eFirst, it is travelling by bus because it is cheap and convenient.\u003c/p\u003e\r\n\u003cp\u003eSecond, it is by train because it is fast and time-saving.\u003c/p\u003e\r\n\u003cp\u003eFor me, I often travel by train because it saves a lot of money. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/24eb364e347c97afa82e945eb4661a57.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12356,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b19d8ae1ae8835c238c558db8352b969.mp3"
+            },
+            {
+              "id": 12357,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/323964ba5e3e0dd46e62d3e1f87532fb.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3927,
+          "vanbancauhoi": "What do people in your country like to read?",
+          "vanbangiaithich": "\u003cbr\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003e\u003cbr\u003e\r\n\u003cp\u003ePeople in my country like to read newspapers.\u003c/p\u003e\r\n\u003cp\u003eIn Vietnam, it is easy to see many newspaper stores on the streets selling traditional newspapers.\u003c/p\u003e\r\n\u003cp\u003eBesides, with mobile phones, Vietnamese people now often read news on the Internet when they have free time such as while traveling by bus to work or drinking coffee at a coffee shop.\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003elet me tell you about what people in my country like to read\u003c/p\u003e\r\n\u003cp\u003eFirst, people like reading online newspaper . People can use their smartphone to read.\u003c/p\u003e\r\n\u003cp\u003eIt helps to save money and time. Besides, it is a good way to expand people’s social knowledge. \u003c/p\u003e\r\n\u003cp\u003ethis is my answer\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/916c65ded8220d961bbc1af0fad94295.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12358,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d7e5e5d7062e9f7854e9046e05617d64.mp3"
+            },
+            {
+              "id": 12359,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bb64d2c81676d2e393d48e101c5346f9.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3928,
+          "vanbancauhoi": "\u003cp\u003eDescribe your journey here today.\u003c/p\u003e",
+          "vanbangiaithich": "Version 1:\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003eToday I traveled to the exam room by car because it is in Cau Giay district which is quite far from my house. \u003c/p\u003e\r\n\u003cp\u003eIt takes me 1 hour to travel from home to there by car. \u003c/p\u003e\r\n\u003cp\u003eTraffic in Hanoi was always congested and made me tired. \u003c/p\u003e\r\n\u003cp\u003eLuckily, I was not late for the exam, so I am very happy now.\u003cbr\u003eVersion 2: \u003c/p\u003e\r\n\u003cp\u003elet me tell you about my journey here\u003c/p\u003e\r\n\u003cp\u003eI went here by motorcycle with my friends , it takes me 1 hour to go here\u003c/p\u003e\r\n\u003cp\u003eThe exam room is in Cau Giay street, very near my house \u003c/p\u003e\r\n\u003cp\u003eThanks to that i could went the exam room faster so i will try my best to pass\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/574196deec1e18593ab2bb898091ef51.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12360,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7bcd2ade32d92443c819365272537ec1.mp3"
+            },
+            {
+              "id": 12361,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fb74515d8aec0cd731747156dbd1722b.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "title": "Đề 10 - Speaking p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9fb2d01cd91ff686a0185d0d71b3d5b5.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3932,
+          "vanbancauhoi": "Describe 2 pictures\u0026nbsp;\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/a3a1df03578a8617cf3a09d63038bc40.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures show how people enjoy music.\u003c/p\u003e\r\n\u003cp\u003eIn the first picture, a singer is performing live in front of thousands of audience members. In the second picture, a man is listening to music alone in his living room.\u003c/p\u003e\r\n\u003cp\u003eThe first picture represents listening to music in a public setting, while the second shows a more private experience.\u003c/p\u003e\r\n\u003cp\u003eI imagine that everyone in both scenes is feeling excited. Personally, I prefer the first picture because I enjoy the lively, energetic atmosphere.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/96638fbd35a50cf8afbb500598712b74.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12916,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/67e271f51677382f8ebae4852fa9b7b9.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3944,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhich one do you prefer?\u003c/span\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eEach situation has its own attractions,\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ebut as I have mentioned before\u003c/span\u003e\u003cspan xss\u003dremoved\u003e, I prefer the first picture because … / which is more crowded and exciting. I enjoy this vibrant atmosphere. Besides, it is a wonderful way for me to make new friends who have the same hobby in this public setting. As a result, I can \u003c/span\u003e\u003cstrong\u003ebroaden my social knowledge \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eand \u003c/span\u003e\u003cstrong\u003egain more experience.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eFor example\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e, last summer, I went to the concert of My Tam singer/ My Tam’s concert. Thanks to that , I could make a lot of friends. \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2744363e8070cfba9ef372e21ce75636.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12377,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4f1e7398467e92d548cb3e6d4f58a77f.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3945,
+          "vanbancauhoi": "What are the benefits of listening to music?",
+          "vanbangiaithich": "\u003cul\u003e\r\n\u003cli aria-level\u003d\"1\"\u003eThere are several benefits of listening to music \u003c/li\u003e\r\n\u003cli aria-level\u003d\"1\"\u003eIt’s refreshing because people can easily concentrate on work and increase my productivity \u003c/li\u003e\r\n\u003cli aria-level\u003d\"1\"\u003eIt’s extremely useful because it helps people broaden knowledge about culture around the world( skills) \u003c/li\u003e\r\n\u003cli aria-level\u003d\"1\"\u003eFor example, when I listen to pop music, I can \u003cstrong\u003enot only\u003c/strong\u003e broaden my knowledge about the culture of America and Western countries \u003cstrong\u003ebut also \u003c/strong\u003erefresh my mind after stressful days of studying. \u003c/li\u003e\r\n\u003c/ul\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/310a713b1659c1a0455577a2a122e057.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12381,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4587360bd6b65867f06a02462f911cbf.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "title": "Đề 10 - Speaking p2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bbd459392ebc2a4ea6e11a943d94206f.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3929,
+          "vanbancauhoi": "Describe this picture\u003cbr\u003e\u003cimg src\u003d\"https://t3.ftcdn.net/jpg/02/94/95/04/360_F_294950461_FxHyWXzTfZmx1pUP9jPsFl1BtPw19cRF.jpg\" alt\u003d\"Happy Family In Car Images – Browse 125,998 Stock Photos, Vectors, and  Video | Adobe Stock\"\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eIn this picture, I can see \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ea woman, two kids and a man in the car\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eIn the background,\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e I can\u0027t see anything because it is so blurry\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eIn the front\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e, \u003c/span\u003e\u003cstrong\u003ewhile \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ethe young woman is wearing a blue shirt, babies and the man is wearing a grey and pink T-shirts\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eIt is clear that\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e the man is driving and the other people are sitting in the car. All of them are happily looking at the camera\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eI guess \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ethat they are headed to the beach or on a long holiday\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eTo be honest, the picture is so beautiful that it might have been taken by a professional.\u003c/strong\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4b4099752cc55fa1f0099bcf876dc293.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12362,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b672bbdf44e127ef771d05e36dc67428.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3930,
+          "vanbancauhoi": "Tell about a time when you went somewhere in a car",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003e\u003cem\u003eLast year,\u003c/em\u003e\u003c/strong\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003e I went to the beach \u003c/span\u003e\u003c/em\u003e\u003cstrong\u003e\u003cem\u003eby car ( how) \u003c/em\u003e\u003c/strong\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003e with my family ( who) . It was so comfortable because I had an interesting conversation with everyone during the car ride ( why). We had a great holiday at  ( what/ where) \u003c/span\u003e\u003c/em\u003e\u003cstrong\u003e\u003cem\u003eNha Trang beach\u003c/em\u003e\u003c/strong\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003e, which was one of the most famous tourist destinations in Hanoi. Well, the trip was so memorable because it was a wonderful way to refresh my mind after a stressful day of work. \u003c/span\u003e\u003c/em\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2783d7dbdabc1a695d09405618037e77.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12363,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/be5772d270b65d5d1ebf1d40646c7d96.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3931,
+          "vanbancauhoi": "Do you think people should learn to drive? Why and why not?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eIt is the fact that learning to drive plays an important role in our life. I agree with this \u003c/span\u003e\u003cstrong\u003ebecause of several reasons\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. First, \u003c/span\u003e\u003cspan xss\u003dremoved\u003ethanks to\u003c/span\u003e\u003cspan xss\u003dremoved\u003e driving, people \u003c/span\u003e\u003cspan xss\u003dremoved\u003eare able to\u003c/span\u003e\u003cspan xss\u003dremoved\u003e  travel without relying on public transportation or others. Second, learning to drive is a wonderful way to relax and reduce stress after hard-working days. Finally, people should learn to drive because they can save money spent on public transport.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e264f3048c15e53fcae9952598787675.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12364,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2c6eea76ec10bf6dec8635cf04d4276b.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "title": "Đề 10 - Speaking p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1cd817db6823092e0f40cb610caf5d6c.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3947,
+          "vanbancauhoi": "\u003cp\u003eTell me about a time you read a good book\u003c/p\u003e\r\n\u003cp\u003eHow do you feel when you read a book for pleasure?\u003c/p\u003e\r\n\u003cp\u003eSome people love watching films more than reading books. What do you think?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003eToday, I am going to tell you about a time I read a good book. \u003c/p\u003e\r\n\u003cp\u003eWhat: It is a book named” Tips for traveling to Danang”, which is one of the most interesting books in Vietnam.\u003cstrong\u003e Well, Danang is a coastal city in central Vietnam. It is a one-hour flight from Hanoi. Da nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are thousands of tourists going to the area to see the beauty of the beach.  \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eI read this book when I was finding a way to relax after many exams. \u003c/p\u003e\r\n\u003cp\u003eI really like this book because thanks to it, I can broaden my knowledge about Danang in particular and travelling in general. After that, I decided to take a trip to Danang \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eRegarding the second question/ my emotions when I read a book for pleasure\u003c/strong\u003e, I would say I am so relaxed. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eAs for the final question,\u003c/strong\u003e Some people love watching films more than reading books. I agree with this because people find watching films more interesting because they can see attractive images and sound effects. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eThat’s my opinion. Thank you for your listening. \u003c/strong\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4a93668640baf51228722c9465a0d31a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12382,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7b9d295cbb223a868d56481867c94445.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 727,
+      "title": "Đề 10 - Writing p1",
+      "des": "\u003cstrong\u003eYou want to join the Science club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3866,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is your job?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12230,
+              "vanbanphanhoi": "I am a teacher/ I am a doctor.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3867,
+          "vanbancauhoi": "Where did you go last night?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12231,
+              "vanbanphanhoi": "I went to school/ the hospital/ the park.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3868,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is your favorite color?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12232,
+              "vanbanphanhoi": "It is red./ It is green.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3869,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat do you like to do in the evening?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12233,
+              "vanbanphanhoi": "I like playing games. ( like + to V/ V-ing) / I like watching TV.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3870,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is the weather like today?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12234,
+              "vanbanphanhoi": "It’s hot./ It’s cold/ rainy/ windy.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 728,
+      "title": "Đề 10 - Writing p2",
+      "des": "You want to join the Science club. Fill in the form. Write in sentences. Use 20 \u0026ndash; 30 words. Recommended time: 7 minutes.",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3871,
+          "vanbancauhoi": "\u003cp\u003eWhen and where do you usually read science books?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12235,
+              "vanbanphanhoi": "I usually read science books when I have free time, for example on weekends. Besides, I often read books with my friends at home or in the library because it allows me to relax and reduce stress after a long day at work.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 729,
+      "title": "Đề 10 - Writing p3",
+      "des": "You are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30\u0026ndash;40 words per answer. Recommended time: 10 minutes.",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3872,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA: I have been interested in science since I was a child because I was lucky when I had a wonderful teacher. How about you? What do you remember about studying science at school?\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12236,
+              "vanbanphanhoi": "since: từ khi \r\nwonderful : tuyệt vời \r\nHow about you?: còn bạn thì sao \r\nI have also been keen on ( \u003d interested in) learning about science since I was a kid. Actually, at that time, I studied science with my friends 3 times a week at school. In addition, I felt very interested  because my teacher told me a lot of interesting stories about science.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3873,
+          "vanbancauhoi": "\u003cp\u003eB: my friends like watching scientific programmes while I prefer to read science books. How about you? Which do you prefer to do?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12237,
+              "vanbanphanhoi": "Cách 1: prefer to read read science books - many reasons ( relax and reduce + improve creativity\u003d\u003e happy and comfortable ) \r\nCách 2 : prefer to watch scientific programmes ( improve imagination and communication + refresh my mind )\r\nBài mẫu: In my opinion, I prefer to read science books for many reasons.\r\nFirst, it helps me relax and reduce stress after a long day at work. Second, it is a good way to expand my social knowledge and gain more experience.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3874,
+          "vanbancauhoi": "\u003cp\u003eC: Some people think technology has a negative effect on our lives. What do you think?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12238,
+              "vanbanphanhoi": "negative : tiêu cực \u003e\u003c positive xss\u003dremoved\u003e tác hại \u003e\u003c Disagree\u003e lợi ích \r\nIn my opinion, I disagree that technology has a negative effect on our lives for many reasons. \r\nFirst, technology helps people to do everything fast and conveniently.\r\nSecond, it is a good way to relax and reduce stress after a long day at work. \r\nFinally, people feel fun and comfortable about using technology.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "title": "Đề 10 - Writing p4",
+      "des": "You are a member of the Science club. You received this email from the club\u0026rsquo;s manager.\u003cbr\u003e\u003cspan xss\u003dremoved\u003eDear member, \u003cbr\u003eNext month, our club will hold a science exhibition for the public in our local area. What kinds of things do you think we should include? \u003c/span\u003eHow can we encourage both adults and children to come in? Should we charge an entry fee or give customers for free?",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3875,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWrite an e-mail to your friend. Write about your feelings and what you are planning to do. Write 50 words.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12239,
+              "vanbanphanhoi": "Dear Linda,\r\nHow are things?\r\nDid you receive the email from the club? \r\nI am very happy to hear that news. \r\nI suppose ( \u003d think) we should include different kinds of paintings and toys because children will be interested in them . Besides, I think we should tell adults and children about the benefits of science to encourage them to come to our event.\r\nWhat do you think about this?\r\nYours,",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3876,
+          "vanbancauhoi": "Write an e-mail to the manager of the club. Write about your feelings and what you would like to do. Write 120-150 words.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12240,
+              "vanbanphanhoi": "Dear Sir,\r\nMy name is Van. I have been a member of our club for 2 months. \r\nI am writing in response to your latest email. \r\nAccording to the email, our club will hold a science exhibition for the public in our local area. \r\nTo be honest, I am very delighted ( \u003d happy) to hear that news. \r\nI would love to venture ( \u003d express) my idea. In my opinion, regarding ( về) + V-ing/N  what kinds of things we should include in the event, it is advisable for us to use different kinds of painting and toys because children will be interested in them. About the ways we encourage both adults and children to come in, I think we should tell adults and children about the benefits of science, for example, it is a wonderful way to broaden their social knowledge and gain more experience. Besides, we can charge an entry fee because it helps us earn a lot of money. By doing so, the experience of visitors can be improved. As a result, we can attract more people to join our club. \r\nI hope my suggestions will be useful. \r\nI am looking forward to hearing from you soon. \r\nBest regards,",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

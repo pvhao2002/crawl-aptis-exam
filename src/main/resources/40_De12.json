@@ -1,0 +1,1917 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3999,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man is calling his sister. Where are they going to meet?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a88502d4a8ccc71f308055c8a6282324.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12499,
+            "vanbanphanhoi": "At the station",
+            "fileupload": ""
+          },
+          {
+            "id": 12500,
+            "vanbanphanhoi": "At the park",
+            "fileupload": ""
+          },
+          {
+            "id": 12501,
+            "vanbanphanhoi": "At the university",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4001,
+        "vanbancauhoi": "A woman is talking about her vacation. What is the relationship between the speaker and Lisa?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a1252ff522662f7d15b6e96f26cb1da6.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12502,
+            "vanbanphanhoi": "Best friends",
+            "fileupload": ""
+          },
+          {
+            "id": 12503,
+            "vanbanphanhoi": "Mother and daughter",
+            "fileupload": ""
+          },
+          {
+            "id": 12504,
+            "vanbanphanhoi": "Teacher and student",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4002,
+        "vanbancauhoi": "Anna is calling her brother Max. What does Anna do later in the afternoon?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3ed699bfae9edf76831bc71512c42480.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12505,
+            "vanbanphanhoi": "Stay late at the office",
+            "fileupload": ""
+          },
+          {
+            "id": 12506,
+            "vanbanphanhoi": "Pick up her kids",
+            "fileupload": ""
+          },
+          {
+            "id": 12507,
+            "vanbanphanhoi": "Hang out with friends",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4003,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man is talking about his trip. What did he enjoy last year?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/453508db21133e7ebf1e4f93c866f9be.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12508,
+            "vanbanphanhoi": "Go for a walk",
+            "fileupload": ""
+          },
+          {
+            "id": 12509,
+            "vanbanphanhoi": "Go picnic",
+            "fileupload": ""
+          },
+          {
+            "id": 12510,
+            "vanbanphanhoi": "Go cycling",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4004,
+        "vanbancauhoi": "Doctor\u0026rsquo;s office is calling to change the appointment. When is the new appointment?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/021eb144551019928c9edf400e666060.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12511,
+            "vanbanphanhoi": "On Friday 14th",
+            "fileupload": ""
+          },
+          {
+            "id": 12512,
+            "vanbanphanhoi": "On Thursday 30th",
+            "fileupload": ""
+          },
+          {
+            "id": 12513,
+            "vanbanphanhoi": "On Thursday 13th",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4006,
+        "vanbancauhoi": "Vincent is calling James. Why does Vincent call James?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b157690ec1f008fe80d66d2081d0d306.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12517,
+            "vanbanphanhoi": "To say hello",
+            "fileupload": ""
+          },
+          {
+            "id": 12518,
+            "vanbanphanhoi": "To arrange meeting",
+            "fileupload": ""
+          },
+          {
+            "id": 12519,
+            "vanbanphanhoi": "To suggest a drink",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4005,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man calls the teleshop. What is the teleshop number?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/38ffd891119f69b83f1657bdcccb55d6.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12514,
+            "vanbanphanhoi": "102030",
+            "fileupload": ""
+          },
+          {
+            "id": 12515,
+            "vanbanphanhoi": "201030",
+            "fileupload": ""
+          },
+          {
+            "id": 12516,
+            "vanbanphanhoi": "301020",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4007,
+        "vanbancauhoi": "Two people are talking about meeting for dinner. What time does Ahmed meet Rose?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/62a4095c15c9b062c8021dcaa6cba072.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12520,
+            "vanbanphanhoi": "quarter past seven",
+            "fileupload": ""
+          },
+          {
+            "id": 12521,
+            "vanbanphanhoi": "half past seven",
+            "fileupload": ""
+          },
+          {
+            "id": 12522,
+            "vanbanphanhoi": "quarter to eight",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4008,
+        "vanbancauhoi": "Max is calling his friend. How much can Max pay for the computer?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/86551010d316a1f200f8d32e21bb3089.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12523,
+            "vanbanphanhoi": "150 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 12524,
+            "vanbanphanhoi": "250 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 12525,
+            "vanbanphanhoi": "350 pounds",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4010,
+        "vanbancauhoi": "A man is talking to the shopping assistant. What color top does he buy?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c745b7b39076e034b3ee92ec889a8e29.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12526,
+            "vanbanphanhoi": "Red",
+            "fileupload": ""
+          },
+          {
+            "id": 12527,
+            "vanbanphanhoi": "Blue",
+            "fileupload": ""
+          },
+          {
+            "id": 12528,
+            "vanbanphanhoi": "Black",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4011,
+        "vanbancauhoi": "Alice is calling her friend. What did she lose?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5342aaa0352863e525b9f821e0427c6f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12529,
+            "vanbanphanhoi": "A book",
+            "fileupload": ""
+          },
+          {
+            "id": 12530,
+            "vanbanphanhoi": "A laptop",
+            "fileupload": ""
+          },
+          {
+            "id": 12531,
+            "vanbanphanhoi": "A phone",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4012,
+        "vanbancauhoi": "A man is talking about the city concert. How will the concert end?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/867b44710ef305a31c8e5e05e1aad47f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12532,
+            "vanbanphanhoi": "The city’s favorite group",
+            "fileupload": ""
+          },
+          {
+            "id": 12533,
+            "vanbanphanhoi": "Fireworks performance",
+            "fileupload": ""
+          },
+          {
+            "id": 12534,
+            "vanbanphanhoi": "Singing from orchestra",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4013,
+        "vanbancauhoi": "Jana is talking to her friend. What does Jana\u0026rsquo;s sister look like?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/01be6cbe1315d6811b210dfbbb661904.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12535,
+            "vanbanphanhoi": "Tall",
+            "fileupload": ""
+          },
+          {
+            "id": 12536,
+            "vanbanphanhoi": "Short",
+            "fileupload": ""
+          },
+          {
+            "id": 12537,
+            "vanbanphanhoi": "Curly hair",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 763,
+        "title": "Đề 12 - Listening part 14",
+        "des": "\u003cstrong\u003eListen to the opinions of 4 people talking about their purposes of using the Internet, and answer the questions.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4014,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003ePerson A: I spend quite a bit of my free time online, \u003cstrong\u003emostly because I love \u003c/strong\u003e\u003cstrong\u003ewatching movie\u003c/strong\u003e\u003cstrong\u003es\u003c/strong\u003e. The Internet makes it so easy to find a wide variety of films, from the latest releases to old classics. I can stream them directly on my laptop or TV without needing to go out and buy DVDs or rent movies. I just pick a film and relax. It’s the best way to unwind after a long day, and I can watch whatever I want, whenever I want.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d998ab04aa356c641e7a76eca1f0a22f.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12538,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12539,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12541,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12542,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12559,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4015,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "Person B:\u003cstrong\u003e The main reason I use the Internet is to\u003c/strong\u003e\u003cstrong\u003e stay in touch with my friends\u003c/strong\u003e. It’s great because I can talk to people who live far away without any issues. Whether it\u0027s through social media, video calls, or messaging apps, the Internet allows me to communicate easily and quickly. My best friend loves using the Internet for studying online courses, but that’s not really for me. I prefer just chatting and staying connected through messages and calls.",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/512c6ce0deeff17ad22721a662d2c1d8.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12543,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12544,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12546,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12547,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12560,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4016,
+            "vanbancauhoi": "Speaker C _",
+            "vanbangiaithich": "\u003cp\u003ePerson C: \u003cstrong\u003eFor me, the Internet is an essential tool for \u003c/strong\u003e\u003cstrong\u003ecompleting my school assignments\u003c/strong\u003e\u003cstrong\u003e.\u003c/strong\u003e I use it to research information, find articles, and access educational websites that help me understand my subjects better. It’s so convenient because I can find everything I need online without having to spend hours in the library. I also use it to download notes and submit my homework. It has really made studying more efficient, and I can work from anywhere, whether it’s at home or on the go.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/31d87da5c68c0056550943a52674cf81.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12548,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12549,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12551,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12552,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12558,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4017,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "\u003cp\u003ePerson D: Whenever I need to plan a trip or get somewhere, \u003cstrong\u003eI always use the Internet to find \u003c/strong\u003e\u003cstrong\u003etransportation details\u003c/strong\u003e\u003cstrong\u003e. \u003c/strong\u003eI can check train schedules, bus routes, and even look up flights. It helps me figure out the best way to travel, and I can even buy tickets online. I like how I can get real-time updates about delays or changes. It makes traveling much easier and saves me the hassle of standing in line at stations or airports.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/cae414d185bf32c98795da1a90924f9f.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12553,
+                "vanbanphanhoi": "complete school assignments",
+                "fileupload": ""
+              },
+              {
+                "id": 12554,
+                "vanbanphanhoi": "learn courses",
+                "fileupload": ""
+              },
+              {
+                "id": 12555,
+                "vanbanphanhoi": "watch film",
+                "fileupload": ""
+              },
+              {
+                "id": 12556,
+                "vanbanphanhoi": "communicate with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12557,
+                "vanbanphanhoi": "find transport information",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 764,
+        "title": "Đề 12 - Listening part 15",
+        "des": "\u003cstrong\u003eListen to two people discussing singers and music. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/31ad3a1a9179832642fd81bfe111423b.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4018,
+            "vanbancauhoi": "Singer can be good models for the young _",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12561,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12562,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12563,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4019,
+            "vanbancauhoi": "Taste in music is a highly personal thing _",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12564,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12565,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12566,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4020,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eMusic is a universal language _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12567,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12568,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12569,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4021,
+            "vanbancauhoi": "Music can be used to manipulate people\u0026rsquo;s feelings. _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: You know, \u003cstrong\u003eI really believe that singers can be good role models for young people. Their influence can inspire kids to pursue their dreams and express themselves. \u003c/strong\u003eJust think about how many young artists start singing because they look up to someone famous.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: \u003cstrong\u003eI’m not so sure about that.\u003c/strong\u003e While some singers may have positive messages, others don’t always set the best example. Sometimes their lifestyles can be quite the opposite of what we’d want kids to emulate.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: Fair point, but I think many young fans look up to their favorite artists and adopt their values. Artists like Taylor Swift or Ed Sheeran often promote kindness and hard work.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: I get that. \u003cstrong\u003eBut when it comes to taste in music, it’s such a highly personal thing. What resonates with one person might not resonate with another\u003c/strong\u003e. I mean, I might love rock while my friend prefers classical!\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003cstrong\u003eAbsolutely! Everyone has their own preferences, and that’s what makes music so interesting\u003c/strong\u003e. It’s like a reflection of our individual personalities.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: Exactly! And speaking of music, \u003cstrong\u003eI believe it’s a universal language that connects people from different cultures.\u003c/strong\u003e You can go anywhere in the world and find someone who enjoys music.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: I\u003cstrong\u003e don’t fully agree with that. \u003c/strong\u003eWhile music can connect people, its meanings can vary greatly between cultures. A song that makes one group happy might not even be understood by another.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: \u003cstrong\u003eTrue, but one thing we can both agree on is that music can be used to manipulate people’s feelings, \u003c/strong\u003ewhether in advertising or emotional moments in movies.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003cstrong\u003eDefinitely\u003c/strong\u003e! It’s amazing how a song can evoke such strong emotions in us. Just think about those movie soundtracks that give you chills or make you cry. Music has that incredible power.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: Right? It’s fascinating how a simple melody can tap into our emotions so deeply.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12570,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12571,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12572,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 765,
+        "title": "Đề 12 - Listening part 16",
+        "des": "\u003cstrong\u003eListen to a TV announcer talking about a writer\u0027s new novel. Choose the correct answers.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c9ee8ca92d8d79ff342b9c8d1afad5c8.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4023,
+            "vanbancauhoi": "What does the announcer say about the new novel?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12574,
+                "vanbanphanhoi": "It is different from his earlier works",
+                "fileupload": ""
+              },
+              {
+                "id": 12575,
+                "vanbanphanhoi": "It is romantic and soft",
+                "fileupload": ""
+              },
+              {
+                "id": 12576,
+                "vanbanphanhoi": "It is less famous than his earlier works",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4024,
+            "vanbancauhoi": "What does \u0026nbsp;the announcer say the writer should do in the future?",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eAnnouncer: Good evening, everyone! Today, we’re excited to talk about the latest novel by popular author James Parker. He is known for his softer, romantic stories like Whispers of the Heart, which have touched the hearts of many readers. \u003cstrong\u003eHowever, his new novel, Shadow in the Night, is quite different.\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn Shadow in the Night, Parker explores a thrilling world of suspense and mystery. He moves away from his gentle love stories to deliver an exciting plot filled with unexpected twists. The tension in this book is much higher, showing that he can write in different styles.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhile many readers are excited about this new direction, \u003cstrong\u003eI believe it’s important for Parker to pay attention to the critics’ advice as he works on his next book\u003c/strong\u003e. Their feedback can help him improve his writing and find the right balance between romance and thrill that fans appreciate. Stay tuned for more updates on this talented author!\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12577,
+                "vanbanphanhoi": "The writer should continue to write this genre",
+                "fileupload": ""
+              },
+              {
+                "id": 12578,
+                "vanbanphanhoi": "The writer should go back to his original genre",
+                "fileupload": ""
+              },
+              {
+                "id": 12579,
+                "vanbanphanhoi": "He should listen to critics before writing his next work",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 766,
+        "title": "Đề 12 - Listening part  17",
+        "des": "\u003cstrong\u003eA radio MC talks about a famous musician’s life. Choose the correct answers.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7ce4b06564b37b70ae371ef88aeb678a.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4025,
+            "vanbancauhoi": "What has the musician decided regarding his singing career?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12580,
+                "vanbanphanhoi": "He will make a comeback after a long break",
+                "fileupload": ""
+              },
+              {
+                "id": 12581,
+                "vanbanphanhoi": "He will retire from singing professionally",
+                "fileupload": ""
+              },
+              {
+                "id": 12582,
+                "vanbanphanhoi": "He will inform fans about new albums",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4026,
+            "vanbancauhoi": "\u003cp\u003eWhat could the musician have achieved with his recent albums?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eRadio MC: Good afternoon, everyone! Today, we’re diving into the life of a beloved musician \u003cstrong\u003ewho has decided to retire from singing professionally.\u003c/strong\u003e Unlike in the past, where he would inform his fans and then make a comeback, this time he’s serious about stepping away for good.\u003c/p\u003e\r\n\u003cp\u003eHis talent has always shone through, and \u003cstrong\u003emany believe he could have achieved even greater success with his recent albums.\u003c/strong\u003e However, the long break he took between projects made it difficult for him to regain his previous momentum. Fans were excited to see him return, but the gap left some wondering if he could still capture the magic he once had.\u003c/p\u003e\r\n\u003cp\u003eAs he prepares for this new chapter in his life, we can only reflect on the incredible music he’s given us over the years. He leaves behind a rich legacy that will inspire future generations of artists. Stay tuned for more updates on this iconic musician!\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12583,
+                "vanbanphanhoi": "He could have been more successful",
+                "fileupload": ""
+              },
+              {
+                "id": 12584,
+                "vanbanphanhoi": "He could have inspired future generations",
+                "fileupload": ""
+              },
+              {
+                "id": 12585,
+                "vanbanphanhoi": "He could have gotten a bigger fan base.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 619,
+      "title": "Đề 12 - Reading p2",
+      "des": "\u003cp\u003e\u003cstrong\u003eThe sentences below are from some directions. Put the sentences in the right order. \u003cbr\u003e\u003cbr\u003e\u003cbr\u003eInstruction for end of term report\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3408,
+          "vanbancauhoi": "0. Following these instructions to complete the end of your term report",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 12963,
+              "vanbanphanhoi": "Before writing, spend a week looking at websites for the information you need",
+              "fileupload": ""
+            },
+            {
+              "id": 12964,
+              "vanbanphanhoi": "Remember to save the links to those websites and include them in your report",
+              "fileupload": ""
+            },
+            {
+              "id": 12965,
+              "vanbanphanhoi": "You should also include a list of any books you use for reference",
+              "fileupload": ""
+            },
+            {
+              "id": 12966,
+              "vanbanphanhoi": "When you have finished writing, read through to correct spelling mistakes",
+              "fileupload": ""
+            },
+            {
+              "id": 12967,
+              "vanbanphanhoi": "After making corrections, send your report by email to the college secretary",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 620,
+      "title": "Đề 12 - Reading p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eThe sentences below are from some directions. Put the sentences in the right order. \u003cbr\u003e\u003cbr\u003eInstruction for attending conference.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3409,
+          "vanbancauhoi": "0. When you arrive at the conference building, head towards the entrance.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 10474,
+              "vanbanphanhoi": "When you have a conference pass, go to the lift on the right.",
+              "fileupload": ""
+            },
+            {
+              "id": 10475,
+              "vanbanphanhoi": "Take the lift to the third floor, go to the main desk.",
+              "fileupload": ""
+            },
+            {
+              "id": 10476,
+              "vanbanphanhoi": "Show your pass from the conference to a member of staff at the desk.",
+              "fileupload": ""
+            },
+            {
+              "id": 10477,
+              "vanbanphanhoi": "He or she will give you a seat number for the talk at the main hall.",
+              "fileupload": ""
+            },
+            {
+              "id": 10478,
+              "vanbanphanhoi": "Once you enter the hall, someone will find the seat for you",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "title": "Đề 12 - Reading p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the four opinions the on their holiday. Then, answer the questions.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI visited there last summer and I also really enjoy watching the street performances that the city organizes. It adds a vibrant and entertaining element to my travel experience, and I feel immersed in the local atmosphere. I planned to buy some souvenirs but at the end of the trip, I ran out of money, which I deeply regret..\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhen I visit a new place, I tend to spend a bit more on shopping because I believe memorable experiences are worth it. I enjoy treating myself to delicious food, whether trying local specialties or dining at popular restaurants, as it allows me to explore the local cuisine. Buying souvenirs also reminds me of the unique experiences and culture I encountered during my journey.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003ePersonally, I thought the city\u0027s public transport was really good. It was easy to use, efficient, and well-organized. It made getting around and exploring different areas of the city a breeze. It also relieved my worry about walking too much during my trip. I realized the importance of taking care of my feet and not pushing myself too hard. This way, I could enjoy my trip without feeling uncomfortable or tired.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI don\u0027t generally go to big cities, asI prefer staying in one area of the city to fully experience the local culture and attractions. I enjoy destinations that feature natural resorts, where I can relax and appreciate the beauty of nature. This way, I can escape the fast pace of city life and truly connect with my surroundings.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3410,
+          "vanbancauhoi": "\u003cp\u003eWho usually enjoys buying things when they travel?  - _\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13148,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 13149,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 13150,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 13151,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3411,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho enjoyed the street theatre that the city puts on? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10483,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10484,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10485,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10486,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3412,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho paid a lot for their meal? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10487,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10488,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10489,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10490,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3413,
+          "vanbancauhoi": "Who spent their holiday in only 1 part of the city? - _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10491,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10492,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10493,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10494,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3414,
+          "vanbancauhoi": "Who enjoyed the natural resort there? - _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10495,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10496,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10497,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10498,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3415,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thought the public transport system was good? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10499,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10500,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10501,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10502,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3416,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho was concerned about too much walking causing a problem? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10503,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10504,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10506,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10507,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "title": "Đề 12 - Reading p5",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1-7) from the drop-down box.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003ch1\u003e\u003cstrong\u003eThe early Australians\u003c/strong\u003e\u003c/h1\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3417,
+          "vanbancauhoi": "\u003cp\u003e1. _\u003cbr\u003eThe history of early Australians stretches back much further than previously believed, with evidence suggesting human presence on the Australian continent dating back approximately 65,000 years. This timeline challenges traditional views held by historians regarding the first human settlers in Australia. Carbon analysis of archaeological sites has provided different results, leading to alternative hypotheses about the early inhabitants of the land Down Under. The findings shed new light on the ancient origins and rich cultural heritage of the Indigenous people who have inhabited the continent for millennia.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10508,
+              "vanbanphanhoi": "No precise figures available",
+              "fileupload": ""
+            },
+            {
+              "id": 10510,
+              "vanbanphanhoi": "Technology helps uncover the sea’s secrets",
+              "fileupload": ""
+            },
+            {
+              "id": 10511,
+              "vanbanphanhoi": "A journey made in stages",
+              "fileupload": ""
+            },
+            {
+              "id": 10512,
+              "vanbanphanhoi": "Lacking both knowledge and skills",
+              "fileupload": ""
+            },
+            {
+              "id": 10513,
+              "vanbanphanhoi": "The early Australians",
+              "fileupload": ""
+            },
+            {
+              "id": 10514,
+              "vanbanphanhoi": "The determination of the explorer in ages",
+              "fileupload": ""
+            },
+            {
+              "id": 12903,
+              "vanbanphanhoi": "New evidence to speculation",
+              "fileupload": ""
+            },
+            {
+              "id": 12904,
+              "vanbanphanhoi": "An alternative history to the settlement",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3418,
+          "vanbancauhoi": "\u003cp\u003e2. _\u003cbr\u003eRecent discoveries have revealed that the settlement of Australia was not a singular event. In addition to the early settlers, scientists have uncovered traces of two other human groups that migrated to the continent. The presence of multiple groups suggests a complex history of human migration and interaction. However, reaching the isolated continent would have posed significant challenges for ancient humans, as they would have needed to traverse vast stretches of open sea, a feat seemingly impossible with the technology available to them at the time.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10518,
+              "vanbanphanhoi": "No precise figures available",
+              "fileupload": ""
+            },
+            {
+              "id": 10520,
+              "vanbanphanhoi": "Technology helps uncover the sea’s secrets",
+              "fileupload": ""
+            },
+            {
+              "id": 10521,
+              "vanbanphanhoi": "A journey made in stages",
+              "fileupload": ""
+            },
+            {
+              "id": 10522,
+              "vanbanphanhoi": "Lacking both knowledge and skills",
+              "fileupload": ""
+            },
+            {
+              "id": 10523,
+              "vanbanphanhoi": "The early Australians",
+              "fileupload": ""
+            },
+            {
+              "id": 10524,
+              "vanbanphanhoi": "The determination of the explorer in ages",
+              "fileupload": ""
+            },
+            {
+              "id": 12905,
+              "vanbanphanhoi": "A natural barrier to resettlement",
+              "fileupload": ""
+            },
+            {
+              "id": 12906,
+              "vanbanphanhoi": "New evidence to speculation",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3419,
+          "vanbancauhoi": "\u003cp\u003e3. _\u003cbr\u003eThe aid of advanced equipment and techniques has allowed scientists to identify a series of small islands closely connected, forming a continuous pathway leading to Australia. Remote sensing technology has helped researchers identify and map small islands and potential migration routes. Geographic Information Systems (GIS) have integrated various data sets, to discover about the past migration corridors.This discovery provides insight into the probable routes taken by ancient migrants as they ventured across the vast expanse of the sea, providing a deeper understanding of the complex migration patterns that shaped the early history of the continent.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10526,
+              "vanbanphanhoi": "No precise figures available",
+              "fileupload": ""
+            },
+            {
+              "id": 10527,
+              "vanbanphanhoi": "An alternative history to the settlement",
+              "fileupload": ""
+            },
+            {
+              "id": 10528,
+              "vanbanphanhoi": "Technology helps uncover the sea’s secrets",
+              "fileupload": ""
+            },
+            {
+              "id": 10529,
+              "vanbanphanhoi": "A journey made in stages",
+              "fileupload": ""
+            },
+            {
+              "id": 10530,
+              "vanbanphanhoi": "Lacking both knowledge and skills",
+              "fileupload": ""
+            },
+            {
+              "id": 10531,
+              "vanbanphanhoi": "The early Australians",
+              "fileupload": ""
+            },
+            {
+              "id": 10532,
+              "vanbanphanhoi": "The determination of the explorer in ages",
+              "fileupload": ""
+            },
+            {
+              "id": 10533,
+              "vanbanphanhoi": "New evidence leads to speculation",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3420,
+          "vanbancauhoi": "\u003cp\u003e4. _\u003cbr\u003eThe migration patterns of early Australians reveal a gradual journey to the continent. Archaeological evidence points to the likelihood of different tribes arriving in Australia through a series of island-hopping journeys. Each island served as a resting point and a source of food, allowing them to continue their voyage. This gradual movement indicates an adaptive and resourceful approach taken by these ancient tribes, who navigated the challenges of the terrain to ultimately settle in Australia.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10542,
+              "vanbanphanhoi": "No precise figures available",
+              "fileupload": ""
+            },
+            {
+              "id": 10543,
+              "vanbanphanhoi": "An alternative history to the settlement",
+              "fileupload": ""
+            },
+            {
+              "id": 10544,
+              "vanbanphanhoi": "Technology helps uncover the sea’s secrets",
+              "fileupload": ""
+            },
+            {
+              "id": 10583,
+              "vanbanphanhoi": "A journey made in stages",
+              "fileupload": ""
+            },
+            {
+              "id": 10584,
+              "vanbanphanhoi": "Lacking both knowledge and skills",
+              "fileupload": ""
+            },
+            {
+              "id": 10585,
+              "vanbanphanhoi": "The early Australians",
+              "fileupload": ""
+            },
+            {
+              "id": 10586,
+              "vanbanphanhoi": "The determination of the explorer in ages",
+              "fileupload": ""
+            },
+            {
+              "id": 10587,
+              "vanbanphanhoi": "New evidence leads to speculation",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3421,
+          "vanbancauhoi": "\u003cp\u003e5. _\u003cbr\u003eScientists can only speculate about the exact number of individuals required to undertake such a migration, which could have ranged from a small group to several thousand people. The uncertainty stems from various factors, including the limitations of available archaeological evidence and the complexities of ancient human migration. The lack of exact statistics makes it challenging to determine the scale and composition of these early human journeys accurately. However, ongoing research and technological advancements may offer more insights in the future.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10558,
+              "vanbanphanhoi": "No precise figures available",
+              "fileupload": ""
+            },
+            {
+              "id": 10559,
+              "vanbanphanhoi": "An alternative history to the settlement",
+              "fileupload": ""
+            },
+            {
+              "id": 10560,
+              "vanbanphanhoi": "Technology helps uncover the sea’s secrets",
+              "fileupload": ""
+            },
+            {
+              "id": 10561,
+              "vanbanphanhoi": "A journey made in stages",
+              "fileupload": ""
+            },
+            {
+              "id": 10562,
+              "vanbanphanhoi": "Lacking both knowledge and skills",
+              "fileupload": ""
+            },
+            {
+              "id": 10563,
+              "vanbanphanhoi": "The early Australians",
+              "fileupload": ""
+            },
+            {
+              "id": 10564,
+              "vanbanphanhoi": "The determination of the explorer in ages",
+              "fileupload": ""
+            },
+            {
+              "id": 10565,
+              "vanbanphanhoi": "New evidence leads to speculation",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3422,
+          "vanbancauhoi": "6. _\u003cbr\u003eSome skeptics argue that ancient humans didn’t have enough the intellectual capacity, knowledge, and skills needed to undertake such journeys. They question whether early humans possessed the navigational and maritime expertise to traverse vast stretches of ocean. Critics contend that without advanced tools or navigational aids, navigating through open seas would have been beyond the capabilities of ancient civilizations. However, it is crucial to acknowledge that human ingenuity and adaptability have proven remarkable throughout history, enabling our ancestors to overcome various challenges and achieve extraordinary feats.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10566,
+              "vanbanphanhoi": "No precise figures available",
+              "fileupload": ""
+            },
+            {
+              "id": 10567,
+              "vanbanphanhoi": "An alternative history to the settlement",
+              "fileupload": ""
+            },
+            {
+              "id": 10568,
+              "vanbanphanhoi": "Technology helps uncover the sea’s secrets",
+              "fileupload": ""
+            },
+            {
+              "id": 10569,
+              "vanbanphanhoi": "A journey made in stages",
+              "fileupload": ""
+            },
+            {
+              "id": 10570,
+              "vanbanphanhoi": "Lacking both knowledge and skills",
+              "fileupload": ""
+            },
+            {
+              "id": 10571,
+              "vanbanphanhoi": "The early Australians",
+              "fileupload": ""
+            },
+            {
+              "id": 10572,
+              "vanbanphanhoi": "The determination of the explorer in ages",
+              "fileupload": ""
+            },
+            {
+              "id": 10573,
+              "vanbanphanhoi": "New evidence leads to speculation",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3423,
+          "vanbancauhoi": "7. _\u003cbr\u003eHistory has demonstrated the unwavering determination and resilience of human explorers in the past. From deep-sea expeditions in ancient times to modern space travel, humans have showcased their resolve to explore and conquer the unknown. The same determination might have driven the early Australians to embark on perilous journeys across treacherous waters. While the challenges they faced were undoubtedly immense, the spirit of human curiosity and the desire to discover new lands and opportunities likely motivated these ancient explorers, leaving a remarkable legacy in the annals of history.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10574,
+              "vanbanphanhoi": "No precise figures available",
+              "fileupload": ""
+            },
+            {
+              "id": 10575,
+              "vanbanphanhoi": "An alternative history to the settlement",
+              "fileupload": ""
+            },
+            {
+              "id": 10576,
+              "vanbanphanhoi": "Technology helps uncover the sea’s secrets",
+              "fileupload": ""
+            },
+            {
+              "id": 10577,
+              "vanbanphanhoi": "A journey made in stages",
+              "fileupload": ""
+            },
+            {
+              "id": 10578,
+              "vanbanphanhoi": "Lacking both knowledge and skills",
+              "fileupload": ""
+            },
+            {
+              "id": 10579,
+              "vanbanphanhoi": "The early Australians",
+              "fileupload": ""
+            },
+            {
+              "id": 10581,
+              "vanbanphanhoi": "The determination of the explorer in ages",
+              "fileupload": ""
+            },
+            {
+              "id": 10582,
+              "vanbanphanhoi": "New evidence leads to speculation",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 618,
+      "title": "Đề 12 - Reading p1",
+      "des": "\u003cstrong\u003eChoose one word from the list for each gap. The first one is done for you\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3403,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eThe water is _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e and i can see many fish \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10453,
+              "vanbanphanhoi": "clear",
+              "fileupload": ""
+            },
+            {
+              "id": 10454,
+              "vanbanphanhoi": "dirty",
+              "fileupload": ""
+            },
+            {
+              "id": 10455,
+              "vanbanphanhoi": "white",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3404,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e is always out and it’s very hot \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10456,
+              "vanbanphanhoi": "sea",
+              "fileupload": ""
+            },
+            {
+              "id": 10457,
+              "vanbanphanhoi": "sun",
+              "fileupload": ""
+            },
+            {
+              "id": 10458,
+              "vanbanphanhoi": "water",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3405,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI’m lucky to have such an _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e holiday \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10459,
+              "vanbanphanhoi": "enjoyable",
+              "fileupload": ""
+            },
+            {
+              "id": 10460,
+              "vanbanphanhoi": "happy",
+              "fileupload": ""
+            },
+            {
+              "id": 10461,
+              "vanbanphanhoi": "chill",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3406,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eAfter _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e so hard, i needed some time off \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10462,
+              "vanbanphanhoi": "playing",
+              "fileupload": ""
+            },
+            {
+              "id": 10463,
+              "vanbanphanhoi": "working",
+              "fileupload": ""
+            },
+            {
+              "id": 10464,
+              "vanbanphanhoi": "running",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3407,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI hope to _ \u003c/span\u003e\u003cspan xss\u003dremoved\u003ea letter from you soon.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10465,
+              "vanbanphanhoi": "give",
+              "fileupload": ""
+            },
+            {
+              "id": 10466,
+              "vanbanphanhoi": "forward",
+              "fileupload": ""
+            },
+            {
+              "id": 10467,
+              "vanbanphanhoi": "read",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 751,
+      "title": "Đề 12 - Speaking 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c6f3f9409dc4d6980a7d8f228511bf73.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3948,
+          "vanbancauhoi": "Please tell me about your family.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eAs for this question, my family has 4 people, which are my parents, my older sister and me. We also adopted a cat, whose name is Tom. My sister doesn\u0027t live with us but we keep in touch every day through our phones. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eMy family is small. I live with my parents and my younger sister. My mom works at a hospital, and my dad is a teacher. My sister is still in school. We often spend time together on weekends, like going to the park or watching movies. I love my family very much.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e8375e520477d839b911be64618d542e.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12383,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c9da1c4066f36edc0fce6b91c4b7321c.mp3"
+            },
+            {
+              "id": 12384,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a3d13ac1143e466af9b4192c6a6d5d61.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3949,
+          "vanbancauhoi": "Please tell me about the last time you visited friends. \u0026nbsp;",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eTwo years ago, on the second day of Tet holiday, I had dinner at my friend’s house, who is my best friend. I had a hot pot party and had a good time with her family.  It was a memorable night. That\u0027s all I want to share and thank you for listening\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eThe last time I visited my friends was last weekend. We met at one of my friend’s houses. We played video games together and had some snacks. It was a lot of fun, and I stayed there for a few hours before going home.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/10019cf24d21ca4003b5859bb60b04e3.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12385,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/871a27813107c3d8cd1a7bc62eb8e902.mp3"
+            },
+            {
+              "id": 12386,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a6b00158808cc585a5a5111a49c9f842.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3950,
+          "vanbancauhoi": "Please tell me about your first school.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWhen I recall my first school, I always feel nostalgic. I had a lot of unforgettable memories with my friends. I was tutored by some of the best teachers at that time and I still feel grateful  that I once studied here. That\u0027s all I want to share and thank you for listening.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eMy first school was very small. It had a playground and many classrooms. The teachers were nice, and I made many friends there. I still remember the games we played during breaks. It was a fun place to learn and grow up.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6e4211345695356e9b5e9f856e727121.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12387,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f226950eaec6acff252b18345d7d6299.mp3"
+            },
+            {
+              "id": 12388,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b714a1132817309ea027aacfdebf3419.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "title": "Đề 12 - Speaking 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9f7405b5ae12a54804084f9ecf19a79e.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3951,
+          "vanbancauhoi": "Describe this picture.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/525231f1756877758be09aea4c18199a.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn the picture, I can see 2 men on the street.\u003c/p\u003e\r\n\u003cp\u003eIn the background, I cannot see anything because it is so blurry. \u003c/p\u003e\r\n\u003cp\u003eIn the front, there are 2 men wearing grey vests. \u003c/p\u003e\r\n\u003cp\u003eIt is clear that 1 man is reading the newspapers and the other one is surfing the Internet. \u003c/p\u003e\r\n\u003cp\u003eI guess they are feeling attentive. \u003c/p\u003e\r\n\u003cp\u003eTo be honest, this picture is so beautiful that it might have been taken by a professional.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8d765a47332be32d677eccb0a6740923.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12389,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3e31171be7b935b26c8c79c29d9a7393.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3952,
+          "vanbancauhoi": "How do you usually find out about the news?",
+          "vanbangiaithich": "Let me tell you about how I usually find out about the news. I often use my phone to read the news everyday. It is a wonderful way for me to broaden my social knowledge and make friends who have the same hobby. Besides, I read newspapers because it is time-saving and convenient.\u0026nbsp;",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/cd4fed5f1998adfef7108388ea7657b1.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12390,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/689c8156fc94698efd0c5696d37062b9.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3953,
+          "vanbancauhoi": "Why is it important to read about the news everyday?",
+          "vanbangiaithich": "It is important to read about the news everyday for several reasons. First, it is a good way to broaden people\u0026rsquo;s social knowledge and gain more experience. Second, reading about the news allows people to refresh my mind and reduce stress after a long day at work. For me, I often read news everyday to update about life.\u0026nbsp;",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/94a9debfd76b5851845677b48b4ac9e4.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12391,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/60b95373a8f085fd9591a330dfacb09a.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "title": "Đề 12 - Speaking 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8ac8caba696090abc51639a097ac1011.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3954,
+          "vanbancauhoi": "Describe 2 pictures.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/0a71d5628d54caf3b0518dca547941b6.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures show me entertaining activities.  In the first picture, I can see a family sitting on a white car. They are taking selfies with their phones and looking very happy, as I can see the smiles on their faces. In the second picture, there is a man in a café. He is sitting by himself and taking notes, which shows that he is focused and attentive. I think everyone in these pictures is having a good time. I prefer the first picture because I love travelling with my family.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f9d2ce0f3491129e286cf74d2225064d.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12392,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3efc0c43ce1b8f9444c30c6756e2bc22.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3955,
+          "vanbancauhoi": "Do you prefer recording memories by picture or by words? Why?",
+          "vanbangiaithich": "I prefer recording memories by picture because they show real moments. A photo can capture a smile or a beautiful place very quickly. When I look at a picture, I remember how I felt at that time. Words are nice, but they can be harder to remember.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c8d32c1ab993f2c6d9a1df97f141b73f.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12393,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dc3d6bb41ba2271dd96b6d0b59a5e349.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3959,
+          "vanbancauhoi": "Why do people like taking photos with their mobile phones?",
+          "vanbangiaithich": "People like taking photos with their mobile phones because of several reasons. First, it is cheap and convenient. Everyone has a phone, so it\u0026rsquo;s simple to take a picture anytime. Second, \u0026nbsp;They can share their photos with friends and family on social media, which makes them feel connected.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8812c059d03366cb0f851ec1df489cd9.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12394,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fce585b266ff158a87908a32732f3078.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "title": "Đề 12 - Speaking 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9d950ee666a47caad2ae0920c2fb1948.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3960,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTell me about a time you were with someone older or younger than you.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eHow do you feel in the situation?\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eHow do you think different generations can learn from each other?\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eNow, I am going to answer the 3 questions, which are: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cul\u003e\r\n\u003cli xss\u003dremoved aria-level\u003d\"1\"\u003e\u003cspan xss\u003dremoved\u003eTell me about a time you were with someone older or younger than you.\u003c/span\u003e\u003c/li\u003e\r\n\u003cli xss\u003dremoved aria-level\u003d\"1\"\u003e\u003cspan xss\u003dremoved\u003eHow do you feel in this situation?\u003c/span\u003e\u003c/li\u003e\r\n\u003cli xss\u003dremoved aria-level\u003d\"1\"\u003e\u003cspan xss\u003dremoved\u003eHow do you think different generations can learn from each other?\u003c/span\u003e\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003cp\u003e\u003cstrong\u003eRegarding the first question\u003c/strong\u003e\u003cstrong\u003e, let me \u003c/strong\u003e\u003cstrong\u003etell you about a time that I was with someone older or younger than me\u003c/strong\u003e\u003cstrong\u003e and \u003c/strong\u003e\u003cstrong\u003eit was when my parents took me\u003c/strong\u003e\u003cstrong\u003e to Danang City.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWell,\u003c/span\u003e\u003cspan xss\u003dremoved\u003e Da Nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive for me at that time.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIt was when I was a second- year student at university. At that time, I really wished for a trip to Danang city. So after exams, my parents gave me a gift by taking me to Danang city so that I can relax and reduce stress after a long day at studying. My dad is 30 years older than me because he is now 50 years olds.  My mom is now 45 years olds.  \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eTurning to the second question\u003c/strong\u003e\u003cstrong\u003e,\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e at that time, I felt very delighted and excited because I could gain more experience after the trip .  \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eAs for the final question\u003c/strong\u003e\u003cstrong\u003e, \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eI agree that Different generations can learn a lot from each other. For example, older people can share their experiences and teach younger ones important life lessons. Younger people can teach older ones about new technology and trends. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThank you for listening. \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9c020008abf248f9693296ce28a9f90c.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12395,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/18601215af65bb2b0e12c8c9a7b0b4fc.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 739,
+      "title": "Đề 12 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a music club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3915,
+          "vanbancauhoi": "What is the weather like today?\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12342,
+              "vanbanphanhoi": "It is sunny.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3916,
+          "vanbancauhoi": "What are you wearing today?\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12343,
+              "vanbanphanhoi": "I wear a T-shirt.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3917,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat is your favorite kind of music? \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12344,
+              "vanbanphanhoi": "I love pop.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3918,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhich sport is the most popular in your country? \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12345,
+              "vanbanphanhoi": "It is football.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3919,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat do you like doing with your friend? \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12346,
+              "vanbanphanhoi": "I like watching TV.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 740,
+      "title": "Đề 12 - Writing part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a new member of the music club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3920,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTell us about the last time you went to a museum.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12347,
+              "vanbanphanhoi": "Last weekend, I visited the National Museum in Hanoi with my family. To be honest, I enjoyed the visit because it helped me relax and relieve stress after days of studying.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 741,
+      "title": "Đề 12 - Writing part 3",
+      "des": "\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e\r\n\u003cp\u003e\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3921,
+          "vanbancauhoi": "I went to the museum at school. How was the time when you visited the museum when you were a child?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12348,
+              "vanbanphanhoi": "I did not visit museums as a child, but as I imagined, it must have been a great way to explore history, science, or art. Nowadays, the exhibits likely spark curiosity and open up new perspectives about the world, making learning an enjoyable experience.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3922,
+          "vanbancauhoi": "I want to take my children to a museum but I don\u0026rsquo;t know which, the History Museum or Sports Museum. Can you give me advice?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12349,
+              "vanbanphanhoi": "If I were you, I would choose the Sports Museum because it is definitely more engaging than the History Museum. This is especially true since it provides an opportunity for them to learn about teamwork and communication skills through inspiring stories.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3923,
+          "vanbancauhoi": "Some museums have added technologies like computer screens in their museum and this attracts more visitors. Why?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12350,
+              "vanbanphanhoi": "There are several reasons why some museums have added technologies like computer screens in their museum and this attracts more visitors. This is because screens can make information more engaging. For example, people can see videos or pictures that make history come alive, rather than just reading texts.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 742,
+      "title": "Đề 12 - Writing part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of the travel club. You have received this email from the club.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003cem\u003eDear members,\u003cbr\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003eThe museums are free of charge but next year museums will require tickets and this might decrease visitors. What do you think? Make suggestions and explain.\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003eBests,\u003c/em\u003e\u003cbr\u003e\u003cem\u003eClub Manager.\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3924,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to your friend. Write about your feelings and what you think the club should do about the situation. Write about 50 words. Recommended time: 10 minutes.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12354,
+              "vanbanphanhoi": "Hi Lucas,\r\nHow is it going? I hope you and your family are fine.\r\nHave you received the email from our club about the charge on the museum visiting tickets next year?\r\nI am very sad to hear that news.\r\nI think I will write an email and send it to the government about selling tickets next year because it will reduce attendance\r\nWhat do you think about this? Hope to hear from you soon\r\nYours,\r\nPeter",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3925,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to the president of the club. Write about your feelings and what you think the club should do about the situation. Write 120–150 words. Recommended time: 20 minutes.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12355,
+              "vanbanphanhoi": "Dear Club Manager,\r\nMy name is Peter. I have been a member of our club for 3 months. I am writing in response to your latest email.\r\nI am writing in response to your latest email.\r\nAccording to the news, our club is planning to implement changes, such as charging admission fees to museums next year. \r\nTo be honest, I am quite worried to hear that news. I believe that most of our members in the club share my sentiments about this change. It is high time we made some radical changes to address this problem. \r\nI would love to share my ideas. I think we should introduce a discounted membership program or offer free days once a month to encourage people to continue visiting. Besides, it is also advisable that we create engaging, themed events to attract new visitors. \r\nBy implementing these strategies, we can enhance the visitor experience and ensure a steady stream of attendees. As a result, this approach could help mitigate the potential negative impact of the changes.\r\nI hope my suggestions will be useful and I am looking forward to hearing from you soon.\r\nBest regards,  \r\nPeter",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

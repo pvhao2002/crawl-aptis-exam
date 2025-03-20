@@ -1,0 +1,1882 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3473,
+        "vanbancauhoi": "A person calls a friend about his new car. How much does the small car cost him?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4cb02cb3b2ac4d4692c00fcf724499b0.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10934,
+            "vanbanphanhoi": "3250 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 10935,
+            "vanbanphanhoi": "3550 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 10936,
+            "vanbanphanhoi": "4250 pounds",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3475,
+        "vanbancauhoi": "A man calls the teleshop. What is the teleshop number ?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dbda21cf05a465c16d2ae992ae740485.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10828,
+            "vanbanphanhoi": "102030",
+            "fileupload": ""
+          },
+          {
+            "id": 10829,
+            "vanbanphanhoi": "201030",
+            "fileupload": ""
+          },
+          {
+            "id": 10830,
+            "vanbanphanhoi": "301020",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3474,
+        "vanbancauhoi": "Two people are talking about meeting for dinner. What time does Ahmed meet Rose?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6adc258789d9c55736a398e12b8aa5d2.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10825,
+            "vanbanphanhoi": "half past seven",
+            "fileupload": ""
+          },
+          {
+            "id": 10826,
+            "vanbanphanhoi": "quarter past seven",
+            "fileupload": ""
+          },
+          {
+            "id": 10827,
+            "vanbanphanhoi": "quarter to eight",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3477,
+        "vanbancauhoi": "A man is talking to a shopping assistant. What color top is he going to buy?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/841dbab276ea6fb6087fe70a06453165.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10937,
+            "vanbanphanhoi": "Green",
+            "fileupload": ""
+          },
+          {
+            "id": 10938,
+            "vanbanphanhoi": "Blue",
+            "fileupload": ""
+          },
+          {
+            "id": 10939,
+            "vanbanphanhoi": "Black",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3478,
+        "vanbancauhoi": "Anna is calling her brother Max. What does Anna do later in the afternoon ?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0c96012ec8458d8ed96fd35b582ad976.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10836,
+            "vanbanphanhoi": "Stay late at the office",
+            "fileupload": ""
+          },
+          {
+            "id": 10837,
+            "vanbanphanhoi": "Pick up her kids",
+            "fileupload": ""
+          },
+          {
+            "id": 10838,
+            "vanbanphanhoi": "Hang out with friends",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3479,
+        "vanbancauhoi": "Vincent is calling James. Why does Vincent call James ?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d90fe006703f82aefba79c0dd262a7cb.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10839,
+            "vanbanphanhoi": "To say hello",
+            "fileupload": ""
+          },
+          {
+            "id": 10840,
+            "vanbanphanhoi": "To suggest a drink",
+            "fileupload": ""
+          },
+          {
+            "id": 10841,
+            "vanbanphanhoi": "To arrange meeting",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3480,
+        "vanbancauhoi": "A man is talking about his trip. What did he enjoy last year ?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6f2f6e631b01262cac1eb2d91c2be83c.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10842,
+            "vanbanphanhoi": "Go for a walk",
+            "fileupload": ""
+          },
+          {
+            "id": 10843,
+            "vanbanphanhoi": "Go picnic",
+            "fileupload": ""
+          },
+          {
+            "id": 10844,
+            "vanbanphanhoi": "Go cycling",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3482,
+        "vanbancauhoi": "A man is talking about the city concert. How will the concert end?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ee3c567ff714500f87f8b0778b006887.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10849,
+            "vanbanphanhoi": "The city’s favorite group",
+            "fileupload": ""
+          },
+          {
+            "id": 10850,
+            "vanbanphanhoi": "Fireworks performance",
+            "fileupload": ""
+          },
+          {
+            "id": 10851,
+            "vanbanphanhoi": "Singing from orchestra",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3481,
+        "vanbancauhoi": "A woman is talking about her job. What encouraged her to become a scientist ?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7ffe3f6c9342d2ab1d243aa0442f1f17.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10845,
+            "vanbanphanhoi": "Her mother",
+            "fileupload": ""
+          },
+          {
+            "id": 10847,
+            "vanbanphanhoi": "A large stone",
+            "fileupload": ""
+          },
+          {
+            "id": 10848,
+            "vanbanphanhoi": "The computer",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3483,
+        "vanbancauhoi": "A man is talking about his family trip. What does the man\u0026rsquo;s wife enjoy?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/00b54700b887a2ed2c8ba75eb2a9c1aa.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10852,
+            "vanbanphanhoi": "walking",
+            "fileupload": ""
+          },
+          {
+            "id": 10853,
+            "vanbanphanhoi": "shopping",
+            "fileupload": ""
+          },
+          {
+            "id": 10854,
+            "vanbanphanhoi": "photography",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3484,
+        "vanbancauhoi": "Jana is talking to her friend. What does Jana\u0026rsquo;s sister look like?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a7cffe865ce34eb2423971ee61076cf0.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10856,
+            "vanbanphanhoi": "Curly hair",
+            "fileupload": ""
+          },
+          {
+            "id": 10857,
+            "vanbanphanhoi": "Short",
+            "fileupload": ""
+          },
+          {
+            "id": 10858,
+            "vanbanphanhoi": "Thin",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3485,
+        "vanbancauhoi": "A man is calling his sister. Where are they going to meet ?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/70a13b2f30608be8d89bbb92bf83c3eb.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10859,
+            "vanbanphanhoi": "At the university",
+            "fileupload": ""
+          },
+          {
+            "id": 10860,
+            "vanbanphanhoi": "At the station",
+            "fileupload": ""
+          },
+          {
+            "id": 10861,
+            "vanbanphanhoi": "At the park",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3486,
+        "vanbancauhoi": "A woman is talking about her vacation. What is the relationship between the speaker and Lisa?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/31aa21a43437f450ce2e5e4d463111ae.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10862,
+            "vanbanphanhoi": "Best friends",
+            "fileupload": ""
+          },
+          {
+            "id": 10863,
+            "vanbanphanhoi": "Mother and daughter",
+            "fileupload": ""
+          },
+          {
+            "id": 10864,
+            "vanbanphanhoi": "Teacher and student",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 633,
+        "title": "Đề 1 - Listening 14",
+        "des": "\u003cstrong\u003eFour people are talking about their exercise preferences. Complete the sentence below.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3497,
+            "vanbancauhoi": "Speaker A enjoys _",
+            "vanbangiaithich": "\u003cp\u003ePerson A: I’ve always been drawn to outdoor activities, especially those that get my heart racing. While some of my friends prefer running or hiking, I find nothing more exciting than \u003cstrong\u003emountain biking\u003c/strong\u003e. I love the challenge of rough terrains and feeling the wind rush by as I go downhill. It’s also a great way to explore nature and stay fit. I try to hit the trails at least a few times a month because it’s such a thrilling experience for me. It’s become my go-to form of exercise whenever I have the time.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/99628931e46178ae29269040a1561e58.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10879,
+                "vanbanphanhoi": "Walking",
+                "fileupload": ""
+              },
+              {
+                "id": 10880,
+                "vanbanphanhoi": "Climbing",
+                "fileupload": ""
+              },
+              {
+                "id": 10881,
+                "vanbanphanhoi": "Going for a run",
+                "fileupload": ""
+              },
+              {
+                "id": 10884,
+                "vanbanphanhoi": "Mountain biking",
+                "fileupload": ""
+              },
+              {
+                "id": 10885,
+                "vanbanphanhoi": "Horse riding",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3499,
+            "vanbancauhoi": "Speaker B enjoys _",
+            "vanbangiaithich": "\u003cp\u003ePerson B: When it comes to staying active, I’ve tried lots of different things. But I’ve found that I get the most out of a good jog. It’s a great way to keep my energy levels up, and I enjoy how it clears my mind. I usually\u003cstrong\u003e jog\u003c/strong\u003e around the park or along the river near my home. It’s not too fast, but it still gets my heart pumping and helps me unwind. I try to fit it into my routine as often as I can, even if it’s just for 20 minutes. \u003cstrong\u003e(jog \u003d running)\u003c/strong\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a13eb3b27d43de24870f5b74693d6818.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10899,
+                "vanbanphanhoi": "Walking",
+                "fileupload": ""
+              },
+              {
+                "id": 10900,
+                "vanbanphanhoi": "Climbing",
+                "fileupload": ""
+              },
+              {
+                "id": 10901,
+                "vanbanphanhoi": "Going for a run",
+                "fileupload": ""
+              },
+              {
+                "id": 10902,
+                "vanbanphanhoi": "Mountain biking",
+                "fileupload": ""
+              },
+              {
+                "id": 10903,
+                "vanbanphanhoi": "Horse riding",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3500,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eSpeaker C enjoys _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson C: I prefer something more low-key and calming when it comes to exercise. I’m not really into intense activities like running or biking. Instead, I find \u003c/span\u003e\u003cstrong\u003ewalking \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eto be the perfect balance for me. It allows me to relax while still staying active. Whether it\u0027s in the park or just around my neighborhood, I try to get my steps in every day. It’s also a nice way to clear my head after a long day at work.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/63563dfb984b0a354fddd1aaea2a6df0.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10894,
+                "vanbanphanhoi": "Walking",
+                "fileupload": ""
+              },
+              {
+                "id": 10895,
+                "vanbanphanhoi": "Climbing",
+                "fileupload": ""
+              },
+              {
+                "id": 10896,
+                "vanbanphanhoi": "Going for a run",
+                "fileupload": ""
+              },
+              {
+                "id": 10897,
+                "vanbanphanhoi": "Mountain biking",
+                "fileupload": ""
+              },
+              {
+                "id": 10898,
+                "vanbanphanhoi": "Horse riding",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3502,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eSpeaker D enjoys _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson D: I’ve been involved in different sports over the years, but one thing that stands out for me is horse riding. There’s something about being with \u003c/span\u003e\u003cstrong\u003ehorses\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e that feels both calming and exciting. \u003c/span\u003e\u003cstrong\u003eRiding\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e through open fields or along forest paths is an amazing way to stay active. It’s not just a workout, but also a chance to connect with animals and nature. I try to go riding whenever I have a free weekend—it’s definitely my favorite way to keep fit.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/00301a027c1cd3750e431f7d5ddf189c.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10904,
+                "vanbanphanhoi": "Walking",
+                "fileupload": ""
+              },
+              {
+                "id": 10906,
+                "vanbanphanhoi": "Climbing",
+                "fileupload": ""
+              },
+              {
+                "id": 10907,
+                "vanbanphanhoi": "Going for a run",
+                "fileupload": ""
+              },
+              {
+                "id": 10908,
+                "vanbanphanhoi": "Mountain biking",
+                "fileupload": ""
+              },
+              {
+                "id": 10909,
+                "vanbanphanhoi": "Horse riding",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 634,
+        "title": "Đề 1 - Listening 15",
+        "des": "\u003cstrong\u003eListen to two people discussing the Internet. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/42d9150f1dbdde14fccbc0df0c04717c.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3503,
+            "vanbancauhoi": "There is too much information on the Internet",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10912,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              },
+              {
+                "id": 13124,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13125,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3504,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eFinding information on the Internet requires skills\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10913,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 10914,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 10915,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3506,
+            "vanbancauhoi": "\u003cp\u003eThe use of internet affects the way we think\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11672,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              },
+              {
+                "id": 13126,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13127,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3507,
+            "vanbancauhoi": "\u003cp\u003eThe internet makes young people less patient\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eWoman: You know,\u003cstrong\u003e I really feel there’s too much information on the Internet\u003c/strong\u003e. It can be overwhelming sometimes. It’s hard to know what’s credible.\u003c/p\u003e\r\n\u003cp\u003eMan: Honestly, I think it’s more about how we search for information. \u003cstrong\u003eFinding what we need online requires certain skills\u003c/strong\u003e. We need to know how to filter through all that content.\u003c/p\u003e\r\n\u003cp\u003eWoman: \u003cstrong\u003eDefinitely!\u003c/strong\u003e If you don’t know how to search properly, you can easily get lost in all that noise.\u003c/p\u003e\r\n\u003cp\u003eMan: And \u003cstrong\u003eI believe the Internet affects the way we think.\u003c/strong\u003e With so much information available, we often skim rather than think deeply about topics.\u003c/p\u003e\r\n\u003cp\u003eWoman: \u003cstrong\u003eThat’s an interesting point. I hadn’t thought about that\u003c/strong\u003e. But I do see how \u003cstrong\u003ethe constant scrolling and quick answers can make young people less patient\u003c/strong\u003e.\u003c/p\u003e\r\n\u003cp\u003eMan:\u003cstrong\u003e Exactly! \u003c/strong\u003eThey expect instant results. It’s like waiting for anything has become a challenge.\u003c/p\u003e\r\n\u003cp\u003eWoman: Right! So, while the Internet offers us a wealth of knowledge, it also changes our patience and thinking patterns.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10940,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 10941,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 10942,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 635,
+        "title": "Đề 1 - Listening 16",
+        "des": "\u003cstrong\u003eListen to an announcer talking about a newly released novel and answer the questions below.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/66180fb18c2170ca368409d01041c428.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3508,
+            "vanbancauhoi": "What does the announcer say about the new novel?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10922,
+                "vanbanphanhoi": "It is different from his earlier works",
+                "fileupload": ""
+              },
+              {
+                "id": 10923,
+                "vanbanphanhoi": "It is romantic and soft",
+                "fileupload": ""
+              },
+              {
+                "id": 10924,
+                "vanbanphanhoi": "It is less famous than his earlier works",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3509,
+            "vanbancauhoi": "\u003cp\u003eWhat does  the announcer say the writer should do in the future?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eAnnouncer: Good evening, everyone! Today, we’re excited to talk about the latest novel by popular author James Parker. He is known for his softer, romantic stories like Whispers of the Heart, which have touched the hearts of many readers. \u003cstrong\u003eHowever, his new novel, Shadow in the Night, is quite different.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eIn Shadow in the Night, Parker explores a thrilling world of suspense and mystery. He moves away from his gentle love stories to deliver an exciting plot filled with unexpected twists. The tension in this book is much higher, showing that he can write in different styles.\u003c/p\u003e\r\n\u003cp\u003eWhile many readers are excited about this new direction, \u003cstrong\u003eI believe it’s important for Parker to pay attention to the critics’ advice as he works on his next book\u003c/strong\u003e. Their feedback can help him improve his writing and find the right balance between romance and thrill that fans appreciate. Stay tuned for more updates on this talented author!\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10925,
+                "vanbanphanhoi": "The writer should continue to write this genre",
+                "fileupload": ""
+              },
+              {
+                "id": 10926,
+                "vanbanphanhoi": "The writer should go back to his original genre",
+                "fileupload": ""
+              },
+              {
+                "id": 10927,
+                "vanbanphanhoi": "He should listen to critics before writing his next work",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 636,
+        "title": "Đề 1 - Listening 17",
+        "des": "\u003cstrong\u003eListen to an expert talking about professionalism and answer the questions below.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/22779876eec3d753dbac444695590127.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3511,
+            "vanbancauhoi": "What does the expert say what being professional is all about?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10928,
+                "vanbanphanhoi": "To maintain positive attitude",
+                "fileupload": ""
+              },
+              {
+                "id": 10929,
+                "vanbanphanhoi": "To create good working environment",
+                "fileupload": ""
+              },
+              {
+                "id": 11674,
+                "vanbanphanhoi": "To make good impressions",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3512,
+            "vanbancauhoi": "\u003cp\u003eWhat does the expert say about the definition of professionalism?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eGood morning, everyone! Today, I want to talk about professionalism and how it has changed over the years. To be seen as a professional, it’s essential to be friendly, open-minded, and willing to help others\u003cstrong\u003e. An optimistic attitude not only makes a good impression but also creates a better work environment.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eAdditionally, with the rapid changes in technology and globalization, our definition of professionalism is no longer the same as it was 40 years ago. In the past, being professional often meant simply dressing well and following strict rules. Now, it includes being adaptable, understanding different cultures, and using technology effectively.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eAs we continue to evolve in our careers, we must embrace these changes and redefine what it means to be a professional.\u003c/strong\u003e By doing so, we can better meet the needs of our diverse workplaces and succeed in today’s fast-paced world. Thank you!\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10931,
+                "vanbanphanhoi": "It is the same of 40 years ago",
+                "fileupload": ""
+              },
+              {
+                "id": 10932,
+                "vanbanphanhoi": "Our definition of it is changing",
+                "fileupload": ""
+              },
+              {
+                "id": 10933,
+                "vanbanphanhoi": "It will not change anymore",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 542,
+      "title": "Đề 1 - Reading part 1",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eRead the email from Anna to her friend, Tom. Choose one word from the list for each gap. The first one is done for you.\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003cp\u003eDear Tom,\u003c/p\u003e\r\n\u003cp\u003eI hope you are \u003cem\u003e\u003cstrong\u003ewell (example)\u003c/strong\u003e\u003c/em\u003e!\u003c/p\u003e",
+      "des_cuoi": "Talk to you soon!\u003cbr\u003eAnna.",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3063,
+          "vanbancauhoi": "I\u0026rsquo;ve just come back from my trip and I really _ you.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9393,
+              "vanbanphanhoi": "miss",
+              "fileupload": ""
+            },
+            {
+              "id": 9394,
+              "vanbanphanhoi": "love",
+              "fileupload": ""
+            },
+            {
+              "id": 9395,
+              "vanbanphanhoi": "see",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3065,
+          "vanbancauhoi": "I _ you by phone yesterday but couldn\u0026rsquo;t reach you.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9397,
+              "vanbanphanhoi": "send",
+              "fileupload": ""
+            },
+            {
+              "id": 9399,
+              "vanbanphanhoi": "emailing",
+              "fileupload": ""
+            },
+            {
+              "id": 9402,
+              "vanbanphanhoi": "called",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3071,
+          "vanbancauhoi": "Are you_ for the event tomorrow?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9418,
+              "vanbanphanhoi": "tired",
+              "fileupload": ""
+            },
+            {
+              "id": 9419,
+              "vanbanphanhoi": "ready",
+              "fileupload": ""
+            },
+            {
+              "id": 9420,
+              "vanbanphanhoi": "going",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3075,
+          "vanbancauhoi": "I can\u0026rsquo;t wait to _ you soon and catch up.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9429,
+              "vanbanphanhoi": "meet",
+              "fileupload": ""
+            },
+            {
+              "id": 9430,
+              "vanbanphanhoi": "have",
+              "fileupload": ""
+            },
+            {
+              "id": 9431,
+              "vanbanphanhoi": "eat",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3077,
+          "vanbancauhoi": "Let\u0026rsquo;s go out for _ tomorrow night when you\u0026rsquo;re free.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9436,
+              "vanbanphanhoi": "dinner",
+              "fileupload": ""
+            },
+            {
+              "id": 9437,
+              "vanbanphanhoi": "moring",
+              "fileupload": ""
+            },
+            {
+              "id": 9438,
+              "vanbanphanhoi": "park",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "title": "Đề 1 -  Reading part 2",
+      "des": "\u003cstrong\u003eThe sentences below are some instructions. Put the sentences in the right order.  The first sentence of the story is an example.\u003cbr\u003e\u003cbr\u003eAssignment submitting\u003cbr\u003e\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3078,
+          "vanbancauhoi": "0. To successfully finish the assignment, follow these instructions",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9439,
+              "vanbanphanhoi": "First, it is a good idea for you to read your work and correct spelling mistakes.",
+              "fileupload": ""
+            },
+            {
+              "id": 9440,
+              "vanbanphanhoi": "When you have corrected all mistakes, print out your assignment.",
+              "fileupload": ""
+            },
+            {
+              "id": 9441,
+              "vanbanphanhoi": "Also, remember to print a separate cover sheet and attach it to your assignment.",
+              "fileupload": ""
+            },
+            {
+              "id": 9442,
+              "vanbanphanhoi": "You hand your assignment and attached document to the front desk in the library.",
+              "fileupload": ""
+            },
+            {
+              "id": 9443,
+              "vanbanphanhoi": "A staff will check and confirm that you complete.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "title": "Đề 1 - Reading part 3",
+      "des": "\u003cstrong\u003eThe sentences below are from some instructions. Put the sentences in the right order. The first sentence is done for you.\u003cbr\u003e\u003cbr\u003eA school science textbook\u003cbr\u003e\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3082,
+          "vanbancauhoi": "0. To solve a problem scientifically, you should follow a series of steps.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9462,
+              "vanbanphanhoi": "The first step is to find out how much you know about the problem.",
+              "fileupload": ""
+            },
+            {
+              "id": 9466,
+              "vanbanphanhoi": "The next one is to form a hypothesis, or an idea, based on the information you have.",
+              "fileupload": ""
+            },
+            {
+              "id": 9467,
+              "vanbanphanhoi": "Then, you need to perform experiments to see if those ideas are true or not.",
+              "fileupload": ""
+            },
+            {
+              "id": 9468,
+              "vanbanphanhoi": "You can also compare your results with similar experiments in the past.",
+              "fileupload": ""
+            },
+            {
+              "id": 9469,
+              "vanbanphanhoi": "In this way, you add to the knowledge about the subject for future experiments.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "title": "Đề 1 - Reading part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eFour people respond to the request from the neighborhood leader for volunteering to clean the local park. Read their answers and answer the questions below.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI just have too much work that I don\u0027t have much free time for myself. This tight schedule makes it impossible for me to join in the park cleaning. I work all week, and the only time I go out is on weekends with my family. We usually visit the park to play games and take a walk. I am relieved to hear that the park will be cleaned by the children volunteering from the school nearby. I believe these experiences will benefit them in the future, helping them sharpen skills needed for their future careers.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI adore the gorgeous scenery and fresh air at the park. Therefore, I always bring my family to the park to relax. My husband and I are always willing to do some volunteer work, so I will ask my husband to help out since he usually doesn\u0027t do much anyway. I will make specific plans for everyone in the neighborhood to follow so the park could be cleaned in no time.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe park plays an important role in teaching children about responsibility through volunteering. Cleaning the local park not only helps keep the environment clean but also teaches kids the value of teamwork and dedication. We admire their efforts to protect nature, whether it\u0027s picking up trash or planting flowers. Volunteering is a great way for children to improve their skills and mindset while making a positive impact on our community.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThis is a reminder that not just the park, but other areas in our town also need regular cleaning. Keeping our neighborhoods clean is important for a healthy environment. The community should work together to organize cleaning events more often, as ignoring trash can harm wildlife and make the area unpleasant. By joining these efforts, residents can take pride in their surroundings and make sure everyone has a nice place to enjoy.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3085,
+          "vanbancauhoi": "Who thinks the park is a beautiful place to relax?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9484,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9485,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9486,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3087,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho can’t help because of busy life?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9493,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9495,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9496,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9497,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3089,
+          "vanbancauhoi": "Who will ask other people to help?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9505,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9506,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9507,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9508,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3090,
+          "vanbancauhoi": "Who thinks cleaning should happen regularly?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9509,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9510,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9511,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9512,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3091,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks volunteering is important for children?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9513,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9514,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9515,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9516,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3092,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks other local areas need cleaning?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9517,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9518,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9519,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9520,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3093,
+          "vanbancauhoi": "Who thinks volunteering can help with future employment?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9521,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9522,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9523,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9524,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "title": "Đề 1 - Reading part 5",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1–7) from the drop-down box. There is one more heading than you need.\u003c/strong\u003e\u003c/p\u003e\r\n\u003ch1\u003e\u003cstrong\u003eChildren \u0026 Exercise\u003c/strong\u003e\u003cbr\u003e\u003cbr\u003e\u003c/h1\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3094,
+          "vanbancauhoi": "1._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn recent years, children have become increasingly inactive. While technology often receives blame for this trend, it is not the only factor at play. Urbanization has led to a lack of safe play spaces for kids. Many neighborhoods no longer have parks or playgrounds, forcing children to stay indoors. This combination of screen time and limited physical activity opportunities is contributing to a decline in children\u0027s overall fitness and health.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9525,
+              "vanbanphanhoi": "The Situation Has the Potential to Become Worse",
+              "fileupload": ""
+            },
+            {
+              "id": 9526,
+              "vanbanphanhoi": "Ways in Which Environment Can Influence Behaviour",
+              "fileupload": ""
+            },
+            {
+              "id": 9527,
+              "vanbanphanhoi": "The Success of a Simple Idea",
+              "fileupload": ""
+            },
+            {
+              "id": 9528,
+              "vanbanphanhoi": "Achieving the Right Balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9529,
+              "vanbanphanhoi": "Factors Contributing to Inactivity",
+              "fileupload": ""
+            },
+            {
+              "id": 9530,
+              "vanbanphanhoi": "The Wider Effects of Regular Exercise",
+              "fileupload": ""
+            },
+            {
+              "id": 9531,
+              "vanbanphanhoi": "A Design for Exercise and for Study",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3095,
+          "vanbancauhoi": "2._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eCurrently, the issue of children not getting enough exercise is worsening, largely due to the time they spend staring at screens. The allure of laptops and smartphones is hard to resist, making it difficult for both parents and children to limit their use. As awareness grows about the importance of physical activity, it is essential for everyone to recognize the seriousness of this problem and work together to find effective solutions that encourage a more active lifestyle.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9534,
+              "vanbanphanhoi": "The Situation Has the Potential to Become Worse",
+              "fileupload": ""
+            },
+            {
+              "id": 9535,
+              "vanbanphanhoi": "Ways in Which Environment Can Influence Behaviour",
+              "fileupload": ""
+            },
+            {
+              "id": 9536,
+              "vanbanphanhoi": "The Success of a Simple Idea",
+              "fileupload": ""
+            },
+            {
+              "id": 9537,
+              "vanbanphanhoi": "Achieving the Right Balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9538,
+              "vanbanphanhoi": "Factors Contributing to Inactivity",
+              "fileupload": ""
+            },
+            {
+              "id": 9539,
+              "vanbanphanhoi": "The Wider Effects of Regular Exercise",
+              "fileupload": ""
+            },
+            {
+              "id": 9540,
+              "vanbanphanhoi": "A Design for Exercise and for Study",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3096,
+          "vanbancauhoi": "3._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eOne inspiring example comes from a teacher who implemented a program called the Daily Mile. Each day, students are encouraged to run at least one mile, and this simple idea quickly gained popularity. It has won awards for its effectiveness and has spread to over 3,500 schools in more than 30 countries, thanks to media coverage and positive testimonials. This initiative highlights how even small changes can have a significant impact on promoting physical activity among children.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9541,
+              "vanbanphanhoi": "The Situation Has the Potential to Become Worse",
+              "fileupload": ""
+            },
+            {
+              "id": 9542,
+              "vanbanphanhoi": "Ways in Which Environment Can Influence Behaviour",
+              "fileupload": ""
+            },
+            {
+              "id": 9543,
+              "vanbanphanhoi": "The Success of a Simple Idea",
+              "fileupload": ""
+            },
+            {
+              "id": 9544,
+              "vanbanphanhoi": "Achieving the Right Balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9545,
+              "vanbanphanhoi": "Factors Contributing to Inactivity",
+              "fileupload": ""
+            },
+            {
+              "id": 9546,
+              "vanbanphanhoi": "The Wider Effects of Regular Exercise",
+              "fileupload": ""
+            },
+            {
+              "id": 9547,
+              "vanbanphanhoi": "A Design for Exercise and for Study",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3097,
+          "vanbancauhoi": "4._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe Daily Mile program not only enhances fitness levels among students but also has surprising benefits for their academic performance. Teachers have reported that students participating in this program are more focused and alert during lessons. Psychologists support this observation, suggesting that a healthy body leads to a healthy mind. The saying “a strong body, a strong mind” appears to hold true, as regular physical activity positively influences students\u0027 ability to learn and retain information. \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9548,
+              "vanbanphanhoi": "The Situation Has the Potential to Become Worse",
+              "fileupload": ""
+            },
+            {
+              "id": 9549,
+              "vanbanphanhoi": "Ways in Which Environment Can Influence Behaviour",
+              "fileupload": ""
+            },
+            {
+              "id": 9550,
+              "vanbanphanhoi": "The Success of a Simple Idea",
+              "fileupload": ""
+            },
+            {
+              "id": 9551,
+              "vanbanphanhoi": "Achieving the Right Balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9552,
+              "vanbanphanhoi": "Factors Contributing to Inactivity",
+              "fileupload": ""
+            },
+            {
+              "id": 9553,
+              "vanbanphanhoi": "The Wider Effects of Regular Exercise",
+              "fileupload": ""
+            },
+            {
+              "id": 9554,
+              "vanbanphanhoi": "A Design for Exercise and for Study",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3098,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e5._\u003cbr\u003eThe design of our environments can significantly impact how we behave. For instance, workplaces are often designed to enhance productivity, and homes are structured to encourage communication. Similarly, schools can be designed to promote physical activity. By creating spaces that encourage movement, such as open areas for play and exercise, educators can foster a more active lifestyle among students, helping to counteract the trend of inactivity.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9555,
+              "vanbanphanhoi": "The Situation Has the Potential to Become Worse",
+              "fileupload": ""
+            },
+            {
+              "id": 9556,
+              "vanbanphanhoi": "Ways in Which Environment Can Influence Behaviour",
+              "fileupload": ""
+            },
+            {
+              "id": 9557,
+              "vanbanphanhoi": "The Success of a Simple Idea",
+              "fileupload": ""
+            },
+            {
+              "id": 9558,
+              "vanbanphanhoi": "Achieving the Right Balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9559,
+              "vanbanphanhoi": "Factors Contributing to Inactivity",
+              "fileupload": ""
+            },
+            {
+              "id": 9560,
+              "vanbanphanhoi": "The Wider Effects of Regular Exercise",
+              "fileupload": ""
+            },
+            {
+              "id": 9561,
+              "vanbanphanhoi": "A Design for Exercise and for Study",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3099,
+          "vanbancauhoi": "6._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eOne innovative architect from Japan has designed a kindergarten with a unique approach. The playground is structured like a running track, allowing children to run and play freely. This creative design has proven successful and has even received awards for its impact on children\u0027s activity levels. Such thoughtful architectural designs can inspire other schools to rethink how they create environments that promote both learning and physical activity.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9562,
+              "vanbanphanhoi": "The Situation Has the Potential to Become Worse",
+              "fileupload": ""
+            },
+            {
+              "id": 9563,
+              "vanbanphanhoi": "Ways in Which Environment Can Influence Behaviour",
+              "fileupload": ""
+            },
+            {
+              "id": 9564,
+              "vanbanphanhoi": "The Success of a Simple Idea",
+              "fileupload": ""
+            },
+            {
+              "id": 9565,
+              "vanbanphanhoi": "Achieving the Right Balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9566,
+              "vanbanphanhoi": "Factors Contributing to Inactivity",
+              "fileupload": ""
+            },
+            {
+              "id": 9567,
+              "vanbanphanhoi": "The Wider Effects of Regular Exercise",
+              "fileupload": ""
+            },
+            {
+              "id": 9568,
+              "vanbanphanhoi": "A Design for Exercise and for Study",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3100,
+          "vanbancauhoi": "7._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe Daily Mile initiative and the Japanese architect\u0027s playground represent two ends of the economic spectrum. The Daily Mile is a cost-effective program that requires minimal investment, while the architect\u0027s design involves significant funding. Local authorities must consider various factors when striving for a balance between promoting physical activity and managing budgets. By exploring both affordable and innovative solutions, communities can create environments that support children\u0027s health and well-being.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9569,
+              "vanbanphanhoi": "The Situation Has the Potential to Become Worse",
+              "fileupload": ""
+            },
+            {
+              "id": 9570,
+              "vanbanphanhoi": "Ways in Which Environment Can Influence Behaviour",
+              "fileupload": ""
+            },
+            {
+              "id": 9571,
+              "vanbanphanhoi": "The Success of a Simple Idea",
+              "fileupload": ""
+            },
+            {
+              "id": 9573,
+              "vanbanphanhoi": "Achieving the Right Balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9574,
+              "vanbanphanhoi": "The Wider Effects of Regular Exercise",
+              "fileupload": ""
+            },
+            {
+              "id": 9575,
+              "vanbanphanhoi": "A Design for Exercise and for Study",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 593,
+      "title": "Đề 1 - Speaking part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c11ba1701c81a252304067a3c875ade2.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3260,
+          "vanbancauhoi": "Describe this picture\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/c019921fdd5ca5db353757f3a3dc352e.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn this picture, I can see a man in the library. \u003c/p\u003e\r\n\u003cp\u003eIn the background, I can see hundreds of books on the bookshelves with various colors\u003c/p\u003e\r\n\u003cp\u003eIn the front, there is a man in a yellow T-shirt and blue jeans. \u003c/p\u003e\r\n\u003cp\u003eIt is clear that he is reading a books\u003c/p\u003e\r\n\u003cp\u003eI guess that he is studying for the exam. \u003c/p\u003e\r\n\u003cp\u003eThe picture is so beautiful that I think it was taken by a professional. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/eea97b1ccd9a49cf9f97580549e0cb17.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12910,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b6a2101e0b3cb541539371b9aca15b34.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3262,
+          "vanbancauhoi": "What kind of things do you enjoy reading?",
+          "vanbangiaithich": "\u003cp\u003eLet me tell you about what kind of things I enjoy reading. First, I love reading news on the phone because it is a wonderful way to broaden my social knowledge and gain more experience. Second, I enjoy reading books because it allows me to make friends who have the same hobby. Besides, thanks to reading, I am able to relax and reduce stress after a long day at work. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4f06b6cfed99c6ca18e8fa4ba98f3121.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10047,
+              "vanbanphanhoi": "",
+              "fileupload": ""
+            },
+            {
+              "id": 10048,
+              "vanbanphanhoi": "",
+              "fileupload": ""
+            },
+            {
+              "id": 12911,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6e248c6851a78ebe100fc772f8918939.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3265,
+          "vanbancauhoi": "Why do people enjoy reading books?",
+          "vanbangiaithich": "People enjoy reading books for various reasons. First, reading books is a wonderful way to broaden the social knowledge and improve the imagination skills. Second, it enables people to enhance critical thinking skills and gain more experience. For me, I love reading books, especially history books because I can learn about the past.\u0026nbsp;",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6683b2ef0f7cecab5962c729408f88cf.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10050,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/55bb03342838171e6c5189b6e01a175f.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "title": "Đề 1 - Speaking part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/47e6aa21ac25e3fc5f9ca77362414af0.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3256,
+          "vanbancauhoi": "What did you do yesterday?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWell,I’m eager to tell you that  I played badminton with my friend yesterday , who is my classmate, at our school. After that we hung out at a coffee shop and we had a wonderful time together. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eYesterday, I woke up early and had breakfast. I went to school in the morning, where I studied math and English. After school, I met my friends, and we played football in the park. In the evening, I helped my mom cook dinner. We ate together, then I watched TV for an hour before going to bed.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9d5e440b1db811c9cdf40587e5951f5a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10038,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2aa8e1c723e432b41cf4cec8eac17b72.mp3"
+            },
+            {
+              "id": 10041,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8ef5d007d9fcf25a382231db14c502ed.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3257,
+          "vanbancauhoi": "Please tell me about your friends.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWell,I’m eager to introduce to you my best friend. Her name is Tu Anh, who I’ve known for 5 years. I feel so lucky that I met her, she has a good influence on me, which is her energy. We share the same  interests and hang out a lot. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eI have a few close friends. We like to spend time together after school or on weekends. My best friend is kind and funny. We often play sports or watch movies together. I can always talk to my friends when I have a problem, and they help me feel better.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/92325c4e450b1b05b41d25f950c1d517.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10042,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e32c3b3359c4212e7d270498c0a83c93.mp3"
+            },
+            {
+              "id": 10043,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d03d2cde0900f40397432070e7741475.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3258,
+          "vanbancauhoi": "Please tell me about your favorite film.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eMy favorite movie was released last month, Tom and Jerry special movie, so I went to the cinema to watch it with my friends. We didn\u0027t have popcorn or drinks because we were running out of budget so it made my experience less enjoyable. That\u0027s all I want to share and thank you for listening\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eI will tell you about my favorite film. I often watch the film named Tom and Jerry. I usually watch it on Sunday evening. The movie is so interesting. I feel so excited because it helps me relax and reduce stress. That’s my answer. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e61a541d0964fad7aa4d3279e0f1f159.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11636,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5636b03b2981add7e212a8e0dc6741bf.mp3"
+            },
+            {
+              "id": 11640,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/045645542f56dcf7aa5e94fe697e0f28.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 594,
+      "title": "Đề 1 - Speaking part 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/06e4e52df02ea61bba1f9bd518b09285.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3266,
+          "vanbancauhoi": "Describe 2 pictures\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/ab7df59390cb5adb97d95a895656c867.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures show me about fruits. \u003c/p\u003e\r\n\u003cp\u003eIn the first picture, I can see a woman in the flea market. She is wearing a grey T-shirt, and she is going to buy bananas. \u003c/p\u003e\r\n\u003cp\u003eIn the second picture, there are 2 people, 1 one and 1 woman in the supermarket. They are buying oranges and apples. \u003c/p\u003e\r\n\u003cp\u003eI guess all of them are looking for something to eat. \u003c/p\u003e\r\n\u003cp\u003eRegarding the difference, while the 1st picture is about an outside market, the second picture is about supermarkets. \u003c/p\u003e\r\n\u003cp\u003eI prefer the first picture because I think buying in the open air markets is cheaper. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/348bedf06d641ab7785b88adc62415b0.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12909,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f8b989d24297eede3f5605dd4feb4fbb.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3267,
+          "vanbancauhoi": "What are some benefits of shopping in these 2 places?",
+          "vanbangiaithich": "Each way of shopping has its own benefits. Regarding the first picture, I think buying in the open air market is cheaper , which helps people save a lot of money. Turning to the second picture, I guess the supermarket is cleaner and more convenient to find things. For me, I prefer buying in the outside market because I often choose a cheaper choice.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8bd8409d366b4640a19d51c0ee759f4a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10052,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d658e655395a4cf678e726283d221a8b.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3268,
+          "vanbancauhoi": "Where do you think people will shop in the future?",
+          "vanbangiaithich": "\u003cp\u003eThis is an interesting question, so let me answer it. I think people will shop online in the future for several reasons. First, it is faster and more convenient. Second, it can help people save money. Finally, online shopping saves time because products are delivered right to your home.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/31ba35b9dccfdf2e7efb8179a69a561f.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10053,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f08113d7531d6abc168b12b8eb8b216d.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "title": "Đề 1 - Speaking part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/76ee8bda64a7594edbd4d5f4e6c4fb96.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3270,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTell me about a time when you tried hard to achieve something\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eHow do you feel when you succeed?\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eHow can people be encouraged to achieve hard things?\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "Now, I am going to answer the 3 questions, which are:\u0026nbsp;\u003cbr\u003eTell me about a time when you tried hard to achieve something\u003cbr\u003eHow do you feel when you succeed?\u003cbr\u003eHow can people be encouraged to achieve hard things?\u003cbr\u003e\u003cbr\u003eRegarding the first question, today I am going to tell you about a time I tried hard to achieve something, that was when I saved enough money to (travel to / pay for the memorable trip) to Danang.\u003cbr\u003eDa nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive with me at that time.\u003cbr\u003eIt was when I was a student in college. At that time, I didn\u0027t have a lot of money, I had a part-time job and the salary was very low. In order to pay for my dream, I had to give up many hobbies, such as playing games, hanging out with friends on weekends. I tried very hard and finally I could spend enough money to pay for this trip. \u003cbr\u003e\u003cbr\u003eTurning to the second question, I feel extremely happy when I finally succeed. \u003cbr\u003e\u003cbr\u003eAs for the final question, there are many ways to encourage people to achieve their goals. For example, people can work with their friends. \u003cbr\u003eThat’s all I want to tell you. Thank you for your listening.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/036ac1ef5ca31d3cd11b08262231c7f9.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10054,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b0c37d6272473efb117699e3fd58bce9.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 533,
+      "title": "Đề 1 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a debate club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eExample \u003c/strong\u003eHow are you? I\u0027m fine, thanks.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3027,
+          "vanbancauhoi": "\u003cp\u003eWhat is your favorite time of the year?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11042,
+              "vanbanphanhoi": "I like autumn.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3029,
+          "vanbancauhoi": "What is your favorite sport?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11043,
+              "vanbanphanhoi": "I love basketball",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3031,
+          "vanbancauhoi": "Where do you wanna go on holiday?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11044,
+              "vanbanphanhoi": "I like the beach",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3033,
+          "vanbancauhoi": "What is the weather today?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11045,
+              "vanbanphanhoi": "It is sunny today",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3056,
+          "vanbancauhoi": "What do you like to do in the evening?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11046,
+              "vanbanphanhoi": "I enjoy reading books",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "title": "Đề 1 -  Writing part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a new member of the debate club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3044,
+          "vanbancauhoi": "What do you usually talk about with your friends?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11048,
+              "vanbanphanhoi": "I usually talk with my friends about various topics such as current events, movies, and sports. Moreover, we also enjoy discussing our hobbies and personal experiences, in which we can learn a lot from one another.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "title": "Đề 1 - Writing part 4",
+      "des": "\u003cstrong\u003eYou are a member of the debate club. You received this email from the club’s manager.\u003c/strong\u003e\u003cbr\u003e\u003cbr\u003e\u003cem\u003eDear Member,\u003c/em\u003e\u003cbr\u003e\u003cem\u003eI want more people to join our club. But many young people think that debating is not their thing. Do you have any ideas? What are the benefits of debating topical issues and public speaking? Can you give 2 most important benefits and tell me why they are important? I will publish your ideas on our website.\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\u003cem\u003eBests,\u003c/em\u003e\u003cbr\u003e\u003cem\u003eClub Manager.\u003cbr\u003e\u003cbr\u003e\u003c/em\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3052,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to your friend. Write about your feelings and what you think the club should do about the situation. Write about 50 words. Recommended time: 10 minutes.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11053,
+              "vanbanphanhoi": "Dear Jane,\r\nI hope you’re doing well! It said that our club wants to encourage young people to take up debating as their hobby. I’m really excited and wanted to share some ideas. \r\nFirst, I think many young people don’t realize the benefits of debating. It helps improve critical thinking skills, which are important for making smart decisions. Additionally, public speaking boosts confidence, making it easier to express opinions in any situation.\r\nHow about you? What are your opinions?\r\nWrite soon,\r\nLeo.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3053,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to the president of the club. Write about your feelings and what you think the club should do about the situation. Write 120–150 words. Recommended time: 20 minutes.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11052,
+              "vanbanphanhoi": "Dear Club Manager,\r\nI hope that this email finds you well.\r\nI am Leo. I have been a member of this club for a year.\r\nI am writing this in response to your latest email.\r\nAccording to the news, our club wants to attract more people to join. All members are welcome to give their opinions on the benefits of debating topical issues.\r\nFirstly, debating helps improve critical thinking skills. This is essential for young people as it teaches them how to analyze different viewpoints and make informed decisions. Secondly, public speaking boosts confidence. This skill is valuable not only in debates but also in many aspects of life, including job interviews and presentations. Therefore, to encourage new members, we could organize fun workshops or events that highlight these benefits. I believe this would show them how engaging and rewarding debating can be. By implementing these changes, we can ensure better attendance and engagement of our club members, enhancing the overall experience for everyone involved.\r\nThank you for considering my suggestions!\r\nBest regards,\r\nLeo",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "title": "Đề 1 - Writing part 3",
+      "des": "\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e\r\n\u003cp\u003e\u003cstrong\u003eYou are communicating with other members of the debate club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3049,
+          "vanbancauhoi": "Sajed: Nowadays there are many ways to follow news. What do you do to know about world issues?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11049,
+              "vanbanphanhoi": "Nowadays, there are many ways to follow news. I often follow world news issues through social media platforms (các trang mạng xã hội) such as TikTok and Facebook. Sometimes when I have free time, I read newspapers to update new news every day.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3050,
+          "vanbancauhoi": "Jo: I am going to have a debate in front of 50 people. I am wondering about how to make a good impression, do you have any advice for me?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11050,
+              "vanbanphanhoi": "In a debate in front of 50 people, making a good impression is very important. First, You need to prepare your presentation (bài thuyết trình) well to give your best presentation. Besides, you also need to give examples of the problem that you are talking about so that people can understand better.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3051,
+          "vanbancauhoi": "Chris: Before making a decision, people should think about two sides of the argument. Do you agree? Why or why not?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11051,
+              "vanbanphanhoi": "Yes, I agree. It’s important to think about both sides before making a decision (đưa ra quyết định). It helps me understand the situation better and make a more balanced choice considering all possible outcomes (các kết quả khả thi).",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

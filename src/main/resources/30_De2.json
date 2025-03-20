@@ -1,0 +1,1902 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3516,
+        "vanbancauhoi": "A woman is talking about her house. What is she going to change in their house?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3807b643f4e840e63fc6c3dbbc1e426e.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10945,
+            "vanbanphanhoi": "The window",
+            "fileupload": ""
+          },
+          {
+            "id": 10946,
+            "vanbanphanhoi": "The car",
+            "fileupload": ""
+          },
+          {
+            "id": 10947,
+            "vanbanphanhoi": "The computer",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3517,
+        "vanbancauhoi": "A receptionist is checking the client list of a clinic. How many clients are Americans?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3550a3e1e262249f1df5f331304404d6.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10948,
+            "vanbanphanhoi": "One",
+            "fileupload": ""
+          },
+          {
+            "id": 10949,
+            "vanbanphanhoi": "Two",
+            "fileupload": ""
+          },
+          {
+            "id": 10950,
+            "vanbanphanhoi": "Three",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3518,
+        "vanbancauhoi": "Listen to Anna talking about her routine. Where does Anna go for a walk every morning?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a1b4f078ef87b3b2c0d7bb64ce7c2ab7.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10951,
+            "vanbanphanhoi": "park",
+            "fileupload": ""
+          },
+          {
+            "id": 10952,
+            "vanbanphanhoi": "neighborhood",
+            "fileupload": ""
+          },
+          {
+            "id": 10953,
+            "vanbanphanhoi": "college",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3519,
+        "vanbancauhoi": "Listen to a girl calling the cafe. What did she forget, and where did she leave it?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fd24edf61dc577b5dc674d7a5358c3ec.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10954,
+            "vanbanphanhoi": "on the counter",
+            "fileupload": ""
+          },
+          {
+            "id": 10956,
+            "vanbanphanhoi": "in the corner",
+            "fileupload": ""
+          },
+          {
+            "id": 10957,
+            "vanbanphanhoi": "near the door",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3520,
+        "vanbancauhoi": "Helen is calling a friend about the place her whole family is standing while seeing her off to college. Where are they standing?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c421ac289abef6d29cc8b4c892a23ec8.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10958,
+            "vanbanphanhoi": "library complex",
+            "fileupload": ""
+          },
+          {
+            "id": 10960,
+            "vanbanphanhoi": "university area",
+            "fileupload": ""
+          },
+          {
+            "id": 10961,
+            "vanbanphanhoi": "Residential area",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3521,
+        "vanbancauhoi": "A tour guide is talking about the vacation list of activities. What can people do in the afternoon?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ef67787df1d26790c5a371974a50fe94.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10962,
+            "vanbanphanhoi": "Join a dance class",
+            "fileupload": ""
+          },
+          {
+            "id": 10964,
+            "vanbanphanhoi": "Play golf",
+            "fileupload": ""
+          },
+          {
+            "id": 10965,
+            "vanbanphanhoi": "Go shopping",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3523,
+        "vanbancauhoi": "Doctor\u0026rsquo;s office is calling about a change in the appointment. When is the new appointment?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/474ed76bcf86b25b9514388eb566347c.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10967,
+            "vanbanphanhoi": "On Thursday 13th",
+            "fileupload": ""
+          },
+          {
+            "id": 10968,
+            "vanbanphanhoi": "On Thursday 30th",
+            "fileupload": ""
+          },
+          {
+            "id": 10969,
+            "vanbanphanhoi": "On Friday 14th",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3524,
+        "vanbancauhoi": "Alice is calling her friend. What did she lose?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7c13d8072a6fd8a474785956563d341d.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10970,
+            "vanbanphanhoi": "A book",
+            "fileupload": ""
+          },
+          {
+            "id": 10971,
+            "vanbanphanhoi": "A laptop",
+            "fileupload": ""
+          },
+          {
+            "id": 10972,
+            "vanbanphanhoi": "A phone",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3525,
+        "vanbancauhoi": "The woman is calling a friend about meeting for dinner. How long does it take to get to the station?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/16e505ba8e99ab5476720fd972f5912a.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10973,
+            "vanbanphanhoi": "30 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 10974,
+            "vanbanphanhoi": "40 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 10975,
+            "vanbanphanhoi": "50 minutes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3526,
+        "vanbancauhoi": "Listen to a man talking about their train journey. What time did the train depart?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e3ff2983f0c8a67e07e6630bdf057755.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10976,
+            "vanbanphanhoi": "9:00",
+            "fileupload": ""
+          },
+          {
+            "id": 10977,
+            "vanbanphanhoi": "9:30",
+            "fileupload": ""
+          },
+          {
+            "id": 10978,
+            "vanbanphanhoi": "10:00",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3527,
+        "vanbancauhoi": "Listen to a woman asking about a flight. How much does the flight in the morning cost?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2c98c1a59b0da48c21d9e4d9afe4d3ad.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10979,
+            "vanbanphanhoi": "300 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 10980,
+            "vanbanphanhoi": "350 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 10981,
+            "vanbanphanhoi": "400 pounds",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3528,
+        "vanbancauhoi": "Listen to a friend talking about selling her music player. How much did she sell it for?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/255fa2bd6ff496c3597d95a616695b4b.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10982,
+            "vanbanphanhoi": "50 dollars",
+            "fileupload": ""
+          },
+          {
+            "id": 10983,
+            "vanbanphanhoi": "60 dollars",
+            "fileupload": ""
+          },
+          {
+            "id": 10984,
+            "vanbanphanhoi": "40 dollars",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3529,
+        "vanbancauhoi": "Listen to a woman explaining why he was late. What is the main reason he gets late?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/be3fc824f1425f9a33f5a4a25688fef3.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10985,
+            "vanbanphanhoi": "Overslept",
+            "fileupload": ""
+          },
+          {
+            "id": 10986,
+            "vanbanphanhoi": "Forgot something",
+            "fileupload": ""
+          },
+          {
+            "id": 10987,
+            "vanbanphanhoi": "Missed the train",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 641,
+        "title": "Đề 2 - Listening 14",
+        "des": "\u003cstrong\u003eListen to four people talking about doing exercises and answer the questions below.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3530,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "Person A: Exercise has become essential in my life, especially with my demanding and stressful job. The workload can be overwhelming at times, leaving me feeling exhausted and overwhelmed. That\u0027s why I turn to exercise as a way to unwind and rejuvenate. Whether it\u0027s going for a run, practicing yoga, or even just taking a brisk walk, exercise helps me release stress and clear my mind. I\u0027ve noticed that after exercising, I feel more focused, energized, and ready to tackle my work with renewed vigor. It\u0027s incredible how something as simple as exercise can greatly \u003cstrong\u003eimprove my work performance\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003eand overall well-being.",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8cd28b7240a7970961689219dc2ede70.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10990,
+                "vanbanphanhoi": "Lose weight",
+                "fileupload": ""
+              },
+              {
+                "id": 10991,
+                "vanbanphanhoi": "Improve work performance",
+                "fileupload": ""
+              },
+              {
+                "id": 10993,
+                "vanbanphanhoi": "As a hobby",
+                "fileupload": ""
+              },
+              {
+                "id": 12887,
+                "vanbanphanhoi": "find exercise tiring",
+                "fileupload": ""
+              },
+              {
+                "id": 12888,
+                "vanbanphanhoi": "have fun exercising with others",
+                "fileupload": ""
+              },
+              {
+                "id": 12889,
+                "vanbanphanhoi": "hate exercising",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3531,
+            "vanbancauhoi": "\u003cp\u003eSpeaker B _\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003ePerson B: \u003c/p\u003e\r\n\u003cp\u003eHonestly? \u003cstrong\u003eExercise wears me out. The idea of getting all sweaty and sore doesn’t excite me at all.\u003c/strong\u003e Every time I try to work out, it feels like I’m running on empty within minutes. And people say it gives them energy—are we talking about the same thing? I feel more tired just thinking about the treadmill! I know it’s supposed to be good for me, and I try to do it for my health, but I don’t get that rush people talk about. Exercise for me is just... exhausting. Why do something that makes me want to lie down for three days afterward?\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dd261c5e71a9c588f2a7277cfe6cb0b7.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10996,
+                "vanbanphanhoi": "Lose weight",
+                "fileupload": ""
+              },
+              {
+                "id": 10997,
+                "vanbanphanhoi": "Improve work performance",
+                "fileupload": ""
+              },
+              {
+                "id": 10999,
+                "vanbanphanhoi": "As a hobby",
+                "fileupload": ""
+              },
+              {
+                "id": 12884,
+                "vanbanphanhoi": "have fun exercising with others",
+                "fileupload": ""
+              },
+              {
+                "id": 12972,
+                "vanbanphanhoi": "find exercise tiring",
+                "fileupload": ""
+              },
+              {
+                "id": 12973,
+                "vanbanphanhoi": "hate exercising",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3532,
+            "vanbancauhoi": "\u003cp\u003eSpeaker C _\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003ePerson C: \u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003e\"\u003cstrong\u003eExercising is a blast when you’re with the right people!\u003c/strong\u003e I’ve joined a few group classes, and they’re like a party every time. The music is pumping, everyone’s in sync, and it feels like we’re all in this together. Working out alone can get boring, but with friends? You laugh, you encourage each other, and suddenly, an hour has flown by. We push each other, you know? It’s kind of amazing—half the time, I forget I’m even working out. I actually look forward to it. The camaraderie makes it worth every minute.\"\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5a37d26881f21cdd911f40cc1ccd93eb.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11002,
+                "vanbanphanhoi": "Lose weight",
+                "fileupload": ""
+              },
+              {
+                "id": 11003,
+                "vanbanphanhoi": "Improve work performance",
+                "fileupload": ""
+              },
+              {
+                "id": 11005,
+                "vanbanphanhoi": "As a hobby",
+                "fileupload": ""
+              },
+              {
+                "id": 12890,
+                "vanbanphanhoi": "have fun exercising with others",
+                "fileupload": ""
+              },
+              {
+                "id": 12891,
+                "vanbanphanhoi": "find exercise tiring",
+                "fileupload": ""
+              },
+              {
+                "id": 12892,
+                "vanbanphanhoi": "hate exercising",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3533,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "Person D: Exercise? \u003cstrong\u003eUgh, I can’t stand it. I know it’s supposed to be ‘good for you’ and all that, but I find it completely miserable\u003c/strong\u003e. The sweat, the strain, the way my muscles burn afterward—it’s like a punishment. People say it’ll get better or that I’ll start to like it eventually, but I’ve tried, and I still hate it. Honestly, life’s too short to spend it doing something you can’t stand. There are other ways to be healthy that don’t involve torturing myself. I’d rather read a book than jog any day.",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a78d47f1c6e01b2a40a400d6a2922141.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11008,
+                "vanbanphanhoi": "Lose weight",
+                "fileupload": ""
+              },
+              {
+                "id": 11009,
+                "vanbanphanhoi": "Improve work performance",
+                "fileupload": ""
+              },
+              {
+                "id": 12893,
+                "vanbanphanhoi": "hate exercising",
+                "fileupload": ""
+              },
+              {
+                "id": 12894,
+                "vanbanphanhoi": "have fun exercising with others",
+                "fileupload": ""
+              },
+              {
+                "id": 12895,
+                "vanbanphanhoi": "as a hobby",
+                "fileupload": ""
+              },
+              {
+                "id": 12896,
+                "vanbanphanhoi": "find exercise tiring",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 642,
+        "title": "Đề 2 - Listening 15",
+        "des": "\u003cstrong\u003eListen to two people discussing Politics. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7a2c1063784e3d4d9b3f56055a7f272a.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3534,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYoung people are more into politics _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11012,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11013,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11014,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3535,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eSocial media change politics. _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11015,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11016,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11017,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3536,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003ePeople are now better informed on politic. _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11018,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11019,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11020,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3538,
+            "vanbancauhoi": "More women pursuit politics. _",
+            "vanbangiaithich": "\u003cp\u003eWoman: Politics have been a very common topic lately\u003cstrong\u003e. I’ve noticed that young people are becoming much more interested in politics lately.\u003c/strong\u003e It’s great to see them engaging in discussions and activism.\u003c/p\u003e\r\n\u003cp\u003eMan:\u003cstrong\u003e I completely agree!\u003c/strong\u003e It’s refreshing to see younger generations taking a stand on important issues.\u003c/p\u003e\r\n\u003cp\u003eWoman: I also think social media plays a big role in this. Platforms like Twitter and Instagram help spread political information quickly and connect people with similar interests.\u003c/p\u003e\r\n\u003cp\u003eMan:\u003cstrong\u003e Actually I believe people are becoming better informed about politics not because of social media but through traditional news sources\u003c/strong\u003e. Many are actively seeking information to understand the issues better.\u003c/p\u003e\r\n\u003cp\u003eWoman: I see your point, but I think social media has a unique impact. It allows for diverse voices to be heard that might not be represented in mainstream media.\u003c/p\u003e\r\n\u003cp\u003eMan:\u003cstrong\u003e It’s also encouraging to see more women pursuing careers in politics\u003c/strong\u003e. It brings different perspectives to the table, which is essential for a balanced approach to governance.\u003c/p\u003e\r\n\u003cp\u003eWoman: \u003cstrong\u003eAbsolutely! More representation is always a positive step forward\u003c/strong\u003e.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11022,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11023,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11024,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 643,
+        "title": "Đề 2 - Listening 16",
+        "des": "\u003cstrong\u003eListen to a writer talking about her experience in writing and choose the correct answer.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2bcbe9abd6f85bc3864e8f990e9a9b8c.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3539,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat does the writer believe helps her the most in her writing process?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11025,
+                "vanbanphanhoi": "Writing every day for 15-20 minutes",
+                "fileupload": ""
+              },
+              {
+                "id": 11026,
+                "vanbanphanhoi": "Create dedicated periods for writing",
+                "fileupload": ""
+              },
+              {
+                "id": 11027,
+                "vanbanphanhoi": "Finding a quiet space to work",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3540,
+            "vanbancauhoi": "\u003cp\u003eWhat does the writer regret doing during her experience with writer\u0027s block?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eHi everyone! I’d like to share my experience with writer\u0027s block during the process of writing my new bestseller. Many people think that to write well, you need to sit down every day for 15 to 20 minutes or find a quiet space. While those strategies work for some,\u003cstrong\u003e I’ve found that establishing specific time slots for writing that truly fit my style is what helps me the most.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eHowever, I did face significant writer’s block at one point, and looking back, I regret not reaching out for guidance from others. I thought I could handle everything on my own, but sometimes it’s vital to get an outside perspective.\u003cstrong\u003e Talking to fellow writers and mentors could have helped me overcome that block much faster.\u003c/strong\u003e Now I understand that collaboration and sharing ideas can inspire creativity. So, if you ever find yourself stuck, don’t hesitate to reach out to others!\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11028,
+                "vanbanphanhoi": "Refuse to seek advice of others",
+                "fileupload": ""
+              },
+              {
+                "id": 11029,
+                "vanbanphanhoi": "Ignoring feedback from editors",
+                "fileupload": ""
+              },
+              {
+                "id": 11030,
+                "vanbanphanhoi": "Writing without a plan",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 644,
+        "title": "Đề 2 - Listening 17",
+        "des": "\u003cstrong\u003eThe radio is talking about a musician’s career and latest albums. Listen and choose the correct answer.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fa9552742bfe14613720424d3d4f9d8a.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3541,
+            "vanbancauhoi": "What has the musician decided regarding his singing career?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11031,
+                "vanbanphanhoi": "He will retire from singing professionally",
+                "fileupload": ""
+              },
+              {
+                "id": 11032,
+                "vanbanphanhoi": "He will make a comeback after a long break",
+                "fileupload": ""
+              },
+              {
+                "id": 11033,
+                "vanbanphanhoi": "He will inform fans about new albums",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3542,
+            "vanbancauhoi": "What could the musician have achieved with his recent albums?",
+            "vanbangiaithich": "\u003cp\u003eRadio MC: Good afternoon, everyone! Today, we’re diving into the life of a beloved musician \u003cstrong\u003ewho has decided to retire from singing professionally.\u003c/strong\u003e Unlike in the past, where he would inform his fans and then make a comeback, this time he’s serious about stepping away for good.\u003c/p\u003e\r\n\u003cp\u003eHis talent has always shone through, and \u003cstrong\u003emany believe he could have achieved even greater success with his recent albums.\u003c/strong\u003e However, the long break he took between projects made it difficult for him to regain his previous momentum. Fans were excited to see him return, but the gap left some wondering if he could still capture the magic he once had.\u003c/p\u003e\r\n\u003cp\u003eAs he prepares for this new chapter in his life, we can only reflect on the incredible music he’s given us over the years. He leaves behind a rich legacy that will inspire future generations of artists. Stay tuned for more updates on this iconic musician!\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11034,
+                "vanbanphanhoi": "He could have been more successful",
+                "fileupload": ""
+              },
+              {
+                "id": 11035,
+                "vanbanphanhoi": "He could have inspired future generations in general.",
+                "fileupload": ""
+              },
+              {
+                "id": 11036,
+                "vanbanphanhoi": "He could have gotten a bigger fan base.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 568,
+      "title": "Đề 2 - Reading part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the email from Henry to his friend, Mark. Choose one word from the list for each gap. The first one is done for you.\u003c/strong\u003e\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e\r\n\u003cp\u003eDear Mark,\u003cbr\u003eI just \u003cstrong\u003e\u003cem\u003egraduated (example)\u003c/em\u003e \u003c/strong\u003efrom university.\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003eWe enjoy trying new recipes and cooking together.\u003c/p\u003e\r\n\u003cp\u003eIt\u0027s a fun way to end the day!\u003cbr\u003eSee you,\u003cbr\u003eHenry\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3148,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eNow, I _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e in a flat.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9600,
+              "vanbanphanhoi": "breathe",
+              "fileupload": ""
+            },
+            {
+              "id": 9602,
+              "vanbanphanhoi": "live",
+              "fileupload": ""
+            },
+            {
+              "id": 9603,
+              "vanbanphanhoi": "look",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3149,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e it with my friend.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9604,
+              "vanbanphanhoi": "share",
+              "fileupload": ""
+            },
+            {
+              "id": 9605,
+              "vanbanphanhoi": "hold",
+              "fileupload": ""
+            },
+            {
+              "id": 9606,
+              "vanbanphanhoi": "leave",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3150,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWe are in the same _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e at school.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9607,
+              "vanbanphanhoi": "squad",
+              "fileupload": ""
+            },
+            {
+              "id": 9608,
+              "vanbanphanhoi": "headquarter",
+              "fileupload": ""
+            },
+            {
+              "id": 9609,
+              "vanbanphanhoi": "class",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3151,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWe _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e the car to work together.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9610,
+              "vanbanphanhoi": "ride",
+              "fileupload": ""
+            },
+            {
+              "id": 9611,
+              "vanbanphanhoi": "drive",
+              "fileupload": ""
+            },
+            {
+              "id": 9612,
+              "vanbanphanhoi": "walk",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3152,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the evenings, we like to _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e dinner.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9613,
+              "vanbanphanhoi": "cook",
+              "fileupload": ""
+            },
+            {
+              "id": 9614,
+              "vanbanphanhoi": "bake",
+              "fileupload": ""
+            },
+            {
+              "id": 9615,
+              "vanbanphanhoi": "fry",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 569,
+      "title": "Đề 2 - Reading part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eThe sentences below are some instructions. Put the sentences in the right order.  The first sentence of the story is an example.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eSet up a new printer\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3153,
+          "vanbancauhoi": "0. To set up a new printer, follow these instructions",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9616,
+              "vanbanphanhoi": "Firstly, find an appropriate place to put the printer in.",
+              "fileupload": ""
+            },
+            {
+              "id": 9617,
+              "vanbanphanhoi": "When the printer is in place, turn it on by switching the buttons on the sides.",
+              "fileupload": ""
+            },
+            {
+              "id": 9618,
+              "vanbanphanhoi": "A light comes on at the front of the printer when the power is on.",
+              "fileupload": ""
+            },
+            {
+              "id": 9619,
+              "vanbanphanhoi": "If the light is green, the printer is ready to use.",
+              "fileupload": ""
+            },
+            {
+              "id": 9620,
+              "vanbanphanhoi": "Before using, remember to put some papers into the tray",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "title": "Đề 2 - Reading part 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eThe sentences below are from some instructions. Put the sentences in the right order. The first sentence is done for you.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVisitors’ day at an animal hospital\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3154,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e0. Please follow the instructions below to ensure you have a wonderful visit at our hospital.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9621,
+              "vanbanphanhoi": "When you arrive, go straight to the main office to collect your ticket",
+              "fileupload": ""
+            },
+            {
+              "id": 9622,
+              "vanbanphanhoi": "You must show this to the member of staff before going to the hospital",
+              "fileupload": ""
+            },
+            {
+              "id": 9623,
+              "vanbanphanhoi": "Inside the building, you will see a photograph exhibition",
+              "fileupload": ""
+            },
+            {
+              "id": 9624,
+              "vanbanphanhoi": "Before you look at the picture, a guide will tell you about the day’s event",
+              "fileupload": ""
+            },
+            {
+              "id": 9625,
+              "vanbanphanhoi": "These activities include feeding and playing with the animals",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "title": "Đề 2 - Reading part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eFour people respond to the interview on their attitude toward art. Read their interviews and answer the questions below.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI know the names of some famous artists, and I recognize some paintings. However, I only go to exhibitions when my friends want to. I find that seeing exhibitions is often boring, and while I appreciate the skill it takes to create art, I can’t help but feel that many galleries lack excitement. Despite this, I do have some artistic techniques myself; I enjoy painting in my free time, but I prefer to create rather than just observe.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI think that looking at art is a personal experience. I much prefer to see art on my own, where I can take my time to appreciate each piece without distractions. I think visitors to galleries should focus more on the art itself rather than chatting or using their phones. When I’m alone with a painting, I can truly connect with it and reflect on what the artist intended.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI find art fascinating. I have developed a good knowledge about various art movements and techniques over the years. Each piece tells a story, and I love discovering the history behind them. The colors, forms, and emotions captured in art pieces captivate my imagination. I could spend hours discussing and analyzing art, and I always look forward to learning more.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI have great memories associated with art, as I have been going to numerous art exhibitions in my whole life. I cherish the moments spent with friends and family, exploring galleries together. Seeing art with people close to me adds a special dimension to the experience; we share our thoughts and feelings about the pieces we encounter. These shared experiences have created lasting bonds and wonderful memories.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3155,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho has  some artistic skills? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9626,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9627,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9628,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9629,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3156,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho prefers seeing art by themselves? _ \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9630,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9631,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9632,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9633,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3157,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho has a good knowledge about art? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9634,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9635,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9636,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9637,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3158,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks visitors to the galleries should focus more on the art? _ \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9638,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9639,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9640,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9641,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3159,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho likes seeing art with others? _ \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9642,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9643,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9644,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9645,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3160,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho has been going to art exhibitions all their life? _ \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9646,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9647,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9648,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9649,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3161,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks seeing an exhibition is boring? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9653,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9654,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9655,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9656,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "title": "Đề 2 - Reading part 5",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the text. Match the headings to the paragraphs. There is one heading that you will not use.\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003ch1\u003e\u003cstrong\u003eFrozen Antarctica\u003c/strong\u003e\u003c/h1\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3162,
+          "vanbancauhoi": "1._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThis continent is governed by an international agreement known as the Antarctic Treaty System, established in 1961. This treaty ensures that the region is utilized for peaceful purposes and encourages global scientific collaboration. While no nation officially owns this land, several countries—Argentina, Australia, Chile, France, New Zealand, Norway, and the United Kingdom—assert territorial claims. The treaty forbids military activity, resource extraction, and nuclear tests, designating the area for research and conservation efforts. As a result, scientists from various countries gather to study this unique environment, sharing their discoveries for the benefit of humanity.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9657,
+              "vanbanphanhoi": "Where is the end of the earth?",
+              "fileupload": ""
+            },
+            {
+              "id": 9658,
+              "vanbanphanhoi": "Less effort needed",
+              "fileupload": ""
+            },
+            {
+              "id": 9659,
+              "vanbanphanhoi": "Race to the pole",
+              "fileupload": ""
+            },
+            {
+              "id": 9660,
+              "vanbanphanhoi": "Hidden geography",
+              "fileupload": ""
+            },
+            {
+              "id": 9661,
+              "vanbanphanhoi": "First step on the ice",
+              "fileupload": ""
+            },
+            {
+              "id": 9662,
+              "vanbanphanhoi": "Why is it so cold?",
+              "fileupload": ""
+            },
+            {
+              "id": 9663,
+              "vanbanphanhoi": "Who is in charge?",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3163,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e2. _ \u003cbr\u003eSetting foot on Antarctica is a significant event for any explorer or scientist. The journey typically begins in South America, where travelers board a ship or a plane to cross the Drake Passage. Once they arrive, the first step on the ice is both exhilarating and daunting. Visitors are immediately struck by the vast expanse of white, the crisp, cold air, and the breathtaking scenery. The sound of crunching ice underfoot serves as a reminder of the remote and untouched nature of this continent, a place where human footprints are few and far between.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9664,
+              "vanbanphanhoi": "Where is the end of the earth?",
+              "fileupload": ""
+            },
+            {
+              "id": 9666,
+              "vanbanphanhoi": "Less effort needed",
+              "fileupload": ""
+            },
+            {
+              "id": 9667,
+              "vanbanphanhoi": "Hidden geography",
+              "fileupload": ""
+            },
+            {
+              "id": 9669,
+              "vanbanphanhoi": "Race to the pole",
+              "fileupload": ""
+            },
+            {
+              "id": 9670,
+              "vanbanphanhoi": "First step on the ice",
+              "fileupload": ""
+            },
+            {
+              "id": 9671,
+              "vanbanphanhoi": "Why is it so cold?",
+              "fileupload": ""
+            },
+            {
+              "id": 9672,
+              "vanbanphanhoi": "Who is in charge?",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3164,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e3. _ \u003cbr\u003ePositioned around the South Pole, Antarctica represents the southernmost point on the planet. The continent\u0027s remoteness contributes to its mystique, drawing adventurers and researchers alike. The harsh conditions, including bitter cold and relentless winds, create a sense of otherworldliness. In many ways, it feels like the last frontier on Earth, where the landscape remains largely unspoiled and the natural world thrives in its purest form\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9675,
+              "vanbanphanhoi": "Where is the end of the earth?",
+              "fileupload": ""
+            },
+            {
+              "id": 9676,
+              "vanbanphanhoi": "Less effort needed",
+              "fileupload": ""
+            },
+            {
+              "id": 9677,
+              "vanbanphanhoi": "Race to the pole",
+              "fileupload": ""
+            },
+            {
+              "id": 9678,
+              "vanbanphanhoi": "Hidden geography",
+              "fileupload": ""
+            },
+            {
+              "id": 9679,
+              "vanbanphanhoi": "First step on the ice",
+              "fileupload": ""
+            },
+            {
+              "id": 9680,
+              "vanbanphanhoi": "Why is it so cold?",
+              "fileupload": ""
+            },
+            {
+              "id": 9681,
+              "vanbanphanhoi": "Who is in charge?",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3165,
+          "vanbancauhoi": "4. _\u003cbr\u003e\r\n\u003cp\u003eBeneath the massive ice sheets lies a concealed landscape that reveals much about the planet’s geological history. This region hosts the largest ice mass globally, covering approximately 98 percent of its area. The ice conceals a variety of geological features, including mountains and valleys. Researchers analyze ice cores extracted from deep within the layers to uncover details about past climates and atmospheric conditions. These investigations provide vital information for understanding global climate change and its potential implications for our world. \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9682,
+              "vanbanphanhoi": "Where is the end of the earth?",
+              "fileupload": ""
+            },
+            {
+              "id": 9683,
+              "vanbanphanhoi": "Less effort needed",
+              "fileupload": ""
+            },
+            {
+              "id": 9684,
+              "vanbanphanhoi": "Race to the pole",
+              "fileupload": ""
+            },
+            {
+              "id": 9686,
+              "vanbanphanhoi": "Hidden geography",
+              "fileupload": ""
+            },
+            {
+              "id": 9687,
+              "vanbanphanhoi": "First step on the ice",
+              "fileupload": ""
+            },
+            {
+              "id": 9688,
+              "vanbanphanhoi": "Why is it so cold?",
+              "fileupload": ""
+            },
+            {
+              "id": 9689,
+              "vanbanphanhoi": "Who is in charge?",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3166,
+          "vanbancauhoi": "5. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe pursuit of the southernmost point in the early 20th century captivated many. Adventurers such as Robert Falcon Scott and Roald Amundsen undertook perilous journeys to achieve this milestone. Amundsen\u0027s successful expedition in 1911 marked a significant achievement in exploration, while Scott\u0027s tragic story underscored the risks associated with such endeavors. These tales of courage and ambition continue to inspire modern explorers, highlighting the fascination that this harsh terrain holds.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9690,
+              "vanbanphanhoi": "Where is the end of the earth?",
+              "fileupload": ""
+            },
+            {
+              "id": 9691,
+              "vanbanphanhoi": "Less effort needed",
+              "fileupload": ""
+            },
+            {
+              "id": 9692,
+              "vanbanphanhoi": "Race to the pole",
+              "fileupload": ""
+            },
+            {
+              "id": 9693,
+              "vanbanphanhoi": "Hidden geography",
+              "fileupload": ""
+            },
+            {
+              "id": 9694,
+              "vanbanphanhoi": "First step on the ice",
+              "fileupload": ""
+            },
+            {
+              "id": 9695,
+              "vanbanphanhoi": "Why is it so cold?",
+              "fileupload": ""
+            },
+            {
+              "id": 9696,
+              "vanbanphanhoi": "Who is in charge?",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3167,
+          "vanbancauhoi": "6. _\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eRecent advancements in technology have made reaching this icy expanse easier than in the past. Modern icebreakers and advanced aircraft enable safer and more efficient travel. This accessibility has led to a rise in interest for tourism, allowing more people to experience the breathtaking beauty of the landscape. However, the increase in visitors raises concerns about the potential environmental impact, emphasizing the necessity for sustainable practices to safeguard this delicate ecosystem.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9697,
+              "vanbanphanhoi": "Where is the end of the earth?",
+              "fileupload": ""
+            },
+            {
+              "id": 9698,
+              "vanbanphanhoi": "Less effort needed",
+              "fileupload": ""
+            },
+            {
+              "id": 9699,
+              "vanbanphanhoi": "Race to the pole",
+              "fileupload": ""
+            },
+            {
+              "id": 9701,
+              "vanbanphanhoi": "Hidden geography",
+              "fileupload": ""
+            },
+            {
+              "id": 9702,
+              "vanbanphanhoi": "First step on the ice",
+              "fileupload": ""
+            },
+            {
+              "id": 9703,
+              "vanbanphanhoi": "Why is it so cold?",
+              "fileupload": ""
+            },
+            {
+              "id": 9704,
+              "vanbanphanhoi": "Who is in charge?",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3168,
+          "vanbancauhoi": "7. _\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe extreme low temperatures in this region result mainly from its high elevation and geographic positioning. Being located over the South Pole means it receives minimal direct sunlight, especially during the prolonged winter months of darkness. Average temperatures can plummet below -60°C (-76°F), with summer still remaining quite frigid. The reflective nature of ice further contributes to the chilling climate. Understanding these climatic influences is crucial for scientists studying global weather systems and shifts in climate patterns.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9705,
+              "vanbanphanhoi": "Where is the end of the earth?",
+              "fileupload": ""
+            },
+            {
+              "id": 9706,
+              "vanbanphanhoi": "Less effort needed",
+              "fileupload": ""
+            },
+            {
+              "id": 9707,
+              "vanbanphanhoi": "Race to the pole",
+              "fileupload": ""
+            },
+            {
+              "id": 9708,
+              "vanbanphanhoi": "Hidden geography",
+              "fileupload": ""
+            },
+            {
+              "id": 9709,
+              "vanbanphanhoi": "First step on the ice",
+              "fileupload": ""
+            },
+            {
+              "id": 9710,
+              "vanbanphanhoi": "Why is it so cold?",
+              "fileupload": ""
+            },
+            {
+              "id": 9711,
+              "vanbanphanhoi": "Who is in charge?",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 598,
+      "title": "Đề 2 - Speaking part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d9083746887b7ab3dca00fa1ec472f02.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3273,
+          "vanbancauhoi": "Please tell me about your favorite place.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eMy ideal place for resting is a small room with a cozy atmosphere and a comfy bed .It will be decorated with dim light, fluffy pillows and teddy bears. A bookshelf, where I can store my favorite books, will be good too. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eMy favorite place is the park near my house. It’s a big park with lots of trees and a playground. I like to go there with my friends or family to relax or play sports. It’s a peaceful place, and I always feel happy when I’m there.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/44b6e5a1cec11a20eaada2cebe6faf67.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10059,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/061d22c3befc19a35cf57c3cfcf48d52.mp3"
+            },
+            {
+              "id": 10060,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5a7894acd8754fd9e990de88c9571dfd.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3275,
+          "vanbancauhoi": "Please tell me about your favorite film star.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eMy favorite film star is Tom Holland. He is famous for playing Spider-Man in movies. I like him because he is a good actor and seems like a nice person. I enjoy watching his movies because they are exciting and fun to watch.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eI’d like to introduce Tom Holland, who I know from the Spider-man series. I have known him for 5 years from the movie End Game movie.To me he is a talented actor and I was moved by his acting. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/73518487394d35e9bf3d3e170c7857e6.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10062,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/217cc01527eb8f32fa79e96c458d6894.mp3"
+            },
+            {
+              "id": 10063,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/daef52e18c435ccb4cac9316d9aec06b.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3278,
+          "vanbancauhoi": "Please tell me about the last time you saw an advertisement.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWhen I was watching videos on Youtube, an advertisement appeared. As I remember, it was a Youtube advertisement , which recommended that I buy Premium Youtube to stop being interrupted from watching videos from advertisements. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2:  \u003c/strong\u003eThe last time I saw an advertisement was yesterday. It was an ad for a new phone on TV. The phone had a big screen and many new features. The advertisement made it look very cool, and it made me want to buy it.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ad4805880779aeeecee1e80b099412c5.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10067,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a54409d52e47dfb83ff14ce3592dc7ef.mp3"
+            },
+            {
+              "id": 10069,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ca5a47146bcc61226fe8d1d3541e543a.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "title": "Đề 2 - Speaking part 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5367629afd93a1f5b20a64176297b943.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3286,
+          "vanbancauhoi": "Describe 2 pictures\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/a5c1de8979e05dd68512f759ee38c81d.png\"\u003e",
+          "vanbangiaithich": "\u003cp xss\u003dremoved\u003e\u003cspan xss\u003dremoved\u003eBoth pictures show me about gardens. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the first picture, I can see 3 people, 1 man and 2 women. They are wearing casual clothes. It is clear that they are doing gardening, I guess they are planting trees. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the second picture, there are 2 girls and one grandfather. The grandfather is teaching his grandchildren to water plants.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI guess all of them are feeling happy because I can see the smile on their faces. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003ePersonally, I prefer the second picture because I think watering trees is easier than planting. \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/991d2c4133740d8b6bee2d990fc3b7c5.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10077,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f122f0c879ceb5dbf701d773f8636757.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3287,
+          "vanbancauhoi": "What are the attractions of the two pictures?",
+          "vanbangiaithich": "Each picture has its own attractions. Regarding the first picture, a group of adults works together, planting in a garden, which shows how gardening can bring people closer. Turning to the second picture, I think gardening can be fun and educational for kids.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/df075b65dd41683bdea87384e6652194.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10079,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a12d86df153232dcc0968bd3adc8f12e.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3289,
+          "vanbancauhoi": "What is the appeal of growing plants and doing gardening?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eGrowing plants and doing gardening is beneficial for various reasons. First, it is fun and interesting. Second, it is a wonderful way to expand social knowledge and gain more experience. Finally, it allows people to connect with nature and enjoy the beauty of plants and flowers. \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c6afefecdd15e1797454db136fe7c4d3.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10081,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9ad28260119dbbf2e2b0de0011bddecd.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 603,
+      "title": "Đề 2 - Speaking part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/be4602728d1b97362c6bb18ee0dbaf9a.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3290,
+          "vanbancauhoi": "\u003cp\u003eDescribe a time when you visited someone.\u003c/p\u003e\r\n\u003cp\u003eWhat do you think about having unexpected visitors?\u003c/p\u003e\r\n\u003cp\u003eSome people like to live in small communities, while others like to live in big cities. What is your opinion?\u003c/p\u003e",
+          "vanbangiaithich": "Now, I am going to answer the 3 questions, which are:\u0026nbsp;\u003cbr\u003eDescribe a time when you visited someone.\u003cbr\u003eWhat do you think about having unexpected visitors?\u003cbr\u003eSome people like to live in small communities, while others like to live in big cities. What is your opinion?\u003cbr\u003eRegarding the first question, let me tell you about a time that I visited someone  and it was when I wanted to make a trip to Danang City.\u003cbr\u003eWell, Da Nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive for me at that time.\u003cbr\u003eIt was when I was a second-year student at university. At that time, I really wanted to take a trip to Danang city to visit my friend. After saving money for a long time, I finally decided to visit her in Danang city.\u003cbr\u003eTurning to the second question, I think having unexpected visitors makes me feel very delighted.  \u003cbr\u003eAs for the final question, I prefer to live in small communities because it is more quiet and peaceful. Thanks to that, I can connect to nature.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3e1c5359e59e44cb2cf0e2914960655a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10082,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ce107d88f0439c3862194c3132e77ae6.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "title": "Đề 2 - Speaking part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/da2f09a092b95c5ccacd8db2d0936f8f.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3279,
+          "vanbancauhoi": "Describe this picture\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/78f5874b48b7d7841e09cb4a0404a497.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn the picture, I can see a dad and his son in the kitchen/ in the living room. \u003c/p\u003e\r\n\u003cp\u003eIn the background, I cannot see anything because it is so blurry. \u003c/p\u003e\r\n\u003cp\u003eIn the front, there is a man and his son eating breakfast on the table. \u003c/p\u003e\r\n\u003cp\u003eIt is clear that they are eating bread and drinking orange juice. \u003c/p\u003e\r\n\u003cp\u003eI guess they are feeling happy. \u003c/p\u003e\r\n\u003cp\u003eThe picture is so beautiful that it was taken by a professional. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7da66e78562c5289b547fd3948b2f090.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10071,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9680c3690b3642b7efe100a5fbc2b3e0.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3282,
+          "vanbancauhoi": "What do you eat for breakfast?",
+          "vanbangiaithich": "This is an interesting question, let me answer it. For breakfast, I usually eat something simple and healthy. I often eat bread and sticky rice with my father for breakfast at home in the morning. It allows me to have enough energy for the whole day. That\u0026rsquo;s my answer.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6cfe4f5e1ff0cd9eea7ebb89f4678a22.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10075,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3156230de0a7bfb2be7589070dccedd3.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3285,
+          "vanbancauhoi": "Do you think people should eat breakfast?",
+          "vanbangiaithich": "I agree that people should eat breakfast for various reasons. First, it is good for health because breakfast allows people to have enough energy for the whole day. Second, it is a good way to lower the risks of diseases, such as stomach ache. For me, I always eat fruit for breakfast every morning.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/78302f8dd015171d275d0008b40bde51.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10076,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5688453dda5c77162ef5d734d24f9b25.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 555,
+      "title": "Đề 2 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a Computer club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eExample \u003c/strong\u003eHow are you? I\u0027m fine, thanks.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3112,
+          "vanbancauhoi": "What is your favourite colour?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11054,
+              "vanbanphanhoi": "I like pink.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3114,
+          "vanbancauhoi": "What is your favourite sport?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11055,
+              "vanbanphanhoi": "I love badminton.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3115,
+          "vanbancauhoi": "\u003cp\u003eWhat is your favourite time of the year?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11056,
+              "vanbanphanhoi": "It’s Tet Holiday",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3116,
+          "vanbancauhoi": "\u003cp\u003eWhat do you like to do in the evening?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11047,
+              "vanbanphanhoi": "I love sleeping.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3117,
+          "vanbancauhoi": "\u003cp\u003eWhat is the weather like today?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11057,
+              "vanbanphanhoi": "It is cloudy.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "title": "Đề 2 - Writing part 2",
+      "des": "\u003cstrong\u003eYou are a new member of the Computer club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3118,
+          "vanbancauhoi": "When and where do you usually use a computer?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11058,
+              "vanbanphanhoi": "I use a computer whenever I have free time, such as in the evening. Typically, I often use it at home for entertainment because it enables me to relax and reduce stress.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "title": "Đề 2 - Writing part 3",
+      "des": "\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e\r\n\u003cp\u003e\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3119,
+          "vanbancauhoi": "Kim: I love new technology. Can you please tell me about the last time you used a computer to do something?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11059,
+              "vanbanphanhoi": "The last time I used a computer was yesterday when I searched for a tutorial video about cooking. I learned this skill with my family as ( \u003d because) we are all interested in preparing meals for the family.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3120,
+          "vanbancauhoi": "Marco: My grandmother doesn\u0026rsquo;t know anything \u0026nbsp;about computers? How can she learn about them? What should she do?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11060,
+              "vanbanphanhoi": "I think she should start with basic online tutorials or enroll in beginner-friendly courses. Additionally, if I were you, I would teach her step by step patiently because she is old and needs thorough instructions to understand these high-tech devices.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3121,
+          "vanbancauhoi": "Sylvia: Young people spend too much time using computers. Some say it is not good for them. What is your opinion?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11061,
+              "vanbanphanhoi": "I agree with this opinion. It is harmful to young people to spend a large amount of time using computers. First, it may affect their physical health, for example, they can be subject to obesity. Second, spending too much time on computers can lead to mental health conditions, causing heightened.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "title": "Đề 2 - Writing part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of the Computer Club. You received this email from the club’s manager.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eDear members,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cem\u003eWe are making some changes to the website because we want more people to join us. As you know, the website at the moment is very simple and \u003c/em\u003e\u003cem\u003ewe would be interested to hear some ideas about ways to make it more attractive \u003c/em\u003e\u003cem\u003eand \u003c/em\u003e\u003cem\u003ewhy you think it would attract more visitors.\u003cbr\u003e\u003cbr\u003eBests,\u003cbr\u003eClub Mananger.\u003c/em\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3122,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to your friend, who is also a member of this club. Tell your friend about your opinion and why. Write about 50 words\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11062,
+              "vanbanphanhoi": "Hi Tom,\r\nHave you received the email from our club?\r\nI am very delighted to hear that news.\r\nI think that we should follow a certain concept with a theme, many beautiful pictures. Besides, it is advisable that we add some stories of our members\r\nWhat do you think about this? Hope to hear from you soon.\r\nJohn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3123,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to the manager of the club. Tell the manager about your opinion and why. Write about 120-150 words.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11041,
+              "vanbanphanhoi": "Dear Club Manager,\r\nMy name is Henry. I have been a member of our club for 2 months.\r\nI am writing in response to your latest email.\r\nAccording to the news, our club plans to add some alterations(\u003dchanges) to the website to attract more new members. \r\nTo be honest, I am very delighted to hear that news.\r\nI would love to venture my idea. I think we should introduce more well-illustrated images into the websites, which could enhance the website\u0027s appeal. Besides, it is advisable to include some inspirational stories from successful members.This is because these stories could serve as powerful evidence, (which showcases)/ showcasing the positive impact of our club. By implementing these new strategies, the experience of our visitors can be improved. As a result, we can attract more people to join our club. \r\nI hope my suggestions will be useful.\r\nI am looking forward to hearing from you soon.\r\nBest regards,\r\nHenry.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

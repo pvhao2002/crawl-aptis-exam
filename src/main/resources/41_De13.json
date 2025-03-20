@@ -1,0 +1,1882 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 4009,
+        "vanbancauhoi": "Max is calling his friend. How much can Max pay for the computer?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8fad6f16403971dd7f70fd3dd92ea66f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12611,
+            "vanbanphanhoi": "350 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 12612,
+            "vanbanphanhoi": "250 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 12613,
+            "vanbanphanhoi": "150 pounds",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4028,
+        "vanbancauhoi": "A man is talking to the shopping assistant. What color top does he buy?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e3c3364ec6d444eaadda58b538cffd99.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12586,
+            "vanbanphanhoi": "black",
+            "fileupload": ""
+          },
+          {
+            "id": 12587,
+            "vanbanphanhoi": "green",
+            "fileupload": ""
+          },
+          {
+            "id": 12588,
+            "vanbanphanhoi": "blue",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4029,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eTwo people are talking about meeting for dinner. What time does Ahmed meet Rose?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/322cd3028f10e76e77ab8206b51d207d.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12589,
+            "vanbanphanhoi": "half past seven",
+            "fileupload": ""
+          },
+          {
+            "id": 12590,
+            "vanbanphanhoi": "quarter to eight",
+            "fileupload": ""
+          },
+          {
+            "id": 12591,
+            "vanbanphanhoi": "quarter past seven",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4030,
+        "vanbancauhoi": "A woman is talking about her vacation. What is the relationship between the speaker and Lisa?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5f19463e2348cfc9df26a637ecc26eea.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12592,
+            "vanbanphanhoi": "Teacher and student",
+            "fileupload": ""
+          },
+          {
+            "id": 12593,
+            "vanbanphanhoi": "Mother and daughter",
+            "fileupload": ""
+          },
+          {
+            "id": 12594,
+            "vanbanphanhoi": "Best friends",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4031,
+        "vanbancauhoi": "A man is talking about the city concert. How will the concert end?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/997f094553df6c824e6c381ee6b941d2.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12595,
+            "vanbanphanhoi": "A surprise performance",
+            "fileupload": ""
+          },
+          {
+            "id": 12596,
+            "vanbanphanhoi": "Special offers",
+            "fileupload": ""
+          },
+          {
+            "id": 12597,
+            "vanbanphanhoi": "City’s favorite group",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4032,
+        "vanbancauhoi": "Aman is ordering a drink. What does he want?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ca1b79d4c7fc82295cfc0f27f438aba5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12598,
+            "vanbanphanhoi": "Beer",
+            "fileupload": ""
+          },
+          {
+            "id": 12600,
+            "vanbanphanhoi": "Water",
+            "fileupload": ""
+          },
+          {
+            "id": 12601,
+            "vanbanphanhoi": "Iced tea",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4033,
+        "vanbancauhoi": "A man is talking about his trip. What did he enjoy last year?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/acab426bdd33f3a99a10dcaa1f4d5ca1.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12602,
+            "vanbanphanhoi": "Go cycling",
+            "fileupload": ""
+          },
+          {
+            "id": 12603,
+            "vanbanphanhoi": "Go for a walk",
+            "fileupload": ""
+          },
+          {
+            "id": 12604,
+            "vanbanphanhoi": "Go picnic",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4034,
+        "vanbancauhoi": "Vincent is calling James. Why does Vincent call James?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/54cf35602138522bade6fd2eded93025.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12605,
+            "vanbanphanhoi": "To arrange meeting",
+            "fileupload": ""
+          },
+          {
+            "id": 12606,
+            "vanbanphanhoi": "To say hello",
+            "fileupload": ""
+          },
+          {
+            "id": 12607,
+            "vanbanphanhoi": "To suggest a drink",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4035,
+        "vanbancauhoi": "Jana is talking to her friend. What does Jana\u0026rsquo;s sister look like?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/643361ff010ce1100bd93c91743f73fc.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12608,
+            "vanbanphanhoi": "Short",
+            "fileupload": ""
+          },
+          {
+            "id": 12609,
+            "vanbanphanhoi": "Tall",
+            "fileupload": ""
+          },
+          {
+            "id": 12610,
+            "vanbanphanhoi": "Curly hair",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4036,
+        "vanbancauhoi": "Mary is talking to her friend about her new home. What does she ask her friend about?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/867b4cb40b0ad13637c1541cde028ab3.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12614,
+            "vanbanphanhoi": "Where to buy a new table",
+            "fileupload": ""
+          },
+          {
+            "id": 12615,
+            "vanbanphanhoi": "The furniture",
+            "fileupload": ""
+          },
+          {
+            "id": 12616,
+            "vanbanphanhoi": "Mirror",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4037,
+        "vanbancauhoi": "A woman is talking about her job. What encouraged her to become a scientist?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3344e27fee2f6ddaf0723cf0c348abb8.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12617,
+            "vanbanphanhoi": "The computer",
+            "fileupload": ""
+          },
+          {
+            "id": 12618,
+            "vanbanphanhoi": "Her mother",
+            "fileupload": ""
+          },
+          {
+            "id": 12619,
+            "vanbanphanhoi": "A large stone",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4038,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eAnna is calling her brother Max. What does Anna do later in the afternoon?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4d4dc2a680364719f42cc8a538b7bf8d.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12620,
+            "vanbanphanhoi": "Hang out with friends",
+            "fileupload": ""
+          },
+          {
+            "id": 12621,
+            "vanbanphanhoi": "Stay late at the office",
+            "fileupload": ""
+          },
+          {
+            "id": 12622,
+            "vanbanphanhoi": "Pick up her kids",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4039,
+        "vanbancauhoi": "A man calls the teleshop. What is the teleshop number?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3e6c2c8fb99418209f52bf97e50c9cd5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12623,
+            "vanbanphanhoi": "102030",
+            "fileupload": ""
+          },
+          {
+            "id": 12625,
+            "vanbanphanhoi": "201030",
+            "fileupload": ""
+          },
+          {
+            "id": 12626,
+            "vanbanphanhoi": "301020",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 767,
+        "title": "Đề 13 - Listening part 14",
+        "des": "\u003cstrong\u003eListen to the opinions of 4 people talking about when they like listening to music. Choose the correct answers.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4040,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson A: I’ve always found music to be the best way to unwind after a long day.\u003cstrong\u003e I like to listen to music when I want to \u003c/strong\u003e\u003c/span\u003e\u003cstrong\u003erelax\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e\u003cstrong\u003e.\u003c/strong\u003e It helps me switch off from everything, whether I’m lying on the couch or taking a walk in the park. I usually go for something soft and calming, like acoustic or classical music. It’s my way of de-stressing and escaping from all the noise of everyday life. I just close my eyes, and the music takes me away.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/746dcced4e3e294925bb105e70c507a9.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12627,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12628,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12629,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12630,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12631,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4041,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "\u003cp\u003ePerson B: \u003cstrong\u003eFor me, music is a must when I’m \u003c/strong\u003e\u003cstrong\u003estudying\u003c/strong\u003e\u003cstrong\u003e.\u003c/strong\u003e I know some people find it distracting, but I actually concentrate better when there’s music playing in the background. I usually pick something without lyrics, like instrumental or electronic music, so it doesn’t interrupt my thinking. It keeps me focused and helps me stay motivated when I’m working on long assignments or preparing for exams. It’s become part of my study routine now.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8a9d82b6633ea221c8841202b99c7822.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12632,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12633,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12635,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12636,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12637,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4042,
+            "vanbancauhoi": "Speaker C _",
+            "vanbangiaithich": "\u003cp\u003ePerson C:\u003cstrong\u003e I’ve always loved \u003c/strong\u003e\u003cstrong\u003esinging\u003c/strong\u003e\u003cstrong\u003e, so I listen to music whenever I feel like practicing my vocals.\u003c/strong\u003e It’s not just about listening for fun; I like to sing along and try to improve my voice. Whether it’s pop songs or karaoke tracks, I find it really enjoyable and a great way to express myself. Sometimes I even record myself to see how I’m doing. It’s a fun hobby, and I love exploring new songs and melodies.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/07d21cb141e2801f15bc2ce0a8afc281.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12638,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12639,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12640,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12641,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12642,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4043,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson D: \u003cstrong\u003eI like to start my day with music\u003c/strong\u003e\u003c/span\u003e\u003cstrong\u003e as soon as I wake up.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e It helps me feel energized and ready for whatever lies ahead. As soon as I get out of bed, I turn on my favorite playlist, which is usually full of upbeat, happy songs. It’s like my morning ritual, setting the mood for the day and getting me in a good headspace. Music really helps kick-start my mornings on a positive note!\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/500152dc6f165a2aee858528bb00c91d.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12643,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12644,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12645,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12646,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12647,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 768,
+        "title": "Đề 13 - Listening part 15",
+        "des": "\u003cp\u003e\u003cstrong\u003eListen to two people discussing changes in the workplace. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2c2ea5b851bb470e649f421079715b6a.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4044,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eContinuity is important _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12648,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12649,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12650,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4045,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e Job security cant be guaranteed _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12651,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12652,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12653,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4046,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eJob satisfaction is important motivator _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12654,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12655,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12656,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4047,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTechnology is good for the economy _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: It seems like every workplace is going through so many changes lately. But honestly, I think Continuity is still very important. When things remain steady, it gives people a sense of security. If everything changes too fast, it’s hard for employees to keep up and the organization can lose its way. \u003cstrong\u003eContinuity is important in keeping everyone focused.\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: I get where you\u0027re coming from, but I feel like these days, nothing is certain. J\u003cstrong\u003eob security isn\u0027t something we can rely on anymore.\u003c/strong\u003e There’s always the risk of layoffs, especially with the economy being unpredictable. People are moving from job to job more than ever before, and you can’t always count on staying in one place for long.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: That’s definitely a concern. But regardless of job security or stability, \u003cstrong\u003eone thing we both can agree on is that job satisfaction is a huge motivator.\u003c/strong\u003e When people love what they do, they’re more likely to stay, even when times get tough. It’s the main reason many of us keep pushing through the challenges.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003cstrong\u003eAbsolutely!\u003c/strong\u003e I think when people are satisfied with their work, they’re willing to go the extra mile. It’s not just about the paycheck; it’s about feeling fulfilled. That’s what really makes the difference in the workplace.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: You’re right.\u003cstrong\u003e And another thing that’s making a difference is technology\u003c/strong\u003e. It’s been a game-changer for the economy, making things faster and more efficient. The growth we’ve seen in so many industries is because of how we’ve embraced new technologies. It’s definitely helping businesses thrive.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12657,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12658,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12659,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 769,
+        "title": "Đề 13 - Listening part 16",
+        "des": "A Radio MC is talking about research on happiness. Choose the corrects answer.",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ad72c5fd891d5fd1e080402cdf5117b6.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4048,
+            "vanbancauhoi": "What does the radio MC say about how the research on happiness has been covered by the media?\u0026nbsp;",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12660,
+                "vanbanphanhoi": "It has been accurately reported by the media",
+                "fileupload": ""
+              },
+              {
+                "id": 12661,
+                "vanbanphanhoi": "It has not been accurately reported by the media",
+                "fileupload": ""
+              },
+              {
+                "id": 12662,
+                "vanbanphanhoi": "It has been ignored completely by the media",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4049,
+            "vanbancauhoi": "\u003cp\u003eAccording to the radio MC, what is unlikely regarding the research on happiness??\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eRadio MC: Good morning, listeners! Today, we’re diving into a recent research study on happiness that has sparked quite a bit of discussion. \u003cstrong\u003eUnfortunately, it seems that the media has focused more on sensational headlines rather than accurately reporting the core findings of the research.\u003c/strong\u003e As a result, many people are left with a distorted understanding of what truly contributes to happiness.\u003c/p\u003e\r\n\u003cp\u003eWhile numerous studies have attempted to uncover the secrets to a happy life,\u003cstrong\u003e it’s important to recognize that there may never be a conclusive answer\u003c/strong\u003e. Happiness is a complex and personal experience, influenced by a variety of factors unique to each individual.\u003c/p\u003e\r\n\u003cp\u003eInstead of seeking a one-size-fits-all solution, we should focus on understanding our own needs and values. Remember, happiness is not a destination but a journey, and it’s crucial to approach it with an open mind. Stay tuned for more insights and discussions on this fascinating topic!\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12663,
+                "vanbanphanhoi": "To find personal happiness",
+                "fileupload": ""
+              },
+              {
+                "id": 12664,
+                "vanbanphanhoi": "To find a conclusive answer",
+                "fileupload": ""
+              },
+              {
+                "id": 12665,
+                "vanbanphanhoi": "To discuss happiness in the media",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 770,
+        "title": "Đề 13 - Listening part 17",
+        "des": "\u003cstrong\u003eAn expert talking about Professionalism. Choose the correct answers.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3ceba5c121eefea1c9cea80710f6bb32.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4050,
+            "vanbancauhoi": "What does the expert say what being professional is all about?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12666,
+                "vanbanphanhoi": "To maintain positive attitude",
+                "fileupload": ""
+              },
+              {
+                "id": 12667,
+                "vanbanphanhoi": "To create good working environment",
+                "fileupload": ""
+              },
+              {
+                "id": 12668,
+                "vanbanphanhoi": "To make good impressions",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4051,
+            "vanbancauhoi": "\u003cp\u003eWhat does the expert say about the definition of professionalism?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eGood morning, everyone! Today, I want to talk about professionalism and how it has changed over the years. To be seen as a professional, it’s essential to be friendly, open-minded, and willing to help others\u003cstrong\u003e. An optimistic attitude not only makes a good impression but also creates a better work environment.\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAdditionally, with the rapid changes in technology and globalization, our definition of professionalism is no longer the same as it was 40 years ago. In the past, being professional often meant simply dressing well and following strict rules. Now, it includes being adaptable, understanding different cultures, and using technology effectively.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003e\u003cstrong\u003eAs we continue to evolve in our careers, we must embrace these changes and redefine what it means to be a professional.\u003c/strong\u003e By doing so, we can better meet the needs of our diverse workplaces and succeed in today’s fast-paced world. Thank you!\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12669,
+                "vanbanphanhoi": "It is the same of 40 years ago",
+                "fileupload": ""
+              },
+              {
+                "id": 12670,
+                "vanbanphanhoi": "Our definition of it is changing",
+                "fileupload": ""
+              },
+              {
+                "id": 12671,
+                "vanbanphanhoi": "It will not change anymore",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 627,
+      "title": "Đề 13 - Reading p5",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1-7) from the drop-down box.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003ch1\u003e\u003cstrong\u003eThe history of zoos\u003c/strong\u003e\u003c/h1\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3438,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e1._\u003cbr\u003eLong time ago, zoos were reserved exclusively for monarchs and aristocrats, showcasing a grand collection of rare and exotic animals as symbols of their richness and social status. These animals served not only as a display of wealth but also as diplomatic tools, where animals were exchanged as prestigious gifts among the wealthy elite. Kings and emperors delighted in possessing the most diverse and extraordinary creatures from faraway lands, reflecting their dominion over nature and their realm.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10642,
+              "vanbanphanhoi": "Opening the doors to everyone",
+              "fileupload": ""
+            },
+            {
+              "id": 10643,
+              "vanbanphanhoi": "Away from enclosure towards greater freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 10644,
+              "vanbanphanhoi": "A different set of values",
+              "fileupload": ""
+            },
+            {
+              "id": 10645,
+              "vanbanphanhoi": "A modern-life alternative",
+              "fileupload": ""
+            },
+            {
+              "id": 10646,
+              "vanbanphanhoi": "Symbols of privilege and wealth",
+              "fileupload": ""
+            },
+            {
+              "id": 10647,
+              "vanbanphanhoi": "A new mission of conversation",
+              "fileupload": ""
+            },
+            {
+              "id": 10648,
+              "vanbanphanhoi": "Away from amusement towards instruction",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3439,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e2._\u003cbr\u003eIt wasn\u0027t until the reign of England\u0027s King John, in the early 13th century, that the concept of the zoo shifted dramatically. King John, a progressive ruler, opened the royal animal exhibit at the Tower of London to the public. This groundbreaking decision marked a turning point, as zoos gradually transitioned from being exclusive enclaves of royalty to inclusive spaces accessible to people from all walks of life. Zoos transformed into places where the general public could enjoy leisure and explore the wonders of the animal kingdom.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10649,
+              "vanbanphanhoi": "Opening the doors to everyone",
+              "fileupload": ""
+            },
+            {
+              "id": 10650,
+              "vanbanphanhoi": "Away from enclosure towards greater freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 10651,
+              "vanbanphanhoi": "A different set of values",
+              "fileupload": ""
+            },
+            {
+              "id": 10652,
+              "vanbanphanhoi": "A modern-life alternative",
+              "fileupload": ""
+            },
+            {
+              "id": 10653,
+              "vanbanphanhoi": "Symbols of privilege and wealth",
+              "fileupload": ""
+            },
+            {
+              "id": 10654,
+              "vanbanphanhoi": "A new mission of conversation",
+              "fileupload": ""
+            },
+            {
+              "id": 10655,
+              "vanbanphanhoi": "Away from amusement towards instruction",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3440,
+          "vanbancauhoi": "3. _\u003cbr\u003eAs societal beliefs progressed, zoos took on a more educational role. Conservation efforts gained strength, and zoos began to focus on raising awareness about endangered species and the importance of preserving biodiversity. The purpose of zoos extended beyond entertainment to provide valuable learning experiences. Modern zoos now prioritize animal welfare, creating environments that mimic natural habitats to ensure the well-being of their residents. Educational programs are designed to inform visitors about wildlife conservation, fostering a deeper appreciation for the natural world.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10656,
+              "vanbanphanhoi": "Opening the doors to everyone",
+              "fileupload": ""
+            },
+            {
+              "id": 10670,
+              "vanbanphanhoi": "Away from enclosure towards greater freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 10671,
+              "vanbanphanhoi": "A different set of values",
+              "fileupload": ""
+            },
+            {
+              "id": 10672,
+              "vanbanphanhoi": "A modern-life alternative",
+              "fileupload": ""
+            },
+            {
+              "id": 10673,
+              "vanbanphanhoi": "Symbols of privilege and wealth",
+              "fileupload": ""
+            },
+            {
+              "id": 10674,
+              "vanbanphanhoi": "A new mission of conversation",
+              "fileupload": ""
+            },
+            {
+              "id": 10675,
+              "vanbanphanhoi": "Away from amusement towards instruction",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3441,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e4. _\u003cbr\u003eIn the 19th century, there was a significant change in how zoos treated animals, thanks to the pioneering work of Carl Hagenbeck, a renowned German animal dealer and zoo founder. Hagenbeck completely transformed the way zoos were designed.  Instead of confining animals in small cages and enclosures, he introduced the concept of open enclosures  In these more naturalistic environments, animals had greater freedom to move around and express their natural behaviors. The shift from confinement to freedom not only improved the animals\u0027 quality of life but also allowed visitors to observe animals in a more authentic setting.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10663,
+              "vanbanphanhoi": "Opening the doors to everyone",
+              "fileupload": ""
+            },
+            {
+              "id": 10664,
+              "vanbanphanhoi": "Away from enclosure towards greater freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 10665,
+              "vanbanphanhoi": "A different set of values",
+              "fileupload": ""
+            },
+            {
+              "id": 10666,
+              "vanbanphanhoi": "A modern-life alternative",
+              "fileupload": ""
+            },
+            {
+              "id": 10667,
+              "vanbanphanhoi": "Symbols of privilege and wealth",
+              "fileupload": ""
+            },
+            {
+              "id": 10668,
+              "vanbanphanhoi": "A new mission of conversation",
+              "fileupload": ""
+            },
+            {
+              "id": 10669,
+              "vanbanphanhoi": "Away from amusement towards instruction",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3442,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e5. _\u003cbr\u003eAs culture and ethics evolve, zoos are reevaluating their beliefs. Instead of solely showcasing rare and exotic animals, modern zoos are now stressing the significance of protecting biodiversity and the environment. Their goal is to encourage visitors to appreciate and care for all forms of life on Earth. Zoos are now working towards practices that prioritize animal welfare and conservation, encouraging a stronger sense of responsibility towards our planet.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10676,
+              "vanbanphanhoi": "Opening the doors to everyone",
+              "fileupload": ""
+            },
+            {
+              "id": 10677,
+              "vanbanphanhoi": "Away from enclosure towards greater freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 10679,
+              "vanbanphanhoi": "A different set of values",
+              "fileupload": ""
+            },
+            {
+              "id": 10680,
+              "vanbanphanhoi": "A modern-life alternative",
+              "fileupload": ""
+            },
+            {
+              "id": 10681,
+              "vanbanphanhoi": "Symbols of privilege and wealth",
+              "fileupload": ""
+            },
+            {
+              "id": 10682,
+              "vanbanphanhoi": "A new mission of conversation",
+              "fileupload": ""
+            },
+            {
+              "id": 10683,
+              "vanbanphanhoi": "Away from amusement towards instruction",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3443,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e6. _\u003cbr\u003eAs climate change and habitat destruction pose significant threats to wildlife, zoos have embraced a new mission - protecting animals on the brink of extinction. They play a crucial role in species recovery and act as sanctuaries for critically endangered creatures. Through dedicated conservation programs, zoos work tirelessly to ensure the survival and well-being of these vulnerable species. By taking a lead in conservation efforts, zoos aim to inspire visitors and the wider community to recognize the urgency of protecting our fragile ecosystems and the species that inhabit them.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10684,
+              "vanbanphanhoi": "Opening the doors to everyone",
+              "fileupload": ""
+            },
+            {
+              "id": 10685,
+              "vanbanphanhoi": "Away from enclosure towards greater freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 10686,
+              "vanbanphanhoi": "A different set of values",
+              "fileupload": ""
+            },
+            {
+              "id": 10687,
+              "vanbanphanhoi": "A modern-life alternative",
+              "fileupload": ""
+            },
+            {
+              "id": 10688,
+              "vanbanphanhoi": "Symbols of privilege and wealth",
+              "fileupload": ""
+            },
+            {
+              "id": 10689,
+              "vanbanphanhoi": "A new mission of conversation",
+              "fileupload": ""
+            },
+            {
+              "id": 10690,
+              "vanbanphanhoi": "Away from amusement towards instruction",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3444,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e7. _\u003cbr\u003eWhile zoos have evolved to prioritize conservation and education, the question arises: Do modern humans still need zoos to learn about animals? Zoos aim to strike a delicate balance, simultaneously educating people, protecting animals, and ensuring their well-being. To achieve this, some zoos are exploring innovative approaches, such as virtual reality experiences and augmented reality exhibits, to offer visitors an immersive and educational experience without physical enclosure.  By embracing these modern-life alternatives, zoos can effectively fulfill their educational objectives while also emphasizing the importance of animal welfare and freedom in their mission to protect and preserve wildlife.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10691,
+              "vanbanphanhoi": "Opening the doors to everyone",
+              "fileupload": ""
+            },
+            {
+              "id": 10692,
+              "vanbanphanhoi": "Away from enclosure towards greater freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 10693,
+              "vanbanphanhoi": "A different set of values",
+              "fileupload": ""
+            },
+            {
+              "id": 10697,
+              "vanbanphanhoi": "A modern-life alternative",
+              "fileupload": ""
+            },
+            {
+              "id": 10698,
+              "vanbanphanhoi": "Symbols of privilege and wealth",
+              "fileupload": ""
+            },
+            {
+              "id": 10699,
+              "vanbanphanhoi": "A new mission of conversation",
+              "fileupload": ""
+            },
+            {
+              "id": 10700,
+              "vanbanphanhoi": "Away from amusement towards instruction",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 625,
+      "title": "Đề 13 - Reading p3",
+      "des": "\u003cp\u003e\u003cstrong\u003ePut the sentences in the right order. The first sentence is done for you.\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMy first car\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3430,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e0. I wanted to start driving as soon as possible after passing my test\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 10609,
+              "vanbanphanhoi": "I had just passed my test and was excited to begin driving soon.",
+              "fileupload": ""
+            },
+            {
+              "id": 10610,
+              "vanbanphanhoi": "However, I didn’t have a car, so I started searching for one immediately.",
+              "fileupload": ""
+            },
+            {
+              "id": 10611,
+              "vanbanphanhoi": "So, when I saw an advertisement for a used car, I was interested.",
+              "fileupload": ""
+            },
+            {
+              "id": 10612,
+              "vanbanphanhoi": "I called the number on the advert to get more information about it.",
+              "fileupload": ""
+            },
+            {
+              "id": 10613,
+              "vanbanphanhoi": "We agreed on a price that was reasonable for both after a short negotiation.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 626,
+      "title": "Đề 13 - Reading p4",
+      "des": "\u003cstrong\u003eFour people review the quality of a restaurant. Read their comments and answer the questions below.\u003cem\u003e\u003cbr\u003e\u003c/em\u003e\u003c/strong\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe Menu I read \u003c/span\u003e\u003cspan xss\u003dremoved\u003ehas a lot\u003c/span\u003e\u003cspan xss\u003dremoved\u003e of good reviews online and decided to try it out\u003c/span\u003e\u003cspan xss\u003dremoved\u003e. The prices are reasonable, and the food is good and varied. My favorite part is the starters – there are so many things that I don’t know what to choose from. My only criticism is the noise level. The live show was excellent, but the volume was a bit low; they should turn it up next time. Despite that, I enjoyed the food and the show overall.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eI’m not sure if I’ll return to it. The staff seemed like they just had an argument, making the atmosphere unpleasant. Maybe they had a rough day. I ordered fish and chips. It is not bad but not good either. People said this restaurant was excellent, but my experience might be an exception.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eI was looking forward to visiting this restaurant, but my first visit left me certain that I won\u0027t come back. The staff wasn’t friendly at all, and while the meal was huge, it made me question whether that was a good sign. The traditional style of the food didn’t match the modern décor, creating an odd experience that I don’t want to repeat. Additionally, the food was too expensive.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eThe newspaper I saw has lots of appetizing food.  \u003cspan xss\u003dremoved\u003eUnfortunately, on the day I arrived, I came late, so I couldn\u0027t order dinner. However, the drinks here were great. I tried a mango drink and it was delicious. The background music was just right,  and the decor matched the atmosphere perfectly.  Overall, it was great, I\u0027ll definitely come back on time next time to try their food.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3431,
+          "vanbancauhoi": "Who definitely will not comeback the restaurant again? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10614,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10615,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10616,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10617,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3432,
+          "vanbancauhoi": "Who was impressed by the range of the appetizers? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12974,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 12975,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 12976,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 12977,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3433,
+          "vanbancauhoi": "Who didn\u0026rsquo;t eat anything? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12978,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 12979,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 12980,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 12981,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3434,
+          "vanbancauhoi": "Who enjoyed the atmosphere of the restaurant? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12982,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 12983,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 12984,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 12985,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3435,
+          "vanbancauhoi": "Who thinks the quality of the food is average? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10630,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10631,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10632,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10633,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3436,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks their bad experience was probably unusual? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10634,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10635,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10636,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10637,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3437,
+          "vanbancauhoi": "Who thinks the music was too quiet? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12986,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 12987,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 12988,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 12989,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 624,
+      "title": "Đề 13 - Reading p2",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eThe sentences below are from some directions. Put the sentences in the right order. The first sentence is done for you.\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003cp\u003e\u003cstrong\u003eRenting a bike \u003c/strong\u003e\u003c/p\u003e\r\n\u003cstrong\u003e\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3429,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e0. When you arrive at the bike collection point, locate an available cycle\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 10604,
+              "vanbanphanhoi": "Go to the collection point and touch the screen with your bank card",
+              "fileupload": ""
+            },
+            {
+              "id": 10605,
+              "vanbanphanhoi": "Choose “Hire the cycle”, follow the instructions to get your release code",
+              "fileupload": ""
+            },
+            {
+              "id": 10606,
+              "vanbanphanhoi": "Enter your code in the lock on the bike and wait for the light green",
+              "fileupload": ""
+            },
+            {
+              "id": 10607,
+              "vanbanphanhoi": "When the light shows, you can unlock the bike and start your journey",
+              "fileupload": ""
+            },
+            {
+              "id": 10608,
+              "vanbanphanhoi": "At the end of your ride, return the bike at any collection point",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "title": "Đề 13 - Reading p1",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the email from Matthew to his friend, Alex. Choose one word from the list for each gap. The first one is done for you \u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eHi David, \u003c/p\u003e\r\n\u003cp\u003eDid you get the email I sent?\u003cbr\u003eThe new contract is a very important \u003cstrong\u003edocuments.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eBest regards, \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMax\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3424,
+          "vanbancauhoi": "\u003cp\u003eThe whole contract is fifty-five-page - it’s very_.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10589,
+              "vanbanphanhoi": "long",
+              "fileupload": ""
+            },
+            {
+              "id": 10590,
+              "vanbanphanhoi": "heavy",
+              "fileupload": ""
+            },
+            {
+              "id": 10591,
+              "vanbanphanhoi": "short",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3425,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eCan you read it carefully and check every _?\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10592,
+              "vanbanphanhoi": "detail",
+              "fileupload": ""
+            },
+            {
+              "id": 10593,
+              "vanbanphanhoi": "person",
+              "fileupload": ""
+            },
+            {
+              "id": 10594,
+              "vanbanphanhoi": "room",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3426,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI will make a photocopy of it and give you a _ .\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10595,
+              "vanbanphanhoi": "picture",
+              "fileupload": ""
+            },
+            {
+              "id": 10596,
+              "vanbanphanhoi": "idea",
+              "fileupload": ""
+            },
+            {
+              "id": 10597,
+              "vanbanphanhoi": "copy",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3427,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI’m very _ and don’t have much free time.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10598,
+              "vanbanphanhoi": "happy",
+              "fileupload": ""
+            },
+            {
+              "id": 10599,
+              "vanbanphanhoi": "busy",
+              "fileupload": ""
+            },
+            {
+              "id": 10600,
+              "vanbanphanhoi": "quiet",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3428,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI have a business meeting with an important _.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10601,
+              "vanbanphanhoi": "figure",
+              "fileupload": ""
+            },
+            {
+              "id": 10602,
+              "vanbanphanhoi": "people",
+              "fileupload": ""
+            },
+            {
+              "id": 10603,
+              "vanbanphanhoi": "client",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 759,
+      "title": "Đề 13 - Speaking 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/00f55ea1985cd3adb106278ac29d92e4.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3986,
+          "vanbancauhoi": "Please tell me about your journey here today",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1:\u003c/strong\u003e I have my own bike so definitely I drove here. I woke up at 8 o’clock, brushed my teeth, washed my face, and got ready. On the way, I stopped by a local food stall to have a quick breakfast. I also got a cup of coffee to keep myself awake during the test.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eTo get here, I left my house early. I took the bus to the city center. After that, I walked for about five minutes to reach the building. I used the stairs to come up to this room, and now I’m ready for the exam.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f7b4603d5039993bd5599e2bc63ba5a5.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12483,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/54f1215db5b506a666792af63c16267a.mp3"
+            },
+            {
+              "id": 12486,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/01fec9e21d661c4e910eeeba2f87dae3.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3987,
+          "vanbancauhoi": "Please tell me about your friends.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWell,I’m eager to introduce to you my best friend. Her name is Tu Anh, who I’ve known for 5 years. I feel so lucky that I met her, she has a good influence on me, which is her energy. We share the same  interests and hang out a lot. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eI have a few close friends. We like to spend time together after school or on weekends. My best friend is kind and funny. We often play sports or watch movies together. I can always talk to my friends when I have a problem, and they help me feel better.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/563436be5cd9ed6fad98dc968fa539fb.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12488,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9b29d1f8fb2c08b529e2f0e627787d74.mp3"
+            },
+            {
+              "id": 12489,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/920ab406e0827f4921b8d5f154e4e722.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3988,
+          "vanbancauhoi": "Please tell me about your favorite time of year.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1:\u003c/strong\u003e My favorite time of year is spring. At this time, the weather is warm. Moreover, Spring is a time when my family can reunite, and we can rest after a year of hard work. I love spring very much.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2:\u003c/strong\u003e My favorite time of year is autumn. I love the cooler weather and the way the leaves change color; everything looks so vibrant. It\u0027s also a cozy season with warm drinks and sweaters. Plus, autumn has some fun holidays like Halloween, which adds excitement. The atmosphere feels calm and refreshing, making it a perfect time to go for long walks.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/81223f2d98aa8bb7d8e3a10ff0eef776.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12490,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e9570871701b6f7b1c58b1a1eb9c70dd.mp3"
+            },
+            {
+              "id": 12491,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/537e909230109006a650223a630b7c18.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "title": "Đề 13 - Speaking 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8c9486fffeb985314f9dce1565c4f8cc.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3989,
+          "vanbancauhoi": "Describe this picture.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/0bad19701e7c9a368406652b055e1570.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn the picture, I can see 3 people, 2 old men and an old lady in the coffee shop. \u003c/p\u003e\r\n\u003cp\u003eIn the background, I cannot see anything because it is so blurry. \u003c/p\u003e\r\n\u003cp\u003eIn the front, there are 3 people wearing casual clothes. \u003c/p\u003e\r\n\u003cp\u003eIt is clear that they are sitting, drinking coffee and talking with each other. \u003c/p\u003e\r\n\u003cp\u003eI guess they are having a good time because I can see the smile on their face. \u003c/p\u003e\r\n\u003cp\u003eTo be honest, this picture is so beautiful that it might have been taken by a professional.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/83cf9c303bccc1a257a5d4d9bc08cba2.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12492,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bbec3f34e5fb9cbd06cb69433527aef8.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3992,
+          "vanbancauhoi": "When and where do you meet your friends?",
+          "vanbangiaithich": "Let me tell you about When and where I meet my friends. I often meet my friends when I have free time, for example in the evening. Besides, we usually go to coffee shops because it is cheap and convenient. It allows me to relax and reduce stress after a long day at work.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f7d48f83a7dd882e3ae5671e45d5c36c.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12493,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/357ae614ac782a210690cb7716cefa41.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3994,
+          "vanbancauhoi": "Why do some people have many friends?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eSome people have many friends for several reasons. First,They are often kind, helpful, and fun, so people like being around them. Second, some people have many friends because they are friendly and easy to talk to. They like meeting new people and enjoy spending time with others.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a88f41e30dfd13929656ce47d4dea3d1.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12494,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/535e6b0c8adac7437d0491e57f1960f8.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "title": "Đề 13 - Speaking 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/08f9d98e01cbacacb03a53a40a328002.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3998,
+          "vanbancauhoi": "\u003cp\u003eTell me about a time you spent surrounded by nature.\u003c/p\u003e\r\n\u003cp\u003eHow do you feel at that time?\u003c/p\u003e\r\n\u003cp\u003eHow can people be encouraged to protect and preserve nature?\u003c/p\u003e",
+          "vanbangiaithich": "Now, I am going to answer the 3 questions, which are:\u0026nbsp;\u003cbr\u003eTell me about a time you were surrounded by nature?\u003cbr\u003eHow do you at that time?\u003cbr\u003eHow can people be encouraged to protect and preserve nature?\u003cbr\u003eRegarding the first question, let me tell you about a time that I was surrounded by nature and it was when I made a trip to Danang City.\u003cbr\u003eWell, Da Nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive for me at that time.\u003cbr\u003eIt was when I was a second- year student at university. To relax and reduce stress after a long day at work, I decided to make a trip to Danang city with my friends. \u003cbr\u003eSo in Danang I did a number of things, first of all, I did some sightseeing in the mountains and I had a beautiful view of the city below. It was when I was surrounded by nature \u003cbr\u003eTurning to the second question, I usually feel excited when I am surrounded by nature because I can gain more experience. [For example, I was very delighted on the trip to Danang because I could broaden my knowledge about nature.\u003cbr\u003eAs for the final question, I think we should educate people about the benefits of protecting and preserving nature. When they understand these benefits, they are encouraged to take action.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7802456620df137c8400124e65b926bf.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12784,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5585dbd64bdbc45f23e7565047cc2360.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "title": "Đề 13 - Speaking 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/546000b6bea96c9da3d48dbcf2c6805d.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3995,
+          "vanbancauhoi": "Describe 2 pictures.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/6cc2049e733bd05583d283f6965eafaa.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eBoth pictures show me different ways of eating. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the first picture, a young man is sitting at a table, happily eating a colorful salad. He looks very content and enjoys his meal in a cozy kitchen. The room has a lot of plants and a warm atmosphere.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the second picture, another man is in a bright kitchen, preparing food. There are many fresh fruits and vegetables on the counter, showing that he enjoys cooking healthy meals.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI prefer the second picture because I love cooking. \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a8e19bda1ba50f142c1715edfd8afd89.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12495,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/73d29c2966da46f65bf8fc792f2105e0.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3996,
+          "vanbancauhoi": "What are the appeals of these 2 ways of eating?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eEach way of eating has its own appeals. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe first way of eating, like in the first picture, is appealing because it shows that eating healthy food can be enjoyable. Eating a salad is good for your health. It also looks very colorful and fresh.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe second way of eating, shown in the second picture, is interesting because it shows cooking at home. Cooking allows you to control what goes into your food, making it healthier.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dbdb0b5c289bc0bf20b3143ce8a0c411.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12496,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7f4fcdc06466176ad89d9b979209e458.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3997,
+          "vanbancauhoi": "Is it important to choose what to eat?",
+          "vanbangiaithich": "Yes, it is very important to choose what to eat because of some reasons.First, Healthy eating helps us feel better and have more energy. Second, Choosing the right foods can improve our mood and support our bodies. It is also important to enjoy our meals, so we can have a happy relationship with food. Eating a variety of foods keeps our meals interesting and tasty!",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ee5355806862856c9d34eab4e6eeba20.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12497,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b2868c2ec21aed8afe7558dccbaac621.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 747,
+      "title": "Đề 13 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a power fitness club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3933,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhich sport do you like to play the most? \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12366,
+              "vanbanphanhoi": "I like swimming",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3934,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat did you do last night? \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12367,
+              "vanbanphanhoi": "I finished my homework",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3935,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat do you do on the weekend? \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12368,
+              "vanbanphanhoi": "I hang out with friends",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3936,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eDo you like shopping? \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12369,
+              "vanbanphanhoi": "Yes, I love shopping",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3937,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat do you usually do in the morning?\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12370,
+              "vanbanphanhoi": "I do exercises",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 748,
+      "title": "Đề 13 - Writing part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a new member of the power fitness club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3938,
+          "vanbancauhoi": "What do you want to do and when are you free to exercise?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12371,
+              "vanbanphanhoi": "I want to start jogging regularly because it helps me stay fit and clear my mind. In addition, I am usually free to exercise in the evenings after work or on weekends.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 749,
+      "title": "Đề 13 - Writing part 3",
+      "des": "\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e\r\n\u003cp\u003e\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003cdiv class\u003d\"questions-container\"\u003e\r\n\u003cdiv class\u003d\"card invisible\"\u003e\r\n\u003cdiv\u003e\r\n\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3 col-sm-6 col-md-6\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e \u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3939,
+          "vanbancauhoi": "Amy: Hi. Welcome to the club. I joined because I love sports and I want to try out as many as possible. Why did you join?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12372,
+              "vanbanphanhoi": "I joined the club because I want to stay active and meet new friends who enjoy sports too. Also, I love trying different activities and learning new skills. It\u0027s exciting to be part of this community!",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3940,
+          "vanbancauhoi": "Philip: I am very busy and I don\u0026rsquo;t have a lot of time to keep fit. Can you give me some advice?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12373,
+              "vanbanphanhoi": "I agree that being busy can make it hard to exercise. Therefore, you could try short workouts at home or during breaks. For example, a quick walk can help you stay fit without taking much time.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3941,
+          "vanbancauhoi": "Steve: More and more people are becoming interested in keeping fit. What do you think the reason for this is?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12374,
+              "vanbanphanhoi": "I think more people are interested in keeping fit because they want to live healthier lives. Plus, social media also influences them to try new workouts and share their fitness journeys, making it more popular.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "title": "Đề 13 - Writing part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of the Power Fitness club. You received this email from the club’s manager.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eDear Member,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eUnfortunately in order to cut costs we are forced to reduce the facilities that we can offer our members. Some members have suggested that we close the club shop, where we sell sports equipment. Another suggestion is to close the cafe selling sandwiches and soft drinks. We would be interested to hear what you think. Please write to the manager with your suggestion and your reason for suggesting it.\u003cbr\u003e\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eBests,\u003cbr\u003eClub Manager.\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3942,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to your friend. Tell your friend what the club should do and why. Write about 50 words.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12375,
+              "vanbanphanhoi": "Hi Sarah,\r\nHow is it going? I hope you and your family are fine.\r\nHave you received the email from our club regarding cutting costs by either closing the club shop or the cafe.\r\nI was very shocked to hear that.\r\nI think the club should keep the cafe open. It’s a nice place to relax and socialize after workouts. The cafe makes the club feel more welcoming, and I believe many members enjoy it.\r\nWhat do you think about this? Hope to hear from you soon\r\nYours,\r\nAnna",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3943,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to the manager of the club. Say what you think the club should do and why. Write about 120-150 words.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12376,
+              "vanbanphanhoi": "Dear Club Manager,\r\nMy name is Anna. I have been a member of our club for 3 months. I am writing in response to your latest email.\r\nI am writing in response to your latest email.\r\nAccording to the news, in order to cut costs, our club is going to close the club shop, where we sell sports equipment, or close the cafe which sells sandwiches and soft drinks.\r\nI feel sad about the decision to cut facilities at our club.\r\n\r\nI would like to venture my ideas. I believe it would be better to close the club shop rather than the cafe. The cafe provides a space for members to relax, socialize, and refresh after their workouts. This atmosphere encourages community among members and keeps them coming back. I think many members would prefer a place to sit and chat. Retaining the cafe can enhance the overall experience at the club, making it more appealing to everyone.\r\n.\r\nI hope my suggestions will be useful and I am looking forward to hearing from you soon.\r\nBest regards,  \r\nAnna.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

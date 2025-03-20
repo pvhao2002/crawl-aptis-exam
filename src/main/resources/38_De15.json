@@ -1,0 +1,1937 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 4109,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA man is calling his mother. How long will he be late?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/62261afd4638ec2476780ea6e1459f4d.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12796,
+            "vanbanphanhoi": "10 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 12797,
+            "vanbanphanhoi": "15 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 12798,
+            "vanbanphanhoi": "20 minutes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4110,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA woman is going to the cinema with her husband. What time does the movie begin?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/744607bfd9a4662747975fac2407d1a8.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12799,
+            "vanbanphanhoi": "6:40",
+            "fileupload": ""
+          },
+          {
+            "id": 12800,
+            "vanbanphanhoi": "7:00",
+            "fileupload": ""
+          },
+          {
+            "id": 12801,
+            "vanbanphanhoi": "9:20",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4111,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA man is calling his friend. Where will they meet?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/70f4bb48529a4ebc66ff605b16074698.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12802,
+            "vanbanphanhoi": "At school",
+            "fileupload": ""
+          },
+          {
+            "id": 12803,
+            "vanbanphanhoi": "By the park",
+            "fileupload": ""
+          },
+          {
+            "id": 12804,
+            "vanbanphanhoi": "In the cafe",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4112,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eDan is going to university. Where should Dan turn right?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/faab2be537a3d185f2786cea2f20600b.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12805,
+            "vanbanphanhoi": "At the Main Street",
+            "fileupload": ""
+          },
+          {
+            "id": 12806,
+            "vanbanphanhoi": "At the hospital",
+            "fileupload": ""
+          },
+          {
+            "id": 12807,
+            "vanbanphanhoi": "At the traffic lights",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4113,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA saleswoman is talking to her customer. How much is the cheapest computer in the shop?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a60bd537eb803f593f63f9114107c93d.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12808,
+            "vanbanphanhoi": "135 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 12809,
+            "vanbanphanhoi": "145 pounds",
+            "fileupload": ""
+          },
+          {
+            "id": 12810,
+            "vanbanphanhoi": "155 pounds",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4114,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA tour guide is introducing a famous building. What is this building currently used for?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9d9c5ae19f006a3a98ec83f37f1cffd7.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12811,
+            "vanbanphanhoi": "A museum",
+            "fileupload": ""
+          },
+          {
+            "id": 12812,
+            "vanbanphanhoi": "A department store",
+            "fileupload": ""
+          },
+          {
+            "id": 12813,
+            "vanbanphanhoi": "A cinema",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4115,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eDavid is in an interview. What was his last job?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/87270036489872e67fd38438a3be66b1.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12814,
+            "vanbanphanhoi": "An engineer",
+            "fileupload": ""
+          },
+          {
+            "id": 12815,
+            "vanbanphanhoi": "A teacher",
+            "fileupload": ""
+          },
+          {
+            "id": 12816,
+            "vanbanphanhoi": "An electrician",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4116,
+        "vanbancauhoi": "\u003cp\u003eA man is talking to his friend. Why does he choose to be a doctor?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2b69a1f5a1dcd290a92061c48bdaa862.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12817,
+            "vanbanphanhoi": "To help people",
+            "fileupload": ""
+          },
+          {
+            "id": 12818,
+            "vanbanphanhoi": "To make his family proud",
+            "fileupload": ""
+          },
+          {
+            "id": 12819,
+            "vanbanphanhoi": "To make a lot of money",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4117,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA woman is talking to the police. What did she lose? \u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c1f2b37d9735c577b5896aeaf33dcd40.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12820,
+            "vanbanphanhoi": "A necklace",
+            "fileupload": ""
+          },
+          {
+            "id": 12821,
+            "vanbanphanhoi": "A bag",
+            "fileupload": ""
+          },
+          {
+            "id": 12822,
+            "vanbanphanhoi": "A wallet",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4118,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTom is talking with his friend about his teachers. What is his favourite teacher?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/16f69fd6cf82f2d532ae30b8b1d8c8b7.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12823,
+            "vanbanphanhoi": "Miss Taylor",
+            "fileupload": ""
+          },
+          {
+            "id": 12824,
+            "vanbanphanhoi": "Mr. Styles",
+            "fileupload": ""
+          },
+          {
+            "id": 12825,
+            "vanbanphanhoi": "Miss Brown",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4119,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA woman is talking to a shop assistant. Why does the woman return the dress?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5871b1d47a5a39e2af86ae8ba6df3c05.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12826,
+            "vanbanphanhoi": "Because of its size",
+            "fileupload": ""
+          },
+          {
+            "id": 12827,
+            "vanbanphanhoi": "Because of its color",
+            "fileupload": ""
+          },
+          {
+            "id": 12828,
+            "vanbanphanhoi": "Because of its pattern",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4120,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLouis is having dinner in a new restaurant. What is his opinion about that restaurant?\u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/78d030a92d39d168797425d5ae2add46.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12829,
+            "vanbanphanhoi": "The price is cheap",
+            "fileupload": ""
+          },
+          {
+            "id": 12830,
+            "vanbanphanhoi": "The food is delicious",
+            "fileupload": ""
+          },
+          {
+            "id": 12831,
+            "vanbanphanhoi": "The service is slow",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 4121,
+        "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA teacher is talking to her students. Where are the students now? \u003c/span\u003e\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6f1469876248b6f71fbee3eb9af67b90.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12832,
+            "vanbanphanhoi": "At school",
+            "fileupload": ""
+          },
+          {
+            "id": 12833,
+            "vanbanphanhoi": "In a townhouse",
+            "fileupload": ""
+          },
+          {
+            "id": 12834,
+            "vanbanphanhoi": "In a museum",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 787,
+        "title": "Đề 15- Listening C14",
+        "des": "\u003cspan xss\u003dremoved\u003eListen to opinions of 4 people A B C D about when they like listening to music\u003c/span\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4122,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI’ve always found music to be the best way to unwind after a long day. \u003c/span\u003e\u003cstrong\u003eI like to listen to music when I want to relax.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e It helps me switch off from everything, whether I’m lying on the couch or taking a walk in the park. I usually go for something soft and calming, like acoustic or classical music. It’s my way of de-stressing and escaping from all the noise of everyday life. I just close my eyes, and the music takes me away.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5f9de89af10a0a5db98f8febfb4bf52e.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12835,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12836,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12837,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12838,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12839,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              },
+              {
+                "id": 12840,
+                "vanbanphanhoi": "While sleeping",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4123,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson B: For me, \u003c/span\u003e\u003cstrong\u003emusic is a must when I’m studying\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I know some people find it distracting, but I actually concentrate better when there’s music playing in the background. I usually pick something without lyrics, like instrumental or electronic music, so it doesn’t interrupt my thinking. It keeps me focused and helps me stay motivated when I’m working on long assignments or preparing for exams. It’s become part of my study routine now.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a1d371a6158331157dba0daaa1a4f551.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12841,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12842,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12843,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12844,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12845,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              },
+              {
+                "id": 12846,
+                "vanbanphanhoi": "While sleeping",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4124,
+            "vanbancauhoi": "Speaker C _\u0026nbsp;",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson C:\u003c/span\u003e\u003cstrong\u003e I’ve always loved singing, so I listen to music whenever I feel like practicing my vocals.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e It’s not just about listening for fun; I like to sing along and try to improve my voice. Whether it’s pop songs or karaoke tracks, I find it really enjoyable and a great way to express myself. Sometimes I even record myself to see how I’m doing. It’s a fun hobby, and I love exploring new songs and melodies.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dad9a4abe9ca0bca0f55ee6b9bc3d34e.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12847,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12848,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12849,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12850,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12851,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              },
+              {
+                "id": 12852,
+                "vanbanphanhoi": "While sleeping",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4125,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson D: \u003c/span\u003e\u003cstrong\u003eI like to start my day with music as soon as I wake up.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e It helps me feel energized and ready for whatever lies ahead. As soon as I get out of bed, I turn on my favorite playlist, which is usually full of upbeat, happy songs. It’s like my morning ritual, setting the mood for the day and getting me in a good headspace. Music really helps kick-start my mornings on a positive note!\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b11085b3c704d3b1deb133cf97f911ff.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12853,
+                "vanbanphanhoi": "After waking up",
+                "fileupload": ""
+              },
+              {
+                "id": 12854,
+                "vanbanphanhoi": "While singing",
+                "fileupload": ""
+              },
+              {
+                "id": 12855,
+                "vanbanphanhoi": "To relax",
+                "fileupload": ""
+              },
+              {
+                "id": 12856,
+                "vanbanphanhoi": "While reading",
+                "fileupload": ""
+              },
+              {
+                "id": 12857,
+                "vanbanphanhoi": "While studying",
+                "fileupload": ""
+              },
+              {
+                "id": 12858,
+                "vanbanphanhoi": "While sleeping",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 788,
+        "title": "Đề 15 - Listening C15",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to two people discussing singers and music. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. \u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/33b7dba26aca3221e439b343ae79a64d.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4126,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eSinger can be good models for the young. _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12859,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12860,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12861,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4127,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eTaste in music is a highly personal thing. _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12862,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12863,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12864,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4128,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eMusic is a universal language. _\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12865,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12866,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12867,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4129,
+            "vanbancauhoi": "Music can be used to manipulate people\u0026rsquo;s feelings. _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: You know,\u003c/span\u003e\u003cstrong\u003e I really believe that singers can be good role models for young people. Their influence can inspire kids to pursue their dreams and express themselves.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e Just think about how many young artists start singing because they look up to someone famous.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: \u003c/span\u003e\u003cstrong\u003eI’m not so sure about that\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. While some singers may have positive messages, others don’t always set the best example. Sometimes their lifestyles can be quite the opposite of what we’d want kids to emulate.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: Fair point, but I think many young fans look up to their favorite artists and adopt their values. Artists like Taylor Swift or Ed Sheeran often promote kindness and hard work.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: I get that. But \u003c/span\u003e\u003cstrong\u003ewhen it comes to taste in music, it’s such a highly personal thing. What resonates with one person might not resonate with another.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e I mean, I might love rock while my friend prefers classical!\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003c/span\u003e\u003cstrong\u003eAbsolutely\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e! Everyone has their own preferences, and that’s what makes music so interesting. It’s like a reflection of our individual personalities.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: Exactly! And speaking of music, \u003c/span\u003e\u003cstrong\u003eI believe it’s a universal language that connects people from different cultures. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eYou can go anywhere in the world and find someone who enjoys music.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003c/span\u003e\u003cstrong\u003eI don’t fully agree with that. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eWhile music can connect people, its meanings can vary greatly between cultures. A song that makes one group happy might not even be understood by another.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: True, \u003c/span\u003e\u003cstrong\u003ebut one thing we can both agree on is that music can be used to manipulate people’s feelings,\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e whether in advertising or emotional moments in movies.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003c/span\u003e\u003cstrong\u003eDefinitely\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e! It’s amazing how a song can evoke such strong emotions in us. Just think about those movie soundtracks that give you chills or make you cry. Music has that incredible power.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: Right? It’s fascinating how a simple melody can tap into our emotions so deeply.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12868,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12869,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12870,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 789,
+        "title": "Đề 15 - Listening C16",
+        "des": "\u003cp\u003eA man is sharing a new guidebook. Choose the corrects answer.\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5634aef674b97c548495cd7f590b1cf5.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4130,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat does this guidebook offer to its audience?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12871,
+                "vanbanphanhoi": "It focuses solely on historical landmarks.",
+                "fileupload": ""
+              },
+              {
+                "id": 12872,
+                "vanbanphanhoi": "It creates an adventure.",
+                "fileupload": ""
+              },
+              {
+                "id": 12873,
+                "vanbanphanhoi": "It is difficult to navigate.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4131,
+            "vanbancauhoi": "\u003cp\u003eWhat is the speaker’s opinion about this guidebook?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThis guidebook is designed to inspire exploration and curiosity. Instead of simply listing famous landmarks, it encourages readers to step off the beaten path and discover hidden gems. For example, it includes local stories, unique activities, and tips for immersing oneself in the culture of the places they visit. Some might think it is a little bit difficult to navigate, but in reality, \u003c/span\u003e\u003cstrong\u003eit makes each journey feel like an adventure, \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eallowing travelers to create unforgettable memories and experiences that go beyond the typical sightseeing.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eThis guidebook resonates well with younger travelers today\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. Some say it’s only for seasoned explorers because it focuses on local cultures, which beginners might find confusing. Others think it’s outdated for those who prefer modern apps. However, it encourages real connections and unique experiences, helping travelers engage with locals.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12874,
+                "vanbanphanhoi": "It caters only to seasoned travelers.",
+                "fileupload": ""
+              },
+              {
+                "id": 12875,
+                "vanbanphanhoi": "It is outdated and irrelevant.",
+                "fileupload": ""
+              },
+              {
+                "id": 12876,
+                "vanbanphanhoi": "It is suitable for particular generations.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 790,
+        "title": "Đề 15 - Listening C17",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eA reviewer discussing a book about the life of a scientist. Choose the corrects answer.\u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1408da37cc7d3e5be582effdc6f5a7fc.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 4132,
+            "vanbancauhoi": "\u003cp\u003eWhat does the speaker say about the way of writing?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12877,
+                "vanbanphanhoi": "It is focused on technical details",
+                "fileupload": ""
+              },
+              {
+                "id": 12878,
+                "vanbanphanhoi": "It is exciting to read",
+                "fileupload": ""
+              },
+              {
+                "id": 12879,
+                "vanbanphanhoi": "It is more of a textbook than a biography",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 4133,
+            "vanbancauhoi": "\u003cp\u003eWhat does the speaker say about the overall content of the book?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eReviewer: Today, I want to share my thoughts on a fascinating book about the life of renowned scientist Dr. Emily Carter. One of the standout features of this book is that \u003cstrong\u003ethe way of writing is exciting for readers.\u003c/strong\u003e The author has a talent for bringing complex scientific concepts to life, making it an engaging experience.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eWhile some may expect a heavy focus on technical details, this book skillfully balances science with storytelling, ensuring that it remains accessible. It’s definitely not more of a textbook than a biography; instead, it invites readers into the scientist\u0027s world in a relatable way.\u003c/p\u003e\r\n\u003cbr\u003eOverall, \u003cstrong\u003eI’d say it has been written for a general audience. \u003c/strong\u003eThe author’s aim seems to be to inspire curiosity about science and encourage readers from all backgrounds to appreciate the contributions of Dr. Carter. Unlike other works that are only suitable for experts in the field, this book truly welcomes everyone to explore the life of an extraordinary scientist.",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12881,
+                "vanbanphanhoi": "It has been written for a general audience",
+                "fileupload": ""
+              },
+              {
+                "id": 12882,
+                "vanbanphanhoi": "It is only suitable for experts in the field",
+                "fileupload": ""
+              },
+              {
+                "id": 12883,
+                "vanbanphanhoi": "It lacks engaging storytelling",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 684,
+      "title": "Đề 15 - Reading part 1",
+      "des": "\u003cstrong\u003eRead the email from \u003c/strong\u003e\u003cspan xss\u003dremoved\u003e\u003cstrong\u003eAnna, to her friend David. Choose one word from the list for each gap. The first one has been done for you.\u003c/strong\u003e\u003cbr\u003e\u003cbr\u003eDear David, \u003cbr\u003eI have just\u003cem\u003e \u003cstrong\u003egone (sample)\u003c/strong\u003e\u003c/em\u003e to a clothing store.\u003cbr\u003e\u003c/span\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLove, \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAnna\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3718,
+          "vanbancauhoi": "I have _been to a clothing store.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11685,
+              "vanbanphanhoi": "have",
+              "fileupload": ""
+            },
+            {
+              "id": 11686,
+              "vanbanphanhoi": "just",
+              "fileupload": ""
+            },
+            {
+              "id": 11687,
+              "vanbanphanhoi": "can",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3721,
+          "vanbancauhoi": "And the color is perfect, _ .",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11688,
+              "vanbanphanhoi": "too",
+              "fileupload": ""
+            },
+            {
+              "id": 11689,
+              "vanbanphanhoi": "end",
+              "fileupload": ""
+            },
+            {
+              "id": 11690,
+              "vanbanphanhoi": "begin",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3722,
+          "vanbancauhoi": "I am going to wear it _ my birthday party. \u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11691,
+              "vanbanphanhoi": "in",
+              "fileupload": ""
+            },
+            {
+              "id": 11692,
+              "vanbanphanhoi": "on",
+              "fileupload": ""
+            },
+            {
+              "id": 11693,
+              "vanbanphanhoi": "at",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3723,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eSorry you can’t come, I will bring _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e cakes for you. \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11694,
+              "vanbanphanhoi": "some",
+              "fileupload": ""
+            },
+            {
+              "id": 11695,
+              "vanbanphanhoi": "little",
+              "fileupload": ""
+            },
+            {
+              "id": 11696,
+              "vanbanphanhoi": "much",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3725,
+          "vanbancauhoi": "_ my love to everyone for me.\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11697,
+              "vanbanphanhoi": "Give",
+              "fileupload": ""
+            },
+            {
+              "id": 11698,
+              "vanbanphanhoi": "Thank",
+              "fileupload": ""
+            },
+            {
+              "id": 11699,
+              "vanbanphanhoi": "Have",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "title": "Đề 15 - Reading part 2",
+      "des": "\u003cstrong\u003eThe sentences below are from a summary of a student in a history class. Put the sentences in the right order. The first sentence is done for you.\u003c/strong\u003e\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eLife of the Great Belly\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3726,
+          "vanbancauhoi": "0. Belly\u0027s life journey was deeply connected to the city of Shanghai.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 13019,
+              "vanbanphanhoi": "She was born in Shanghai in 1933 to a American mother from Scotland",
+              "fileupload": ""
+            },
+            {
+              "id": 13020,
+              "vanbanphanhoi": "At that time, Shanghai was a city filled with many people from different countries",
+              "fileupload": ""
+            },
+            {
+              "id": 13021,
+              "vanbanphanhoi": "A few years after she finished school, she moved abroad.",
+              "fileupload": ""
+            },
+            {
+              "id": 13022,
+              "vanbanphanhoi": "However, Belly missed China and often thought about her homeland.",
+              "fileupload": ""
+            },
+            {
+              "id": 13023,
+              "vanbanphanhoi": "In the 1980s, she finally returned to China and still lives with her Shanghai husband",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 686,
+      "title": "Đề 15 - Reading part 3",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eThe sentences below are from some directions. Put the sentences in the right order. The first sentence is done for you.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003cp\u003e\u003cstrong\u003eInstructions for using the city\u0027s parking lot\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3727,
+          "vanbancauhoi": "0. To use the parking lot, kindly go to the parking area",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 11708,
+              "vanbanphanhoi": "The ticket will show information about the date and time you enter.",
+              "fileupload": ""
+            },
+            {
+              "id": 11709,
+              "vanbanphanhoi": "Please display the ticket with this information in the window of your car.",
+              "fileupload": ""
+            },
+            {
+              "id": 11710,
+              "vanbanphanhoi": "Before you leave, give the ticket to the machine at the gate.",
+              "fileupload": ""
+            },
+            {
+              "id": 11711,
+              "vanbanphanhoi": "The machine will read the ticket and tell you how much you have to pay.",
+              "fileupload": ""
+            },
+            {
+              "id": 12962,
+              "vanbanphanhoi": "When you arrive, please take the ticket from the machine near the entrance.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "title": "Đề 15 - Reading part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eFour people express their opinions about the new station. Read their comments and answer the questions below.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eOriginally, the city planners promised money for building a hospital initially. I don\u0027t understand why they switched to construct a new station then. This new station won\u0027t solve the traffic jams, and it will require the city\u0027s budget every year. Therefore, we won\u0027t have money left to build a hospital while health should be a priority, I believe it\u0027s better to invest in health services instead.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe new station will be in the residential area, close to the hospital and university. We already have buses for getting around, and even though they might be slow sometimes, that\u0027s not a reason for being late. I always go to work on time, and I think everyone should work on their personal schedule. People often blame traffic for being late, but I manage to avoid that.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI take the train to work every day, and I am tired of the overcrowded trains. I believe investing in a new station is worthwhile, as it could enhance the transportation system and alleviate congestion at the current station. We should consider placing the new station in densely populated residential areas, as this would improve train travel and help reduce crowding.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe city planners say that investing in a new station may not be necessary. Both the current station and the bus services appear to work well. Although I don\u0027t use trains regularly, I have found the service to be satisfactory whenever I do. The existing facilities are adequate, and I don\u0027t see a pressing need to spend money on a new station at this time.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3728,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that better medical facilities are needed? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11712,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11713,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11714,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11715,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3729,
+          "vanbancauhoi": "Who thinks that the bus is too busy? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11716,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11717,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11718,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11719,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3730,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that people should plan their journey better? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11720,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11721,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11722,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11723,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3731,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that the transport doesn’t need to be improved? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11724,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11725,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11726,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11727,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3732,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that the bus has a good service? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11728,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11729,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11730,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11731,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3733,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that the station will cost too much to build? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11732,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11733,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11734,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11735,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3734,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that the station will improve train travel? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11736,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11737,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11738,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11739,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "title": "Đề 15 - Reading part 5",
+      "des": "\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1–7) from the drop-down box. There is one more heading than you need.\u003c/strong\u003e\u003cbr\u003e\r\n\u003ch1\u003eCONSUMER AGE OF THE 20TH CENTURY\u003c/h1\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3735,
+          "vanbancauhoi": "1. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn today\u0027s consumer-driven society, the focus is often on acquiring new products. However, adopting a more sustainable approach to consumption can have positive effects on the environment and our wallets.By ensuring proper maintenance and repair, we can extend the lifespan of things, leading to reduced waste and conserved resources. Companies can also play a crucial role by designing products with durability in mind, encouraging a shift towards a more eco-friendly and responsible consumer culture.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11740,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 11741,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 11742,
+              "vanbanphanhoi": "Consumption trends",
+              "fileupload": ""
+            },
+            {
+              "id": 11743,
+              "vanbanphanhoi": "Makinging things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 11744,
+              "vanbanphanhoi": "Still relevant to our times",
+              "fileupload": ""
+            },
+            {
+              "id": 11745,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 11746,
+              "vanbanphanhoi": "Important lesson for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 11747,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3736,
+          "vanbancauhoi": "2. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eTemporary consumption trends, like fad diets or fast fashion, are common in the modern world. While they might seem harmless, they can contribute to overconsumption and unnecessary waste. Being mindful of our consumption habits and avoiding temporary fads can help us make more sustainable choices. Opting for long-lasting, classic styles and sustainable products can reduce the negative impact of these fleeting trends on the environment.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11748,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 11749,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 11751,
+              "vanbanphanhoi": "Consumption trends",
+              "fileupload": ""
+            },
+            {
+              "id": 11754,
+              "vanbanphanhoi": "Makinging things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 11756,
+              "vanbanphanhoi": "Still relevant to our times",
+              "fileupload": ""
+            },
+            {
+              "id": 11759,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 11760,
+              "vanbanphanhoi": "Important lesson for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 11761,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3737,
+          "vanbancauhoi": "3. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn some instances, luxurious consumption has become a social status symbol. People may feel pressured to show off their wealth by purchasing luxury items, even if they don\u0027t really need them. This behavior can be harmful to the environment and lead to financial strain. Encouraging a culture of modesty and frugality can counteract the negative effects of conspicuous consumption, promoting a more sustainable and equitable society.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11762,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 11763,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 11764,
+              "vanbanphanhoi": "Consumption trends",
+              "fileupload": ""
+            },
+            {
+              "id": 11765,
+              "vanbanphanhoi": "Makinging things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 11766,
+              "vanbanphanhoi": "Still relevant to our times",
+              "fileupload": ""
+            },
+            {
+              "id": 11767,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 11768,
+              "vanbanphanhoi": "Important lesson for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 11769,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3738,
+          "vanbancauhoi": "4. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eDespite the rise of digital media and online streaming, physical books, vinyl records, and other tangible goods still hold value to many. Some people find joy in collecting items that have sentimental significance or represent their interests. Balancing these interests with mindful consumption can lead to a more meaningful and less wasteful lifestyle, as appreciating and caring for possessions can extend their lifespan and reduce the need for frequent replacements.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11775,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 11777,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 11778,
+              "vanbanphanhoi": "Consumption trends",
+              "fileupload": ""
+            },
+            {
+              "id": 11779,
+              "vanbanphanhoi": "Makinging things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 11780,
+              "vanbanphanhoi": "Still relevant to our times",
+              "fileupload": ""
+            },
+            {
+              "id": 11781,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 11782,
+              "vanbanphanhoi": "Important lesson for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 11783,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3739,
+          "vanbancauhoi": "5. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn a world driven by consumerism, practicing generosity can be challenging. We may feel compelled to constantly acquire more for ourselves, making it hard to prioritize giving to others or supporting charitable causes. However, embracing a more generous mindset can bring about a sense of fulfillment and happiness. By focusing on giving rather than accumulating, we can contribute positively to society and make a difference in the lives of others.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11790,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 11791,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 11792,
+              "vanbanphanhoi": "Consumption trends",
+              "fileupload": ""
+            },
+            {
+              "id": 11793,
+              "vanbanphanhoi": "Makinging things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 11794,
+              "vanbanphanhoi": "Still relevant to our times",
+              "fileupload": ""
+            },
+            {
+              "id": 11795,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 11798,
+              "vanbanphanhoi": "Important lesson for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 11801,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3740,
+          "vanbancauhoi": "6. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAs consumers, we often face choices that involve making compromises. Balancing our desires for convenience and luxury with the need for sustainability and responsible consumption can be tough. However, making thoughtful compromises can help us strike a balance between personal enjoyment and environmental impact. Opting for eco-friendly alternatives, even if they require some adjustments, can lead to a more sustainable lifestyle that benefits both ourselves and the planet.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11804,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 11805,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 11806,
+              "vanbanphanhoi": "Consumption trends",
+              "fileupload": ""
+            },
+            {
+              "id": 11807,
+              "vanbanphanhoi": "Makinging things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 11808,
+              "vanbanphanhoi": "Still relevant to our times",
+              "fileupload": ""
+            },
+            {
+              "id": 11809,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 11810,
+              "vanbanphanhoi": "Important lesson for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 11811,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3741,
+          "vanbancauhoi": "7. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eConsumption has a profound impact on our lives and the environment. By making conscious choices, such as making things last longer, resisting temporary trends, and being mindful of the true value of possessions, we can promote sustainability and reduce waste. Additionally, learning to be generous and making thoughtful compromises can lead to a more fulfilling and responsible consumer culture. As consumers, each one of us has the power to shape the future and create a more sustainable world for generations to come.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11812,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 11813,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 11814,
+              "vanbanphanhoi": "Consumption trends",
+              "fileupload": ""
+            },
+            {
+              "id": 11815,
+              "vanbanphanhoi": "Makinging things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 11816,
+              "vanbanphanhoi": "Still relevant to our times",
+              "fileupload": ""
+            },
+            {
+              "id": 11817,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 11818,
+              "vanbanphanhoi": "Important lesson for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 11819,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 779,
+      "title": "Đề 15 - Speaking 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/264f9ad98880ab7230b5b0697db68086.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4087,
+          "vanbancauhoi": "Please tell me about the last time you saw an advertisement.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWhen I was watching videos on Youtube, an advertisement appeared. As I remember, it was a Youtube advertisement , which recommended that I buy Premium Youtube to stop being interrupted from watching videos from advertisements. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2:  \u003c/strong\u003eThe last time I saw an advertisement was yesterday. It was an ad for a new phone on TV. The phone had a big screen and many new features. The advertisement made it look very cool, and it made me want to buy it.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1f857d086568bc1fbc7a62834de4e782.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12771,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c67a893222bd5d4a0901f36d33d9a0eb.mp3"
+            },
+            {
+              "id": 12772,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ca46361cd5e4eeca689129ab874856b4.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4088,
+          "vanbancauhoi": "What sports do people like in your country?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eAlmost all people in my country have an active lifestyle. To do this, they play sports in their free time.And the most famous sports in my country is badminton, after that is football and basketball. That\u0027s all I want to share and thank you for listening.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eIn my country, people enjoy playing football. It is the most popular sport. Many people also play badminton or basketball. On weekends, you can see many people in the parks playing these sports with their friends.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/70149fb4f36ed67b1fab3a65424fffb6.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12773,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/548ab1e0c05880b08e00c7bd302aef70.mp3"
+            },
+            {
+              "id": 12774,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c0b8db86fe5ec98235588be938eeb8b3.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4089,
+          "vanbancauhoi": "What is the best way to travel around your country?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eIf you want to travel around my country, I recommend you to travel by motorbike. Motorbikes are small, fast and can go anywhere, any region in my country. Besides, you can watch the beautiful views on the way you are traveling too. That\u0027s all I want to share and thank you for listening\u003c/p\u003e\r\n\u003cstrong\u003eVersion 2: \u003c/strong\u003eThe best way to travel around my country is by bus or train. Buses are cheap and easy to use. Trains are a good way to travel long distances. Some people also like to ride motorbikes to get around quickly.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/756aa81464af50a91fb9e99b6e302b6d.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12775,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/071bad6d636e5f450a2e46c3f3393109.mp3"
+            },
+            {
+              "id": 12776,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8182eaa5c2686b7b02e44aa282e481c8.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "title": "Đề 15 - Speaking 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bc29d21a0b061059384757d926e67626.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4090,
+          "vanbancauhoi": "Describe the picture.\u003cbr\u003e\u003cimg src\u003d\"https://luyenthi.aptistests.vn/api//source/image/e6f140e30d14b1b51b2b89c7996be844.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn the picture, I can see a woman standing in what appears to be a supermarket. She seems to be looking closely at a red bottle, possibly reading the label to make sure it\u0027s what she needs. The background is quite blurry, so I can\u0027t make out specific details, but I can assume she is focused on her task. Judging from her appearance, she might be a housewife doing her daily shopping. She looks calm and concentrated. Overall, this picture captures a simple yet beautiful moment of everyday life.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6010319a0dcb4c3383af194e621e9b79.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12777,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8236060aa7c593719023819dc6cbdc13.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4091,
+          "vanbancauhoi": "Tell me about a time you shopped in a small local market.",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe last time I shopped in a small local market was just a couple of days ago. I went with my friends after work to pick up some fresh vegetables and rice for dinner. I really enjoy shopping in these markets because the produce is fresh, and it’s a nice way to unwind after a long day. The atmosphere is lively, and it’s a great place to connect with the community while supporting local vendors.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4a262eba0b9ec121c0ff4f028b977d15.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12778,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c48450cc675aae177699a050b9fc5b61.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4092,
+          "vanbancauhoi": "Why do people love shopping on the Internet?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePeople love shopping online because it’s incredibly convenient. You can shop at any time of day without leaving your home, and you have access to a wide range of products. Online shopping also allows you to easily compare prices and read reviews, which helps in making better purchasing decisions. In addition, many online stores offer discounts and special deals that are not available in physical stores, making it even more attractive.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ce27d61310bc082d1c3bf40a8b9f9944.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12779,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/300b5df61298416d04e00cc0d99c228e.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 781,
+      "title": "Đề 15 - Speaking 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b61bdc8c13f9a98364d9fe8e1be1796e.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4093,
+          "vanbancauhoi": "Describe 2 pictures.\u003cbr\u003e\u003cimg src\u003d\"https://luyenthi.aptistests.vn/api//source/image/597ac4a3840ae4fb078a323818cec4a9.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures are so beautiful, let me describe it/ Both pictures show me about men eating foods.\u003c/p\u003e\r\n\u003cp\u003eIn the first picture, I can see there is a man sitting at a table, happily eating a colorful plate of fresh vegetables. I guess he is happy because I see him smiling. \u003c/p\u003e\r\n\u003cp\u003eIn the second picture, there are three men gathered around a table, sharing a large pizza. They’re laughing and chatting together so I guess they are friends or colleagues.\u003c/p\u003e\r\n\u003cp\u003ePersonally, I love both pictures because they are so beautiful.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3124512b43414de0982a9d166e83cff9.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12780,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d6d5d5fa8602811b30fa823a39745651.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4094,
+          "vanbancauhoi": "Which food do you prefer?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eEach picture has its own attractions, but I prefer the one with the man eating vegetables. Vegetables are a great way to stay fit and healthy, providing essential nutrients that boost energy and support overall well-being, making me feel my best.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/395b8152d6abb96f5a3dbaaeb57e2c57.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12781,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6b35c79577afa5e10cfac73607c7823f.mp3"
+            }
+          ]
+        },
+        {
+          "id": 4095,
+          "vanbancauhoi": "Why do people like to eat different types of food?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePeople like to eat different types of food because it makes meals more fun and interesting. Trying new flavors and dishes can be an exciting experience. It also helps people relax and enjoy their time with friends and family, making eating a joyful occasion.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/998f56240664d9aad84e19c942eb48ae.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12782,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/703d1e337f541b0db5bd97786d9ee160.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 782,
+      "title": "Đề 15 - Speaking 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d40eb0d9fa672ca52fc3c52f2b8b06e8.mp3",
+      "LstCauHoi": [
+        {
+          "id": 4096,
+          "vanbancauhoi": "A time you watched or played an extreme sports\u003cbr\u003eHow do you feel when you played extreme sports\u003cbr\u003eOnly adults are allowed to play extreme sports. What do you think about it?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eNow, let me answer the three questions.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAs for the first one, the last time I watched an extreme sport was about two months ago when I visited Da Nang. The city is famous for its stunning beaches, including My Khe, one of the most beautiful beaches in the world. While I was there, I had the opportunity to watch people engage in extreme water sports, like jet-skiing and parasailing. It was an exciting experience, even though I was just a spectator.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMoving on to the second question, the last time I participated in an extreme sport was during the same trip. I tried parasailing for the first time, and I felt an overwhelming sense of thrill and excitement. Being up in the air, with nothing but the wind rushing past me, gave me such an adrenaline rush. It was an unforgettable moment, and I felt incredibly happy.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eFor the final question, I agree that extreme sports should generally be limited to adults. These activities can be very dangerous, and they require a high level of physical and mental preparedness. Adults are better equipped to handle the risks involved, and they’re more likely to follow safety protocols. That’s all I would like to share, and thank you for listening.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/64be819f8328c6edba57407f42e74a87.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12783,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/848e7dd5c0471e17765d24003a5aca73.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 785,
+      "title": "Đề 15 - Writing p3",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou are talking to other members of the club in the chat room. Talk to them using sentences. Use 30 – 40 words per answer. \u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 4104,
+          "vanbancauhoi": "\u003cp\u003ePerson A: Tell me about your favourite time and place to read a book?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12791,
+              "vanbanphanhoi": "I love reading books in my free time, for example in the evening. Plus, my favorite places to read are a comfortable armchair in the living room or my bed, as they help me relax and unwind after a long day at work.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 4105,
+          "vanbancauhoi": "\u003cp\u003ePerson B: I bought a book as a gift for my friend but I don\u0027t know what kind of book he likes. Can you give me some advice? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12792,
+              "vanbanphanhoi": "Advice \u003d\u003e lời khuyên\r\nIf I were you, I would + V..\r\nI suggest you should  + V\r\nI recommend + V-ing\r\n I think you should + V…\r\n\u003d\u003e If I were you, I would try giving him literature books, for example “Truyen Kieu”, which is one of the most famous books in Vietnam. Reading this kind of book allows him not only to refresh his mind but also to expand his knowledge about history.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 4106,
+          "vanbancauhoi": "\u003cp\u003ePerson C: In the future, nobody reads traditional books as everything is on the computer. What do you think about this?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12793,
+              "vanbanphanhoi": "I disagree that in the future, nobody reads traditional books as everything is on the computer for several reasons. I think traditional books can be a good way to relax without any distractions, while computers often have notifications",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 786,
+      "title": "Đề 15 - Writing p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of the book club. You received this email from the club’s manager.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eDear member,\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003eOur club wants to organize an event for the public by inviting a famous author as a speaker. What kind of author do you suggest? What topic should the speaker speak on? I am writing to ask all members for their suggestions. Please send me your ideas in an email.\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe manager,\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 4107,
+          "vanbancauhoi": "Write an email to your friend, who is also a member of the group. (50 words)",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12794,
+              "vanbanphanhoi": "Hi Tom,\r\nHow is it going? I hope you and your family are well.\r\nHave you received the email from our club?\r\nI am very excited to hear that news.\r\nI believe that a well-known author can bring positive results. Personally, I think the speaker should speak on the topic named “ the beauty of books”.\r\nWhat do you think about this? Hope to hear from you soon.\r\nYours,\r\nJohn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 4108,
+          "vanbancauhoi": "Write an email to the manager of the club. Tell the manager about your opinion. (120 -150 words)",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12795,
+              "vanbanphanhoi": "Dear Club Manager,\r\nMy name is John. I have been a member for 2 months. I am writing in response to your latest email.\r\nAccording to the email, our club wants to organize an event for the public by inviting a famous author as a speaker. To be honest, I felt really excited about this event.\r\nI would love to venture my idea. I think we can invite speaker Le Tham Duong, who is quite famous for his lectures on skills as well as his professional knowledge. I think with his presence, our upcoming event will be successful. I see that his videos are getting a lot of support from people. In addition, I think the speaker should speak on the topic named “ the beauty of books”. For example, books are good ways to not only expand social knowledge but also make friends who have the same hobby. I believe this topic would attract a lot of people. \r\nI hope my suggestions will be useful.\r\nI am looking forward to hearing from you soon.\r\nBest regards,\r\nJohn",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 783,
+      "title": "Đề 15 - Writing p1",
+      "des": "\u003cstrong\u003eYou want to join a Book club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 4097,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhich sport is the most popular in your country?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12785,
+              "vanbanphanhoi": "It’s soccer/ football",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 4099,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat do you like doing with your friend?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12786,
+              "vanbanphanhoi": "I like listening to music",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 4100,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhich sport do you like to play the most?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12787,
+              "vanbanphanhoi": "Soccer",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 4101,
+          "vanbancauhoi": "What did you do last night?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12788,
+              "vanbanphanhoi": "I played basketball last night",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 4102,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat do you do on the weekend?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12789,
+              "vanbanphanhoi": "I go shopping",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "title": "Đề 15 - Writing p2",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou want to join a book club. Fill in the form. Write in sentences. Use 20-30 words.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 4103,
+          "vanbancauhoi": "\u003cp\u003eWhen and where do you usually read books?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12790,
+              "vanbanphanhoi": "I usually read books when I have free time, for example in the evening. In addition, I like to read at home because it allows me to expand my social knowledge.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

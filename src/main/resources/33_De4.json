@@ -1,0 +1,1907 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3228,
+        "vanbancauhoi": "A man is calling his colleague about a meeting with clients. When will the meeting start?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5206978cfc2aa971b47b95412eff4f88.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9953,
+            "vanbanphanhoi": "at 9.15",
+            "fileupload": ""
+          },
+          {
+            "id": 9954,
+            "vanbanphanhoi": "at 10.15",
+            "fileupload": ""
+          },
+          {
+            "id": 9955,
+            "vanbanphanhoi": "at 11.15",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3225,
+        "vanbancauhoi": "A man is calling his friend, Maria. When will he see her?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3aa87f49903b6f078e2061ce6a97c94f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9950,
+            "vanbanphanhoi": "at 9 am on Sunday",
+            "fileupload": ""
+          },
+          {
+            "id": 9951,
+            "vanbanphanhoi": "at 10 am on Saturday",
+            "fileupload": ""
+          },
+          {
+            "id": 9952,
+            "vanbanphanhoi": "at 8 am on Sunday",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3229,
+        "vanbancauhoi": "A customer is calling the hotline of a department store. Which number to press in order to buy a computer?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/cbf83d1380332f70ecf2c385698c7b2f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9956,
+            "vanbanphanhoi": "One",
+            "fileupload": ""
+          },
+          {
+            "id": 9957,
+            "vanbanphanhoi": "Two",
+            "fileupload": ""
+          },
+          {
+            "id": 9958,
+            "vanbanphanhoi": "Three",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3230,
+        "vanbancauhoi": "An expert is talking about lack of satisfaction at work. What should be the solution?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1c7f9e24e8b3f4d6225c4edf34240c6a.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9959,
+            "vanbanphanhoi": "Raise the salary",
+            "fileupload": ""
+          },
+          {
+            "id": 9960,
+            "vanbanphanhoi": "Seek a new job",
+            "fileupload": ""
+          },
+          {
+            "id": 9961,
+            "vanbanphanhoi": "Request a transfer",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3231,
+        "vanbancauhoi": "A man is talking to his friend. Why does he need to learn to drive?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0215e1048c082b2ac493a6f1b2300419.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9962,
+            "vanbanphanhoi": "He lost his driving license.",
+            "fileupload": ""
+          },
+          {
+            "id": 9963,
+            "vanbanphanhoi": "He has to drive to work",
+            "fileupload": ""
+          },
+          {
+            "id": 9964,
+            "vanbanphanhoi": "He bought a new car.",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3232,
+        "vanbancauhoi": "A tour guide is talking about birds\u0026rsquo; behaviors. What do birds do in the winter?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4a4e327bf36e7ba06a52c5e4569ea926.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9965,
+            "vanbanphanhoi": "Stay together for group protection",
+            "fileupload": ""
+          },
+          {
+            "id": 9966,
+            "vanbanphanhoi": "Building nests",
+            "fileupload": ""
+          },
+          {
+            "id": 9967,
+            "vanbanphanhoi": "Migrate to a new place",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3234,
+        "vanbancauhoi": "Two friends are talking about their school days. What was the woman good at?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2eb1e52e843b6b874c728e78e7609096.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9968,
+            "vanbanphanhoi": "Swimming",
+            "fileupload": ""
+          },
+          {
+            "id": 9969,
+            "vanbanphanhoi": "Plays football",
+            "fileupload": ""
+          },
+          {
+            "id": 9970,
+            "vanbanphanhoi": "Running",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3236,
+        "vanbancauhoi": "\u003cstrong\u003ePierre and Emma are talking together about the picnic on the weekend. What will they bring to the picnic?\u003c/strong\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7b7a1e9b424be1296165a47e808a82b5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9974,
+            "vanbanphanhoi": "Drinks",
+            "fileupload": ""
+          },
+          {
+            "id": 9975,
+            "vanbanphanhoi": "Salads",
+            "fileupload": ""
+          },
+          {
+            "id": 9976,
+            "vanbanphanhoi": "Food",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3237,
+        "vanbancauhoi": "A tour guide is talking about the group\u0026rsquo;s traveling schedule. Where will the group wait for the bus?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a160daf5e137b329e45985f052d008ad.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9977,
+            "vanbanphanhoi": "by the hotel\u0027s side entrance",
+            "fileupload": ""
+          },
+          {
+            "id": 9978,
+            "vanbanphanhoi": "behind the hotel’s main entrance",
+            "fileupload": ""
+          },
+          {
+            "id": 9979,
+            "vanbanphanhoi": "by the hotel\u0027s main entrance",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3238,
+        "vanbancauhoi": "\u003cp\u003eListen to the announcement from a travel agent representative. Why is the air travel cancelled?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d16b6e17eb8d8026c692b0c2b16ca3f9.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9980,
+            "vanbanphanhoi": "Engine failure",
+            "fileupload": ""
+          },
+          {
+            "id": 9981,
+            "vanbanphanhoi": "Poor weather conditions",
+            "fileupload": ""
+          },
+          {
+            "id": 9982,
+            "vanbanphanhoi": "Delay at transit spot",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3239,
+        "vanbancauhoi": "A saleswoman is talking to a customer about a house. What is not original?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a2cafb5ad6f0f46ce2d9586aff4bba47.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9983,
+            "vanbanphanhoi": "Floor",
+            "fileupload": ""
+          },
+          {
+            "id": 9984,
+            "vanbanphanhoi": "Furniture",
+            "fileupload": ""
+          },
+          {
+            "id": 9985,
+            "vanbanphanhoi": "Architecture",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3240,
+        "vanbancauhoi": "Listen to a weather forecast. Where will the weather be best?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d67735fcaf1485205af8472d0fa03ca9.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9986,
+            "vanbanphanhoi": "In the south",
+            "fileupload": ""
+          },
+          {
+            "id": 9987,
+            "vanbanphanhoi": "In the west",
+            "fileupload": ""
+          },
+          {
+            "id": 9988,
+            "vanbanphanhoi": "In the east",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3241,
+        "vanbancauhoi": "Adam is calling his friend. When will he need the computer?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/45de8f7f80a97a37d0010608aff6e100.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 9989,
+            "vanbanphanhoi": "Tuesday",
+            "fileupload": ""
+          },
+          {
+            "id": 9990,
+            "vanbanphanhoi": "Friday",
+            "fileupload": ""
+          },
+          {
+            "id": 9991,
+            "vanbanphanhoi": "Saturday",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 588,
+        "title": "Đề 4 - Listening C14",
+        "des": "\u003cstrong\u003eFour people are talking about doing arts. Complete the sentences below.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3242,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e\"I love when people come together to create something—\u003cstrong\u003eit’s not just about the art itself but about connecting with each other\u003c/strong\u003e. Ideas bounce around, and suddenly, new ones come to life. Everyone’s personality blends into the work, making it feel bigger than anything we could make alone. Art becomes a shared experience, bringing us all together.\"\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/87acf5f74b579c0e885bcface516d68e.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11750,
+                "vanbanphanhoi": "Doing arts alone",
+                "fileupload": ""
+              },
+              {
+                "id": 11752,
+                "vanbanphanhoi": "Doing arts to relax",
+                "fileupload": ""
+              },
+              {
+                "id": 11753,
+                "vanbanphanhoi": "Doing arts as part of the job",
+                "fileupload": ""
+              },
+              {
+                "id": 11755,
+                "vanbanphanhoi": "Doing arts with children",
+                "fileupload": ""
+              },
+              {
+                "id": 11757,
+                "vanbanphanhoi": "Doing as a social activity",
+                "fileupload": ""
+              },
+              {
+                "id": 11758,
+                "vanbanphanhoi": "Doing as a hobby",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3244,
+            "vanbancauhoi": "Speaker B_",
+            "vanbangiaithich": "\"\u003cstrong\u003eKids are so fearless with art\u003c/strong\u003e. They jump in, without worrying about mistakes, making everything feel magical.\u003cstrong\u003e Teaching them is a reminder that creativity should be free and fun\u003c/strong\u003e. They show you that art is as much about play and expression as it is about any \u0027rules.\u0027\"",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d551ca4d3cbf879e5fb8d31384cb3c3c.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11770,
+                "vanbanphanhoi": "Doing arts alone",
+                "fileupload": ""
+              },
+              {
+                "id": 11771,
+                "vanbanphanhoi": "Doing arts to relax",
+                "fileupload": ""
+              },
+              {
+                "id": 11772,
+                "vanbanphanhoi": "Doing arts as part of the job",
+                "fileupload": ""
+              },
+              {
+                "id": 11773,
+                "vanbanphanhoi": "Doing arts with children",
+                "fileupload": ""
+              },
+              {
+                "id": 11774,
+                "vanbanphanhoi": "Doing as a social activity",
+                "fileupload": ""
+              },
+              {
+                "id": 11776,
+                "vanbanphanhoi": "Doing as a hobby",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3245,
+            "vanbancauhoi": "Speaker C_",
+            "vanbangiaithich": "\u003cp\u003e\"\u003cstrong\u003eArt is part of my work, so it comes with structure—deadlines, clients, and goals. \u003c/strong\u003eIt’s different from personal art because I’m balancing my ideas with what’s needed for the project. But there’s a thrill in that challenge, and seeing the finished work is deeply satisfying.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2562557c437675dcb892c6411d358d7b.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11784,
+                "vanbanphanhoi": "Doing arts alone",
+                "fileupload": ""
+              },
+              {
+                "id": 11785,
+                "vanbanphanhoi": "Doing arts to relax",
+                "fileupload": ""
+              },
+              {
+                "id": 11786,
+                "vanbanphanhoi": "Doing arts as part of the job",
+                "fileupload": ""
+              },
+              {
+                "id": 11787,
+                "vanbanphanhoi": "Doing arts with children",
+                "fileupload": ""
+              },
+              {
+                "id": 11788,
+                "vanbanphanhoi": "Doing as a social activity",
+                "fileupload": ""
+              },
+              {
+                "id": 11789,
+                "vanbanphanhoi": "Doing as a hobby",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3246,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "\u003cp\u003e\"\u003cstrong\u003eArt, for me, is a quiet, personal thing.\u003c/strong\u003e It’s my time to focus inward, away from distractions. I don’t need anyone else there; it’s just me and my thoughts. Creating alone brings a peace where I can explore and express freely, just for myself.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/52091dd0f1b129b605f7e30e1a69ce9d.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11796,
+                "vanbanphanhoi": "Doing arts alone",
+                "fileupload": ""
+              },
+              {
+                "id": 11797,
+                "vanbanphanhoi": "Doing arts to relax",
+                "fileupload": ""
+              },
+              {
+                "id": 11799,
+                "vanbanphanhoi": "Doing arts as part of the job",
+                "fileupload": ""
+              },
+              {
+                "id": 11800,
+                "vanbanphanhoi": "Doing arts with children",
+                "fileupload": ""
+              },
+              {
+                "id": 11802,
+                "vanbanphanhoi": "Doing as a social activity",
+                "fileupload": ""
+              },
+              {
+                "id": 11803,
+                "vanbanphanhoi": "Doing as a hobby",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 589,
+        "title": "Đề 4 - Listening C15",
+        "des": "\u003cstrong\u003eA man and a woman are talking about urban farming. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/94f284ff15d2eaf45e2cad3551f82aa3.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3248,
+            "vanbancauhoi": "Living space is more important than farming space._",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10015,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13008,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 13009,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3249,
+            "vanbancauhoi": "Farming space is appealing._",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 13010,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13011,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 13012,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3250,
+            "vanbancauhoi": "Farming space will benefit the urban economy._",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10020,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 10021,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 10022,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3251,
+            "vanbancauhoi": "Farming space is in need of more food._",
+            "vanbangiaithich": "\u003cp\u003eMan: \"I’ve been reading a report on urban farming and its potential impact on city life. It’s fascinating how cities are starting to embrace this concept to tackle issues like food security and environmental sustainability. It got me thinking about how this could reshape urban living.\"\u003c/p\u003e\r\n\u003cp\u003eWoman: \"I find the idea of urban farming intriguing too, but\u003cstrong\u003e I believe living space is more important than farming space.\u003c/strong\u003e People need proper homes to thrive.\"\u003c/p\u003e\r\n\u003cp\u003eMan: \"I understand that perspective, \u003cstrong\u003ebut I have to say, farming space in urban areas is really appealing\u003c/strong\u003e. It brings a bit of nature into the city and can enhance the overall environment.\"\u003c/p\u003e\r\n\u003cp\u003eWoman: \"\u003cstrong\u003eI agree with that\u003c/strong\u003e. Urban farming does have a lot of visual and ecological benefits. However, we really need to focus on the fact that there’s a pressing need for more food in our cities. That should be a priority.\"\u003c/p\u003e\r\n\u003cp\u003eMan: \"That\u0027s a valid point, but \u003cstrong\u003eI think farming space will also benefit the urban economy\u003c/strong\u003e. It creates jobs and stimulates local businesses, which is essential for growth.\"\u003c/p\u003e\r\n\u003cp\u003eWoman: \"I see where you\u0027re coming from, but while boosting the economy is great, we can\u0027t overlook the immediate need for more food. Urban farming can help, but it shouldn\u0027t replace the need for larger-scale solutions to food shortages.\"\u003c/p\u003e\r\nMan: \"I agree that food scarcity is a serious issue, \u003cstrong\u003ebut if we can implement urban farming effectively, it can definitely contribute to alleviating that problem while also strengthening the economy.\u003c/strong\u003e\"",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 13005,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13006,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 13007,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 590,
+        "title": "Đề 4 - Listening C16",
+        "des": "\u003cstrong\u003eListen to a critic talking about a newly broadcasted TV series.\u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/de5b6c7291c3ed008de74d0626bbc451.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3252,
+            "vanbancauhoi": "\u003cp\u003eWhat happened to the TV series?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10026,
+                "vanbanphanhoi": "It didn’t receive enough investment at the early stage.",
+                "fileupload": ""
+              },
+              {
+                "id": 10027,
+                "vanbanphanhoi": "It was overlooked by critics.",
+                "fileupload": ""
+              },
+              {
+                "id": 10028,
+                "vanbanphanhoi": "It caught the audience’s attention from the start.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3253,
+            "vanbancauhoi": "\u003cp\u003e\u003cem\u003eAccording to the expert, what is the series’ potential?\u003c/em\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eA famous TV series called \u003cem\u003eMystery City\u003c/em\u003e was recently broadcasted, \u003cstrong\u003eand it caught the audience’s attention from the start\u003c/strong\u003e. The first episode was filled with suspense and surprising twists that left viewers eager for more. The engaging storyline and strong characters made it easy for people to connect with the show, which quickly became a topic of conversation. Social media buzzed with reactions and theories, making it a true phenomenon.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBeyond just entertaining, \u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eMystery City\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e has also helped its network reach new customers\u003c/strong\u003e. The show attracted a diverse audience, including younger viewers who might not have watched traditional TV before. This is important for marketing because it shows how a single series can expand a network’s reach and boost subscriptions. With clever promotions and partnerships, the series brought in new fans who may now explore other shows on the platform.\u003c/p\u003e\r\n\u003cp\u003eOverall, \u003cem\u003eMystery City\u003c/em\u003e is not just a popular series; it’s a powerful tool for building a community around a brand. The combination of captivating storytelling and strategic marketing has made it a success that other networks will likely try to replicate. As the series continues, it will be interesting to see how it evolves and what new customers it brings in!\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10030,
+                "vanbanphanhoi": "New seasons will be produced due to great demand.",
+                "fileupload": ""
+              },
+              {
+                "id": 10031,
+                "vanbanphanhoi": "It inspires young filmmakers to follow a new movie-making style.",
+                "fileupload": ""
+              },
+              {
+                "id": 13014,
+                "vanbanphanhoi": "Series are damaged by overexposure.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 591,
+        "title": "Đề 4 - Listening C17",
+        "des": "\u003cstrong\u003eListen to an advertising expert talking about the advertising industry. \u003c/strong\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/041d7be04bc5ec5c7708c7e6040547f2.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3254,
+            "vanbancauhoi": "\u003cp\u003eWhat does the expert say about the negative side of advertising?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10032,
+                "vanbanphanhoi": "Series are damaged by overexposure.",
+                "fileupload": ""
+              },
+              {
+                "id": 10033,
+                "vanbanphanhoi": "Advertisements might sometimes be repetitive which is annoying.",
+                "fileupload": ""
+              },
+              {
+                "id": 10034,
+                "vanbanphanhoi": "Advertising costs the same amount of money to produce a movie.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3255,
+            "vanbancauhoi": "\u003cp\u003eIn what way can advertising affect sports?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eAdvertising in sports has become a double-edged sword. Many fans grow tired of seeing the same commercials repeatedly during games and events. This constant bombardment can lead to frustration, causing viewers to feel disconnected from the sport they love. When ads overshadow the actual games, it detracts from the excitement and intensity that fans crave, making them less enthusiastic about tuning in.\u003cstrong\u003e Therefore, many TV series have been damaged by overexposure.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eIn terms of Sports,\u003cstrong\u003e overexposure can generate negative publicity for the sport itself.\u003c/strong\u003e Fans may start to associate their favorite teams and players with annoying advertisements rather than the thrilling action on the field. This shift in perception can affect attendance at games and viewership on TV, as people become disillusioned with the sport\u0027s focus on commercial interests. As a result, teams and leagues must carefully consider how much advertising they allow, ensuring it doesn’t take away from the game experience.\u003c/p\u003e\r\n\u003cp\u003eIn the end, while advertising can bring in revenue and promote the sport, it’s crucial to find a balance. Too much exposure can lead to viewer fatigue and diminish the overall appeal of the series. By prioritizing the game itself and minimizing intrusive ads, sports organizations can maintain fan engagement and protect their brand image.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10035,
+                "vanbanphanhoi": "They help to attract more fans.",
+                "fileupload": ""
+              },
+              {
+                "id": 10036,
+                "vanbanphanhoi": "They can boost ticket sales and sales of sports related items.",
+                "fileupload": ""
+              },
+              {
+                "id": 10037,
+                "vanbanphanhoi": "They can generate negative publicity for the sport",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 582,
+      "title": "Đề 4 - Reading p1",
+      "des": "\u003cp\u003e\u003cstrong\u003eChoose the word that fits in the gap. The first one is done for you.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eHi Sarah,\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI hope you’re doing well! I wanted to follow up on our recent \u003c/span\u003e\u003cstrong\u003e\u003cem\u003eproject (example)\u003c/em\u003e\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e discussions.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThanks,\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eEmily.\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3203,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe new office is located\u003c/span\u003e\u003cstrong\u003e _\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e a great coffee shop, which is quite convenient.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9833,
+              "vanbanphanhoi": "near",
+              "fileupload": ""
+            },
+            {
+              "id": 9834,
+              "vanbanphanhoi": "far",
+              "fileupload": ""
+            },
+            {
+              "id": 9835,
+              "vanbanphanhoi": "away",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3204,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eIt’s always \u003c/span\u003e\u003cstrong\u003e_\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e to work with a team that collaborates so well.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9836,
+              "vanbanphanhoi": "unfriendly",
+              "fileupload": ""
+            },
+            {
+              "id": 9837,
+              "vanbanphanhoi": "friendly",
+              "fileupload": ""
+            },
+            {
+              "id": 9838,
+              "vanbanphanhoi": "harsh",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3205,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI need to \u003c/span\u003e\u003cstrong\u003e_\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e my presentation skills before the big meeting next week.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9839,
+              "vanbanphanhoi": "stop",
+              "fileupload": ""
+            },
+            {
+              "id": 9840,
+              "vanbanphanhoi": "ignore",
+              "fileupload": ""
+            },
+            {
+              "id": 9841,
+              "vanbanphanhoi": "practise",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3206,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePlease take some time to \u003c/span\u003e\u003cstrong\u003e_\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e through the proposal again and provide your feedback.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9842,
+              "vanbanphanhoi": "look",
+              "fileupload": ""
+            },
+            {
+              "id": 9843,
+              "vanbanphanhoi": "read",
+              "fileupload": ""
+            },
+            {
+              "id": 9844,
+              "vanbanphanhoi": "write",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3207,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eI really appreciate your help, \u003c/span\u003e\u003cstrong\u003e_ \u003c/strong\u003e\u003cspan xss\u003dremoved\u003elet me know if you have any questions.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9845,
+              "vanbanphanhoi": "so",
+              "fileupload": ""
+            },
+            {
+              "id": 9846,
+              "vanbanphanhoi": "very",
+              "fileupload": ""
+            },
+            {
+              "id": 9847,
+              "vanbanphanhoi": "too",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "title": "Đề 4 - Reading p2",
+      "des": "\u003cp\u003e\u003cstrong\u003eThe sentences below are about an instruction for users of the city car park. Put the sentences in the right order. The first sentence is done for you.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3208,
+          "vanbancauhoi": "Please follow these steps to ensure a smooth parking experience.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9848,
+              "vanbanphanhoi": "When you arrive, take the ticket from the machine by the entrance.",
+              "fileupload": ""
+            },
+            {
+              "id": 9849,
+              "vanbanphanhoi": "The ticket will have information of time and date.",
+              "fileupload": ""
+            },
+            {
+              "id": 9850,
+              "vanbanphanhoi": "Please display the ticket with this information in the window of your car.",
+              "fileupload": ""
+            },
+            {
+              "id": 9851,
+              "vanbanphanhoi": "Before you leave, put the ticket into the machine by the gate.",
+              "fileupload": ""
+            },
+            {
+              "id": 9852,
+              "vanbanphanhoi": "The machine will read the information on the ticket and show you how much you have to pay.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "title": "Đề 4  - Reading p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eThe sentences below are about an instruction in case of fire. Put the sentences in the right order. The first sentence is done for you.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3209,
+          "vanbancauhoi": "\u003cstrong\u003ePlease follow these steps carefully to ensure your safety.\u003c/strong\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9853,
+              "vanbanphanhoi": "When you hear the alarm, leave your bags",
+              "fileupload": ""
+            },
+            {
+              "id": 9854,
+              "vanbanphanhoi": "Next, walk calmly to the doors marked “Emergency Exit”.",
+              "fileupload": ""
+            },
+            {
+              "id": 9855,
+              "vanbanphanhoi": "Through these doors you will see the stairs",
+              "fileupload": ""
+            },
+            {
+              "id": 9856,
+              "vanbanphanhoi": "When you reach the bottom of the stairs, leave the building",
+              "fileupload": ""
+            },
+            {
+              "id": 9857,
+              "vanbanphanhoi": "Outside, please gather on the grass",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "title": "Đề 4 - Reading p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eFour people respond in the comments section of an online magazine article about eating. Decide whose opinion matches the statements below. Read the texts and complete the questions below.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAs a child, I always enjoyed eating with friends, whether it was at family gatherings or simple meals after school. Sharing food was a way for me to bond with people, and it still brings back happy memories. I believe that the company makes the meal more enjoyable and turns any ordinary dish into a special occasion.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eA few years ago, I used to eat out a lot, but I realized I needed to save money on eating. Now, I prefer to eat alone, where I can enjoy my meal in peace without distractions. Eating alone allows me to focus on the taste and quality of the food without the need for conversation.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eGoing to a restaurant is exciting because I like a wide variety of food, and I’m always eager to try new dishes from different cultures. I’m also taking a cookery course to improve my skills, so I can recreate some of my favorite meals at home and expand my culinary knowledge.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eFast food is nowhere near as good as home-cooked food because it feels healthier and more comforting than eating out. However, I just eat a few types of food, sticking to simple, familiar dishes that I know I’ll enjoy. I’m not very adventurous when it comes to trying new things, but I appreciate the comfort of my favorite meals.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3210,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho needs to save money on eating? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9859,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9861,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9862,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9863,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3211,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWho likes a wide variety of food?  _\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9873,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9874,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9875,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9876,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3213,
+          "vanbancauhoi": "\u003cp\u003eWho prefers to eat home-cooked food?  _\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9878,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9879,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9880,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9881,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3214,
+          "vanbancauhoi": "\u003cp\u003eWho enjoys eating with friends?_\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9882,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9883,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9884,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9885,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3215,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWho only eats a few types of food?_\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9886,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9887,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9888,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9889,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3216,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWho is taking a cookery course?_\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9890,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9891,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9892,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9893,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "title": "Đề 4 - Reading p5",
+      "des": "\u003cp xss\u003dremoved\u003e\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1–7) from the drop-down box. There is one more heading than you need.\u003cbr\u003e\u003cbr\u003eCONSUMER AGE OF THE 20TH CENTURY\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3217,
+          "vanbancauhoi": "1._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe movement towards making products last longer has gained momentum in response to environmental concerns and the negative impacts of consumerism. Emphasizing durability and quality over quantity, this shift encourages sustainable practices that reduce waste. As industries adapt to consumer demand for long-lasting products, a culture of mindfulness in consumption is emerging, promoting sustainability across various sectors.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9894,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            },
+            {
+              "id": 9895,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 9896,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 9897,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 9898,
+              "vanbanphanhoi": "Important lessons for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 9899,
+              "vanbanphanhoi": "Making things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 9900,
+              "vanbanphanhoi": "Still relevant in our times",
+              "fileupload": ""
+            },
+            {
+              "id": 9901,
+              "vanbanphanhoi": "The challenge of staying in trend",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3218,
+          "vanbancauhoi": "2. _\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe \"consume age\" reflects a temporary societal experiment characterized by fast fashion and instant gratification, often prioritizing immediate satisfaction over long-term value. While this approach offers convenience, its unsustainable nature has led to environmental degradation and economic instability. As society faces these consequences, there\u0027s a growing need to reassess consumption patterns and adopt responsible practices for a sustainable future.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9902,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            },
+            {
+              "id": 9903,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 9904,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 9905,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 9906,
+              "vanbanphanhoi": "Important lessons for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 9907,
+              "vanbanphanhoi": "Making things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 9908,
+              "vanbanphanhoi": "Still relevant in our times",
+              "fileupload": ""
+            },
+            {
+              "id": 9909,
+              "vanbanphanhoi": "The challenge of staying in trend",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3219,
+          "vanbancauhoi": "3._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eSecrecy in the consume age often masks the true costs of production, including environmental harm and labor exploitation, leading to consumer ignorance. This lack of transparency perpetuates irresponsible consumption habits. However, increasing consumer awareness is prompting calls for greater transparency in supply chains, encouraging companies to adopt more ethical practices that prioritize sustainability and accountability.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9910,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            },
+            {
+              "id": 9911,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 9912,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 9913,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 9914,
+              "vanbanphanhoi": "Important lessons for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 9915,
+              "vanbanphanhoi": "Making things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 9916,
+              "vanbanphanhoi": "Still relevant in our times",
+              "fileupload": ""
+            },
+            {
+              "id": 9917,
+              "vanbanphanhoi": "The challenge of staying in trend",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3220,
+          "vanbancauhoi": "4. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe principles of responsible consumption and sustainability remain highly relevant today, particularly in light of ongoing climate challenges. Movements advocating for minimalism, recycling, and upcycling are gaining traction, promoting experiences over material goods. Educational initiatives are also raising awareness about the environmental impacts of consumption, underscoring the importance of informed choices in fostering a sustainable future.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9918,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            },
+            {
+              "id": 9919,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 9920,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 9921,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 9922,
+              "vanbanphanhoi": "Important lessons for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 9923,
+              "vanbanphanhoi": "Making things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 9924,
+              "vanbanphanhoi": "Still relevant in our times",
+              "fileupload": ""
+            },
+            {
+              "id": 9925,
+              "vanbanphanhoi": "The challenge of staying in trend",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3221,
+          "vanbancauhoi": "5._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eGenerosity can be difficult in a consumer-driven society where individual gain often overshadows collective well-being. This dilemma is compounded by societal norms prioritizing personal success. To foster a culture of generosity, individuals must recognize the value of collaboration and support, understanding that generosity benefits both individuals and their communities, ultimately leading to a more equitable society.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9926,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            },
+            {
+              "id": 9927,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 9928,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 9929,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 9930,
+              "vanbanphanhoi": "Important lessons for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 9931,
+              "vanbanphanhoi": "Making things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 9932,
+              "vanbanphanhoi": "Still relevant in our times",
+              "fileupload": ""
+            },
+            {
+              "id": 9933,
+              "vanbanphanhoi": "The challenge of staying in trend",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3223,
+          "vanbancauhoi": "6._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eCompromise is essential in the consume age, allowing individuals to balance personal desires with collective responsibilities. Consumers face dilemmas that require them to weigh convenience against environmental impact. By making conscious compromises—such as choosing sustainable brands or supporting local businesses—individuals can contribute to a sustainable future while enjoying the benefits of modern life.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9934,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            },
+            {
+              "id": 9935,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 9936,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 9937,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 9938,
+              "vanbanphanhoi": "Important lessons for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 9939,
+              "vanbanphanhoi": "Making things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 9940,
+              "vanbanphanhoi": "Still relevant in our times",
+              "fileupload": ""
+            },
+            {
+              "id": 9941,
+              "vanbanphanhoi": "The challenge of staying in trend",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3224,
+          "vanbancauhoi": "7. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe consume age imparts vital lessons about consumption, emphasizing that true value lies in quality and impact rather than quantity. By embracing sustainability, individuals can take responsibility for their choices and contribute to their communities. Lessons learned highlight the importance of transparency, collaboration, and generosity, encouraging consumers to prioritize practices that foster a sustainable and equitable future for all.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9942,
+              "vanbanphanhoi": "A temporary experiment",
+              "fileupload": ""
+            },
+            {
+              "id": 9943,
+              "vanbanphanhoi": "A reason for secrecy",
+              "fileupload": ""
+            },
+            {
+              "id": 9944,
+              "vanbanphanhoi": "The difficulty of being generous",
+              "fileupload": ""
+            },
+            {
+              "id": 9945,
+              "vanbanphanhoi": "A reason for making a compromise",
+              "fileupload": ""
+            },
+            {
+              "id": 9946,
+              "vanbanphanhoi": "Important lessons for us all",
+              "fileupload": ""
+            },
+            {
+              "id": 9947,
+              "vanbanphanhoi": "Making things last longer",
+              "fileupload": ""
+            },
+            {
+              "id": 9948,
+              "vanbanphanhoi": "Still relevant in our times",
+              "fileupload": ""
+            },
+            {
+              "id": 9949,
+              "vanbanphanhoi": "The challenge of staying in trend",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 596,
+      "title": "Đề 4 - Speaking part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/200f867afb1accf28639d00e8b561cd1.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3271,
+          "vanbancauhoi": "\u003cp\u003ePlease tell me about the last thing you saw on television.  \u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eThe last thing I saw on television was the TV news. I watched that programme when I had lunch with my family and I remember that it was about some political problems and weather forecast. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eThe last thing I saw on television was a nature documentary. It showed animals in the jungle, like monkeys, birds, and tigers. I learned a lot about how these animals live. The pictures were beautiful, and I enjoyed watching it.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ab032e15280fc3e27f91df3f9615462b.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10056,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/03e1867bd4a8276ed923388be55c24d7.mp3"
+            },
+            {
+              "id": 10070,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2ab202070315cb21fe2415e5c2665b8d.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3274,
+          "vanbancauhoi": "\u003cp\u003ePlease tell me about your favorite film star.  \u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eMy favorite film star is Tom Holland. He is famous for playing Spider-Man in movies. I like him because he is a good actor and seems like a nice person. I enjoy watching his movies because they are exciting and fun to watch.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eI’d like to introduce Tom Holland, who I know from the Spider-man series. I have known him for 5 years from the movie End Game movie.To me he is a talented actor and I was moved by his acting. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3d32da458900fe3f9bae3e571cf5e799.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10064,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0100402a81b3174dad8aff1e1046314c.mp3"
+            },
+            {
+              "id": 10068,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c5a1d25f00907667805b74f864022ad6.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3276,
+          "vanbancauhoi": "\u003cp\u003ePlease tell me about a famous place.  \u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eIn my opinion, Ho Chi Minh City is the most popular city in Vietnam. It is very busy and full of life. The Ben Thanh Market is a popular tourist destination, where you can find many foods and local products. Another important place is the Central History Museum. It shows the history of Vietnam and the Vietnam War.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2:\u003c/strong\u003e One famous place in my country is Ha Long Bay. It is very beautiful with many big rocks in the sea. Many people visit Ha Long Bay to see the boats and the water. I went there with my family last year, and it was a great trip.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1bbace8a26baef60d29ff1c7782f0eb9.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10072,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d485def98f9087a21caa18b038ea828e.mp3"
+            },
+            {
+              "id": 10073,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/19a576224ced3fa83f674dce992e6cc1.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 597,
+      "title": "Đề 4 - Speaking part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1d2aedfabfd6d15bb8342e5f7bcca0c0.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3284,
+          "vanbancauhoi": "Describe this picture\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/4c71e2872571cf136f992b5027514972.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn the picture, I can see many people. In the front, I can see that the people are crossing the street. They are wearing casual clothes (as opposed to formal clothes). The way they walk seems relaxed and natural. In the background, I can see some tall buildings, which give the impression that this is a city center. It is clear that this is a busy street. I guess that people usually go here to play or socialize. This is a beautiful picture. I love it because it captures a lively moment in everyday life. The contrast between the tall buildings and the people adds a sense of balance to the scene, making it feel both vibrant and serene.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5c52139cbbee837e639679af76174e12.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10097,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e192e1fc8fa9e07de02032ae8051dfb2.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3288,
+          "vanbancauhoi": "\u003cp\u003eTell me about a time you were in a crowded place \u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003eLet me tell you about a time when I was in a crowded place. It was 2 weeks ago. I went to a concert, and it was an amazing experience. There were many people there, all excited and cheering for the performers. The atmosphere was lively, and the energy from the crowd made the concert even more thrilling. It was interesting because I got to see one of my favorite bands live for the first time. The music was fantastic, and I felt completely immersed in the moment. The lights and visuals added to the excitement, making it an unforgettable experience. I love it, and I would definitely go to another concert in the future!\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9b954d258643da650fcc94fff89e8a17.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10096,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/96fbb311ec058ec5ebe65111a9ceb679.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3291,
+          "vanbancauhoi": "\u003cp\u003eWhat do most people don’t like in a crowded place?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003eMost people don’t like crowded places because there isn’t much space to move. It can be easy to bump into others, which feels uncomfortable. The noise can be loud, making it hard to talk or hear clearly. Many people feel like they don’t have any personal space, which can cause stress. In a crowd, it’s also hard to find a place to sit or relax. Some feel nervous with so many people around.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/74cbebca6ca2ffe0d458fccf2fc47318.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10140,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/58aa1a75256dd50c2090b6659fb0e6f9.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "title": "Đề 4 - Speaking p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d2e0990c1d84b45bf106b05f01bc46ec.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3292,
+          "vanbancauhoi": "\u003cstrong\u003eDescribe the 2 pictures\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/d9d9e7b087216365c7943674c30fb3ea.png\"\u003e\u003cbr\u003e\u003c/strong\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures are beautiful. In the first picture, I can see some people with difficulties playing basketball, but they look very happy, showing that they are enjoying the game despite the challenges. In the second picture, I can see four people shaking hands before playing tennis, looking healthy and sporty, ready for a fun match. I like the second picture more because it highlights sportsmanship and the excitement of competition. The handshake symbolizes respect and camaraderie between players, which is an important aspect of any sport. Overall, both images convey a sense of joy and passion for sports, but the second one resonates with me on a deeper level.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c00943f23c23c66008ce50bd5108920e.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10094,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0bd841a34edff3c09a3a02c3dbd7faba.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3293,
+          "vanbancauhoi": "\u003cp\u003eWhat is your favorite sport?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eMy favorite sport is \u003c/span\u003e\u003cstrong\u003efootball\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e because it \u003c/span\u003e\u003cstrong\u003ebrings me closer to my friends\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. We usually play on the \u003c/span\u003e\u003cstrong\u003eweekends\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e at a \u003c/span\u003e\u003cstrong\u003elocal park\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e, where we can enjoy the fresh air and sunshine. It helps me reduce stress and relax after a busy week, and the feeling of kicking the ball and scoring goals is exhilarating. I also love the\u003c/span\u003e\u003cstrong\u003e teamwork\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e involved, as we need to\u003c/span\u003e\u003cstrong\u003e communicate and work together \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eto win. Watching \u003c/span\u003e\u003cstrong\u003eprofessional matches\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e inspires me and motivates me to\u003c/span\u003e\u003cstrong\u003e improve my skills. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eSometimes, we even organize friendly matches with other teams, which makes it even more exciting. Overall, football is not just a sport for me; it’s a way to bond with friends and stay active!\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c58460c87cb72a6d6ed91aed6dfa17d8.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10093,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6e8265a3cfa81d2a3c92722fb0026fe4.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3294,
+          "vanbancauhoi": "\u003cp\u003eWhat are the differences/benefits of indoor and outdoor activities?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003eEach activity has its own attractions. In the first activity, we can play indoors, which helps us avoid the hot and sunny weather. It’s a comfortable way to stay active without worrying about the heat. In the second activity, we can play outdoors, which allows us to enjoy the beautiful weather outside and make friends by interacting with others in an open environment. For me, I think I like the second activity more because I love being outside and meeting new people. The fresh air and social aspect make it more enjoyable for me. Overall, both activities have their benefits, but the outdoor option provides a sense of freedom and connection with nature that I truly appreciate.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9c451d7006bb61835326b63fec45a4ea.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10092,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/75729148783ac7480215246613e4a410.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 602,
+      "title": "Đề 4 - Speaking p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/48c097d05eacdac62248b38ce74190d7.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3295,
+          "vanbancauhoi": "Describe a time you went to an amusement park.\u003cbr\u003eHow do you feel when going to these places?\u003cbr\u003eRides at amusement parks are scary. Why do most people take part in these activities?",
+          "vanbangiaithich": "\u003cp\u003eNow, I am going to answer the three questions that you gave me. Regarding the first question, let me tell you about a time I went to an amusement park. It was 2 years ago, and I learned about an amusement park in Da Nang that piqued my interest, so I wanted to go there. Da Nang is famous for its beaches; for example, one of them is My Khe, which is considered one of the most wonderful beaches in the world. Every year, many tourists visit the area to see the beauty of the beach, which makes it quite popular. Therefore, going to this city was extremely expensive for me at that time, but the experience was definitely worth it.\u003c/p\u003e\r\n\u003cp\u003eDuring the trip, I learned new things about the culture there, which really surprised me. I love what I have learned, especially about the local traditions and cuisine. While in Da Nang, I did a number of things; first of all, I went sightseeing in the mountains, where I enjoyed a beautiful view of the city below. I also visited some historical sites that gave me a deeper understanding of the region\u0027s history and significance. Turning to the second question, I feel happy when I go to these places because they allow me to escape my daily routine and experience something new and exciting.\u003c/p\u003e\r\n\u003cp\u003eAs for the final question, there are many reasons why people take part in these activities. First, they enjoy the thrill of trying something adventurous or dangerous. Second, these experiences help them relax and reduce stress, which is essential for maintaining a balanced life. Lastly, engaging in such activities often fosters connections with others, as it creates shared memories and experiences.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2d84c84b6c313780ddc493530ac6b6fa.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10090,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/26fe665f78f069124a83c91fe4f08c53.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 578,
+      "title": "Đề 4- Writing Part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a Technology club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eExample: How are you? I\u0027m fine, thanks.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3192,
+          "vanbancauhoi": "\u003cp\u003eWhat is your job? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9822,
+              "vanbanphanhoi": "I’m a student.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3193,
+          "vanbancauhoi": "\u003cp\u003eWhat is your favorite color? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9823,
+              "vanbanphanhoi": "It’s blue.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3194,
+          "vanbancauhoi": "\u003cp\u003eWhat is your favorite food? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9824,
+              "vanbanphanhoi": "I like pizza.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3195,
+          "vanbancauhoi": "\u003cp\u003eWhat do you usually do in the morning?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9825,
+              "vanbanphanhoi": "I often play badminton.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3196,
+          "vanbancauhoi": "Where did you go last night?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9826,
+              "vanbanphanhoi": "I went to a restaurant.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "title": "Đề 4 - Writing Part 2",
+      "des": "\u003cstrong\u003eYou are a new member of the Technology club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3197,
+          "vanbancauhoi": "\u003cp\u003eWhat do you usually use a computer for?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9827,
+              "vanbanphanhoi": "I usually use my computer for work and for entertainment. Regarding work, I think it is very convenient to use a computer because it is fast and it can store a lot of information. Moreover, it has many fun games, which can help me to relax and reduce stress.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "title": "Đề 4 - Writing Part 3",
+      "des": "\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3198,
+          "vanbancauhoi": "\u003cstrong\u003eA: Have you ever had a bad experience with technology? Bạn đã bao giờ có trải nghiệm tệ với công nghệ chưa.\u003c/strong\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9828,
+              "vanbanphanhoi": "Yes, I have. It was the time I first bought a new smartphone. At that time, I didn’t know how to call my parents using the smartphone, and therefore (vì vậy), I was very angry.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3199,
+          "vanbancauhoi": "\u003cstrong\u003eB: Which do you prefer, watching films online or going to the cinema?\u003c/strong\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9829,
+              "vanbanphanhoi": "In my opinion, I prefer going to the cinema to watch movies because I feel happy when I can watch movies with my friends. In addition, I can watch some latest movies such as “Spiderman” or “Superhero”.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3200,
+          "vanbancauhoi": "\u003cp\u003e\u003cstrong\u003eC: Improvement (sự tiến bộ) in technology (công nghệ) has made life become easier. What do you think?\u003c/strong\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9830,
+              "vanbanphanhoi": "For many people, improvement in technology has made life become easier. They think that it is convenient to use technology because technology can help you with a lot of things. For me, I agree with this idea.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "title": "Đề 4 - Writing Part 4",
+      "des": "\u003cstrong\u003eYou are a member of the Technology Club. You received this email from the club’s manager.\u003cbr\u003e\u003c/strong\u003e\r\n\u003cp\u003e\u003cem\u003eDear member,\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eMembers are active online by posting and commenting on posts. However, some members are commenting \u003c/span\u003e\u003c/em\u003e\u003cstrong\u003e\u003cem\u003enegative (tiêu cực)\u003c/em\u003e\u003c/strong\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003e things about others. The\u003c/span\u003e\u003c/em\u003e\u003cstrong\u003e\u003cem\u003e postings on our system are anonymous (hệ thống ẩn danh) \u003c/em\u003e\u003c/strong\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eso we are thinking about changing the system to\u003c/span\u003e\u003c/em\u003e\u003cstrong\u003e\u003cem\u003e identify (định danh) \u003c/em\u003e\u003c/strong\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003ewho comments. What do you think? Do you have any alternative method? Provide your \u003c/span\u003e\u003c/em\u003e\u003cstrong\u003e\u003cem\u003esuggestions and reasons\u003c/em\u003e\u003c/strong\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003e.\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003eFrom the manager.\u003c/em\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3201,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWrite an email to your friend who is also a member to talk about your suggestions. \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9831,
+              "vanbanphanhoi": "Hi Lisa,\r\nHow are things? I hope that you and your family are still doing well.\r\nHave you received the latest email from our club? It said that people are commenting negatively about others and we should change the system.\r\nI was happy when I heard this. I think that each member should have his or her own account. But I think that we should also ask other members for their opinions as well.\r\nWhat do you think? Do you have any suggestions?\r\nWrite soon,\r\nLeo.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3202,
+          "vanbancauhoi": "\u003cp\u003eWrite an email to your manager about your suggestions and reasons.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9832,
+              "vanbanphanhoi": "Dear Sir,\r\nI hope that this letter finds you well.\r\nMy name is Leo. I have been a loyal member of this club for a year.\r\nI am writing this in response to your latest email.\r\nRegarding the news, it is said that members are posting negative comments about other people on our website and we should change the system.\r\nI was happy when I heard this.\r\nI would like to venture some ideas. First, I agree that each member should have his or her own account so that it is easier for us to control. Second, I also think that we should consult other member’s opinions as well by posting online on social media. By doing this, we can help our club members to feel better, hence, more people will join our club (tóm tắt kết quả).\r\nThese are my suggestions.\r\nI hope that they are useful.\r\nBest regards,\r\nLeo.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

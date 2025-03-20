@@ -1,0 +1,1892 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3341,
+        "vanbancauhoi": "A mom is calling her son to remind him about picking up groceries. How much is an egg?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d94cbfc1ac6c6a27d9cc26c1886de847.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10219,
+            "vanbanphanhoi": "£1.50 (One pounds fifty)",
+            "fileupload": ""
+          },
+          {
+            "id": 10220,
+            "vanbanphanhoi": "£2.50 (Two pounds fifty)",
+            "fileupload": ""
+          },
+          {
+            "id": 10221,
+            "vanbanphanhoi": "£3.50 (Three pounds fifty)",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3342,
+        "vanbancauhoi": "An author is talking about her daily routine. When does she usually write?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bde6e6ba95730c0122cd00d54a870f6a.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10222,
+            "vanbanphanhoi": "In the mornings",
+            "fileupload": ""
+          },
+          {
+            "id": 10223,
+            "vanbanphanhoi": "In the afternoons",
+            "fileupload": ""
+          },
+          {
+            "id": 10224,
+            "vanbanphanhoi": "In the evenings",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3343,
+        "vanbancauhoi": "Jack is calling to invite a friend to his house. What color is Jack\u0026rsquo;s house?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8b520b195d14c0b4d466ecba944cc306.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10225,
+            "vanbanphanhoi": "Blue",
+            "fileupload": ""
+          },
+          {
+            "id": 10226,
+            "vanbanphanhoi": "Green",
+            "fileupload": ""
+          },
+          {
+            "id": 10227,
+            "vanbanphanhoi": "Red",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3344,
+        "vanbancauhoi": "A man is calling his wife. Where will they meet?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/601681f4a834df6fcb7bcced91f3da39.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10228,
+            "vanbanphanhoi": "At home",
+            "fileupload": ""
+          },
+          {
+            "id": 10229,
+            "vanbanphanhoi": "In the garden",
+            "fileupload": ""
+          },
+          {
+            "id": 10230,
+            "vanbanphanhoi": "Outside the shop",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3345,
+        "vanbancauhoi": "A man is talking about his eating habit. What time does he usually eat?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4980dc2b878d77713a07bcef767acfb7.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10231,
+            "vanbanphanhoi": "6 o’clock",
+            "fileupload": ""
+          },
+          {
+            "id": 10232,
+            "vanbanphanhoi": "7 o’clock",
+            "fileupload": ""
+          },
+          {
+            "id": 10233,
+            "vanbanphanhoi": "8 o’clock",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3346,
+        "vanbancauhoi": "Julie is asking her professor about the assignment. When is the work due?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0c4a84567eef257a0316ddfdc4993ac5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10234,
+            "vanbanphanhoi": "On Thursday morning",
+            "fileupload": ""
+          },
+          {
+            "id": 10235,
+            "vanbanphanhoi": "On Friday morning",
+            "fileupload": ""
+          },
+          {
+            "id": 10236,
+            "vanbanphanhoi": "On Saturday morning",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3349,
+        "vanbancauhoi": "A tour guide is introducing a tourist destination. How many people live in the town?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ffd9700f7ed6ce4033ea24124f5081a5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10240,
+            "vanbanphanhoi": "8,000",
+            "fileupload": ""
+          },
+          {
+            "id": 10241,
+            "vanbanphanhoi": "9,000",
+            "fileupload": ""
+          },
+          {
+            "id": 10242,
+            "vanbanphanhoi": "10,000",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3348,
+        "vanbancauhoi": "James is talking about his family members. In what way does his mother and his aunt alike?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/189b7897da068ebbda13bb3885e317c8.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10237,
+            "vanbanphanhoi": "They were both thin",
+            "fileupload": ""
+          },
+          {
+            "id": 10238,
+            "vanbanphanhoi": "They both had blue eyes.",
+            "fileupload": ""
+          },
+          {
+            "id": 10239,
+            "vanbanphanhoi": "They both had long hair",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3350,
+        "vanbancauhoi": "A man and a woman are talking about their old school days. What was the man\u0027s favorite thing about school?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4e141fdc077bb0f72784d0bf9573412f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10244,
+            "vanbanphanhoi": "Math classes",
+            "fileupload": ""
+          },
+          {
+            "id": 10245,
+            "vanbanphanhoi": "Geography classes",
+            "fileupload": ""
+          },
+          {
+            "id": 10246,
+            "vanbanphanhoi": "History classes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3351,
+        "vanbancauhoi": "\u003cp\u003eJorge is calling his friend about their plan for the weekend. What time does the football match start?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4822901aaa53f4f7ea67fe2b33da5ac2.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10247,
+            "vanbanphanhoi": "11 p.m",
+            "fileupload": ""
+          },
+          {
+            "id": 10248,
+            "vanbanphanhoi": "1 p.m",
+            "fileupload": ""
+          },
+          {
+            "id": 10249,
+            "vanbanphanhoi": "6 p.m",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3352,
+        "vanbancauhoi": "A man is talking about his routine after work. What is the man going to do after work?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/92d59d3d5280beb1c2d1a7c22c780406.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10250,
+            "vanbanphanhoi": "Goes running",
+            "fileupload": ""
+          },
+          {
+            "id": 10251,
+            "vanbanphanhoi": "Cycles home",
+            "fileupload": ""
+          },
+          {
+            "id": 10252,
+            "vanbanphanhoi": "Meets his client",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3353,
+        "vanbancauhoi": "A professor is talking to his student. What does the professor ask his student to do?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a0a42a852dfdc4dfc50b5bcea4386d59.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10253,
+            "vanbanphanhoi": "Speak at a conference",
+            "fileupload": ""
+          },
+          {
+            "id": 10254,
+            "vanbanphanhoi": "Write another thesis",
+            "fileupload": ""
+          },
+          {
+            "id": 10255,
+            "vanbanphanhoi": "Tutor another student",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3354,
+        "vanbancauhoi": "Two friends are talking about their favorite activities.What is the woman\u0027s favorite form of entertainment?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ee3f537840644164fac091acbdfc53d5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10256,
+            "vanbanphanhoi": "Reading books",
+            "fileupload": ""
+          },
+          {
+            "id": 10257,
+            "vanbanphanhoi": "Going to the theatre",
+            "fileupload": ""
+          },
+          {
+            "id": 10258,
+            "vanbanphanhoi": "Playing chess with her cousin",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 609,
+        "title": "Đề 3 - Listening 14",
+        "des": "\u003cp\u003e\u003cstrong\u003eFour people are talking about their protecting the environment. Complete the sentences below.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3355,
+            "vanbancauhoi": "Speaker A _\u0026nbsp;",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eSpeaker A:\u003c/strong\u003e \"\u003cem\u003eI try to help the environment by using less electricity at hom\u003c/em\u003ee. I always turn off the lights when I don’t need them and make sure my appliances are energy-efficient. I’ve also started unplugging things like chargers when I’m not using them because they still use power. This helps lower my electricity bill and reduces my impact on the planet. I believe that if everyone made these small changes, we could save a lot of energy and help fight climate change.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bb7cb3605c806573ec928b6cb4c0410c.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10260,
+                "vanbanphanhoi": "protects the environment by not driving to",
+                "fileupload": ""
+              },
+              {
+                "id": 10261,
+                "vanbanphanhoi": "protects the environment by using less water.",
+                "fileupload": ""
+              },
+              {
+                "id": 10262,
+                "vanbanphanhoi": "protects the environment by using less electricity.",
+                "fileupload": ""
+              },
+              {
+                "id": 10263,
+                "vanbanphanhoi": "protects the environment by using less plastics",
+                "fileupload": ""
+              },
+              {
+                "id": 10264,
+                "vanbanphanhoi": "protects the environment by shopping online.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3357,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eSpeaker B:\u003c/strong\u003e \"\u003cem\u003eTo protect the environment, I don’t drive to work anymore\u003c/em\u003e. Instead, I walk when the weather is nice, or I take the bus. It’s not only better for the planet, but it also keeps me more active, and I enjoy the fresh air. By not driving, I use less fuel and help reduce air pollution in the city. I think if more people chose to walk or use public transport, we could reduce traffic and make our towns and cities cleaner and healthier for everyone.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/648694ca877680ea52878cf7e742f025.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10265,
+                "vanbanphanhoi": "protects the environment by not driving to work",
+                "fileupload": ""
+              },
+              {
+                "id": 10266,
+                "vanbanphanhoi": "protects the environment by using less water.",
+                "fileupload": ""
+              },
+              {
+                "id": 10267,
+                "vanbanphanhoi": "protects the environment by using less electricity.",
+                "fileupload": ""
+              },
+              {
+                "id": 10268,
+                "vanbanphanhoi": "protects the environment by using less plastics",
+                "fileupload": ""
+              },
+              {
+                "id": 10269,
+                "vanbanphanhoi": "protects the environment by shopping online.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3358,
+            "vanbancauhoi": "Speaker C _",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eSpeaker C:\u003c/strong\u003e \"\u003cem\u003eI’ve decided to shop online as a way to protect the environment\u003c/em\u003e. By ordering things online, I don’t need to drive to the store, which means I’m using less fuel and producing less pollution. Many companies now offer eco-friendly packaging, and I try to buy from them whenever possible. Also, online deliveries often group items together, which reduces the number of trips made. It’s convenient for me, and I feel like I’m doing something good for the environment at the same time.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/85b915a355d1c637bc352bf74b49129d.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10275,
+                "vanbanphanhoi": "protects the environment by not driving to work",
+                "fileupload": ""
+              },
+              {
+                "id": 10276,
+                "vanbanphanhoi": "protects the environment by using less water.",
+                "fileupload": ""
+              },
+              {
+                "id": 10277,
+                "vanbanphanhoi": "protects the environment by using less electricity.",
+                "fileupload": ""
+              },
+              {
+                "id": 10278,
+                "vanbanphanhoi": "protects the environment by using less plastics",
+                "fileupload": ""
+              },
+              {
+                "id": 10279,
+                "vanbanphanhoi": "protects the environment by shopping online.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3359,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eSpeaker D:\u003c/strong\u003e \"\u003cem\u003eI try to save water every day as\u003c/em\u003e a way to protect the environment. For example, I take shorter showers, turn off the tap while brushing my teeth, and use less water when washing dishes. I’ve also installed special taps and showerheads that use less water but still work well. Water is a limited resource, and many places don’t have enough clean water. That’s why I think it’s important for all of us to be careful and not waste it. Even small actions can make a big difference.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a04d892d80e45909374e848c69049eb3.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10270,
+                "vanbanphanhoi": "protects the environment by not driving to work",
+                "fileupload": ""
+              },
+              {
+                "id": 10271,
+                "vanbanphanhoi": "protects the environment by using less water.",
+                "fileupload": ""
+              },
+              {
+                "id": 10272,
+                "vanbanphanhoi": "protects the environment by using less electricity.",
+                "fileupload": ""
+              },
+              {
+                "id": 10273,
+                "vanbanphanhoi": "protects the environment by using less plastics",
+                "fileupload": ""
+              },
+              {
+                "id": 10274,
+                "vanbanphanhoi": "protects the environment by shopping online.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 610,
+        "title": "Đề 3 - Listening 15",
+        "des": "\u003cp\u003e\u003cstrong\u003eTwo professional educators are talking about university. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3e8ffdd5565539f9046c992bdae678ad.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3360,
+            "vanbancauhoi": "\u003cp\u003eThe internet makes education more accessible\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10283,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 10284,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 10285,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3365,
+            "vanbancauhoi": "\u003cp\u003eSocial interactions are essential to university life\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10296,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 10297,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 10300,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3375,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eDiverse curriculum is not always a good thing\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10325,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 10326,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 10327,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3376,
+            "vanbancauhoi": "\u003cp\u003eCompetitions between universities should be encouraged\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eWoman: That looks interesting. What are you up to?\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: Oh, I just came across this interesting report about universities and how they’re evolving in the digital age. \u003cstrong\u003eIt talked about the impact of the internet, student experiences, and even competition between institutions\u003c/strong\u003e. It got me thinking, there’s so much to unpack when it comes to how education is changing, don’t you think?\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e: \u003cstrong\u003eYeah\u003c/strong\u003e, I’ve been reading about similar things lately. It’s amazing how different opinions can be on what makes a good university experience.  I think we can both agree that the internet has made education more accessible. It’s great how people from different backgrounds can now access high-quality education without being physically on campus.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: Absolutely, I agree with that. It’s a game-changer for those who can’t afford to relocate or attend in person.\u003cstrong\u003e But I still believe that social interactions are a crucial part of university life.\u003c/strong\u003e Online education can never truly replace the friendships, group work, and networking that happen in a physical setting.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e:\u003cstrong\u003e Hmm, I’m not so sure.\u003c/strong\u003e While social interactions can be important, I think online learning allows students to focus more on their studies without all the distractions of campus life. Not everyone benefits from that kind of environment.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: I see your point, but I think universities provide a unique space for students to develop their social skills alongside their academic ones. Another thing I’m really in favor of is encouraging competition between universities. When universities compete, it drives innovation and pushes them to offer better resources.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e:\u003cstrong\u003e I disagree there. Competition can sometimes lead to universities focusing too much on rankings and flashy features instead of the quality of education.\u003c/strong\u003e It can become more about marketing than genuine improvement.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: That’s a fair concern. But competition also forces universities to constantly improve, which can benefit students in the long run. What about the diversity in curricula? I’m curious where you stand on that.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e: To be honest, I’m not a fan of having too many options in the curriculum. A diverse curriculum sounds good in theory, but it can overwhelm students and take away from the depth of learning in core subjects.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: I can see that perspective, \u003cstrong\u003ebut I think having variety gives students the flexibility to explore different fields.\u003c/strong\u003e It can be especially beneficial for those who are unsure of their career paths.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 10328,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 10329,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 10330,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 611,
+        "title": "Đề 3 - Listening 16",
+        "des": "\u003cp\u003e\u003cstrong\u003eListen to an office worker talking about working from home and answer the questions below.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2ce4d7e7a6c0b46010d291b11933a538.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3377,
+            "vanbancauhoi": "What does she say about working at home?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10331,
+                "vanbanphanhoi": "There are no distractions",
+                "fileupload": ""
+              },
+              {
+                "id": 10332,
+                "vanbanphanhoi": "Not good as expected",
+                "fileupload": ""
+              },
+              {
+                "id": 10333,
+                "vanbanphanhoi": "Video calls are superior to face-to-face conversation",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3378,
+            "vanbancauhoi": "According to the author, working from home:",
+            "vanbangiaithich": "\u003cp\u003eWorking from home has its pros and cons, and I have mixed feelings about it. On one hand, I find that I work effectively without the distractions of my colleagues chatting. However, later, I got distracted by other things around the house such as the dirty laundry or the unwashed dishes. I can focus on my tasks and complete them much faster. It’s nice to set my own schedule and take breaks when I want.\u003cem\u003e\u003cstrong\u003e However, working from home is not as good as I expected\u003c/strong\u003e\u003c/em\u003e. I sometimes feel lonely without the social interaction from the office. Video calls are helpful, but they can\u0027t replace face-to-face conversations. \u003c/p\u003e\r\n\u003cp\u003eYou don\u0027t need a big home office to be productive; a small corner of your room can work just fine. Still, it\u0027s important to stay self-motivated, which can be challenging at times. \u003cem\u003e\u003cstrong\u003eAfter all, how well you work from home really depends on your situation and personality. \u003c/strong\u003e\u003c/em\u003eSome people thrive in this environment, while others struggle. Overall, I am learning to balance my work and personal life better as I adjust to this new way of working.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10334,
+                "vanbanphanhoi": "Needs a big home office",
+                "fileupload": ""
+              },
+              {
+                "id": 10335,
+                "vanbanphanhoi": "Do not require self-motivation.",
+                "fileupload": ""
+              },
+              {
+                "id": 10336,
+                "vanbanphanhoi": "It depends on your situation and personality",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 612,
+        "title": "Đề 3 - Listening 17",
+        "des": "\u003cp\u003e\u003cstrong\u003eListen to an expert talking about the importance of sleep and answer the questions below.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/495c1148c297e9605f4d88ed962b8841.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3379,
+            "vanbancauhoi": "The most important things to help sleep well is",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10337,
+                "vanbanphanhoi": "Blocking noise and light is the key",
+                "fileupload": ""
+              },
+              {
+                "id": 10338,
+                "vanbanphanhoi": "Beds are best for sleeping",
+                "fileupload": ""
+              },
+              {
+                "id": 10339,
+                "vanbanphanhoi": "Resting sufficiently is necessary",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3380,
+            "vanbancauhoi": "According to the expert, what is the public attitude towards sleeping?",
+            "vanbangiaithich": "\u003cp\u003eSleep is very important for our health, but there are many ideas about it that are not entirely true. Many people say you should sleep at fixed hours to get enough rest, but that isn’t always necessary according to science. Our bodies can adjust to different sleep schedules, so it really depends on the individual. Another common belief is that you should always sleep on a bed instead of a hard floor, but this is questionable. \u003cstrong\u003eWhat everyone agrees on, and what studies show, is that blocking out light and noise can help improve sleep quality.\u003c/strong\u003e Darkness helps our body produce melatonin, which is the hormone that makes us feel sleepy, while silence allows us to rest better.\u003c/p\u003e\r\n\u003cp\u003eSome say that sleep is getting worse for people today, but there is no solid proof to support this claim. Critics often point fingers at the younger generation for their unhealthy sleep patterns, but this is sometimes unfair. \u003cstrong\u003eWhat we can agree on is that the media tends to overemphasize the subject,\u003c/strong\u003e making it seem more serious than it really is. In the end, finding what works best for you is key to getting a good night’s sleep.\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 10340,
+                "vanbanphanhoi": "The media overemphasize the subject",
+                "fileupload": ""
+              },
+              {
+                "id": 10341,
+                "vanbanphanhoi": "The young generation tend to have unhealthy sleeping habits.",
+                "fileupload": ""
+              },
+              {
+                "id": 10342,
+                "vanbanphanhoi": "Sleeping quality has deteriorated over time.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 573,
+      "title": "Đề 3 - Reading part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eLouis is writing an email to his colleauge. Choose the word that fits in the gap. The first one is done for you.\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eHi James,\u003c/p\u003e\r\n\u003cp\u003eI have a quick check on the \u003cstrong\u003e\u003cem\u003edocuments (example)\u003c/em\u003e\u003c/strong\u003e you sent today. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003eThanks,\u003c/p\u003e\r\n\u003cp\u003eLouis.\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3169,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eThe budget doesn\u0027t _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9712,
+              "vanbanphanhoi": "rising",
+              "fileupload": ""
+            },
+            {
+              "id": 9713,
+              "vanbanphanhoi": "balance",
+              "fileupload": ""
+            },
+            {
+              "id": 9714,
+              "vanbanphanhoi": "decreased",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3170,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eCould you get the financial _ \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9715,
+              "vanbanphanhoi": "calendar",
+              "fileupload": ""
+            },
+            {
+              "id": 9716,
+              "vanbanphanhoi": "reporting",
+              "fileupload": ""
+            },
+            {
+              "id": 9717,
+              "vanbanphanhoi": "statement",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3171,
+          "vanbancauhoi": "I _ it will help.\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9718,
+              "vanbanphanhoi": "think",
+              "fileupload": ""
+            },
+            {
+              "id": 9719,
+              "vanbanphanhoi": "want",
+              "fileupload": ""
+            },
+            {
+              "id": 9720,
+              "vanbanphanhoi": "propose",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3172,
+          "vanbancauhoi": "This time, read the information _ , not quickly.\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9721,
+              "vanbanphanhoi": "fast",
+              "fileupload": ""
+            },
+            {
+              "id": 9722,
+              "vanbanphanhoi": "steady",
+              "fileupload": ""
+            },
+            {
+              "id": 9723,
+              "vanbanphanhoi": "slowly",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3173,
+          "vanbancauhoi": "\u003cp\u003eSend me the results _ you go home, not after.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9724,
+              "vanbanphanhoi": "before",
+              "fileupload": ""
+            },
+            {
+              "id": 9725,
+              "vanbanphanhoi": "between",
+              "fileupload": ""
+            },
+            {
+              "id": 9821,
+              "vanbanphanhoi": "beside",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "title": "Đề 3 - Reading part 2",
+      "des": "\u003cstrong\u003eThe sentences below are about traffic problems. Put the sentences in the right order. The first sentence is done for you.\u003cbr\u003e\u003cbr\u003eRadio News: Traffic Problems\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3174,
+          "vanbancauhoi": "0. The unexpected traffic jam today was mainly due to problems regarding tracfiic lights.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9726,
+              "vanbanphanhoi": "They were out of order, and the traffic was moving slowly.",
+              "fileupload": ""
+            },
+            {
+              "id": 9727,
+              "vanbanphanhoi": "This caused a long delay on the road.",
+              "fileupload": ""
+            },
+            {
+              "id": 9728,
+              "vanbanphanhoi": "As a result of the delay, many people were not able to get to work on time.",
+              "fileupload": ""
+            },
+            {
+              "id": 9729,
+              "vanbanphanhoi": "Fortunately, by the evening, the traffic lights worked again.",
+              "fileupload": ""
+            },
+            {
+              "id": 9730,
+              "vanbanphanhoi": "Therefore, there was no further delay, and people could get home after work.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "title": "Đề 3 - Reading part 3",
+      "des": "\u003cstrong\u003eThe sentences below are about the scientist Albert Einstein. Put the sentences in the right order. The first sentence is done for you.\u003cbr\u003e\u003cbr\u003eLife of Albert Einstein\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3176,
+          "vanbancauhoi": "0. Albert Einstein was one of the world greatest scientists.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9731,
+              "vanbanphanhoi": "As a child, he moved to a new city in Germany, where he discovered his love for science and math.",
+              "fileupload": ""
+            },
+            {
+              "id": 9732,
+              "vanbanphanhoi": "His best friend in his new class shared his interest in inventions and helped him explore new ideas.",
+              "fileupload": ""
+            },
+            {
+              "id": 9733,
+              "vanbanphanhoi": "She later became his wife, supporting him through his studies and scientific discoveries.",
+              "fileupload": ""
+            },
+            {
+              "id": 9734,
+              "vanbanphanhoi": "These were so advanced that they changed the way people thought about physics and the universe.",
+              "fileupload": ""
+            },
+            {
+              "id": 9735,
+              "vanbanphanhoi": "Princeton University in the USA invited him to become professor for his outstanding scientific discoveries.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 576,
+      "title": "Đề 3 - Reading part 4",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eFour people respond in the comments section of an online magazine article about flying on airplanes. Decide whose opinion matches the statements below. Read the texts and complete the questions below.\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eI used to fly to Italy\u003cspan xss\u003dremoved\u003e every summer for my wine trade, where I enjoyed relaxing while traveling and tasting some of the finest wines. For me, visiting vineyards and connecting with local producers was not just about business; it was a chance to unwind and appreciate the beautiful landscapes. My travels allowed me to immerse myself in different cultures, making my work even more fulfilling.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003ePeople find it strange\u003cspan xss\u003dremoved\u003e that I dislike flying, especially as a travel blogger who frequently needs to fly for my work. Despite the excitement of discovering new destinations, I think that flying is a bad experience overall, with long security lines and cramped seats. I often share tips with my followers about finding alternative travel options, like road trips, that allow for more enjoyable and flexible adventures.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003ePersonally, I have mixed feelings\u003cspan xss\u003dremoved\u003e about flying. While I want to work as a tour guide in other countries to share my love for travel with others, I also dread the uncomfortable experience of air travel. I even suggest increasing the flight ticket price to reduce the number of flights, making travel a more thoughtful experience that allows people to appreciate their journeys.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMy son and his family live far from me, so I visit relatives regularly by plane. I know this is harmful for the environment but there are other things that I do in order to protect our nature.I usually walk or cycle to local grocery stores instead of driving, and I limit my use of plastic as much as possible. I believe that small actions, like these, contribute to a healthier planet and set a good example for my family.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3177,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that flying is a bad experience? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9736,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9737,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9739,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9740,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3178,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho visits relatives regularly? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9741,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9742,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9743,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9744,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3179,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho needs to fly for their work? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9745,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9746,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9747,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9748,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3180,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho wants to work in other countries? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9749,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9750,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9751,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9752,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3181,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho suggests increasing the flight ticket price? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9753,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9754,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9755,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9756,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3182,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho tries to protect the environment? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9757,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9758,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9759,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9761,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3183,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho likes relaxing while traveling? _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9762,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9763,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9764,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9765,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 577,
+      "title": "Đề 3 - Reading part 5",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1–7) from the drop-down box. There is one more heading than you need.\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003ch1\u003e\u003cstrong\u003eThe Golden Age of Tulip Trade\u003c/strong\u003e\u003c/h1\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3184,
+          "vanbancauhoi": "1. _\u003cbr\u003e\r\n\u003cp\u003eDuring the period of the Dutch Golden Age, the port of Manchester was one of the wealthiest in all of Europe. This prosperity was in part due to the trade connections established by the Dutch East India Company, which transported luxury and exotic goods to Europe from Asia and beyond. Among the imported items, tulip bulbs made their way to Europe and quickly captured public attention, especially after their arrival in the bustling ports of the Netherlands. Tulips, with their striking colors and exotic appeal, soon became a symbol of status and luxury in Europe, especially as they gained popularity through trade at the prominent Manchester port.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9766,
+              "vanbanphanhoi": "Stock market and Economics",
+              "fileupload": ""
+            },
+            {
+              "id": 9767,
+              "vanbanphanhoi": "Come into fashion",
+              "fileupload": ""
+            },
+            {
+              "id": 9768,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            },
+            {
+              "id": 9769,
+              "vanbanphanhoi": "Different types of tulips",
+              "fileupload": ""
+            },
+            {
+              "id": 9770,
+              "vanbanphanhoi": "Trade across Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 9771,
+              "vanbanphanhoi": "An unexpected turn of events",
+              "fileupload": ""
+            },
+            {
+              "id": 9858,
+              "vanbanphanhoi": "An object of trade",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3185,
+          "vanbancauhoi": "2. _\u003cbr\u003e\r\n\u003cp\u003eIn 1593, studies conducted at Dutch universities revealed that tulips could survive the cold European climate, an insight that fueled the flower’s popularity. Their vibrant and diverse colors stood out against the more subdued tones of European flora, making tulips a unique spectacle. As they gained popularity, tulips became a symbol of wealth and status, particularly in the Netherlands. This popularity spread quickly across Europe, establishing tulips as a highly desirable commodity and solidifying their reputation as a status symbol among the European elite.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9773,
+              "vanbanphanhoi": "Stock market and Economics",
+              "fileupload": ""
+            },
+            {
+              "id": 9775,
+              "vanbanphanhoi": "Come into fashion",
+              "fileupload": ""
+            },
+            {
+              "id": 9776,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            },
+            {
+              "id": 9777,
+              "vanbanphanhoi": "Different types of tulips",
+              "fileupload": ""
+            },
+            {
+              "id": 9778,
+              "vanbanphanhoi": "Trade across Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 9779,
+              "vanbanphanhoi": "An unexpected turn of events",
+              "fileupload": ""
+            },
+            {
+              "id": 9860,
+              "vanbanphanhoi": "An object of trade",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3186,
+          "vanbancauhoi": "3. _\u003cbr\u003e\r\n\u003cp\u003eThe demand for tulips surged, with collectors and merchants eagerly seeking the most colorful and unique blooms. Because tulips only bloomed during a limited season, from September to November, those who wanted tulips outside this window had to place orders in advance. This created a system of advance sales and pre-purchases, giving rise to a speculative market. This practice of pre-ordering tulips and trading contracts for their future delivery resembled modern-day options and futures trading in the financial markets, laying the groundwork for a complex market around these rare and exotic flowers.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9781,
+              "vanbanphanhoi": "Stock market and Economics",
+              "fileupload": ""
+            },
+            {
+              "id": 9782,
+              "vanbanphanhoi": "Come into fashion",
+              "fileupload": ""
+            },
+            {
+              "id": 9785,
+              "vanbanphanhoi": "Different types of tulips",
+              "fileupload": ""
+            },
+            {
+              "id": 9786,
+              "vanbanphanhoi": "Trade across Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 9787,
+              "vanbanphanhoi": "An unexpected turn of events",
+              "fileupload": ""
+            },
+            {
+              "id": 9788,
+              "vanbanphanhoi": "The Golden Age Economy",
+              "fileupload": ""
+            },
+            {
+              "id": 9865,
+              "vanbanphanhoi": "An object of trade",
+              "fileupload": ""
+            },
+            {
+              "id": 9866,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3187,
+          "vanbancauhoi": "4. _\u003cbr\u003e\r\n\u003cp\u003eTulip values varied greatly, depending on their rarity and color. Multi-colored tulips, especially those with striking patterns, commanded higher prices than solid-colored varieties. Of particular interest were tulips affected by a viral infection that caused beautiful flame-like patterns on the petals, known as \"broken\" tulips. These rare blooms were highly valued for their unique appearance and sold for premium prices. Since tulips were also susceptible to disease, their fragility and exclusivity made them a prized commodity, as any remaining tulips became even more desirable.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9789,
+              "vanbanphanhoi": "Stock market and Economics",
+              "fileupload": ""
+            },
+            {
+              "id": 9790,
+              "vanbanphanhoi": "Come into fashion",
+              "fileupload": ""
+            },
+            {
+              "id": 9791,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            },
+            {
+              "id": 9794,
+              "vanbanphanhoi": "Different types of tulips",
+              "fileupload": ""
+            },
+            {
+              "id": 9795,
+              "vanbanphanhoi": "Trade across Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 9796,
+              "vanbanphanhoi": "An unexpected turn of events",
+              "fileupload": ""
+            },
+            {
+              "id": 9797,
+              "vanbanphanhoi": "The Golden Age Economy",
+              "fileupload": ""
+            },
+            {
+              "id": 9867,
+              "vanbanphanhoi": "An object of trade",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3188,
+          "vanbancauhoi": "5. _\u003cbr\u003e\r\n\u003cp\u003eAs the tulip market grew, prices skyrocketed. Merchants often held onto their bulbs, waiting to sell at inflated prices. Between 1634 and 1637, the value of certain tulips rose by up to sixty times their original price. Speculators poured increasing amounts of money into tulips, driven by the hope of reselling them at even higher prices. The speculative nature of the market led to an economic bubble, where the price of tulips continued to rise without any intrinsic reason beyond collective belief in their value.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9798,
+              "vanbanphanhoi": "Stock market and Economics",
+              "fileupload": ""
+            },
+            {
+              "id": 9799,
+              "vanbanphanhoi": "Come into fashion",
+              "fileupload": ""
+            },
+            {
+              "id": 9801,
+              "vanbanphanhoi": "Different types of tulips",
+              "fileupload": ""
+            },
+            {
+              "id": 9802,
+              "vanbanphanhoi": "Trade across Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 9803,
+              "vanbanphanhoi": "An unexpected turn of events",
+              "fileupload": ""
+            },
+            {
+              "id": 9869,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            },
+            {
+              "id": 9872,
+              "vanbanphanhoi": "An object of trade",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3189,
+          "vanbancauhoi": "6. _\u003cbr\u003e\r\n\u003cp\u003eTulip prices reached such extreme heights that they began to be traded on exchanges and even listed on stock markets. The general public, hoping to partake in the lucrative trade, flocked to purchase tulip bulbs. This speculative frenzy drew in a wide range of people, from merchants to commoners, all vying for a piece of what seemed like a guaranteed profitable investment. The tulip market became a cultural and economic phenomenon, with people from all backgrounds willing to invest their savings into tulips, expecting substantial returns.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9807,
+              "vanbanphanhoi": "Stock market and Economics",
+              "fileupload": ""
+            },
+            {
+              "id": 9808,
+              "vanbanphanhoi": "Come into fashion",
+              "fileupload": ""
+            },
+            {
+              "id": 9809,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            },
+            {
+              "id": 9810,
+              "vanbanphanhoi": "Different types of tulips",
+              "fileupload": ""
+            },
+            {
+              "id": 9811,
+              "vanbanphanhoi": "Trade across Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 9812,
+              "vanbanphanhoi": "An unexpected turn of events",
+              "fileupload": ""
+            },
+            {
+              "id": 9870,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3191,
+          "vanbancauhoi": "7. _\u003cbr\u003e\r\n\u003cp\u003eHowever, this bustling tulip market eventually reached its breaking point. As with many speculative bubbles, the tulip craze was unsustainable, and prices eventually began to plummet. Once people realized that tulip prices had risen far beyond reasonable levels, panic selling ensued, and the market collapsed. The dramatic fall in prices left many investors in financial ruin, as the value of tulips dwindled to a fraction of their peak. The tulip mania became one of history’s most famous economic bubbles, offering a cautionary tale about the dangers of speculation and the risks inherent in market bubbles.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9814,
+              "vanbanphanhoi": "Stock market and Economics",
+              "fileupload": ""
+            },
+            {
+              "id": 9815,
+              "vanbanphanhoi": "Come into fashion",
+              "fileupload": ""
+            },
+            {
+              "id": 9816,
+              "vanbanphanhoi": "Trade mechanics",
+              "fileupload": ""
+            },
+            {
+              "id": 9817,
+              "vanbanphanhoi": "Different types of tulips",
+              "fileupload": ""
+            },
+            {
+              "id": 9818,
+              "vanbanphanhoi": "Trade across Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 9819,
+              "vanbanphanhoi": "An unexpected turn of events",
+              "fileupload": ""
+            },
+            {
+              "id": 9877,
+              "vanbanphanhoi": "An object of trade",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 604,
+      "title": "Đề 3 - Speaking part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9f97b49768e40b91fd77fdeb13b838ea.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3487,
+          "vanbancauhoi": "Please tell me about your typical day.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eThis question makes me feel interested. My typical day is kind of lame and tedious. I spend my morning playing badminton with my classmate, who I’ve known for 2 years. After that, I self study and have extra classes for the rest of the day.  That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eOn a typical day, I wake up early and get ready for school. I usually have breakfast before I leave. At school, I study different subjects like English, math, and science. After school, I sometimes play with my friends or go home to do homework. In the evening, I eat dinner with my family and relax before going to bed.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/47390d141eec33178a964bd9300c288c.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10865,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0fb7800e29635bf7bb13bcffbadf389a.mp3"
+            },
+            {
+              "id": 10866,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/da7404c9747d99dce6d198139dad22fd.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3488,
+          "vanbancauhoi": "What sports do people play in your country?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eAlmost all people in my country have an active lifestyle. To do this, they play sports in their free time.And the most famous sports in my country is badminton, after that is football and basketball. That\u0027s all I want to share and thank you for listening.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eIn my country, people enjoy playing football. It is the most popular sport. Many people also play badminton or basketball. On weekends, you can see many people in the parks playing these sports with their friends.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/13b8b8cb26e5e9c79b30979bf703978e.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10867,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/022a244cabb5437edc09f5f7bd9664e9.mp3"
+            },
+            {
+              "id": 10868,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/70d8615d5527e319ae642aff4dba1371.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3489,
+          "vanbancauhoi": "Please tell me about your favorite place.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eMy ideal place for resting is a small room with a cozy atmosphere and a comfy bed .It will be decorated with dim light, fluffy pillows and teddy bears. A bookshelf, where I can store my favorite books, will be good too. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eMy favorite place is the park near my house. It’s a big park with lots of trees and a playground. I like to go there with my friends or family to relax or play sports. It’s a peaceful place, and I always feel happy when I’m there.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/54edb82c775da9716526176d1e9fe7e0.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10869,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a31a14f53793a8c2b74b1800a224e156.mp3"
+            },
+            {
+              "id": 10870,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5ed512d9318d53665af4c5e8ace09265.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "title": "Đề 3 - Speaking part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a1404d799fd2515a37af8cef66b19db1.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3490,
+          "vanbancauhoi": "Describe the picture.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/3b820b455cc0b15ec489b383d41d6219.png\"\u003e",
+          "vanbangiaithich": "In this picture, I can see some people.\u0026nbsp;\u003cbr\u003eIn the front, I can see a woman and a boy. The boy is sleeping. The woman looks calm, and she’s gently watching over the boy. \u003cbr\u003eIn the background, I can see a man. He is drinking coffee. He seems relaxed and is probably enjoying the peaceful moment. \u003cbr\u003eIt is clear that they are a family. The way they are sitting together shows how close they are. \u003cbr\u003eI guess that they are happy. They look comfortable in each other\u0027s company, which makes the picture feel warm. \u003cbr\u003eThis picture is beautiful. I love it. \u003cbr\u003eThe natural lighting also adds a soft, gentle touch to the overall scene. The setting looks cozy, making it feel like a special moment for the family.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a5569509044057f44cf5c47b317f9856.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10871,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5282c26fddd787e997fee776e8c1b335.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3491,
+          "vanbancauhoi": "Tell me a time when you felt tired.",
+          "vanbangiaithich": "Let me tell you about a time when I felt tired. It was 3 days ago. I was very tired after I played football. My legs were sore, and I felt exhausted. I hadn\u0026rsquo;t played for a while, so my body wasn\u0026rsquo;t used to it. I slept right away as I came back home. I didn\u0026rsquo;t even have dinner because I was too tired to eat. On the following day, I couldn\u0026rsquo;t go to work. I needed more rest to recover. My whole body ached, and I knew I needed to take it easy. I spent the day resting and drinking water to rehydrate. It was frustrating because I had some important tasks to finish at work. However, my health had to come first. By the end of the day, I felt a bit better. That\u0026rsquo;s all I want to say.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0b6767df8d77c7c9aa8b4645468fd2ef.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10872,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/cf5af057d39fc48433ddb375f0d2cf3e.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3492,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eHow important is it for you to sleep?\u003c/span\u003e",
+          "vanbangiaithich": "For everyone, sleeping is very important. It is advisable that we should sleep 8 hours a day. Good sleep improves our mood and boosts energy levels. For me, I sleep every day to relax and reduce stress after a long day of working. A restful night helps me feel refreshed and ready for the next day. It also helps me to keep fit and stay healthy. Without enough sleep, I notice that I become tired and less focused. That\u0026rsquo;s why I always try to maintain a good sleep routine. I also avoid using my phone before bed to improve the quality of my sleep. It\u0026rsquo;s amazing how much better I feel when I get enough rest. So, I always prioritize sleep as part of a healthy lifestyle.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a022240303e2154c5e35498fdd4fd61a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10873,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b8ccbbc92995e695d66b04a8253db859.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 606,
+      "title": "Đề 3 - Speaking part 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9417ee1524038d43b604db890a3be662.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3493,
+          "vanbancauhoi": "Describe these 2 pictures.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/4c4a2a0578d9d7142e253427c2494651.png\"\u003e",
+          "vanbangiaithich": "Both pictures are about entertainment.\u0026nbsp;\u003cbr\u003eIn the first picture, I can see an old man reading a book. He looks very focused, probably enjoying a quiet moment. It seems like he is doing a word puzzle, which is a relaxing and mentally stimulating activity. \u003cbr\u003eIn the second picture, I can see a child playing video games. He is very angry, likely frustrated with the game. It seems like he is losing his game, which is causing his reaction. The contrast between the calm old man and the frustrated child is interesting. \u003cbr\u003eBoth pictures show how people enjoy different forms of entertainment. Both pictures are beautiful. I love them because they capture real emotions.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f2cc6e4e11a077dbae350bad46183e8b.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10874,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/48b58d27cc35e7fa94a416b1fff01dbd.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3494,
+          "vanbancauhoi": "What are these attractions of these activities",
+          "vanbangiaithich": "Each activity has its own attractions. In the first activity, I think we can relax and reduce stress. It\u0026rsquo;s a calm and quiet way to spend time, which can be good for mental health. I think it can also help us to gain more knowledge, especially if we are reading or solving puzzles. In the second activity, I think it is fun and interesting. Video games can be exciting and offer a sense of challenge. We enjoy the games with our friends, making it a social activity as well. For me, I think I like the second activity more. It\u0026rsquo;s more interactive and gives me a chance to have fun with others. Overall, both activities have their unique benefits, but the joy of gaming is something I truly cherish.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dda4ddbd66f532e789988eafe4803886.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10875,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/90d55a189408b1cc42599819cf85b686.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3495,
+          "vanbancauhoi": "Playing games is for children, not for adults. What do you think?",
+          "vanbangiaithich": "For many people, playing games is for children, not for adults. They believe it is a waste of time and not a productive way to spend their day. For me, I don\u0026rsquo;t think so. I enjoy playing games because it helps me to relax and reduce stress after a long working day. It\u0026rsquo;s a fun way to unwind, and sometimes it even helps me think more creatively. I believe that gaming can be beneficial, as long as it is done in moderation. Everyone has different ways to relax, and playing games is just one of them. Plus, many games can improve problem-solving skills and reaction time, which are useful in daily life. That\u0027s why I find value in playing games as part of my routine.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a711fa998a17f43b7fd148477a3aa6bc.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10876,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b82b31fb8c4d6a3371def118aa45d7c9.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "title": "Đề 3 - Speaking part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/343843adf0e27ad615d31a99edf1eb76.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3496,
+          "vanbancauhoi": "Describe a time when you learn something new.\u003cbr\u003eHow do you feel when you learn something new?\u003cbr\u003eIt is never too old to learn new things? Do you agree or disagree? What do you think?",
+          "vanbangiaithich": "Regarding the first question, let me tell you about a time I learned something new, and it was when I traveled to Da Nang city. Da Nang is famous for its beaches, and one of them is My Khe, which is one of the most wonderful beaches in the world. Every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive for me at that time. However, the experience was worth every penny as I got to enjoy the stunning views and vibrant atmosphere.\u003cbr\u003e\u003cbr\u003eDuring the trip, I learned new things about the culture here, which really surprised me. I love what I have learned, especially about the local cuisine and traditions. So in Da Nang, I did a number of things. First of all, I did some sightseeing in the mountains, and I had a beautiful view of the city below. I also visited historical sites that gave me a deeper understanding of the area\u0027s rich history.\u003cbr\u003e\u003cbr\u003eTurning to the second question, I usually feel really happy when I learn something new because I can expand my knowledge and experience. Each new lesson adds a layer to my understanding of the world.\u003cbr\u003e\u003cbr\u003eAs for the final question, I agree that it is never too old to learn new things because knowledge is unlimited. Moreover, many people love to explore new things, and this curiosity keeps life exciting and fulfilling. I believe that learning is a lifelong journey, and we should always embrace opportunities to grow.\u003cbr\u003e\u003cbr\u003eIn addition, meeting new people during my travels often leads to interesting discussions that further enhance my learning. Each encounter opens my mind to different perspectives and ideas, making my experiences even more enriching.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/292bcd24e01025047cb00ffd5c3b1744.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 10877,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7d1491c8f74c491cc30e75ac417acba6.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 566,
+      "title": "Đề 3 - Writing part 3",
+      "des": "\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e\r\n\u003cp\u003e\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003cdiv class\u003d\"questions-container\"\u003e\r\n\u003cdiv class\u003d\"card invisible\"\u003e\r\n\u003cdiv\u003e\r\n\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3 col-sm-6 col-md-6\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e \u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3143,
+          "vanbancauhoi": "Person A: Tell me something you do to keep fit.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11067,
+              "vanbanphanhoi": "Let me tell you about something I do to keep fit. First, I do exercises every morning, which helps me to relax and stay healthy. Second, I do not eat fast food because it is not good for my health.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3144,
+          "vanbancauhoi": "Person B: Do you prefer getting up in the morning to go for a run?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11066,
+              "vanbanphanhoi": "For me, I enjoy getting up in the morning to go for a run. I usually go for a run with my husband in the park, where there are lots of trees and fresh air (không khí trong lành). It helps me to keep fit, which I like very much.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3145,
+          "vanbancauhoi": "Person C: Technology makes our lives easier, therefore we are too lazy to do physical exercises. What is your opinion?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11065,
+              "vanbanphanhoi": "I agree with this statement (lời khẳng định). Technology has taken on the responsibility (trách nhiệm) of completing many time-consuming (tốn thời gian) and repetitive (lặp đi lặp lại) tasks that were once done manually (thủ công) by humans. With fewer tasks requiring human effort, there is no doubt that (không còn nghi ngờ gì rằng) people may become lazier, especially when it comes to participating in physical activities.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "title": "Đề 3 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a fitness club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eExample \u003c/strong\u003eHow are you? I\u0027m fine, thanks.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3137,
+          "vanbancauhoi": "\u003cp\u003eHow are you?  \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11072,
+              "vanbanphanhoi": "I am fine, thank you.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3138,
+          "vanbancauhoi": "Which is your favorite season?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11071,
+              "vanbanphanhoi": "My favorite season is winter.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3139,
+          "vanbancauhoi": "What is the weather like today?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11070,
+              "vanbanphanhoi": "The weather is mostly sunny today.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3140,
+          "vanbancauhoi": "What is your favorite sport?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9599,
+              "vanbanphanhoi": "It’s football.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3141,
+          "vanbancauhoi": "What do you do on the weekend?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11069,
+              "vanbanphanhoi": "I listen to music.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "title": "Đề 3 - Writing part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a new member of the fitness club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3142,
+          "vanbancauhoi": "Tell me about a time when you had to run somewhere.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11068,
+              "vanbanphanhoi": "Once, I had to run to my classroom because I was almost late for an important test. I hurried (vội vàng) down the halls and reached just in time (vừa kịp lúc) to take my seat.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "title": "Đề 3 - Writing part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of the travel club. You have received this email from the club:\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003cem\u003eDear members,\u003cbr\u003e\u003cbr\u003eThe club equipment is too old and needs to be replaced. The club plans to organize a sponsor event to raise money or increase the membership fee ) by 50%. What are your opinions and suggestions?\u003cbr\u003e\u003c/em\u003e\u003cem\u003e\u003cbr\u003eBests,\u003c/em\u003e\u003cbr\u003e\u003cem\u003eClub Manager.\u003cbr\u003e\u003c/em\u003e\u003cbr\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3146,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to your friend. Write about your feelings and what you think the club should do about the situation. Write about 50 words. Recommended time: 10 minutes.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11064,
+              "vanbanphanhoi": "Hi, Lucy.\r\nHow are things? I hope that you are doing well.\r\nHave you received the email from our club? It said that the club plans to organize a sponsor event or increase the membership fee by 50% in order to replace old equipment. \r\nWhile I agree that a replacement of old equipment is necessary (cần thiết), I also think that an increase of 50% membership fee is cutting-throat (đắt đỏ). Maybe organizing a sponsor event is the better idea.\r\nWhat about you? What do you think? Do you have any suggestions?\r\nYours,\r\nLisa.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3147,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to the president of the club. Write about your feelings and what you think the club should do about the situation. Write 120–150 words. Recommended time: 20 minutes.a\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11063,
+              "vanbanphanhoi": "Dear Club manager,\r\nI am Lisa. I have been a member of this club for 6 months.\r\nI am writing this in response to your latest email.\r\nAccording to the news, the equipment of the club is too old and needs to be replaced. The club plans to organize a sponsor event to raise money or increase the membership fee by 50%. \r\nI was very surprised when I heard this. \r\nWhile I fully support updating our equipment, I believe that a 50% increase in membership fees may be quite big and could be difficult for some members to (khó cho ai đó làm gì đó) manage (xoay sở). On the other hand, hosting a sponsorship event, in my opinion, might be a more balanced approach (cách tiếp cận căn bằng) to gather funds without placing too much stress on (đặt áp lực lên) our members. By implementing these changes, we can ensure better attendance and engagement at the meeting, enhancing the overall experience for everyone involved.\r\nI hope that my suggestions are useful.\r\nBest regards,\r\nLisa.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

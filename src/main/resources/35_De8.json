@@ -1,0 +1,1937 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3298,
+        "vanbancauhoi": "Listening to a tour guide talking about Rock city. How old is the city?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2459099050ba61c2014ae597294b1256.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10102,
+            "vanbanphanhoi": "3500 years",
+            "fileupload": ""
+          },
+          {
+            "id": 10103,
+            "vanbanphanhoi": "2500 years",
+            "fileupload": ""
+          },
+          {
+            "id": 10104,
+            "vanbanphanhoi": "1500 years",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3297,
+        "vanbancauhoi": "Listen to the announcement. When does the train leave?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fa173889add303501ae87193a0f997e9.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10099,
+            "vanbanphanhoi": "At 9:15",
+            "fileupload": ""
+          },
+          {
+            "id": 10100,
+            "vanbanphanhoi": "At 9.30",
+            "fileupload": ""
+          },
+          {
+            "id": 10101,
+            "vanbanphanhoi": "At 9.45",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3299,
+        "vanbancauhoi": "Listening to Sarah leaving a message for her friend. When does she want to meet?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/10085283d0825c6f7bb101f68e06db21.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10105,
+            "vanbanphanhoi": "Two o’clock",
+            "fileupload": ""
+          },
+          {
+            "id": 10106,
+            "vanbanphanhoi": "Three o\u0027clock",
+            "fileupload": ""
+          },
+          {
+            "id": 10107,
+            "vanbanphanhoi": "One o’clock",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3300,
+        "vanbancauhoi": "Listen to a woman talking about what she has just bought. What is Dress she wears like?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c820a40cbfa00d8648b9d7c763827c64.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10108,
+            "vanbanphanhoi": "black and white",
+            "fileupload": ""
+          },
+          {
+            "id": 10109,
+            "vanbanphanhoi": "long and white",
+            "fileupload": ""
+          },
+          {
+            "id": 10110,
+            "vanbanphanhoi": "long and red",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3303,
+        "vanbancauhoi": "A man is seeking advice on future career. What is he going to do?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7be7b419952998cb6c21f1d9dc993a2a.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10111,
+            "vanbanphanhoi": "To become a teacher",
+            "fileupload": ""
+          },
+          {
+            "id": 10112,
+            "vanbanphanhoi": "To study at college",
+            "fileupload": ""
+          },
+          {
+            "id": 10113,
+            "vanbanphanhoi": "To work in business",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3305,
+        "vanbancauhoi": "Listen to Anna talk about his old manager, George . What did Anna say about George?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3e0be738533736ffc88d902acd522158.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10114,
+            "vanbanphanhoi": "he didn’t like her",
+            "fileupload": ""
+          },
+          {
+            "id": 10115,
+            "vanbanphanhoi": "he taught her a lot",
+            "fileupload": ""
+          },
+          {
+            "id": 10116,
+            "vanbanphanhoi": "he was very strict",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3306,
+        "vanbancauhoi": "\u003cp\u003eListen to Sarah talking about her hobby. What does she do in her free time?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/214b9a94dfca8b5c3253bac226a782c2.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10117,
+            "vanbanphanhoi": "Read books and paint",
+            "fileupload": ""
+          },
+          {
+            "id": 10118,
+            "vanbanphanhoi": "Watch movies and go shopping",
+            "fileupload": ""
+          },
+          {
+            "id": 10119,
+            "vanbanphanhoi": "go to the theater and play sports",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3308,
+        "vanbancauhoi": "\u003cp\u003eLinda is talking about what she likes to eat. What does she have for lunch?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1bc61f0f8a366de8f849813e07e50f33.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10121,
+            "vanbanphanhoi": "Tea",
+            "fileupload": ""
+          },
+          {
+            "id": 10122,
+            "vanbanphanhoi": "Coffee",
+            "fileupload": ""
+          },
+          {
+            "id": 10123,
+            "vanbanphanhoi": "Juice",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3309,
+        "vanbancauhoi": "\u003cp\u003eA woman is talking about her holiday plan. Where is she going on holidays?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b8f89bf26a3ab6dff1d6ddea022282cf.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10124,
+            "vanbanphanhoi": "the cave",
+            "fileupload": ""
+          },
+          {
+            "id": 10125,
+            "vanbanphanhoi": "the beach",
+            "fileupload": ""
+          },
+          {
+            "id": 10127,
+            "vanbanphanhoi": "the mountains",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3310,
+        "vanbancauhoi": "\u003cp\u003eA man is talking about the environment of the countryside. What is the main cause of poor air quality?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/470617b30955e385a42a0e627981f5d6.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10128,
+            "vanbanphanhoi": "Smokes from factories",
+            "fileupload": ""
+          },
+          {
+            "id": 10129,
+            "vanbanphanhoi": "Vehicles on the roads",
+            "fileupload": ""
+          },
+          {
+            "id": 10130,
+            "vanbanphanhoi": "Fires in the countryside",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3311,
+        "vanbancauhoi": "A man is calling his friend to meet for coffee. Where is the Coffee shop located?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bff347ac93af248df8c2c96e52462a44.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10131,
+            "vanbanphanhoi": "opposite the gift shop",
+            "fileupload": ""
+          },
+          {
+            "id": 10132,
+            "vanbanphanhoi": "next to the gift shop",
+            "fileupload": ""
+          },
+          {
+            "id": 10133,
+            "vanbanphanhoi": "behind the gift shop",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3312,
+        "vanbancauhoi": "Two colleges talk about meeting. When do they want to meet?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f45c9586a786f4b442445ae20e39c9d0.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10134,
+            "vanbanphanhoi": "On Tuesday",
+            "fileupload": ""
+          },
+          {
+            "id": 10135,
+            "vanbanphanhoi": "On Sunday",
+            "fileupload": ""
+          },
+          {
+            "id": 10136,
+            "vanbanphanhoi": "On Saturday",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3313,
+        "vanbancauhoi": "\u003cp\u003eA man is calling his teacher to meet for the assignment. When is the meeting?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fa2824c02285cd45ea6c6f0509033aa5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10137,
+            "vanbanphanhoi": "On Thursday afternoon",
+            "fileupload": ""
+          },
+          {
+            "id": 10138,
+            "vanbanphanhoi": "On Tuesday morning",
+            "fileupload": ""
+          },
+          {
+            "id": 10139,
+            "vanbanphanhoi": "On Thursday morning",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 689,
+        "title": "Đề 8 - Listening c14",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eFour people are talking about Shopping online. Complete the sentences below.\u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3742,
+            "vanbancauhoi": "Speaker A_",
+            "vanbangiaithich": "\u003cspan xss\u003dremoved\u003eYou know what I love about online shopping? The fact that I don’t even need to leave my house. I can be sitting in my pajamas, sipping coffee, and boom—whatever I want is on its way. It’s like magic, or, well, just modern convenience. No more carrying heavy bags or struggling with parking. \u003c/span\u003e\u003cstrong\u003eThe delivery driver brings it right to my doorstep\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e, and all I have to do is click a button. Sometimes, I even forget I ordered something, and it’s like a little surprise when it shows up. It’s almost too easy—almost.\u003c/span\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6c00a2aa598225d34fe87f3d7f853a3e.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11821,
+                "vanbanphanhoi": "it is cheaper",
+                "fileupload": ""
+              },
+              {
+                "id": 11822,
+                "vanbanphanhoi": "products are delivered",
+                "fileupload": ""
+              },
+              {
+                "id": 11823,
+                "vanbanphanhoi": "it has more choices",
+                "fileupload": ""
+              },
+              {
+                "id": 11824,
+                "vanbanphanhoi": "it is convenient",
+                "fileupload": ""
+              },
+              {
+                "id": 11826,
+                "vanbanphanhoi": "it saves time",
+                "fileupload": ""
+              },
+              {
+                "id": 11828,
+                "vanbanphanhoi": "it has flexible payment options",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3743,
+            "vanbancauhoi": "Speaker B_",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eWhat really gets me excited is how reasonable the price can be. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eLike, have you ever compared the prices? Online stores are practically giving stuff away compared to what you\u0027d pay in-store. And the sales? The discount codes? Half the time, I find a deal without even trying. Plus, I can shop around different sites to get the best price without moving an inch. Add in free shipping, and it’s a no-brainer. I mean, why would I go to a store and pay more when I can get it for less, right?\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5549267cb904dada79f7f591558fab85.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11832,
+                "vanbanphanhoi": "it is cheaper",
+                "fileupload": ""
+              },
+              {
+                "id": 11833,
+                "vanbanphanhoi": "products are delivered",
+                "fileupload": ""
+              },
+              {
+                "id": 11834,
+                "vanbanphanhoi": "it has more choices",
+                "fileupload": ""
+              },
+              {
+                "id": 11835,
+                "vanbanphanhoi": "it is convenient",
+                "fileupload": ""
+              },
+              {
+                "id": 11836,
+                "vanbanphanhoi": "it saves time",
+                "fileupload": ""
+              },
+              {
+                "id": 11837,
+                "vanbanphanhoi": "it has flexible payment options",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3744,
+            "vanbancauhoi": "Speaker C_",
+            "vanbangiaithich": "\u003cp\u003eI swear, I don’t know how people used to spend hours in malls. You can get lost in there, wandering around, dealing with lines. With online shopping, it’s like time stretches out in your favor.\u003cstrong\u003e I can find what I want in minutes, and then I’m done—back to whatever I was doing\u003c/strong\u003e. No driving, no waiting for the fitting rooms, none of that hassle. Time is money, right? And online shopping just gives me so much more of it to spend on the things that actually matter to me.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/065ea0803d9d01a355a50c9a3d868933.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11838,
+                "vanbanphanhoi": "it is cheaper",
+                "fileupload": ""
+              },
+              {
+                "id": 11839,
+                "vanbanphanhoi": "products are delivered",
+                "fileupload": ""
+              },
+              {
+                "id": 11840,
+                "vanbanphanhoi": "it has more choices",
+                "fileupload": ""
+              },
+              {
+                "id": 11841,
+                "vanbanphanhoi": "it is convenient",
+                "fileupload": ""
+              },
+              {
+                "id": 11842,
+                "vanbanphanhoi": "it saves time",
+                "fileupload": ""
+              },
+              {
+                "id": 11843,
+                "vanbanphanhoi": "it has flexible payment options",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3745,
+            "vanbancauhoi": "Speaker D_",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe selection online? It’s insane! You walk into a store and, sure, they’ve got a couple racks of things, but online? It’s like you’re stepping into the biggest mall in the world. You can find anything—stuff you didn’t even know existed. And if one site doesn’t have your size or style, there’s a hundred more that do.\u003c/span\u003e\u003cstrong\u003e No need to settle for whatever happens to be on the shelves. It’s all there, just waiting for you to find it\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. And the niche stuff? That’s where online really shines.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/58df3aac671ca56112f993485ccc78ed.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11844,
+                "vanbanphanhoi": "it is cheaper",
+                "fileupload": ""
+              },
+              {
+                "id": 11845,
+                "vanbanphanhoi": "products are delivered",
+                "fileupload": ""
+              },
+              {
+                "id": 11846,
+                "vanbanphanhoi": "it has more choices",
+                "fileupload": ""
+              },
+              {
+                "id": 11847,
+                "vanbanphanhoi": "it is convenient",
+                "fileupload": ""
+              },
+              {
+                "id": 11848,
+                "vanbanphanhoi": "it saves time",
+                "fileupload": ""
+              },
+              {
+                "id": 11849,
+                "vanbanphanhoi": "it has flexible payment options",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 690,
+        "title": "Đề 8 - Listening C15",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to two people discussing Audition. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/29f9ace0df0e1314a5a146adb3596c34.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3746,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eAuditions are most important for an actor\u0027s career._\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11850,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11851,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11852,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3747,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eActors tend to respond best to strong and engaging scripts._\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11853,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11854,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11855,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3748,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eTheater acting and screen acting are quite different from each other._\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11856,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11857,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11858,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3749,
+            "vanbancauhoi": "Actors should be praised and recognized as much as possible._",
+            "vanbangiaithich": "\u003cp\u003eMan: You know,\u003cstrong\u003e I’ve always believed that auditions are the most important part of an actor’s career.\u003c/strong\u003e I mean, that’s where the magic happens. It doesn’t matter how great you are in rehearsals or even in the final performance, if you can’t nail that audition, you’re not getting anywhere.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eWoman: Yeah, \u003cstrong\u003ebut it’s not just about the audition\u003c/strong\u003e. I’ve seen actors who can absolutely shine when they’re given the right material to work with. \u003cstrong\u003eStrong scripts really bring out the best in them.\u003c/strong\u003e If the writing’s weak, even a talented actor might struggle to connect. I think actors respond best when they feel inspired by what’s on the page.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eMan: That’s true, \u003cstrong\u003ebut whether it’s a strong script or a weak one, they still have to nail that first audition to even get the chance to perform\u003c/strong\u003e, right?\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eWoman:\u003cstrong\u003e Sure, the audition is key, but once they’re in,\u003c/strong\u003e the script can make or break their performance. It’s kind of a balance between both.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eMan: I agree with that. \u003cstrong\u003eBut I also think there’s a huge difference between theater acting and screen acting. T\u003c/strong\u003ehe two require completely different skill sets. In theater, you’ve got to project and be larger than life, whereas on screen, it’s all about subtlety, keeping everything smaller and more contained.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eWoman\u003cstrong\u003e: Absolutely! They’re such different worlds. The way you use your body, your voice, even how you interact with your fellow actor\u003c/strong\u003es—it’s all completely different depending on whether you’re on stage or in front of a camera.\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003eMan: Right, \u003cstrong\u003eand that’s why actors deserve as much praise as possible\u003c/strong\u003e. They’re constantly shifting between styles and adapting to new roles. It’s tough!\u003c/p\u003e\r\n\u003cbr\u003eWoman:\u003cstrong\u003e Couldn’t agree more. I mean, whether it’s theater or film, acting is such an emotional and demanding job.\u003c/strong\u003e Encouragement and praise go a long way. They need to feel appreciated for all the work they put in.",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11859,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11860,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11861,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 691,
+        "title": "Đề 8 - Listening C16",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to a city planner talk at a press conference about a Regional Development Planning and answer the questions below.  \u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/98382f29c632bf9169e755edf1792c76.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3750,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat is one of the main criticisms of the Regional Development Plan?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11862,
+                "vanbanphanhoi": "It doesn\u0027t provide enough alternatives to driving.",
+                "fileupload": ""
+              },
+              {
+                "id": 11863,
+                "vanbanphanhoi": "It places too much emphasis on public transportation.",
+                "fileupload": ""
+              },
+              {
+                "id": 11864,
+                "vanbanphanhoi": "It is too expensive to implement the plan.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3751,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat challenge is the Regional Development Plan likely to face?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLadies and gentlemen of the press, thank you for joining us today to discuss our Regional Development Plan. As we move forward with this ambitious project, I\u0027d like to address some of the concerns that have been raised.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eNow, I\u0027ve heard whispers about our plan being too expensive or placing excessive emphasis on public transportation. Let me assure you, these are not accurate representations of our vision. Our budget has been carefully calculated, and we believe it strikes the right balance between fiscal responsibility and necessary improvements.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eHowever, I will acknowledge that one of the main criticisms we\u0027ve received is that our plan doesn\u0027t provide enough alternatives to driving\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. This is a valid concern, and I want to assure you that we\u0027re taking it seriously. We\u0027re actively exploring additional options to diversify our transportation network and reduce reliance on personal vehicles.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eSome have suggested that we might face delays due to funding issues or difficulties in gaining government approval. While we always prepare for potential hurdles, I\u0027m confident that our thorough planning and strong relationships with various governmental bodies will help us navigate any bureaucratic challenges smoothly.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eThe real challenge we\u0027re anticipating, and the one we\u0027re preparing for most diligently, is the likelihood of resistance from local communities.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e Change can be difficult, and we understand that. That\u0027s why we\u0027re committed to extensive community engagement, transparent communication, and working closely with neighborhood representatives to address concerns and incorporate local feedback.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWe believe this Regional Development Plan is crucial for our area\u0027s future, and we\u0027re dedicated to making it work for everyone. Thank you for your attention, and I\u0027m now ready to take your questions.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11865,
+                "vanbanphanhoi": "It may be delayed due to funding issues.",
+                "fileupload": ""
+              },
+              {
+                "id": 11866,
+                "vanbanphanhoi": "It could face difficulties in gaining government approval.",
+                "fileupload": ""
+              },
+              {
+                "id": 11867,
+                "vanbanphanhoi": "It is likely to meet resistance from local communities.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 692,
+        "title": "Đề 8 - Listening C17",
+        "des": "\u003cp\u003eListen to a critic talk about a New series and answer the questions below.  \u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/image/542c8830424bdb5448793734034ba083.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3752,
+            "vanbancauhoi": "\u003cp\u003eWhat is one criticism mentioned regarding the series\u0027 storytelling?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11871,
+                "vanbanphanhoi": "The plot is overly complicated.",
+                "fileupload": ""
+              },
+              {
+                "id": 12948,
+                "vanbanphanhoi": "The dialogues seems unrealistic",
+                "fileupload": ""
+              },
+              {
+                "id": 12949,
+                "vanbanphanhoi": "The characters\u0027 backgrounds are not explored.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3753,
+            "vanbancauhoi": "\u003cp\u003eWhat issue is highlighted about the series\u0027 writing?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou can often judge a movie based on its script. A poorly written script feels amateurish and detracts from the overall experience. While the storyline might be decent, with elements of humor and well-developed character backgrounds, \u003c/span\u003e\u003cstrong\u003ethe relationships between the two main characters can feel forced due to unnatural dialogue.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cspan xss\u003dremoved\u003eIn the past, scriptwriting was less of an issue. Many good scripts were produced, with strong narratives and engaging content. However, modern production teams tend to focus more on visuals, innovative concepts, and world-building to impress audiences. This shift caters to a changing viewer base, which is often impatient and unwilling to stick with a series unless it becomes interesting quickly. \u003c/span\u003e\u003cstrong\u003eThe pressure to create short yet captivating storylines has led to many films being rejected by publishers or receiving low ratings from critics and viewers.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e While innovation is important, it should not come at the expense of a well-crafted script that forms the backbone of a compelling movie.\u003c/span\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11873,
+                "vanbanphanhoi": "The humor is poorly executed.",
+                "fileupload": ""
+              },
+              {
+                "id": 12950,
+                "vanbanphanhoi": "The new industry demand is negatively influencing script production",
+                "fileupload": ""
+              },
+              {
+                "id": 12951,
+                "vanbanphanhoi": "Many scripts are lacking original ideas.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 675,
+      "title": "Đề 8 - Reading p1",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eChoose one word from the list for each gap. The first one is done for you.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eDear Jane\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTalk to you soon!\u003c/span\u003e\u003cspan xss\u003dremoved\u003e\u003cbr\u003e\u003c/span\u003e\u003cspan xss\u003dremoved\u003eAnna\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3677,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eMy colleague didn’t go to work today because he is _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11552,
+              "vanbanphanhoi": "sick",
+              "fileupload": ""
+            },
+            {
+              "id": 11553,
+              "vanbanphanhoi": "happy",
+              "fileupload": ""
+            },
+            {
+              "id": 11554,
+              "vanbanphanhoi": "excited",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3679,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI am going to _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e 3 reports this afternoon.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11556,
+              "vanbanphanhoi": "sing",
+              "fileupload": ""
+            },
+            {
+              "id": 11557,
+              "vanbanphanhoi": "read",
+              "fileupload": ""
+            },
+            {
+              "id": 11558,
+              "vanbanphanhoi": "speak",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3680,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eNext week I have an important _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e with Ms.Hanna.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11559,
+              "vanbanphanhoi": "sleep",
+              "fileupload": ""
+            },
+            {
+              "id": 11560,
+              "vanbanphanhoi": "fun",
+              "fileupload": ""
+            },
+            {
+              "id": 11561,
+              "vanbanphanhoi": "meeting",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3682,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eMy telephone in the office is always _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11563,
+              "vanbanphanhoi": "ringing",
+              "fileupload": ""
+            },
+            {
+              "id": 11564,
+              "vanbanphanhoi": "speaking",
+              "fileupload": ""
+            },
+            {
+              "id": 11565,
+              "vanbanphanhoi": "talking",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3683,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI want to _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e coffee with a friend after all.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11566,
+              "vanbanphanhoi": "drink",
+              "fileupload": ""
+            },
+            {
+              "id": 11567,
+              "vanbanphanhoi": "eat",
+              "fileupload": ""
+            },
+            {
+              "id": 11568,
+              "vanbanphanhoi": "teach",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "title": "Đề 8 - Reading p2",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e The sentences below are some instructions. Put the sentences in the right order.  The first sentence of the story is an example.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp xss\u003dremoved\u003e\u003cstrong\u003eJoining a conference\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3685,
+          "vanbancauhoi": "\u003cem\u003e\u003cspan xss\u003dremoved\u003e0. To go to the conference hall, follow these instructions\u003c/span\u003e\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 11570,
+              "vanbanphanhoi": "When you arrive at the conference hall, give your booking number",
+              "fileupload": ""
+            },
+            {
+              "id": 11571,
+              "vanbanphanhoi": "A staff member will note this down and give you a welcome pack",
+              "fileupload": ""
+            },
+            {
+              "id": 11572,
+              "vanbanphanhoi": "Inside you will find a schedule of events and information about the key speaker.",
+              "fileupload": ""
+            },
+            {
+              "id": 11573,
+              "vanbanphanhoi": "If you would like to listen to his talk, it will take place in the main hall at midday",
+              "fileupload": ""
+            },
+            {
+              "id": 11574,
+              "vanbanphanhoi": "After finished, there will be time for questions",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 677,
+      "title": "Đề 8 - Reading p3",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe sentences below are from some instructions. Put the sentences in the right order. The first sentence is done for you.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp xss\u003dremoved\u003e\u003cstrong\u003eGuides to the Natural History Center\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3686,
+          "vanbancauhoi": "\u003cem\u003e\u003cspan xss\u003dremoved\u003e0. The Natural History Center has many important attractions.\u003c/span\u003e\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 11575,
+              "vanbanphanhoi": "The most important of these is The natural history center",
+              "fileupload": ""
+            },
+            {
+              "id": 11576,
+              "vanbanphanhoi": "The entrance to the center is on the town’s main square",
+              "fileupload": ""
+            },
+            {
+              "id": 11577,
+              "vanbanphanhoi": "As you enter the square, you will see a set of stairs to your left",
+              "fileupload": ""
+            },
+            {
+              "id": 11578,
+              "vanbanphanhoi": "The ticket office is at the top of these steps, the staffs there are very helpful",
+              "fileupload": ""
+            },
+            {
+              "id": 11579,
+              "vanbanphanhoi": "As well as selling tickets, the staffs provide maps and useful tour information",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 678,
+      "title": "Đề 8 - Reading p4",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eFour people respond to the request from the reporter asking about watching TV. Read their answers and answer the questions below.\u003cbr\u003e\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eA\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn my house, the TV is always on, and I watch whatever is playing because it\u0027s my way of staying entertained. However, sometimes I come across a really interesting series, and I can\u0027t stop constantly keeping up with it. That\u0027s how I entertain myself every day.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eB\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI was never good at school because my grades were always low. However, I can remember a lot of practical things from watching TV. For me, it\u0027s a great way to expand my understanding of the world, and I believe it will be more useful when I graduate than the dry, theoretical knowledge we learn in school.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eC\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI don\u0027t watch television much lately because I find most reality shows to be pretty stupid. I realized they’re all scripted, and the actors just follow a set plan. Once I learned that, I stopped watching those kinds of shows altogether. I switched to watching football instead, but my favorite team keeps losing, so I lost interest in that too.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eD\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI probably spend far too long just watching the series \"Friends.\" The characters are so funny, and I find myself laughing out loud in every episode. I\u0027ve been watching it for three weeks now, and I still can’t wait for the next episode. Watching it for so long has actually helped me improve my English speaking skills without having to sit through boring lessons in class.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3688,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho isn’t a selective viewer?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11581,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11582,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11583,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11584,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3690,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho gets general knowledge through television?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11586,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11587,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11588,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11589,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3691,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho avoids reality programs?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11590,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11591,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11592,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11593,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3693,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho often keeps up to date with films and music ?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11595,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11596,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11597,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11598,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3695,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho loves programs that continue for several weeks?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11599,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11600,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11601,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11602,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3697,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho Lost Interest in football?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11604,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11605,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11606,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11607,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3698,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho often watches TV instead of studying?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11608,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11609,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11610,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11611,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 679,
+      "title": "Đề 8 - Reading p5",
+      "des": "\u003cspan xss\u003dremoved\u003e\u003cspan xss\u003dremoved\u003eRead the text. Match the headings to the paragraphs. There is one heading that you will not use.\u003cbr\u003e\u003c/span\u003e\u003c/span\u003e\r\n\u003cp xss\u003dremoved\u003e\u003cstrong\u003eVegetarians and Their Impact on the World\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3699,
+          "vanbancauhoi": "1._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThere are several types of vegetarian diets. Some people avoid all animal products, like vegans, while others, like lacto-vegetarians, eat dairy. Others, like ovo-vegetarians, include eggs. Many people also follow a pescatarian diet, which includes fish but no other meat. Each of these diets offers a variety of meals rich in fruits, vegetables, grains, and plant-based proteins.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11612,
+              "vanbanphanhoi": "Possible global food crisis",
+              "fileupload": ""
+            },
+            {
+              "id": 11613,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 11614,
+              "vanbanphanhoi": "Types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 11615,
+              "vanbanphanhoi": "Health benefits",
+              "fileupload": ""
+            },
+            {
+              "id": 11616,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            },
+            {
+              "id": 11617,
+              "vanbanphanhoi": "Factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 11618,
+              "vanbanphanhoi": "How to start a vegan diet",
+              "fileupload": ""
+            },
+            {
+              "id": 11619,
+              "vanbanphanhoi": "Various explanations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3701,
+          "vanbancauhoi": "2._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe reasons behind dietary choices can be as diverse as the individuals making them. Many people opt for a vegetarian lifestyle due to ethical concerns, environmental awareness, or health considerations. Some may be motivated by cultural traditions or personal beliefs, while others seek new culinary experiences. Understanding these motivations fosters respectful discussions about food choices and their implications, promoting a more inclusive dialogue around dietary preferences.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11620,
+              "vanbanphanhoi": "Possible global food crisis",
+              "fileupload": ""
+            },
+            {
+              "id": 11621,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 11622,
+              "vanbanphanhoi": "Types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 11623,
+              "vanbanphanhoi": "Health benefits",
+              "fileupload": ""
+            },
+            {
+              "id": 11624,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            },
+            {
+              "id": 11625,
+              "vanbanphanhoi": "Factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 11626,
+              "vanbanphanhoi": "How to start a vegan diet",
+              "fileupload": ""
+            },
+            {
+              "id": 11627,
+              "vanbanphanhoi": "Various explanations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3702,
+          "vanbancauhoi": "3._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAs the global population continues to grow, concerns about food security and sustainability intensify. The increasing demand for resources puts immense pressure on agricultural systems, leading to potential shortages and rising prices. Without significant changes in our consumption patterns and food production methods, we may face a considerable crisis soon. This reality underscores the need for diverse dietary choices, including vegetarian options, which can alleviate some of the pressure on our food systems.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11628,
+              "vanbanphanhoi": "Possible global food crisis",
+              "fileupload": ""
+            },
+            {
+              "id": 11629,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 11630,
+              "vanbanphanhoi": "Types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 11631,
+              "vanbanphanhoi": "Health benefits",
+              "fileupload": ""
+            },
+            {
+              "id": 11632,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            },
+            {
+              "id": 11633,
+              "vanbanphanhoi": "Factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 11634,
+              "vanbanphanhoi": "How to start a vegan diet",
+              "fileupload": ""
+            },
+            {
+              "id": 11635,
+              "vanbanphanhoi": "Various explanations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3703,
+          "vanbancauhoi": "4._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe industrial approach to livestock production raises numerous ethical and environmental questions. Large-scale operations often prioritize efficiency over animal welfare, resulting in cramped living conditions and the overuse of antibiotics. This practice not only impacts the lives of animals but contributes to pollution and greenhouse gas emissions. As awareness of these issues grows, many advocates push for more humane and sustainable farming practices, which align better with the ethical motivations of those choosing plant-based diets.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11637,
+              "vanbanphanhoi": "Possible global food crisis",
+              "fileupload": ""
+            },
+            {
+              "id": 11638,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 11639,
+              "vanbanphanhoi": "Types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 11641,
+              "vanbanphanhoi": "Health benefits",
+              "fileupload": ""
+            },
+            {
+              "id": 11642,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            },
+            {
+              "id": 11643,
+              "vanbanphanhoi": "Factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 11644,
+              "vanbanphanhoi": "How to start a vegan diet",
+              "fileupload": ""
+            },
+            {
+              "id": 11645,
+              "vanbanphanhoi": "Various explanations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3704,
+          "vanbancauhoi": "5._\u003cbr\u003e\r\n\u003cp\u003eIn an interconnected world, our food consumption choices carry significant weight. Each individual\u0027s decisions can influence broader societal impacts, affecting everything from environmental sustainability to animal welfare. Embracing a sense of stewardship encourages us to consider how our eating habits impact not just our health, but also the health of the planet. By making conscious choices, such as incorporating more plant-based meals, we can collectively work towards a more equitable and sustainable future for all.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11646,
+              "vanbanphanhoi": "Possible global food crisis",
+              "fileupload": ""
+            },
+            {
+              "id": 11648,
+              "vanbanphanhoi": "Types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 11649,
+              "vanbanphanhoi": "Health benefits",
+              "fileupload": ""
+            },
+            {
+              "id": 11651,
+              "vanbanphanhoi": "Factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 11652,
+              "vanbanphanhoi": "How to start a vegan diet",
+              "fileupload": ""
+            },
+            {
+              "id": 11653,
+              "vanbanphanhoi": "Various explanations",
+              "fileupload": ""
+            },
+            {
+              "id": 13134,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            },
+            {
+              "id": 13135,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3705,
+          "vanbancauhoi": "6._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eOpting for a diet rich in plant-based foods offers numerous advantages for overall well-being. Research suggests that a variety of fruits, vegetables, whole grains, and legumes can lower the risk of chronic diseases such as heart disease and diabetes. These foods are often high in essential nutrients and low in unhealthy fats. Embracing a more plant-centered way of eating not only supports personal health but also aligns with global sustainability efforts, enhancing vitality and energy levels for everyone.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11654,
+              "vanbanphanhoi": "Possible global food crisis",
+              "fileupload": ""
+            },
+            {
+              "id": 11655,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 11656,
+              "vanbanphanhoi": "Types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 11657,
+              "vanbanphanhoi": "Health benefits",
+              "fileupload": ""
+            },
+            {
+              "id": 11658,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            },
+            {
+              "id": 11659,
+              "vanbanphanhoi": "Factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 11660,
+              "vanbanphanhoi": "How to start a vegan diet",
+              "fileupload": ""
+            },
+            {
+              "id": 11661,
+              "vanbanphanhoi": "Various explanations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3706,
+          "vanbancauhoi": "7._\u003cbr\u003e\r\n\u003cp\u003eRecognizing the intrinsic value of all living beings is essential for fostering a compassionate world. This perspective encourages reflection on our interactions with nature and other creatures, promoting empathy and kindness. By cultivating a mindset of respect, we can appreciate the interconnectedness of life and acknowledge the importance of coexisting harmoniously with all beings. Such an approach inspires actions that contribute to a more peaceful and sustainable planet, ultimately benefiting both individuals and society as a whole.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11662,
+              "vanbanphanhoi": "Possible global food crisis",
+              "fileupload": ""
+            },
+            {
+              "id": 11664,
+              "vanbanphanhoi": "Types of vegetarian meals",
+              "fileupload": ""
+            },
+            {
+              "id": 11665,
+              "vanbanphanhoi": "Health benefits",
+              "fileupload": ""
+            },
+            {
+              "id": 11667,
+              "vanbanphanhoi": "Factory farming",
+              "fileupload": ""
+            },
+            {
+              "id": 11668,
+              "vanbanphanhoi": "How to start a vegan diet",
+              "fileupload": ""
+            },
+            {
+              "id": 11669,
+              "vanbanphanhoi": "Various explanations",
+              "fileupload": ""
+            },
+            {
+              "id": 13138,
+              "vanbanphanhoi": "Our global responsibility",
+              "fileupload": ""
+            },
+            {
+              "id": 13139,
+              "vanbanphanhoi": "Respect to life",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 697,
+      "title": "Đề 8 - Speaking p1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8185edebc41e58bd1118f48732f54ee4.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3765,
+          "vanbancauhoi": "Describe this room",
+          "vanbangiaithich": "\u003cp\u003eVersion 1: This room is a test room \u003cstrong\u003ewhich \u003c/strong\u003ehas many desks and computers.\u003c/p\u003e\r\n\u003cp\u003eThe wall is painted blue and decorated with a clock to announce time for \u003cstrong\u003econtestants( thí sinh) \u003c/strong\u003e.\u003c/p\u003e\r\n\u003cp\u003eIn this room, there are many contestants \u003cstrong\u003ewho \u003c/strong\u003eare quite nervous and worried about the coming test.\u003c/p\u003e\r\n\u003cp\u003eThis test is so important for me to graduate from university \u003cstrong\u003eso \u003c/strong\u003eI will\u003cstrong\u003e try my best\u003c/strong\u003e to pass.\u003cbr\u003eVersion 2: \u003c/p\u003e\r\n\u003cp\u003eLet me tell you about this room\u003c/p\u003e\r\n\u003cp\u003eThis room is a test room which has many desks and computers.\u003c/p\u003e\r\n\u003cp\u003eIn this room, there are many people , they are feeling worried  about the coming test.\u003c/p\u003e\r\n\u003cp\u003eThis test is so important for me to find new jobs  so I will try my best to pass.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4f88a96a2fa1008bb6631c2c9b91f537.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11892,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6ecc17663f75961621bf8766b95405a9.mp3"
+            },
+            {
+              "id": 11893,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b8bc7086956e027a6b41175dd1607029.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3766,
+          "vanbancauhoi": "Please tell me about the last time you went to the cinema",
+          "vanbangiaithich": "Version 1:\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003eThe last time I went to the cinema was yesterday with my friends by motorbike. The name of the film was :” marvel”. This movie attracted a lot of audiences and it was \u003cstrong\u003eextremely ( \u003d very) \u003c/strong\u003enice and meaningful. We like watching this movie very much \u003cstrong\u003ebecause \u003c/strong\u003eit allows us to reduce stress after a long day of studying hard. \u003cbr\u003eVersion 2: \u003c/p\u003e\r\n\u003cp\u003eI will tell you about the last time I went to the cinema. \u003c/p\u003e\r\n\u003cp\u003eI went to the cinema with my friend on Sunday evening. We watched the film named Tom and Jerry. The movie was so interesting. I felt so excited because it helped me relax and reduce stress. That’s my answer. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0eba5aea9a18a7d823c297e93591f9c4.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11894,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c9bb14b8092b24524d65a7f29e8d816d.mp3"
+            },
+            {
+              "id": 11895,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4ae1202df0e9ab15da5edfd61a2a8853.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3767,
+          "vanbancauhoi": "What are you wearing today?",
+          "vanbangiaithich": "Version 1:\u0026nbsp;\u003cbr\u003eThe weather is so cold today.  I’m wearing pants and a Teelab jacket which is one of the most famous brands in Vietnam. So, I have to spend a lot of money to buy them. Besides that,  I’m wearing a black shoes and white glasses. These clothes allow me to feel more comfortable and confident. \u003cbr\u003eVersion 2:\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eLet me tell you about what I am wearing today\u003c/span\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI wearing a t-shirt and jeans go to the exam room\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThis is because the weather is hot so wearing that helps me confident and comfortable\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThat is my answer \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/efafb8071191185dd4434323f3224f60.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11896,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1d941936e9234b711a3bae67cbf1d3eb.mp3"
+            },
+            {
+              "id": 11897,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3deb97791d079be4030ca5481f922057.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "title": "Đề 8 - Speaking p2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8320ced0366ed79c7ada7a95c26cb9ba.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3768,
+          "vanbancauhoi": "Describe this picture\u0026nbsp;\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/5232892e37e0f5f115475942c6217bcf.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn this picture, I can see 4 people in the bus.\u003c/p\u003e\r\n\u003cp\u003e In the background, I can not see anything because it so blurry.\u003c/p\u003e\r\n\u003cp\u003e In the front, there are 3 people wearing casual clothes. \u003c/p\u003e\r\n\u003cp\u003e It is clear that they are smiling and waving. \u003c/p\u003e\r\n\u003cp\u003e I guess they are greeting their friends or their relatives.\u003c/p\u003e\r\n\u003cp\u003eTo be honest, this picture is so beautiful that it might have been taken by a professional.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d8283dbfebd7cf9cd521726aa8bb5eb4.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12917,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b6c8e73d8b87d7d269118ebec9580971.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3769,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eTell me about a time when you use a public transport\u003c/span\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe last time I used public transport was last month. I went to friend’s house in Phổ Yên, Thái Nguyên. It is easier to go by bus because it is near my school. It was an opportunity to see the city when I sat in the bus. Moreover, the cost of the bus is cheaper than others. I really like to go by bus. \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2caf9b30f2a264151a35e0f23a754209.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11899,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fb7de050d9e855050a33062841d3b83d.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3771,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eDo you think we should use public transport more? Why and why not? \u003c/span\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYes, It’s the fact that public transport plays an important role in our life. There are various reasons why we should use public transport more. First, it is cheap and convenient. People can pay about 1 dollar for the ticket each time they go. Second, it can protect the environment from special air pollution.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0978f501f61ef3d60600ebae89080fa5.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11900,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/69fee2dee069f7c20577001529571b8d.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "title": "Đề 8 - Speaking p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0305152b64e11a58c7d9382929190d10.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3772,
+          "vanbancauhoi": "Tell me what you see in the two pictures\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/52e16cb720092712e2e3ce2961ba95b9.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures show me about activities of children ( điểm chung). In the first picture, I can see a teacher and two students. In the second picture, I can see a boy with a yellow rope. Regarding ( về) the difference, while the first picture is about two children watching pictures and I guess that they are in the museum, the second picture is about a boy climbing. I guess that all of them are on their vacation. Personally, I prefer the second picture because I like climbing.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/18b3f6009ce1de79c03345131f57385c.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11901,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4356f82050ec12bb3d0cffa22efc1a39.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3773,
+          "vanbancauhoi": "What are the benefits of these 2 activities?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eBoth activities have benefits for children. In the 1st picture, going to the museum   \u003c/span\u003e\u003cstrong\u003e( enable sb to do sth \u003d help sb do sth )\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e enables children to foster their knowledge about the world. In the 2nd picture, physical activities allow children to lower the risks of diseases such as diabetes \u003c/span\u003e\u003cstrong\u003e( help sb do sth \u003d allow sb to do)\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e . It may also help them refresh their mind after a long day of studying hard.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b60af1b67200f288d609868d79b0d48e.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11902,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6661ec3125d911b6873bf4b1e990107b.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3774,
+          "vanbancauhoi": "It is easier to learn when we enjoy doing it. What do you think?",
+          "vanbangiaithich": "\u003cp\u003eI agree with this opinion. Because there are various reasons why we need enjoyment when we do something. First, it allows us to feel more excited and comfortable. So, we will succeed easier. Second, it helps us gain more experience and improve ourselves. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/19fc40d17415274aa40ab17e9979f662.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12915,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d2f139d08bceb65e46cb40e4cf6564cc.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "title": "Đề 8 - Speaking p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5acfc94a02ecc169c8ba191eb4c6708e.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3775,
+          "vanbancauhoi": "\u003cp\u003eTell me about a time when you couldn’t buy the thing that you want? \u003c/p\u003e\r\n\u003cp\u003eHow did you feel at that time?\u003c/p\u003e\r\n\u003cp\u003eMaterial possession alone cannot make people happy. Do you agree/ disagree?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eNow, I am going to answer the 3 questions, which are: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cul\u003e\r\n\u003cli aria-level\u003d\"1\"\u003eTell me about a time when you cannot buy the thing that you want? \u003c/li\u003e\r\n\u003cli aria-level\u003d\"1\"\u003eHow did you feel at that time?\u003c/li\u003e\r\n\u003cli aria-level\u003d\"1\"\u003eMaterial possession alone cannot make people happy. Do you agree/ disagree? \u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003cp\u003e\u003cstrong\u003eRegarding the first question\u003c/strong\u003e\u003cstrong\u003e, let me \u003c/strong\u003e\u003cstrong\u003etell you about a time that I couldn’t do what I wanted \u003c/strong\u003e\u003cstrong\u003e and \u003c/strong\u003e\u003cstrong\u003eit was when I\u003c/strong\u003e\u003cstrong\u003e wanted to make a trip to Danang City.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eWell, Da Nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive for me at that time.\u003c/p\u003e\r\n\u003cp\u003eKhi nào : It was when I was a second- year student at university. At that time, I really wished for a trip to Danang city. However, because I was so poor, I didn’t have enough money to pay for the \u003cstrong\u003eticket\u003c/strong\u003e. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eTurning to the second question\u003c/strong\u003e\u003cstrong\u003e,\u003c/strong\u003e if my memory serves my right, at that time I was so disappointed. I realized I should have been smarter with my money.  \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eAs for the final question\u003c/strong\u003e\u003cstrong\u003e, \u003c/strong\u003eI agree that material possession alone cannot make people happy for many reasons. I believe that true happiness doesn\u0027t just come from buying things. It\u0027s about meaningful connections and personal growth.\u003c/p\u003e\r\n\u003cp\u003eThat’s my answer. Thank you for listening.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8da83b00916cbb42728ce6b949c29e1e.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12918,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5c3a30b5159ead60a87c6ef602e2f5da.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 680,
+      "title": "Đề 8 - Writing p1",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou want to join an English club. You have 5 messages from a member of the club. Write short answers (1-5 words) to each message.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3707,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is your job? \u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11673,
+              "vanbanphanhoi": "I’m a teacher / I am an engineer/ I am a police officer.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3708,
+          "vanbancauhoi": "What is your favorite time of year?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11675,
+              "vanbanphanhoi": "It’s spring / summer.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3709,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is your favorite color?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11676,
+              "vanbanphanhoi": "It\u0027s blue.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3710,
+          "vanbancauhoi": "What do you like to do in the evening?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11677,
+              "vanbanphanhoi": "I like to watch TV / watching TV.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3711,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is the weather like today?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11678,
+              "vanbanphanhoi": "good/ hot/ sunny/ cold / It’s cold.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "title": "Đề 8 - Writing p2",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou want to join the English club. Fill in the form. Write in sentences. Use 20 – 30 words. Recommended time: 7 minutes.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3712,
+          "vanbancauhoi": "\u003cp\u003eWhat are your contacts with English in your daily life? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11679,
+              "vanbanphanhoi": "contacts : mối quan hệ \r\ndaily life: cuộc sống hằng ngày \r\n\u003d\u003e bạn dùng tiếng anh vào việc gì?\r\nread books in English \r\nread news\r\nlisten to music in English \r\n\u003d\u003e Lợi ích … \r\nI use English everyday to read the newspaper because it helps me broaden my social knowledge and gain more experience. Besides, I use English to listen to music.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 682,
+      "title": "Đề 8 - Writing p3",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou are talking to other members of the club in the chat room. Reply to their question. Write in sentences. Use 30 – 40 words per answer. \u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3713,
+          "vanbancauhoi": "\u003cp\u003eA: I didn’t study English well when I was at school. I have a private teacher now. Can you tell me about your experience of learning English?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11680,
+              "vanbanphanhoi": "I learned English when I was 11 years old. I studied at a primary school with my best friends. In addition, I felt very delighted because learning English helped me make friends who have the same hobby .",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3714,
+          "vanbancauhoi": "\u003cp\u003eB: I can read and write in English very well, but I have trouble speaking. How can I improve? Can you give me some advice?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11681,
+              "vanbanphanhoi": "If I were you, I would practice speaking English with my friends everyday. This helps me not only broaden my English knowledge but also become more confident.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3715,
+          "vanbancauhoi": "\u003cp\u003eC: It is more important to communicate in a language. We don’t have to worry about making any mistakes. What is your opinion?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11682,
+              "vanbanphanhoi": "I agree that it is more important to communicate in a language. First, when we don’t worry about making any mistakes, we can practice more. Second, it helps us to broaden our knowledge of English.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Đề 8 - Writing p4",
+      "des": "\u003cp\u003eYou are a member of the English club. You received this email from the club’s manager.\u003c/p\u003e\r\n\u003cp\u003eDear Member,\u003c/p\u003e\r\n\u003cp\u003eOur Club is going to organize a meeting. We want more people to join our club. How should we organize an event? What should be the theme of this event? We want to attract as many audiences as possible of both the young and older people.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3716,
+          "vanbancauhoi": "Write an email to your friend who is also a member to talk about your suggestions.\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11683,
+              "vanbanphanhoi": "Hi Nam,\r\nHow are things? I hope you and your family are well.\r\nDid you receive the email from the club?\r\nI am so happy to hear the news\r\nI think that we can organize by posting on Facebook. Besides, I think we should use the topic “ benefits of learning English”.\r\nWhat do you think about this?\r\nDrop me a line soon.\r\nYours,",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3717,
+          "vanbancauhoi": "Write an email to your manager about your suggestions and reasons.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11684,
+              "vanbanphanhoi": "Dear Sir or Madam, \r\nMy name is Henry. I have been a member of our club for 2 months.\r\nI am writing in response to your latest email.\r\nAccording to your email, our Club is going to organize a meeting to attract as many audiences as possible. \r\nTo be honest, I am very delighted to hear that news.\r\nI think that we should organise the meeting by putting this information on social media, such as posting on Facebook or making videos on Youtube. This is because all people have their phones and use these apps to update information. Besides, I think that the theme of the event should be “ the benefits of learning English”. For example, by learning English, people can make good friends who have the same hobby. Not only that, it enables people to broaden their knowledge about the world. By doing so, the experience of our visitors and members can be improved. As a result, we can attract more people to join our club. \r\nI hope my suggestions will be useful.\r\nI am looking forward to hearing from you soon.\r\nBest regards,",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

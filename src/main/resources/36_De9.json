@@ -1,0 +1,1937 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3362,
+        "vanbancauhoi": "Listen to the chief announce to students. When is lunch ready?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2b3015560d2c2637d3bec00704354ed8.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10286,
+            "vanbanphanhoi": "12:30 p.m",
+            "fileupload": ""
+          },
+          {
+            "id": 10287,
+            "vanbanphanhoi": "2:00 p.m",
+            "fileupload": ""
+          },
+          {
+            "id": 10288,
+            "vanbanphanhoi": "1:15 p.m",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3363,
+        "vanbancauhoi": "Listen to David talking about the conference. How long did he talk in the speech?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f23dca1ff1d8da433afd58af862e8ec6.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10289,
+            "vanbanphanhoi": "30 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 10290,
+            "vanbanphanhoi": "45 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 10291,
+            "vanbanphanhoi": "15 minutes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3361,
+        "vanbancauhoi": "The woman is walking into a local store. How much are the cleaning products?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a61edd5ecc647fc5013a36e2dd9ef993.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10280,
+            "vanbanphanhoi": "One pound fifty",
+            "fileupload": ""
+          },
+          {
+            "id": 10281,
+            "vanbanphanhoi": "Two pounds fifty",
+            "fileupload": ""
+          },
+          {
+            "id": 10282,
+            "vanbanphanhoi": "Three pounds fifty",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3366,
+        "vanbancauhoi": "Listen to the conversation between Douglas and Kay. Why does Douglas call Kay?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/af42151c259235c6c8d376c205f03052.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10295,
+            "vanbanphanhoi": "ask for a favor",
+            "fileupload": ""
+          },
+          {
+            "id": 10298,
+            "vanbanphanhoi": "suggest a meeting",
+            "fileupload": ""
+          },
+          {
+            "id": 10299,
+            "vanbanphanhoi": "say thank you",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3367,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man and woman are discussing their plans for the evening. What do the man and woman decide to do in the evening?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c604f2c955ccbf42894e9cc7668b9dea.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10301,
+            "vanbanphanhoi": "Make plans later",
+            "fileupload": ""
+          },
+          {
+            "id": 10302,
+            "vanbanphanhoi": "Go to the movie",
+            "fileupload": ""
+          },
+          {
+            "id": 10303,
+            "vanbanphanhoi": "Stay at home",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3364,
+        "vanbancauhoi": "Listen to the director talking about sales of his company. How many copies of Freeze Frame magazine were sold?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3c3befabb0a35cd59794719d20962abe.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10292,
+            "vanbanphanhoi": "Over 300,000 copies",
+            "fileupload": ""
+          },
+          {
+            "id": 10293,
+            "vanbanphanhoi": "Over 3,000 copies",
+            "fileupload": ""
+          },
+          {
+            "id": 10294,
+            "vanbanphanhoi": "Over 30,000 copies",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3368,
+        "vanbancauhoi": "Listen to Marry talking to Jane while waiting for James. What did they decide to do?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d2f2873d086d5978a595ca64aba12d56.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10304,
+            "vanbanphanhoi": "Have meeting without him",
+            "fileupload": ""
+          },
+          {
+            "id": 10305,
+            "vanbanphanhoi": "Continue to waiting for him",
+            "fileupload": ""
+          },
+          {
+            "id": 10306,
+            "vanbanphanhoi": "Cancel the meeting",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3369,
+        "vanbancauhoi": "A woman shares her job with her friend. Why does she want to become a writer?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b69f5c904b9319638cc71bc17678cb76.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10307,
+            "vanbanphanhoi": "to earn much money",
+            "fileupload": ""
+          },
+          {
+            "id": 10308,
+            "vanbanphanhoi": "to help people",
+            "fileupload": ""
+          },
+          {
+            "id": 10309,
+            "vanbanphanhoi": "to become famous",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3370,
+        "vanbancauhoi": "A woman tells her friend about her plans for the day. What is the woman going to do?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d1f377b88e69b41bdfd6c8cb0151864d.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10310,
+            "vanbanphanhoi": "Have coffee",
+            "fileupload": ""
+          },
+          {
+            "id": 10311,
+            "vanbanphanhoi": "Have lunch",
+            "fileupload": ""
+          },
+          {
+            "id": 10312,
+            "vanbanphanhoi": "Drink tea",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3371,
+        "vanbancauhoi": "Listen to a woman explaining her morning routine to her friend. Why do women get up early?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b9ad709e6ef8b6f865367c8bbc0a7a76.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10313,
+            "vanbanphanhoi": "have some quiet time",
+            "fileupload": ""
+          },
+          {
+            "id": 10314,
+            "vanbanphanhoi": "to go to work early",
+            "fileupload": ""
+          },
+          {
+            "id": 10315,
+            "vanbanphanhoi": "to take care of children",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3372,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA girl is talking about a film. What did she like best about the film?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f0c1662ac6ce0def46f1f4cb1f64b2a4.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10316,
+            "vanbanphanhoi": "Racing scenes",
+            "fileupload": ""
+          },
+          {
+            "id": 10317,
+            "vanbanphanhoi": "Fight scenes",
+            "fileupload": ""
+          },
+          {
+            "id": 10318,
+            "vanbanphanhoi": "The mountain scenes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3373,
+        "vanbancauhoi": "Linda is talking about her mother. What do mother and daughter have in common?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/aa89c824cad4a1e62b5c223d5bd8483c.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10319,
+            "vanbanphanhoi": "Similar appearance",
+            "fileupload": ""
+          },
+          {
+            "id": 10320,
+            "vanbanphanhoi": "Similar interests",
+            "fileupload": ""
+          },
+          {
+            "id": 10321,
+            "vanbanphanhoi": "Similar personalities",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3374,
+        "vanbancauhoi": "Listen to a tour guide introducing the tour. Where will tea be served?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b46044ea86f44b1bd18534d25d55acb2.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10322,
+            "vanbanphanhoi": "On the Mountain Boat",
+            "fileupload": ""
+          },
+          {
+            "id": 10323,
+            "vanbanphanhoi": "On the River Boat",
+            "fileupload": ""
+          },
+          {
+            "id": 10324,
+            "vanbanphanhoi": "On the beach Boat",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 710,
+        "title": "Đề 9 - Listening C14",
+        "des": "Four people are talking about Protecting the environment . Complete the sentences below.",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3811,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cspan xss\u003dremoved\u003e\"You know, it amazes me how much we throw away without thinking. I’ve started \u003c/span\u003e\u003cstrong\u003egiving away my old clothes and furniture instead of dumping them.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e Think about it—someone else could really use what we consider junk. It\u0027s such a simple thing, but it keeps stuff out of landfills and helps people out. The more we share, the less we waste. Why let things rot in a corner when they could have a second life somewhere else? It makes me feel like I’m doing my part, even in small ways. Plus, it’s a good reminder that what’s old to me could be new to someone else.\"\u003c/span\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1fa9ceb1e63bc61502b8393cbe744a08.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12027,
+                "vanbanphanhoi": "give away used items",
+                "fileupload": ""
+              },
+              {
+                "id": 12028,
+                "vanbanphanhoi": "not buy commercial cleaning products",
+                "fileupload": ""
+              },
+              {
+                "id": 12029,
+                "vanbanphanhoi": "reuse containers for storing food",
+                "fileupload": ""
+              },
+              {
+                "id": 12030,
+                "vanbanphanhoi": "donate old clothes",
+                "fileupload": ""
+              },
+              {
+                "id": 12031,
+                "vanbanphanhoi": "buy environmentally friendly products",
+                "fileupload": ""
+              },
+              {
+                "id": 12032,
+                "vanbanphanhoi": "support sustainable brands",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3812,
+            "vanbancauhoi": "Speaker B_",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e\"I think one of the biggest ways we can protect the environment is by changing what we buy. \u003c/span\u003e\u003cstrong\u003eI only purchase products that are sustainably sourced or made from recycled materials.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e Every dollar we spend is like casting a vote for the kind of world we want. It’s crazy how much waste and pollution come from manufacturing—choosing eco-friendly products is a way to push back against that. Sure, it might cost a bit more sometimes, but isn’t the planet worth it? I mean, we talk a lot about big changes, but if everyone just started small, like switching to biodegradable packaging, we’d see a massive impact.\"\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a3dab3a207ac6868010a882f63cb3291.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12033,
+                "vanbanphanhoi": "give away used items",
+                "fileupload": ""
+              },
+              {
+                "id": 12034,
+                "vanbanphanhoi": "not buy commercial cleaning products",
+                "fileupload": ""
+              },
+              {
+                "id": 12035,
+                "vanbanphanhoi": "reuse containers for storing food",
+                "fileupload": ""
+              },
+              {
+                "id": 12036,
+                "vanbanphanhoi": "donate old clothes",
+                "fileupload": ""
+              },
+              {
+                "id": 12037,
+                "vanbanphanhoi": "buy environmentally friendly products",
+                "fileupload": ""
+              },
+              {
+                "id": 12038,
+                "vanbanphanhoi": "support sustainable brands",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3813,
+            "vanbancauhoi": "Speaker C_",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e\"I\u0027ve started\u003c/span\u003e\u003cstrong\u003e reusing containers for storing food\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I was tired of buying plastic wrap and bags every month, just to toss them after one use. You don’t realize how much waste you produce until you try cutting it down. Now, I use glass jars and old containers to store leftovers, and it works just as well. Honestly, it makes me feel a little less guilty about all the plastic in my life. I’m not saying I’m perfect, but even this small habit makes a difference. And let’s be real—who needs more clutter in the kitchen, anyway?\"\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/66111e303d4b3688d1c8b6dae4511b30.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12039,
+                "vanbanphanhoi": "give away used items",
+                "fileupload": ""
+              },
+              {
+                "id": 12040,
+                "vanbanphanhoi": "not buy commercial cleaning products",
+                "fileupload": ""
+              },
+              {
+                "id": 12041,
+                "vanbanphanhoi": "reuse containers for storing food",
+                "fileupload": ""
+              },
+              {
+                "id": 12042,
+                "vanbanphanhoi": "donate old clothes",
+                "fileupload": ""
+              },
+              {
+                "id": 12043,
+                "vanbanphanhoi": "buy environmentally friendly products",
+                "fileupload": ""
+              },
+              {
+                "id": 12044,
+                "vanbanphanhoi": "support sustainable brands",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3815,
+            "vanbancauhoi": "Speaker D _",
+            "vanbangiaithich": "\u003cp\u003e\"I\u003cstrong\u003e stopped buying commercial cleaning products altogether.\u003c/strong\u003e Most of them are filled with harsh chemicals that are terrible for the environment—and probably for us, too. Now, I make my own cleaning solutions. Vinegar, baking soda, and a little lemon juice can handle pretty much anything around the house. It’s cheaper, safer, and I don’t feel like I’m dumping toxins down the drain every time I clean. People think it’s hard, but honestly, once you try it, it’s not that bad. We don’t need a cabinet full of chemicals to keep things tidy. Nature’s got it covered.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2524e311afba91a90088c07848714063.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12224,
+                "vanbanphanhoi": "give away used items",
+                "fileupload": ""
+              },
+              {
+                "id": 12225,
+                "vanbanphanhoi": "not buy commercial cleaning products",
+                "fileupload": ""
+              },
+              {
+                "id": 12226,
+                "vanbanphanhoi": "reuse containers for storing food",
+                "fileupload": ""
+              },
+              {
+                "id": 12227,
+                "vanbanphanhoi": "donate old clothes",
+                "fileupload": ""
+              },
+              {
+                "id": 12228,
+                "vanbanphanhoi": "buy environmentally friendly products",
+                "fileupload": ""
+              },
+              {
+                "id": 12229,
+                "vanbanphanhoi": "support sustainable brands",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 711,
+        "title": "Đề 9 - Listening C15",
+        "des": "\u003cp\u003eListen to two people discussing Community design. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/75c766fa6b216eb501a930b9c498ee07.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3816,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eBuilding design can influence people\u0027s behavior._\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12051,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12052,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12053,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3817,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eCreating community can take time._\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12054,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12055,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12056,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3818,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWork communities and social communities are the same._\u003c/span\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12057,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12058,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12059,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3819,
+            "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eTechnology has changed how community forms._\u003c/span\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: You know, I believe \u003c/span\u003e\u003cstrong\u003ebuilding design can shape people’s behaviors\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e and interactions from the start. When spaces are designed well, people feel comfortable and naturally start connecting.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \"Of course, design matters, but there’s no shortcut to building real community connections. \u003c/span\u003e\u003cstrong\u003eCreating community takes time\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e and consistency, even in spaces that encourage interaction.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \"Really? But I also feel that \u003c/span\u003e\u003cstrong\u003ework communities and social communities aren’t as different\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e as we might think. Both require spaces that help people feel connected and valued, whether it’s at work or in social settings.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \u003c/span\u003e\u003cstrong\u003e\"I’m not sure I agree with that\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e.\u003c/span\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eWork communities and social communities serve very different purposes. In a social community, people gather out of personal interest and shared hobbies, but in work communities, people connect because of their job roles. That can affect how close they feel and how they interact with one another.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \"I see your point, but even in work communities, people still find ways to connect on a personal level. A good work environment encourages friendships that might go beyond work topics.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \"That’s a good point. And with technology, people can now connect for both work and social reasons, even if they’re not physically together. But I still think it’s important to build spaces where people can gather in person.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \"Yes, I agree, but I think \u003c/span\u003e\u003cstrong\u003etechnology has really changed how communities form\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. It makes connecting so much easier, and people don’t always need to meet face-to-face to feel a sense of community.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \"I see that, but I don’t think online connections can fully replace in-person gatherings. There’s a different energy when people come together in real spaces—something technology just can’t replicate.\"\u003c/span\u003e\u003c/p\u003e\r\n\u003cstrong\u003eMan\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e: \"I understand, but I feel that virtual spaces can be just as meaningful. Technology adds a new layer, making it possible for communities to thrive even across distances, and that’s valuable in its own way.\"\u003c/span\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12060,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12061,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12062,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 712,
+        "title": "Đề 9 - Listening C16",
+        "des": "\u003cspan xss\u003dremoved\u003eListen to a man talk about Life after university and answer the questions below.  \u003c/span\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/33380530b886496241497957b42907b1.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3820,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eHow does life change for graduates after university?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12063,
+                "vanbanphanhoi": "They feel more stressed about job seeking",
+                "fileupload": ""
+              },
+              {
+                "id": 12064,
+                "vanbanphanhoi": "They are likely to stick to their academic routines",
+                "fileupload": ""
+              },
+              {
+                "id": 12065,
+                "vanbanphanhoi": "They are likely to be more flexible and open-minded",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3821,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat is a common characteristic of the job market after university?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLife after university is quite an adventure, and I\u0027ve learned a lot since graduating last year. The biggest change I\u0027ve noticed is how different my daily routine is now. Unlike during my university days, I don\u0027t have a fixed schedule of classes and study sessions anymore. \u003c/span\u003e\u003cstrong\u003eThis has actually made me more adaptable and willing to try new things\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I\u0027ve found myself saying \u0027yes\u0027 to opportunities I might have passed up before, whether it\u0027s joining a new club or learning a new skill for work. Speaking of work, the job market was quite an eye-opener. I always heard that finding a job would be tough, but I didn\u0027t realize just \u003c/span\u003e\u003cstrong\u003ehow fierce the competition would be.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e It seems like every position has dozens, if not hundreds, of applicants. This means you really have to stand out to get noticed. On the bright side, this competitive environment has pushed me to improve my skills and broaden my network. I\u0027ve attended more networking events in the past year than I ever did at university. While the job search can be stressful at times, I\u0027ve found that staying positive and being open to different possibilities has helped me navigate this new chapter of my life.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12066,
+                "vanbanphanhoi": "More opportunities for networking",
+                "fileupload": ""
+              },
+              {
+                "id": 12067,
+                "vanbanphanhoi": "More competitive",
+                "fileupload": ""
+              },
+              {
+                "id": 12068,
+                "vanbanphanhoi": "Many jobs offer great benefits",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 713,
+        "title": "Đề 9 - Listening C17",
+        "des": "Listen to a man talk about a promotion campaign for a product and answer the questions below.",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/image/f5a71251f2622edd4d5d5d1c14b63d9f.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3822,
+            "vanbancauhoi": "\u003cp\u003eWhat is the main issue with the product\u0027s promotion campaign?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp data-start\u003d\"108\" data-end\u003d\"615\"\u003eA company recently launched a new fitness supplement, PowerBoost, but its promotion campaign is facing some difficulties. \u003cstrong\u003eOne major issue is that the advertisements make exaggerated claims\u003c/strong\u003e. The campaign promises that PowerBoost will dramatically increase strength and endurance in just a few days. However, many customers feel the results are not as powerful as advertised. While bold claims can attract attention, they also risk damaging trust if the product does not deliver as expected.\u003c/p\u003e\r\n\u003cp data-start\u003d\"617\" data-end\u003d\"1008\"\u003eAnother challenge is that PowerBoost is struggling to stand out in the market. Some may think the issue is pricing, but it is actually similar to its competitors. Others might assume it is hard to find, but it is already available in many stores. \u003cstrong data-start\u003d\"864\" data-end\u003d\"1006\"\u003eThe real issue is that PowerBoost is too similar to many existing products, making it difficult for customers to see what makes it unique.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp data-start\u003d\"1010\" data-end\u003d\"1140\"\u003eTo succeed, the company needs to adjust its messaging and find a way to differentiate PowerBoost from other fitness supplements.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12071,
+                "vanbanphanhoi": "It is using outdated advertising methods",
+                "fileupload": ""
+              },
+              {
+                "id": 13122,
+                "vanbanphanhoi": "They use exaggerated claims",
+                "fileupload": ""
+              },
+              {
+                "id": 13123,
+                "vanbanphanhoi": "It is not targeting the correct market",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3823,
+            "vanbancauhoi": "\u003cp\u003eWhy is the product struggling to stand out in the market?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12072,
+                "vanbanphanhoi": "It is priced too high compared to its competitors",
+                "fileupload": ""
+              },
+              {
+                "id": 12074,
+                "vanbanphanhoi": "It is too similar to many existing products",
+                "fileupload": ""
+              },
+              {
+                "id": 12075,
+                "vanbanphanhoi": "It is not available in enough stores",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 701,
+      "title": "Đề 9 - Reading p1",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eChoose one word from the list for each gap. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eDear David, \u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLove, \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAnna\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3777,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI love this place because everybody here is _.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11905,
+              "vanbanphanhoi": "friendly",
+              "fileupload": ""
+            },
+            {
+              "id": 11906,
+              "vanbanphanhoi": "bored",
+              "fileupload": ""
+            },
+            {
+              "id": 11907,
+              "vanbanphanhoi": "busy",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3778,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI live in a flat near the university so I can _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e to my class\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11908,
+              "vanbanphanhoi": "drive",
+              "fileupload": ""
+            },
+            {
+              "id": 11909,
+              "vanbanphanhoi": "walk",
+              "fileupload": ""
+            },
+            {
+              "id": 11910,
+              "vanbanphanhoi": "swim",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3779,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYesterday I met Lesly for the _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e time - she is sharing the flat with me\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11911,
+              "vanbanphanhoi": "most",
+              "fileupload": ""
+            },
+            {
+              "id": 11912,
+              "vanbanphanhoi": "need",
+              "fileupload": ""
+            },
+            {
+              "id": 11913,
+              "vanbanphanhoi": "first",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3780,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eShe is studying French and she can _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e five languages\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11914,
+              "vanbanphanhoi": "paint",
+              "fileupload": ""
+            },
+            {
+              "id": 11915,
+              "vanbanphanhoi": "cook",
+              "fileupload": ""
+            },
+            {
+              "id": 11916,
+              "vanbanphanhoi": "speak",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3781,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLast night we went out for dinner _.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11917,
+              "vanbanphanhoi": "together",
+              "fileupload": ""
+            },
+            {
+              "id": 11918,
+              "vanbanphanhoi": "later",
+              "fileupload": ""
+            },
+            {
+              "id": 11919,
+              "vanbanphanhoi": "tomorrow",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "title": "Đề 9 - Reading p2",
+      "des": "\u003cspan xss\u003dremoved\u003eThe sentences below are from some directions. Put the sentences in the right order.\u003c/span\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3782,
+          "vanbancauhoi": "\u003cp xss\u003dremoved\u003e\u003cspan xss\u003dremoved\u003e\u003cstrong\u003eInstruction of submitting files\u003c/strong\u003e\u003cbr\u003e\u003c/span\u003e\u003c/p\u003e\r\n\u003cem\u003e\u003cspan xss\u003dremoved\u003e First, you need to sign in to your account using your credentials.\u003c/span\u003e\u003c/em\u003e\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 11920,
+              "vanbanphanhoi": "In your account, you have to click on the “Open a new window” button.",
+              "fileupload": ""
+            },
+            {
+              "id": 11921,
+              "vanbanphanhoi": "When you do this, a new window will be automatically opened for you.",
+              "fileupload": ""
+            },
+            {
+              "id": 11922,
+              "vanbanphanhoi": "Simply drag and drop the files into the designated area provided.",
+              "fileupload": ""
+            },
+            {
+              "id": 11923,
+              "vanbanphanhoi": "After that, go back to your account and click the submit button.",
+              "fileupload": ""
+            },
+            {
+              "id": 11924,
+              "vanbanphanhoi": "Finally, check your email to confirm that your submission was successful.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "title": "Đề 9 - Reading p3",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe sentences below are from some directions. Put the sentences in the right order. The first sentence is done for you.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3783,
+          "vanbancauhoi": "\u003cp xss\u003dremoved\u003e\u003cstrong\u003eInstruction to attend the conference\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eIf you are coming to the conference, you have to follow these steps\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 11925,
+              "vanbanphanhoi": "When you arrive at the conference hall, show booking number then receive a guide book",
+              "fileupload": ""
+            },
+            {
+              "id": 11926,
+              "vanbanphanhoi": "A staff member will note this down and give you a welcoming package",
+              "fileupload": ""
+            },
+            {
+              "id": 11927,
+              "vanbanphanhoi": "Inside you will find a schedule of events and the information of the speaker",
+              "fileupload": ""
+            },
+            {
+              "id": 11928,
+              "vanbanphanhoi": "If you would like to listen to his talk, it is in the midhall .",
+              "fileupload": ""
+            },
+            {
+              "id": 11929,
+              "vanbanphanhoi": "After finishes, there will be time for questions",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "title": "Đề 9 - Reading p4",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eFour people respond to a local reporter\u0027s question about their opinions on holidays. Read their answers and answer the questions below.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eA\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI have a limited budget for holidays because I am a student, so I usually choose to travel nearby or to places within the country. Because of this, I haven’t had the opportunity to travel abroad yet. I\u0027m working on earning more, and hopefully, in the future, I\u0027ll be able to explore other countries. That will be my first time traveling overseas.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eB\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI once went on a hiking holiday, and it was a disaster. The weather was terrible, and I wasn\u0027t as prepared as I thought. I used to enjoy walking a lot, going on trails and exploring nature whenever I had the chance. However, now that I\u0027m retired, my preferences have changed. I find more comfort in staying at home, reading, or spending time with family. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eC\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eBefore I go on holiday, I always get a guidebook so I won’t miss out on any important places. I find beach trips boring and always avoid them. Instead, I prefer researching tourist attractions ahead of time and visiting those interesting spots. Exploring new places and learning about their history and culture is what makes travel exciting for me.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eD\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI want to relax when I\u0027m on holiday, and I disagree with those who say going to the beach is boring. Last year, a friend invited me on a hiking trip, but I declined. However, my perspective has changed, and now I’m planning to go hiking in the near future. This time, I’ll closely follow the weather to ensure it doesn’t spoil the trip.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3784,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho wants to go on a mountaineering trip?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11930,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11931,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11932,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11933,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3785,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho likes to go for a walk?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11934,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11935,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11936,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11937,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3786,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho finds going to the beach boring?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11938,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11939,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11940,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11941,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3787,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho likes seeing tourist attractions?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11942,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11943,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11944,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11945,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3788,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho prefers to stay home on holidays?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11946,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11947,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11948,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11949,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3789,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho has never been abroad?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11950,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11951,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11952,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11953,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3790,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhose holiday requires good weather?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11954,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11955,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11956,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11957,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "title": "Đề 9 - Reading p5",
+      "des": "Read the text. Match the headings to the paragraphs. There is one heading that you will not use.\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003e                                                    The history of coffee\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3791,
+          "vanbancauhoi": "1._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe custom of drinking coffee started in the 1500s. Around that time, cafés began to open in places like Egypt and Ethiopia, though coffee was banned before that. Later, coffee made its way to Italy and spread throughout Europe. The Dutch even introduced coffee to Asia. Over time, drinking coffee became a common habit in many parts of the world, bringing people together in new ways.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11958,
+              "vanbanphanhoi": "Coffee Encouraging the Art of Communication",
+              "fileupload": ""
+            },
+            {
+              "id": 11959,
+              "vanbanphanhoi": "The ancient origin of coffee",
+              "fileupload": ""
+            },
+            {
+              "id": 11960,
+              "vanbanphanhoi": "The custom of drinking coffee began",
+              "fileupload": ""
+            },
+            {
+              "id": 11961,
+              "vanbanphanhoi": "The problems in a coffee economy",
+              "fileupload": ""
+            },
+            {
+              "id": 11962,
+              "vanbanphanhoi": "A remedy for  unjust revenue distribution",
+              "fileupload": ""
+            },
+            {
+              "id": 11963,
+              "vanbanphanhoi": "A habit that has become a big business",
+              "fileupload": ""
+            },
+            {
+              "id": 11964,
+              "vanbanphanhoi": "The habit of drinking coffee in Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 11965,
+              "vanbanphanhoi": "The health risks versus health benefits debate",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3792,
+          "vanbancauhoi": "2._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eEurope is known as the biggest coffee-drinking region. In the 18th century, writers, philosophers, and politicians used coffee as a way to stay alert during intense discussions or meetings. Coffeehouses became popular meeting spots where people shared ideas and debated important topics. These places helped encourage the exchange of intellectual thoughts and played a key role in business and social life at the time.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11966,
+              "vanbanphanhoi": "Coffee Encouraging the Art of Communication",
+              "fileupload": ""
+            },
+            {
+              "id": 11967,
+              "vanbanphanhoi": "The ancient origin of coffee",
+              "fileupload": ""
+            },
+            {
+              "id": 11968,
+              "vanbanphanhoi": "The custom of drinking coffee began",
+              "fileupload": ""
+            },
+            {
+              "id": 11969,
+              "vanbanphanhoi": "The problems in a coffee economy",
+              "fileupload": ""
+            },
+            {
+              "id": 11970,
+              "vanbanphanhoi": "A remedy for unjust revenue distribution",
+              "fileupload": ""
+            },
+            {
+              "id": 11971,
+              "vanbanphanhoi": "A habit that has become a big business",
+              "fileupload": ""
+            },
+            {
+              "id": 11972,
+              "vanbanphanhoi": "The habit of drinking coffee in Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 11973,
+              "vanbanphanhoi": "The health risks versus health benefits debate",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3793,
+          "vanbancauhoi": "3._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eToday, many people drink coffee in the morning to wake up, or in the evening to socialize after work. Coffeehouses are everywhere, offering places to chat and relax. Coffee has grown into a global business, with coffee machines even sold for private homes. Famous global brands have become well-known for their coffee, using strong branding and marketing strategies to attract millions of coffee lovers worldwide.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11974,
+              "vanbanphanhoi": "Coffee Encouraging the Art of Communication",
+              "fileupload": ""
+            },
+            {
+              "id": 11975,
+              "vanbanphanhoi": "The ancient origin of coffee",
+              "fileupload": ""
+            },
+            {
+              "id": 11976,
+              "vanbanphanhoi": "The custom of drinking coffee began",
+              "fileupload": ""
+            },
+            {
+              "id": 11977,
+              "vanbanphanhoi": "The problems in a coffee economy",
+              "fileupload": ""
+            },
+            {
+              "id": 11978,
+              "vanbanphanhoi": "A remedy for unjust revenue distribution",
+              "fileupload": ""
+            },
+            {
+              "id": 11979,
+              "vanbanphanhoi": "A habit that has become a big business",
+              "fileupload": ""
+            },
+            {
+              "id": 11980,
+              "vanbanphanhoi": "The habit of drinking coffee in Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 11981,
+              "vanbanphanhoi": "The health risks versus health benefits debate",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3794,
+          "vanbancauhoi": "4._\u003cbr\u003e\u003cspan xss\u003dremoved\u003eEurope consumes 90% of the world\u0027s coffee production, making it the largest market. Countries like Egypt and Ethiopia rely heavily on exporting coffee to support their economies. However, there is an issue of inequality: workers in coffee-producing countries often face poor working and living conditions. While coffee brings in money for these nations, the people producing it don’t always receive fair pay for their hard work.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11982,
+              "vanbanphanhoi": "Coffee Encouraging the Art of Communication",
+              "fileupload": ""
+            },
+            {
+              "id": 11983,
+              "vanbanphanhoi": "The ancient origin of coffee",
+              "fileupload": ""
+            },
+            {
+              "id": 11984,
+              "vanbanphanhoi": "The custom of drinking coffee began",
+              "fileupload": ""
+            },
+            {
+              "id": 11985,
+              "vanbanphanhoi": "The problems in a coffee economy",
+              "fileupload": ""
+            },
+            {
+              "id": 11986,
+              "vanbanphanhoi": "A remedy for unjust revenue distribution",
+              "fileupload": ""
+            },
+            {
+              "id": 11987,
+              "vanbanphanhoi": "A habit that has become a big business",
+              "fileupload": ""
+            },
+            {
+              "id": 11988,
+              "vanbanphanhoi": "The habit of drinking coffee in Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 11989,
+              "vanbanphanhoi": "The health risks versus health benefits debate",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3796,
+          "vanbancauhoi": "5._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eTo address these inequalities, certification programs for agricultural products were introduced. If coffee meets certain certification standards, it can be sold at a fair price, preventing it from being sold too cheaply. However, critics argue that only about 5% of coffee gets certified. Many small coffee producers are too poor to afford the certification fees, which keeps them even further behind in the global market.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11990,
+              "vanbanphanhoi": "Coffee Encouraging the Art of Communication",
+              "fileupload": ""
+            },
+            {
+              "id": 11991,
+              "vanbanphanhoi": "The ancient origin of coffee",
+              "fileupload": ""
+            },
+            {
+              "id": 11992,
+              "vanbanphanhoi": "The custom of drinking coffee began",
+              "fileupload": ""
+            },
+            {
+              "id": 11993,
+              "vanbanphanhoi": "The problems in a coffee economy",
+              "fileupload": ""
+            },
+            {
+              "id": 11994,
+              "vanbanphanhoi": "A remedy for unjust revenue distribution",
+              "fileupload": ""
+            },
+            {
+              "id": 11995,
+              "vanbanphanhoi": "A habit that has become a big business",
+              "fileupload": ""
+            },
+            {
+              "id": 11996,
+              "vanbanphanhoi": "The habit of drinking coffee in Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 11997,
+              "vanbanphanhoi": "The health risks versus health benefits debate",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3797,
+          "vanbancauhoi": "6._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eCoffee has several benefits. It contains antioxidants, which can help prevent diseases. However, there are also some risks. It is not recommended to drink coffee with added flavors or sweeteners because these can be harmful to your health. If you drink pure black coffee, it’s usually fine. Just remember to avoid adding too many unhealthy ingredients to your cup of coffee to stay on the safe side.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11998,
+              "vanbanphanhoi": "Coffee Encouraging the Art of Communication",
+              "fileupload": ""
+            },
+            {
+              "id": 11999,
+              "vanbanphanhoi": "The ancient origin of coffee",
+              "fileupload": ""
+            },
+            {
+              "id": 12000,
+              "vanbanphanhoi": "The custom of drinking coffee began",
+              "fileupload": ""
+            },
+            {
+              "id": 12001,
+              "vanbanphanhoi": "The problems in a coffee economy",
+              "fileupload": ""
+            },
+            {
+              "id": 12002,
+              "vanbanphanhoi": "A remedy for unjust revenue distribution",
+              "fileupload": ""
+            },
+            {
+              "id": 12003,
+              "vanbanphanhoi": "A habit that has become a big business",
+              "fileupload": ""
+            },
+            {
+              "id": 12004,
+              "vanbanphanhoi": "The habit of drinking coffee in Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 12005,
+              "vanbanphanhoi": "The health risks versus health benefits debate",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3798,
+          "vanbancauhoi": "7._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAccording to legend, a man in an old country once visited another land where he saw a bird eating coffee beans. The bird became much more active than usual. Curious, the man decided to try the beans himself. After eating them, he felt more energetic and awake. This was how he discovered the amazing effects of coffee, which eventually became known to the rest of the world.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 12006,
+              "vanbanphanhoi": "Coffee Encouraging the Art of Communication",
+              "fileupload": ""
+            },
+            {
+              "id": 12007,
+              "vanbanphanhoi": "The ancient origin of coffee",
+              "fileupload": ""
+            },
+            {
+              "id": 12008,
+              "vanbanphanhoi": "The custom of drinking coffee began",
+              "fileupload": ""
+            },
+            {
+              "id": 12009,
+              "vanbanphanhoi": "The problems in a coffee economy",
+              "fileupload": ""
+            },
+            {
+              "id": 12010,
+              "vanbanphanhoi": "A remedy for unjust revenue distribution",
+              "fileupload": ""
+            },
+            {
+              "id": 12011,
+              "vanbanphanhoi": "A habit that has become a big business",
+              "fileupload": ""
+            },
+            {
+              "id": 12012,
+              "vanbanphanhoi": "The habit of drinking coffee in Europe",
+              "fileupload": ""
+            },
+            {
+              "id": 12013,
+              "vanbanphanhoi": "The health risks versus health benefits debate",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 718,
+      "title": "Đề 9 - Speaking p1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/14f294f5a63a4b0777604aa2333b0250.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3824,
+          "vanbancauhoi": "What did you do last night?",
+          "vanbangiaithich": "Version 1:\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003eLet me tell you about what I did last night. Last night, I went to the cinema ( where) to watch “Tom and Jerry” ( what). It was about a cat named Tom chasing a mouse named Jerry. It helped me relax and reduce stress after a long day at work. I felt very happy. That’s my answer. \u003cbr\u003eVersion 2: \u003c/p\u003e\r\n\u003cp\u003eI will tell you about what I did last night. \u003c/p\u003e\r\n\u003cp\u003eI went to the cinema with my friend on Sunday evening. We watched the film named Tom and Jerry. The movie was so interesting. I felt so excited because it helped me relax and reduce stress. That’s my answer. \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d8625f8c2f3812be0c5b36dcb8ed782d.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12077,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d73a9986b74974031b6588909ff77ab9.mp3"
+            },
+            {
+              "id": 12098,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/116411fe2269a8b1dddacc35175ecc1a.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3825,
+          "vanbancauhoi": "What is your favorite season?",
+          "vanbangiaithich": "Version 1:\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003eLet me tell you about my favorite season. I like summer ( what) because ( why) I can do outdoor activities with my friends on the weekends. It helps me keep fit and remain healthy. I feel very happy / excited/ comfortable about that. That’s my answer. \u003cbr\u003eVersion 2: \u003c/p\u003e\r\n\u003cp\u003eMy favorite time of year is spring. At this time, the weather is warm. Moreover, Spring is a time when my family can reunite, and we can rest after a year of hard work. I love spring very much.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/50f146be0ccf03c23c30049de9769fa3.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12078,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0669dcdf0ff270ae9b2511f2c9ede2c7.mp3"
+            },
+            {
+              "id": 12104,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ecbacf617512a0985c6a156999a83f24.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3826,
+          "vanbancauhoi": "What is your favorite movie star?",
+          "vanbangiaithich": "Version1:\u0026nbsp;\u003cbr\u003e\r\n\u003cp\u003eLet me tell you about my favorite movie star. He is Son Tung, he is very handsome , helpful and friendly. When I watch his films, it allows me to broaden my social knowledge. I feel very useful . That’s my answer. \u003cbr\u003eVersion 2: \u003c/p\u003e\r\n\u003cp\u003eLet me tell you about my favorite film star. Her name is Anna, who will be turning 26 years old next month.\u003c/p\u003e\r\n\u003cp\u003eI have known her for 6 months \u003c/p\u003e\r\n\u003cp\u003eTo me , Vy is a friendly person because she is very easy to make friends\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4f64c0c81e6ecab1ee730c5c657c554e.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12081,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/81b705dc75a6cf27cbda906d8b285915.mp3"
+            },
+            {
+              "id": 12082,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b3fb3f1954a34dcb198fdd8976b10fcd.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 720,
+      "title": "Đề 9 - Speaking p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b060b314c9a53c2370b3fa10dd2a474a.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3830,
+          "vanbancauhoi": "Describe these 2 pictures\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/ae7ea2875c96d4eeb310160dd4338383.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures show me about tourist destinations.\u003c/p\u003e\r\n\u003cp\u003eIn the first picture, I can see a lot of people on the beach. They are wearing bikinis. It is clear that they are lying on the beach and swimming. \u003c/p\u003e\r\n\u003cp\u003eIn the second picture,  I can see a girl and the mountain. The girl is wearing a T-shirt. She is looking at the lake. \u003c/p\u003e\r\n\u003cp\u003eI guess all of them are feeling happy. \u003c/p\u003e\r\n\u003cp\u003eI prefer the second picture because I like being alone.  \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9286753673b8f23816e71089d3f4eb21.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12086,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/02af11a9933066897cb9ef4c9d371ae6.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3831,
+          "vanbancauhoi": "What are the attractions of visiting 2 places?\u0026nbsp;",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eEach place has its own attractions. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the first picture,  the attraction is to help people make friends who have the same hobby and gain more experience.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn the second picture, it is a wonderful way to relax and reduce stress after a long day at work.  \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e504d26d081f31a4e79221aed5cacecc.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12087,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c7319f1460d76685b3399c4abd78efe1.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3832,
+          "vanbancauhoi": "What are the benefits \u003cspan xss\u003dremoved\u003eof being alone from time to time? \u003c/span\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003efrom time to time: thi thoảng \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThere are many benefits of being alone from time to time. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eFirst, it is good for health \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eSecond, it is a good way to relax and reduce stress after a long day at work.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eFor me , I like being alone when I feel sad. \u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a9fe79442873356ac73b1f16f6cb7837.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12088,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/148297d64a92185155782356ee23d06d.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "title": "Đề 9 - Speaking p2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d6537d301e636e6adc5d29175564c2cc.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3827,
+          "vanbancauhoi": "Describe this picture\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/5bcf095e1f63c5706a84034a1a0f6f5c.png\"\u003e",
+          "vanbangiaithich": "In the picture, I can see 2 people in a shopping mall\u003cbr\u003eIn the background, I can see a lot of clothes hanging in the wall\u003cbr\u003eIn the front, there are 2 men wearing casual clothes\u003cbr\u003eIt is clear that they are looking at clothes \u003cbr\u003eI guess they are having a good time because I can see the smile on their face\u003cbr\u003eTo be honest, this picture is so beautiful that it might have been taken by a professional.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f6d2734923d4306fc87a644be41a3164.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12083,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/81ca987889619fc2b3af50e406b743bc.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3828,
+          "vanbancauhoi": "Tell me about the last time you went shopping for clothes",
+          "vanbangiaithich": "\u003cp\u003eLet me tell you about the last time I went shopping for clothes\u003c/p\u003e\r\n\u003cp\u003e( when) Yesterday, I went shopping for clothes with my friends ( who) \u003c/p\u003e\r\n\u003cp\u003eWe went to Aeon mall ( where) on Saturday morning ( when) \u003c/p\u003e\r\n\u003cp\u003eWe felt very happy because it helped relax and reduce stress after a long day at work.\u003c/p\u003e\r\n\u003cp\u003eThat’s my answer.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/64c57c9b0b2cd8cb4ac853ac2cb971b1.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12084,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/af2f19b7ef21b11f7d9599d4591da983.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3829,
+          "vanbancauhoi": "Why do some people dislike going shopping for clothes?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLet me tell you about Why some people dislike going shopping for clothes.\u003c/span\u003e\u003c/p\u003e\r\n\u003cul\u003e\r\n\u003cli xss\u003dremoved aria-level\u003d\"1\"\u003e\u003cspan xss\u003dremoved\u003eFirst, they may not feel comfortable.\u003c/span\u003e\u003c/li\u003e\r\n\u003cli xss\u003dremoved aria-level\u003d\"1\"\u003e\u003cspan xss\u003dremoved\u003eSecond, shopping for clothes takes a lot of time and money\u003c/span\u003e\u003c/li\u003e\r\n\u003cli xss\u003dremoved aria-level\u003d\"1\"\u003e\u003cspan xss\u003dremoved\u003eFinally, people like other activities , such as listening to music or watching TV because it allows them to relax and reduce stress after a long time at work.\u003c/span\u003e\u003c/li\u003e\r\n\u003c/ul\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/05ac0b610098c6c0b7b295ff051caa11.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12085,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/27e7ea40e7f85c36f4b00bddb1e4d8c7.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "title": "Đề 9 - Speaking p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/833eda2382398558e56cc6ff398cb3d6.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3834,
+          "vanbancauhoi": "\u003cp\u003eWhat are the different ways you use the Internet?\u003c/p\u003e\r\n\u003cp\u003eHow do you feel when you use the Internet?\u003c/p\u003e\r\n\u003cp\u003eSome people say that the Internet has a bad impact on our lives. What do you think?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eRegarding the first question,\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e I use the Internet in several ways. Firstly, I spend \u003c/span\u003e\u003cstrong\u003e2 hours\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e playing games or watching videos on YouTube. Watching videos \u003c/span\u003e\u003cstrong\u003enot only\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e helps me enhance my communication and logical thinking skills \u003c/span\u003e\u003cstrong\u003ebut also\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e broadens my knowledge about various aspects of life. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eSecondly, I often\u003c/span\u003e\u003cstrong\u003e surf \u003c/strong\u003e\u003cspan xss\u003dremoved\u003e Facebook to\u003c/span\u003e\u003cstrong\u003e update the news\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e, which helps me \u003c/span\u003e\u003cstrong\u003eexpand my social knowledge.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eTurning to the second question,\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e I am so excited when using the Internet. Like many young people today, I cannot stop looking at the screen, or I will feel scared.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eAs for the final question, \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eI disagree that the Internet has a bad impact on our lives for several reasons. This is because the Internet has many benefits, such as expanding people’s social knowledge or making friends from all over the world. \u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eThat’s my answer. Thank you for listening. \u003c/strong\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/659c863b960396dcd3e669b958a96b4d.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12095,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5ceca9276e3fb5c36c7e06c014404156.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 706,
+      "title": "Đề 9 - Writing part 1",
+      "des": "\u003cstrong\u003eYou want to join the Fitness club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3799,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is your favorite food?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12014,
+              "vanbanphanhoi": "I like noodles",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3800,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is your favorite color?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12015,
+              "vanbanphanhoi": "It’s blue. / My favorite color is blue/ I like blue.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3801,
+          "vanbancauhoi": "Where did you go last night?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12016,
+              "vanbanphanhoi": "I went to the theater.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3802,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat do you do on the weekend?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12017,
+              "vanbanphanhoi": "I play football.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3803,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhat is the most popular sport in your country?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12018,
+              "vanbanphanhoi": "It’s badminton. / football/ volleyball.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "title": "Đề 9 - Writing p2",
+      "des": "\u003cspan xss\u003dremoved\u003eYou want to join the Fitness club. Fill in the form. Write in sentences. Use 20 – 30 words. Recommended time: 7 minutes.\u003c/span\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3804,
+          "vanbancauhoi": "\u003cp\u003eTell us about the last time you had to run somewhere.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12019,
+              "vanbanphanhoi": "The last time I had to run was last month. I ran in a park near my house. It was a good way to stay in shape and remain healthy. Besides, running helped me to relax my mind after a long day at school.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "title": "Đề 9 - Writing p3",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3806,
+          "vanbancauhoi": "\u003cp\u003eA: How did you hear about the Health club?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12022,
+              "vanbanphanhoi": "I heard about the Health Club from my close friends who are members of it. They gave me lots of tips to keep fit that they’ve learned from this club. I see it is very useful and want to join.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3807,
+          "vanbancauhoi": "\u003cp\u003eB: What do you want to achieve when joining the club?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12023,
+              "vanbanphanhoi": "When I choose to attend our club, I want to add a lot of new friends who have the same passion for health as me to gain more knowledge about health. It\u0027s a wonderful way for me to have more new friends and broaden my mind about health knowledge.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3808,
+          "vanbancauhoi": "\u003cp\u003eC: Do you have any opinions about the facilities in the gym?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12024,
+              "vanbanphanhoi": "Yes, I do. I think that the facilities in the gym are really good. The equipment here is so modern and we only pay about 4 dollars each month. Thanks to facilities in the gym, we can remain healthy and stay in shape.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "title": "Đề 9 - Writing p4",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou are a member of the Health club. You received this email from the club’s manager.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eDear Member,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eThe club’s instructors will be absent for the next 2 weeks. You can still use the club\u0027s equipment, but there won\u0027t be any instructor support. Please kindly understand this situation.\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3809,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWrite an email to your friend. Tell your friend about your \u003c/span\u003e\u003cstrong\u003efeelings \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eand \u003c/span\u003e\u003cstrong\u003eopinions\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. 50 words.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12025,
+              "vanbanphanhoi": "Hi Tom,\r\nHow is it going? I hope you and your family are well.\r\nHave you received the email from our club?\r\nIt\u0027s a bit disappointing as I enjoy their guidance. I think that we should work out ( \u003d exercise) following the instructor through YouTube channels. I suppose ( \u003d think) it is a wonderful way to practice effectively. \r\nWhat would you think about this?\r\nHope to hear from you soon.\r\nJohn",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3810,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWrite an email to the manager of the club. Tell the manager about your \u003c/span\u003e\u003cstrong\u003efeelings \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eand \u003c/span\u003e\u003cstrong\u003esuggestions\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. 120 – 150 words.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12026,
+              "vanbanphanhoi": "Dear Club Manager,\r\nMy name is Henry. I have been a member of our club for 2 months.\r\nI am writing in response to your latest email.\r\nAccording to the news, the club’s instructors will be absent for the next 2 weeks\r\nTo be honest, I am very worried to hear that news.\r\nI would love to venture ( \u003d express) my idea. It is advisable for us to follow coaches ( \u003d instructors) on social media, such as through videos on Facebook or YouTube. I believe this could help members not only practice effectively but also stay motivated. Moreover, I suggest finding an expert who has a lot of knowledge and experience in the health area to support members during this time. By implementing these new strategies, the experience of our members can be improved. As a result, we can attract more people to join our club. \r\nI hope my suggestions will be useful.\r\nI am looking forward to hearing from you soon.\r\nBest regards,\r\nHenry.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

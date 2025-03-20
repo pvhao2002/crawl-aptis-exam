@@ -1,0 +1,1937 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3963,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man is describing his school. What color is the teacher\u0027s building?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/ac77506fabfcc5a52e5d658e44c71887.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12402,
+            "vanbanphanhoi": "Blue",
+            "fileupload": ""
+          },
+          {
+            "id": 12403,
+            "vanbanphanhoi": "White",
+            "fileupload": ""
+          },
+          {
+            "id": 12404,
+            "vanbanphanhoi": "Yellow",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3964,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man is talking to a friend about his family. What is his main problem?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4af0db597634955a0942d9f947b8dc56.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12405,
+            "vanbanphanhoi": "Persuading his family",
+            "fileupload": ""
+          },
+          {
+            "id": 12406,
+            "vanbanphanhoi": "Finding a job abroad",
+            "fileupload": ""
+          },
+          {
+            "id": 12407,
+            "vanbanphanhoi": "Saving money for the move",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3966,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA woman is chatting with a friend about her afternoon plans. What is she going to do this afternoon?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8822939ce6f1d597fc3c5d6f7a52972b.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12411,
+            "vanbanphanhoi": "Go on a city tour",
+            "fileupload": ""
+          },
+          {
+            "id": 12412,
+            "vanbanphanhoi": "Visit a museum",
+            "fileupload": ""
+          },
+          {
+            "id": 12413,
+            "vanbanphanhoi": "Relax at home",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3961,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eLalia is talking to her friend about her upcoming trip. How much does she think the bus fare will be?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a2ec265ec7609f3ec3e1e7e9c7834f61.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12396,
+            "vanbanphanhoi": "£2.5",
+            "fileupload": ""
+          },
+          {
+            "id": 12397,
+            "vanbanphanhoi": "£3",
+            "fileupload": ""
+          },
+          {
+            "id": 12398,
+            "vanbanphanhoi": "£4.5",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3962,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eThe woman is discussing her new exercise routine. How much time does she spend cycling?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dbf0841673563ad67bd599dd0261e328.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12399,
+            "vanbanphanhoi": "15 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 12400,
+            "vanbanphanhoi": "25 minutes",
+            "fileupload": ""
+          },
+          {
+            "id": 12401,
+            "vanbanphanhoi": "35 minutes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3965,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e A woman is talking about her usual Saturday routine. What does she usually do on Saturdays?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/33383d96943ac85c7e49cc9129c67090.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12408,
+            "vanbanphanhoi": "Meeting a friend",
+            "fileupload": ""
+          },
+          {
+            "id": 12409,
+            "vanbanphanhoi": "Going shopping",
+            "fileupload": ""
+          },
+          {
+            "id": 12410,
+            "vanbanphanhoi": "Seeing her family",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3967,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003e Soobin is talking about his favorite room. What is Soobin\u0027s favorite room?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f03c871a7a22000d096b0c8d0aa64f66.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12414,
+            "vanbanphanhoi": "Living room",
+            "fileupload": ""
+          },
+          {
+            "id": 12415,
+            "vanbanphanhoi": "Bathroom",
+            "fileupload": ""
+          },
+          {
+            "id": 12416,
+            "vanbanphanhoi": "Kitchen",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3968,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eNate is on the phone with his friend. How long does Nate stay in India?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8cf03cf9c78474e6bf1f24d2c85a3b6f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12417,
+            "vanbanphanhoi": "3 days",
+            "fileupload": ""
+          },
+          {
+            "id": 12418,
+            "vanbanphanhoi": "1 week",
+            "fileupload": ""
+          },
+          {
+            "id": 12419,
+            "vanbanphanhoi": "2 weeks",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3969,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA man is giving directions to a friend about how to get to the football club. The football club is near\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dc555b1eb890140f4fa776619e5603b8.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12420,
+            "vanbanphanhoi": "A grocery store",
+            "fileupload": ""
+          },
+          {
+            "id": 12421,
+            "vanbanphanhoi": "A park",
+            "fileupload": ""
+          },
+          {
+            "id": 12422,
+            "vanbanphanhoi": "A library",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3970,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eSamia is going to meet her friend. What time are they going to meet?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2ca3e98a0d3204dfe1c13182cb300de5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12423,
+            "vanbanphanhoi": "9:00",
+            "fileupload": ""
+          },
+          {
+            "id": 12424,
+            "vanbanphanhoi": "10:00",
+            "fileupload": ""
+          },
+          {
+            "id": 12425,
+            "vanbanphanhoi": "9:30",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3971,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA woman is talking to her coworker. When does the meeting start?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/76011f328f5c081113181ad44eb2ddfe.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12426,
+            "vanbanphanhoi": "10:00",
+            "fileupload": ""
+          },
+          {
+            "id": 12427,
+            "vanbanphanhoi": "10:15",
+            "fileupload": ""
+          },
+          {
+            "id": 12428,
+            "vanbanphanhoi": "11:15",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3972,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eA woman is talking about her favorite film on the radio. What film did she recommend?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/214f65ce171ce708780c41e043f50d88.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12429,
+            "vanbanphanhoi": "A comedy",
+            "fileupload": ""
+          },
+          {
+            "id": 12430,
+            "vanbanphanhoi": "A romantic film",
+            "fileupload": ""
+          },
+          {
+            "id": 12431,
+            "vanbanphanhoi": "An action film",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3973,
+        "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eTwo friends are discussing a movie they recently watched. What elements of the film do they agree on?\u003c/span\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e5c214d81dd2e05e3397f07b522c0354.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 12432,
+            "vanbanphanhoi": "The music",
+            "fileupload": ""
+          },
+          {
+            "id": 12433,
+            "vanbanphanhoi": "The ending",
+            "fileupload": ""
+          },
+          {
+            "id": 12434,
+            "vanbanphanhoi": "The characters",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 755,
+        "title": "Đề 11- Listening C14",
+        "des": "Listen to opinions of 4 people A, B, C, D about studying habit",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3974,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003eI’ve realized that my study environment has a significant impact on my productivity. \u003cstrong\u003eChanging my study space\u003c/strong\u003e has really helped me focus better. The library offers a quiet atmosphere that’s perfect for serious work, but sometimes, a lively cafe is just what I need for a refreshing change. Being outdoors in a park with fresh air can also clear my mind. Each place keeps my study sessions interesting and engaging.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/3811458724eeb1b82a9b6a75a5c7ac64.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12435,
+                "vanbanphanhoi": "With music",
+                "fileupload": ""
+              },
+              {
+                "id": 12436,
+                "vanbanphanhoi": "Late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 12437,
+                "vanbanphanhoi": "With friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12438,
+                "vanbanphanhoi": "In a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 12439,
+                "vanbanphanhoi": "At various places",
+                "fileupload": ""
+              },
+              {
+                "id": 12445,
+                "vanbanphanhoi": "With teachers",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3975,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "\u003cp\u003eFinding the right space to study is crucial for effective learning. I usually end up in a \u003cstrong\u003equiet room at home or a secluded corner in the library\u003c/strong\u003e. It’s incredible how much I can absorb without distractions. This kind of environment really allows me to think deeply and connect with the material I’m learning.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0ecb736d39e305ddc244273f8c8dcbc3.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12440,
+                "vanbanphanhoi": "With music",
+                "fileupload": ""
+              },
+              {
+                "id": 12441,
+                "vanbanphanhoi": "Late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 12442,
+                "vanbanphanhoi": "With friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12443,
+                "vanbanphanhoi": "In a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 12444,
+                "vanbanphanhoi": "At various places",
+                "fileupload": ""
+              },
+              {
+                "id": 12446,
+                "vanbanphanhoi": "With teachers",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3976,
+            "vanbancauhoi": "Speaker C _",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e I’ve discovered that the right soundtrack can enhance my study sessions significantly. When I study, having some \u003c/span\u003e\u003cstrong\u003ebackground music makes a noticeable difference\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I tend to choose soft melodies or instrumental tracks that won’t distract me. The right music helps maintain my energy and makes long study sessions feel less tedious. It creates a motivating atmosphere that encourages me to keep pushing through.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2db22172e0f7ed0f90b251694a83c99d.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12447,
+                "vanbanphanhoi": "With music",
+                "fileupload": ""
+              },
+              {
+                "id": 12448,
+                "vanbanphanhoi": "Late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 12449,
+                "vanbanphanhoi": "With friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12450,
+                "vanbanphanhoi": "In a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 12451,
+                "vanbanphanhoi": "At various places",
+                "fileupload": ""
+              },
+              {
+                "id": 12452,
+                "vanbanphanhoi": "With teachers",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3977,
+            "vanbancauhoi": "Speaker D _\u0026nbsp;",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e Surprisingly, I find that \u003c/span\u003e\u003cstrong\u003elate-night hours\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e work best for my studying. The quietness of the night really helps me concentrate. While others are winding down, I feel more alert and inspired. Those late hours give me a chance to dive deep into my work without interruptions, turning them into my most productive study sessions.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/25a1a33d36080dc2c44490cd57bbb7a8.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12453,
+                "vanbanphanhoi": "With music",
+                "fileupload": ""
+              },
+              {
+                "id": 12454,
+                "vanbanphanhoi": "Late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 12455,
+                "vanbanphanhoi": "With friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12456,
+                "vanbanphanhoi": "In a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 12457,
+                "vanbanphanhoi": "At various places",
+                "fileupload": ""
+              },
+              {
+                "id": 12458,
+                "vanbanphanhoi": "With teachers",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 756,
+        "title": "Đề 11- Listening C15",
+        "des": "\u003cspan xss\u003dremoved\u003eA man and a woman are talking about information technology. \u003c/span\u003e\u003cspan xss\u003dremoved\u003eWhich opinion is expressed by who?\u003c/span\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a9c392c0be55d2e8454f627f2e3d2d28.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3978,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e Future generations fail to cope with technology information. _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12459,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12460,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12461,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3979,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eTechnology revolution is good for the economy. _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12462,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12463,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12464,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3980,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eNo computer is superior to the human brain. _\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12465,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12466,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12467,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3981,
+            "vanbancauhoi": "\u003cp\u003eMore should be done to protect individual privacy. _\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: I’ve been thinking about how future generations might really struggle with all the information technology throws at them. \u003c/span\u003e\u003cstrong\u003eWith the sheer volume of data available, it’s easy to see how they could feel overwhelmed and unsure of what to trust\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003c/span\u003e\u003cstrong\u003eI get that, but I actually think this technological revolution is beneficial for our economy. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eIt’s opened up new job opportunities and streamlined many industries, driving growth in ways we haven’t seen before.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan:\u003c/span\u003e\u003cstrong\u003e I understand your point, but we also need to consider the potential downsides.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e As automation increases, many traditional jobs could disappear, and not everyone will be able to transition to new roles. We have to ensure that the workforce is prepared for these changes.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: Still, \u003c/span\u003e\u003cstrong\u003ewe should recognize that no matter how advanced they get, computers can’t replicate the complexity of the human brain.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e Our ability to think critically and empathize is irreplaceable, and we need to nurture those qualities even as we embrace new technologies.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMan: I see. However, while we’re advancing, \u003c/span\u003e\u003cstrong\u003eI believe we both see the need for stronger protections around individual privacy. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eAs we rely more on the internet, safeguarding personal information becomes increasingly important.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWoman: \u003cstrong\u003eExactly! Protecting privacy is essential in this digital age. \u003c/strong\u003eWe have to ensure that people maintain control over their data, balancing innovation with the right to privacy.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12468,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12469,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12470,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 757,
+        "title": "Đề 11 - Listening C16",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to a financial advisor discussing personal finances and answer the questions below.\u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5748a77806e18e6ddf4c3fad598b5ceb.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3982,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat does the speaker say about managing personal finances?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12471,
+                "vanbanphanhoi": "Spend less on non-essential items",
+                "fileupload": ""
+              },
+              {
+                "id": 12472,
+                "vanbanphanhoi": "Organize their resources more effectively",
+                "fileupload": ""
+              },
+              {
+                "id": 12473,
+                "vanbanphanhoi": "Rely on online budgeting tools",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3983,
+            "vanbancauhoi": "\u003cp\u003eWhat does the speaker suggest for improving financial management?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eAdvisor: Managing personal finances is crucial for long-term stability. \u003c/span\u003e\u003cstrong\u003eOne of the key strategies is to organize your resources more effectively\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. This means keeping track of your income, expenses, and savings in a way that makes sense for you. Having a clear overview helps you make informed decisions about where to allocate your money.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhile some might suggest spending less on non-essential items, it\u0027s not just about cutting back; it’s about understanding your overall financial picture. Relying solely on online budgeting tools may also lead you to overlook personal insights that can be equally valuable.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAdditionally, \u003c/span\u003e\u003cstrong\u003eit’s beneficial to get advice from someone you know who is experienced\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. Whether it’s a family member or a friend who has successfully managed their finances, their insights can provide valuable guidance and help you avoid common pitfalls. Investing in more financial apps can be helpful, but nothing beats personalized advice.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12474,
+                "vanbanphanhoi": "Invest in more financial apps",
+                "fileupload": ""
+              },
+              {
+                "id": 12475,
+                "vanbanphanhoi": "Avoid talking about money with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12476,
+                "vanbanphanhoi": "Seek advice from someone who is experienced",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 758,
+        "title": "Đề 11- Listening C17",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eListen to a reviewer discussing a book about the life of a scientist and answer the questions below.\u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6c8a22269addce151b087d6c60403fa1.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3984,
+            "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat does the speaker say about the way of writing?\u003c/span\u003e\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12477,
+                "vanbanphanhoi": "It is focused on technical details",
+                "fileupload": ""
+              },
+              {
+                "id": 12478,
+                "vanbanphanhoi": "It is exciting to read",
+                "fileupload": ""
+              },
+              {
+                "id": 12479,
+                "vanbanphanhoi": "It is more of a textbook than a biography",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3985,
+            "vanbancauhoi": "\u003cp\u003e What does the speaker say about the overall content of the book?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eReviewer: Today, I want to share my thoughts on a fascinating book about the life of renowned scientist Dr. Emily Carter. One of the standout features of this book is that \u003c/span\u003e\u003cstrong\u003ethe way of writing is exciting for readers.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e The author has a talent for bringing complex scientific concepts to life, making it an engaging experience.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhile some may expect a heavy focus on technical details, this book skillfully balances science with storytelling, ensuring that it remains accessible. It’s definitely not more of a textbook than a biography; instead, it invites readers into the scientist\u0027s world in a relatable way.\u003c/span\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eOverall, \u003c/span\u003e\u003cstrong\u003eI’d say it has been written for a general audience. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eThe author’s aim seems to be to inspire curiosity about science and encourage readers from all backgrounds to appreciate the contributions of Dr. Carter. Unlike other works that are only suitable for experts in the field, this book truly welcomes everyone to explore the life of an extraordinary scientist.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12480,
+                "vanbanphanhoi": "It has been written for a general audience",
+                "fileupload": ""
+              },
+              {
+                "id": 12481,
+                "vanbanphanhoi": "It is only suitable for experts in the field",
+                "fileupload": ""
+              },
+              {
+                "id": 12482,
+                "vanbanphanhoi": "It lacks engaging storytelling",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 613,
+      "title": "Đề 11 - Reading p1",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the email from Emily to her friend, Alex. Choose one word from the list for each gap. The first one is done for you.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003eDear Alex,\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003eI can\u0027t wait to try out the recipes at home! \u003c/p\u003e\r\n\u003cp\u003eBest,\u003c/p\u003e\r\n\u003cp\u003eEmily\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3382,
+          "vanbancauhoi": "\u003cp\u003eYesterday, I looked through the \u003cstrong\u003e_ \u003c/strong\u003eand noticed that it was a nice day,\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10343,
+              "vanbanphanhoi": "window",
+              "fileupload": ""
+            },
+            {
+              "id": 10344,
+              "vanbanphanhoi": "wall",
+              "fileupload": ""
+            },
+            {
+              "id": 10345,
+              "vanbanphanhoi": "floor",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3383,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e So I went to the _ \u003c/span\u003e\u003cspan xss\u003dremoved\u003eto pick up some groceries. \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10346,
+              "vanbanphanhoi": "school",
+              "fileupload": ""
+            },
+            {
+              "id": 10347,
+              "vanbanphanhoi": "hospital",
+              "fileupload": ""
+            },
+            {
+              "id": 10348,
+              "vanbanphanhoi": "market",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3384,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI found a delicious chocolate _.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10349,
+              "vanbanphanhoi": "cake",
+              "fileupload": ""
+            },
+            {
+              "id": 10350,
+              "vanbanphanhoi": "salad",
+              "fileupload": ""
+            },
+            {
+              "id": 10351,
+              "vanbanphanhoi": "fruit",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3385,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eAfter that, I decided to \u003c/span\u003e\u003cspan xss\u003dremoved\u003e\u003cstrong\u003e_ \u003c/strong\u003e\u003c/span\u003e\u003cspan xss\u003dremoved\u003e some fresh vegetables for dinner. \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10352,
+              "vanbanphanhoi": "buy",
+              "fileupload": ""
+            },
+            {
+              "id": 10353,
+              "vanbanphanhoi": "sell",
+              "fileupload": ""
+            },
+            {
+              "id": 10354,
+              "vanbanphanhoi": "return",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3386,
+          "vanbancauhoi": "\u003cp\u003eWhile I was there, I\u003cstrong\u003e _\u003c/strong\u003e a cooking magazine that gave me some great ideas.\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10357,
+              "vanbanphanhoi": "listened",
+              "fileupload": ""
+            },
+            {
+              "id": 12990,
+              "vanbanphanhoi": "watched",
+              "fileupload": ""
+            },
+            {
+              "id": 12991,
+              "vanbanphanhoi": "chose",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 614,
+      "title": "Đề 11 - Reading p2",
+      "des": "\u003cp\u003e\u003cstrong\u003e The sentences below are some instructions. Put the sentences in the right order.\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eRace instructions\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3387,
+          "vanbancauhoi": "0. In order to join \"Race for Charity\", please follow this instruction:",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 10358,
+              "vanbanphanhoi": "On arrival at the park, go to the information point at the North",
+              "fileupload": ""
+            },
+            {
+              "id": 10359,
+              "vanbanphanhoi": "Runners must register here at least half an hour before the race starts at 9 a.m",
+              "fileupload": ""
+            },
+            {
+              "id": 10360,
+              "vanbanphanhoi": "To do this, you just need to show your photo card",
+              "fileupload": ""
+            },
+            {
+              "id": 10361,
+              "vanbanphanhoi": "In return, a member of staff will give you a numbered band to wear",
+              "fileupload": ""
+            },
+            {
+              "id": 10362,
+              "vanbanphanhoi": "Please put it on immediately and join in with the other competitors in the warm up area",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 615,
+      "title": "Đề 11 - Reading p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eThe sentences below are from some instructions. Put the sentences in the right order.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eInstructions for student starting the course\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3388,
+          "vanbancauhoi": "0. This is the guideline for all student attending the new course:\u003cbr\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 10363,
+              "vanbanphanhoi": "When you arrive at the college, go to the desk",
+              "fileupload": ""
+            },
+            {
+              "id": 10364,
+              "vanbanphanhoi": "A member of staff will ask your name and address",
+              "fileupload": ""
+            },
+            {
+              "id": 10365,
+              "vanbanphanhoi": "He or she will enter this information into the computer and give you the identification card",
+              "fileupload": ""
+            },
+            {
+              "id": 10366,
+              "vanbanphanhoi": "You can use this card to borrow books in the library or assess the online study material",
+              "fileupload": ""
+            },
+            {
+              "id": 10367,
+              "vanbanphanhoi": "You will find these links on your home page",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "title": "Đề 11 - Reading p4",
+      "des": "\u003cstrong\u003e\u003cstrong\u003eFour people share their feelings about a film. Read their answers and answer the questions below.\u003cbr\u003e\u003c/strong\u003e\u003c/strong\u003e\r\n\u003cp\u003e\u003cstrong\u003e\u003cbr\u003ePerson A\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eA friend recommended the film because she had read the novel. I thought it was excellent, and I was captivated by the plot throughout, even though it was quite lengthy. All of the actors were outstanding, and the scenes where the zombies were finally defeated were amazing. The only thing I didn’t like was my choice of viewing location. I should have gone out – it would have been much better on the big screen.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThis was a sequel, and I hadn’t seen the prior film, so I have to admit I felt completely lost. I’m pleased I had company. Luckily, my friend was able to explain who the characters were. There were some aspects I liked – the special effects, for example, were impressive, and the soundtrack was lovely. I would definitely recommend it to people who enjoy feeling scared, but personally, films like this don’t frighten me. I think I’ll stick to romantic movies in the future.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eUnfortunately, it wasn’t as good as I expected. The written version was terrifying but also thrilling. However, I ended up feeling bored while watching the film. The acting was rather uninspiring, and two and a half hours was excessive. I reckon the story could have been told in half the time. It was definitely better on the page than on the screen. Furthermore, cinema tickets are so costly these days. To be honest, I wish I hadn’t wasted my money!\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThis was actually my second time watching it, but even though I knew what to expect, I still felt scared whenever a zombie attack happened. The direction really makes it feel like you are right there in the room with the characters. Being familiar with the film didn’t make it easier! I was so relieved when my friend called after I got home so that I could chat about ordinary things and forget about it. Otherwise, I might have had nightmares!\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3389,
+          "vanbancauhoi": "Who thought the film was too long? _",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10368,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10369,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10370,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10371,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3390,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho saw the film previously? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10372,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10373,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10374,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10375,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3391,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho watched the film at home? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10376,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10377,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10378,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10379,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3392,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho has read the book about the film? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10380,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10381,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10382,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10383,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3393,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho liked the story of the film? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10384,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10385,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10386,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10387,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3394,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho found the film scary? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10388,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10389,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10390,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10392,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3395,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho saw the film with a friend? - _\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10393,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 10394,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 10395,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 10396,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 617,
+      "title": "Đề 11 - Reading p5",
+      "des": "\u003cp\u003e\u003cstrong\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1-7) from the drop-down box. \u003c/strong\u003e\u003c/p\u003e\r\n\u003ch1\u003e\u003cstrong\u003eChinese Food\u003c/strong\u003e\u003c/h1\u003e\r\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3396,
+          "vanbancauhoi": "\u003cdiv xss\u003dremoved\u003e1._\u003cbr\u003eThe story of this cuisine stretches back thousands of years, shaped by local farming and customs. Early diets were simple, relying on grains and ingredients from nearby sources. Over time, different areas began to create their own flavors influenced by unique resources and historical events. Key foods, such as rice and noodles, became staples, adding depth to a rich culinary history that continues to evolve.\u003c/div\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10397,
+              "vanbanphanhoi": "The influence of philosophy",
+              "fileupload": ""
+            },
+            {
+              "id": 10398,
+              "vanbanphanhoi": "Changes in the Chinese diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10399,
+              "vanbanphanhoi": "The style of eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10400,
+              "vanbanphanhoi": "The origins of Chinese food",
+              "fileupload": ""
+            },
+            {
+              "id": 10401,
+              "vanbanphanhoi": "Effects of a changing diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10402,
+              "vanbanphanhoi": "Cooking methods",
+              "fileupload": ""
+            },
+            {
+              "id": 10403,
+              "vanbanphanhoi": "The impact of culinary tourism",
+              "fileupload": ""
+            },
+            {
+              "id": 10404,
+              "vanbanphanhoi": "Regional variations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3397,
+          "vanbancauhoi": "2. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAncient ideas play a significant role in shaping attitudes toward food and meals. Concepts like balance and harmony are often reflected in how dishes are prepared and enjoyed, guiding choices in cooking. This backdrop helps create an environment where meals are not just about sustenance but also about connection and community, enriching the overall dining experience.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10405,
+              "vanbanphanhoi": "The influence of philosophy",
+              "fileupload": ""
+            },
+            {
+              "id": 10406,
+              "vanbanphanhoi": "Changes in the Chinese diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10407,
+              "vanbanphanhoi": "The style of eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10408,
+              "vanbanphanhoi": "The origins of Chinese food",
+              "fileupload": ""
+            },
+            {
+              "id": 10409,
+              "vanbanphanhoi": "Effects of a changing diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10410,
+              "vanbanphanhoi": "Cooking methods",
+              "fileupload": ""
+            },
+            {
+              "id": 10411,
+              "vanbanphanhoi": "The impact of culinary tourism",
+              "fileupload": ""
+            },
+            {
+              "id": 10412,
+              "vanbanphanhoi": "Regional variations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3398,
+          "vanbancauhoi": "3. _\u003cbr\u003e\u003cspan xss\u003dremoved\u003eThe diverse geography of the country results in a wide range of culinary styles. Each area showcases distinct flavors based on local ingredients and traditions. For instance, the bold tastes found in one region can be quite different from the lighter fare in another. These variations highlight the richness of the culinary landscape, influenced by both local practices and cultural exchanges.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10413,
+              "vanbanphanhoi": "The influence of philosophy",
+              "fileupload": ""
+            },
+            {
+              "id": 10414,
+              "vanbanphanhoi": "Changes in the Chinese diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10415,
+              "vanbanphanhoi": "The style of eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10416,
+              "vanbanphanhoi": "The origins of Chinese food",
+              "fileupload": ""
+            },
+            {
+              "id": 10417,
+              "vanbanphanhoi": "Effects of a changing diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10418,
+              "vanbanphanhoi": "Cooking methods",
+              "fileupload": ""
+            },
+            {
+              "id": 10419,
+              "vanbanphanhoi": "The impact of culinary tourism",
+              "fileupload": ""
+            },
+            {
+              "id": 10420,
+              "vanbanphanhoi": "Regional variations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3399,
+          "vanbancauhoi": "4. _\u003cbr\u003e\u003cspan xss\u003dremoved\u003eA variety of cooking techniques are used that enhance the flavors of the ingredients. Quick methods, like stir-frying, keep vegetables crisp and fresh, while steaming helps maintain the natural taste and nutrients of food. Each technique serves to improve the overall eating experience, showing how versatile and innovative cooking can be.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10421,
+              "vanbanphanhoi": "The influence of philosophy",
+              "fileupload": ""
+            },
+            {
+              "id": 10422,
+              "vanbanphanhoi": "Changes in the Chinese diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10423,
+              "vanbanphanhoi": "The style of eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10424,
+              "vanbanphanhoi": "The origins of Chinese food",
+              "fileupload": ""
+            },
+            {
+              "id": 10425,
+              "vanbanphanhoi": "Effects of a changing diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10426,
+              "vanbanphanhoi": "Cooking methods",
+              "fileupload": ""
+            },
+            {
+              "id": 10427,
+              "vanbanphanhoi": "The impact of culinary tourism",
+              "fileupload": ""
+            },
+            {
+              "id": 10428,
+              "vanbanphanhoi": "Regional variations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3400,
+          "vanbancauhoi": "5. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eDining is often approached as a communal experience, emphasizing sharing and togetherness. Meals are usually served in a way that allows everyone to sample different dishes, fostering conversation and connection among diners. The use of chopsticks adds an element of culture, making the act of eating feel more intentional and connected to tradition.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10429,
+              "vanbanphanhoi": "The influence of philosophy",
+              "fileupload": ""
+            },
+            {
+              "id": 10430,
+              "vanbanphanhoi": "Changes in the Chinese diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10431,
+              "vanbanphanhoi": "The style of eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10432,
+              "vanbanphanhoi": "The origins of Chinese food",
+              "fileupload": ""
+            },
+            {
+              "id": 10433,
+              "vanbanphanhoi": "Effects of a changing diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10434,
+              "vanbanphanhoi": "Cooking methods",
+              "fileupload": ""
+            },
+            {
+              "id": 10435,
+              "vanbanphanhoi": "The impact of culinary tourism",
+              "fileupload": ""
+            },
+            {
+              "id": 10436,
+              "vanbanphanhoi": "Regional variations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3401,
+          "vanbancauhoi": "6. _\u003cbr\u003e\u003cspan xss\u003dremoved\u003eRecent years have seen shifts in eating habits, influenced by modern lifestyles and global trends. While traditional foods remain important, there\u0027s a growing interest in fast food and snacks, reflecting a blend of old and new practices. This evolution illustrates how culinary choices can change while still holding onto some aspects of the past.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10437,
+              "vanbanphanhoi": "The influence of philosophy",
+              "fileupload": ""
+            },
+            {
+              "id": 10438,
+              "vanbanphanhoi": "Changes in the Chinese diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10439,
+              "vanbanphanhoi": "The style of eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10440,
+              "vanbanphanhoi": "The origins of Chinese food",
+              "fileupload": ""
+            },
+            {
+              "id": 10441,
+              "vanbanphanhoi": "Effects of a changing diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10442,
+              "vanbanphanhoi": "Cooking methods",
+              "fileupload": ""
+            },
+            {
+              "id": 10443,
+              "vanbanphanhoi": "The impact of culinary tourism",
+              "fileupload": ""
+            },
+            {
+              "id": 10444,
+              "vanbanphanhoi": "Regional variations",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3402,
+          "vanbancauhoi": "7. _\u003cbr\u003e\u003cspan xss\u003dremoved\u003eThe shift in dietary habits carries various implications for health and cultural practices. Increased consumption of processed foods and sugary drinks has raised concerns, challenging long-held eating traditions. As younger generations lean towards convenience, there’s a risk of losing valuable culinary knowledge. Balancing contemporary choices with traditional practices is essential for maintaining cultural integrity and promoting healthier lifestyles.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 10445,
+              "vanbanphanhoi": "The influence of philosophy",
+              "fileupload": ""
+            },
+            {
+              "id": 10446,
+              "vanbanphanhoi": "Changes in the Chinese diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10447,
+              "vanbanphanhoi": "The style of eating",
+              "fileupload": ""
+            },
+            {
+              "id": 10448,
+              "vanbanphanhoi": "The origins of Chinese food",
+              "fileupload": ""
+            },
+            {
+              "id": 10449,
+              "vanbanphanhoi": "Effects of a changing diet",
+              "fileupload": ""
+            },
+            {
+              "id": 10450,
+              "vanbanphanhoi": "Cooking methods",
+              "fileupload": ""
+            },
+            {
+              "id": 10451,
+              "vanbanphanhoi": "The impact of culinary tourism",
+              "fileupload": ""
+            },
+            {
+              "id": 10452,
+              "vanbanphanhoi": "Regional variations",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 714,
+      "title": "Đề 11 - Speaking part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/546955eebd0cf64c6c695842c5f1fa2f.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3833,
+          "vanbancauhoi": "Please tell me about your friends.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWell,I’m eager to introduce to you my best friend. Her name is Tu Anh, who I’ve known for 5 years. I feel so lucky that I met her, she has a good influence on me, which is her energy. We share the same  interests and hang out a lot. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eI have a few close friends. We like to spend time together after school or on weekends. My best friend is kind and funny. We often play sports or watch movies together. I can always talk to my friends when I have a problem, and they help me feel better.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f1b250f93ae9c77d3b20ce7fc7143b62.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12089,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/45a51d8ad91b3982e7ef434f8f960058.mp3"
+            },
+            {
+              "id": 12094,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8910aa57a489cdac0ae7b1a7a9fed768.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3835,
+          "vanbancauhoi": "Please tell me about your first school.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eWhen I recall my first school, I always feel nostalgic. I had a lot of unforgettable memories with my friends. I was tutored by some of the best teachers at that time and I still feel grateful  that I once studied here. That\u0027s all I want to share and thank you for listening.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eMy first school was very small. It had a playground and many classrooms. The teachers were nice, and I made many friends there. I still remember the games we played during breaks. It was a fun place to learn and grow up.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f5106f4046a5b06ab9bf6604e731aba4.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12096,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/560cd3e4fae5157bd0bffef9b40cee76.mp3"
+            },
+            {
+              "id": 12097,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e6be87f069ee44d31269505ca01d868b.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3836,
+          "vanbancauhoi": "What do people in your country like to read?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eIn my country, young people like reading novels or magazines,which can be read on websites. While older people tend to read newspapers to keep up with changes in the world every day. That\u0027s all I want to share and thank you for listening\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003ePeople in my country like to read newspapers and books. Some people enjoy reading stories, while others like news or information about their city. Children often read comic books or school books for fun.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c0f93777482fd7b203444991eebadfb5.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12099,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/96e7a435df2f86ca2e5dc4f65bc04c59.mp3"
+            },
+            {
+              "id": 12103,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d2ee7d4f5eea1892548357d3ce557dc8.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 715,
+      "title": "Đề 11 - Speaking part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a04b41d06db3ffd8eb158b971b07cfdd.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3837,
+          "vanbancauhoi": "Describe the picture.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/a7392715db37d134f4656aad6ffe9716.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn the picture, I can see many people.\u003c/p\u003e\r\n\u003cp\u003eIn the front, I can see a lot of men and women in their office. They are sitting and working. \u003c/p\u003e\r\n\u003cp\u003eIn the background, there are desks and computers. They are modern.\u003c/p\u003e\r\n\u003cp\u003eIt is clear that they are working with computers and telephones.\u003c/p\u003e\r\n\u003cp\u003eI guess they are focused/attentive/concentrated. I guess they are colleagues and they are working very hard.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/491305fce442e1910387dc14208248dc.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12105,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9810ac890068ada002123d3aa4030dbe.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3838,
+          "vanbancauhoi": "When was the last time you went to work?",
+          "vanbangiaithich": "The last time I went to work was a day ago. I went to work by motorbike. I worked from 9am to 5pm and I worked with my colleagues. I felt happy when I went to work. It helped me expand my knowledge and gain more skills.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1c54147f674bd5a60657126feee03a20.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12106,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f9b33298d25267583adae354f373dd0f.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3839,
+          "vanbancauhoi": "Why is it important for people to enjoy working?",
+          "vanbangiaithich": "If you do not enjoy working, you will not be able to reach your full potential. If you enjoy your job, you will stick with it for a long time.\u0026nbsp;\u003cbr\u003eWorking helps people to expand their knowledge and besides, it allows them to gain more experiences. \u003cbr\u003eFor me, I enjoy working because it is fun and interesting.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1479758e833574453499778194414d4b.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12107,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8cada9f82e4f46c9bbcd9bbd436992c5.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "title": "Đề 11 - Speaking part 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0618736e90fe764555844782d8aadd54.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3840,
+          "vanbancauhoi": "Describe 2 pictures.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/335e5095183f307a77b5b2405cec682e.png\"\u003e",
+          "vanbangiaithich": "Both pictures are so beautiful, let me describe them.\u003cbr\u003eIn the first picture, there is a woman and a little girl. They are in a shop. They are looking at the clocks. They are wearing beautiful clothes. \u003cbr\u003eTurning to the second picture, I can see two women. They are shopping at the outdoor market. They look happy and I think they are friends.\u003cbr\u003eRegarding the differences, while the first picture is about buying things in a shop, the second is about buying things at a market.\u003cbr\u003ePersonally, I love both pictures because they are all beautiful.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c662382ba7153b0ca51c13e5b43ad411.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12108,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7651b6ea3d346ff544c31c72574bbdd6.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3841,
+          "vanbancauhoi": "What are the differences between buying in the two places?",
+          "vanbangiaithich": "Each picture has its own attractions.\u0026nbsp;\u003cbr\u003eRegarding the first picture, shopping in a shop is fun and interesting. \u003cbr\u003eTurning to the second picture, shopping in a market can help us gain more skills and make new friends.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/845caf89cfa2f376611c905b520c622a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12109,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/16e1496d8a97c115bce5362aa0ea91db.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3842,
+          "vanbancauhoi": "What are the attractions of buying expensive things?",
+          "vanbangiaithich": "Buying expensive things can make people feel more important and successful. They often come with better quality and last longer. Plus, owning luxury items can make someone feel happy and confident.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/78e4cadbd5ebd00e7825b770b3f6b4e7.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12110,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dd4328db93e004f68e8c47729699b889.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "title": "Đề 11 - Speaking part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7368f0334073cd0321f90cc0abeba9cb.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3843,
+          "vanbancauhoi": "Talk about a time when you asked a question.\u003cbr\u003eIs it easy to ask a question?\u003cbr\u003eSome subjects are more difficult for many people. What do you think?",
+          "vanbangiaithich": "Now I am going to answer 3 questions.\u0026nbsp;\u003cbr\u003eRegarding the first question, the last time I asked a question was 2 months ago. I tried to ask a question about my homework at school with my friends in January. We shared our work, while my friends searched online, I asked for the teacher\u0027s help. Finally, we completed the homework and got a high score. That experience was so memorable because it helps me expand valuable knowledge in my life.\u003cbr\u003eTurning to the second question, I feel/think it is easy to ask a question. \u003cbr\u003eFor example, when I asked a question about my homework, I felt very delighted because I could learn the lesson better.\u003cbr\u003eAs for the final question, some subjects are more difficult for many people. For example, people can work with their friends. This is because some subjects need a lot of time and effort.\u003cbr\u003eThat’s all I want to tell you. Thank you for listening.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d1081490f4a194a9794eff45a155db1a.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 12111,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/59f813b1b7661fa7d4bb0d59e69edef6.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 693,
+      "title": "Đề 11 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a cooking club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3754,
+          "vanbancauhoi": "What do you like to do in the evening?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11875,
+              "vanbanphanhoi": "I enjoy listening to music.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3755,
+          "vanbancauhoi": "What is your favorite hobby?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11876,
+              "vanbanphanhoi": "My favorite hobby is reading books.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3756,
+          "vanbancauhoi": "What is your favorite sport?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11877,
+              "vanbanphanhoi": "It’s soccer.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3757,
+          "vanbancauhoi": "What is your job?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11878,
+              "vanbanphanhoi": "I am a student.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3758,
+          "vanbancauhoi": "What is your favorite color?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11879,
+              "vanbanphanhoi": "It’s red.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "title": "Đề 11 - Writing part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a new member of the cooking club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3759,
+          "vanbancauhoi": "What do you usually eat for breakfast and when do you eat it?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11880,
+              "vanbanphanhoi": "Everyday, I usually eat breakfast at 7.00 am with my family at home. I like food such as bread, eggs, and a drink like coffee or juice.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "title": "Đề 11 - Writing part 3",
+      "des": "\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e\r\n\u003cp\u003e\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003cdiv class\u003d\"questions-container\"\u003e\r\n\u003cdiv class\u003d\"card invisible\"\u003e\r\n\u003cdiv\u003e\r\n\u003cdiv class\u003d\"row ng-star-inserted\"\u003e\r\n\u003cdiv class\u003d\"col-12 mb-3 col-sm-6 col-md-6\"\u003e\r\n\u003cdiv class\u003d\"ng-star-inserted\"\u003e \u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3760,
+          "vanbancauhoi": "\u003cp\u003ePerson A: What do you do when you don’t have much time to cook?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11881,
+              "vanbanphanhoi": "I usually choose dishes that can be made quickly and easily like salads or sandwiches. Sometimes, I buy ready-made food at the supermarket or order takeout when I don’t have much time.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3761,
+          "vanbancauhoi": "Person B: What do you prefer? Buy at some small local shops or supermarkets?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11882,
+              "vanbanphanhoi": "I prefer to buy something at the supermarket because there are more options and better prices. However, for unique or handmade items, I often choose to buy at small local stores.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3762,
+          "vanbancauhoi": "Person C: Cooking is an important skill for children to study at school. What do you think?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11883,
+              "vanbanphanhoi": "In my opinion, I think it’s a great idea for children to learn how to cook at school. It helps students learn about different cultures and cuisines. Besides, cooking is definitely a skill that will come in handy in the future.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "title": "Đề 11 - Writing part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of a Cooking Club. You received this e-mail from the club.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eDear members,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eA recent report states that young people in their 20s do not cook at home. We want to encourage more people to learn cooking. What advice would you give to those who have never cooked before but want to start, and what is the best way to convey this advice?\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eBests,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eClub Manager.\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3763,
+          "vanbancauhoi": "Write an email to your friend. Write about your feelings and what you think the club should do about the situation. Write about 50 words. Recommended time: 10 minutes.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11884,
+              "vanbanphanhoi": "Dear Anna,\r\nHow are you? I hope you and your family are well \r\nI’m writing about the latest email from our club\r\nI was worried when I heard that news. It said that our club wants to encourage people in their 20s to cook more.\r\nI think that our club can create a book having recipes for simple dishes. Moreover, we can also hold a cooking class to teach young people to cook.\r\nWhat do you think? Drop me a line soon\r\nYour friend,\r\nJean.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3764,
+          "vanbancauhoi": "Write an email to the president of the club. Write about your feelings and what you think the club should do about the situation. Write 120\u0026ndash;150 words. Recommended time: 20 minutes.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11885,
+              "vanbanphanhoi": "Dear Club Manager,\r\nMy name is Jean. I have been a member of our club for 2 months.\r\nI am writing in response to your latest email.\r\nAccording to the report, young people in their 20s do not cook at home and our club wants to encourage them to take up cooking as this skill might come in handy.\r\nTo be honest, I am very worried to hear that news.\r\nI would love to venture my idea. I believe that our club could create a cookbook witwith recipes for simple dishes. This would not only help young people improve their cooking skills but also encourage them to try new recipes at home. Additionally, we could hold a cooking class to teach young people how to cook. This hands-on experience would be beneficial and fun for everyone. By implementing these changes, we can ensure better attendance and engagement, enhancing the overall experience for everyone involved.\r\nI hope my suggestions will be useful.\r\nI am looking forward to hearing from you soon.\r\nBest regards,\r\nJean.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

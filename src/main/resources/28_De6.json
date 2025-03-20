@@ -1,0 +1,1902 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3315,
+        "vanbancauhoi": "Tom is calling his friend. What time will they meet?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dff05b10bc4b5739bcdf17de322617ff.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10141,
+            "vanbanphanhoi": "6 PM",
+            "fileupload": ""
+          },
+          {
+            "id": 10142,
+            "vanbanphanhoi": "5 PM",
+            "fileupload": ""
+          },
+          {
+            "id": 10143,
+            "vanbanphanhoi": "7 PM",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3316,
+        "vanbancauhoi": "Lucy is calling her friend. What is her sister like?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a5d7192a70ee672d4ca4a51d9baa1e62.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10144,
+            "vanbanphanhoi": "She is young",
+            "fileupload": ""
+          },
+          {
+            "id": 10145,
+            "vanbanphanhoi": "They have similar characters",
+            "fileupload": ""
+          },
+          {
+            "id": 10146,
+            "vanbanphanhoi": "She will be wearing red coat",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3317,
+        "vanbancauhoi": "\u003cp\u003eA finance expert is giving advice to young people. What shouldn’t they do?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c3d945248d63ef4e96c2e6d3cb15d935.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10147,
+            "vanbanphanhoi": "Spend too much on clothes.",
+            "fileupload": ""
+          },
+          {
+            "id": 10148,
+            "vanbanphanhoi": "Ask for more money.",
+            "fileupload": ""
+          },
+          {
+            "id": 10149,
+            "vanbanphanhoi": "Save for emergencies.",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3318,
+        "vanbancauhoi": "A man is talking about his daily routine. What does he do after work?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9fcad80f231aca47a03f87fe474705ab.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10150,
+            "vanbanphanhoi": "Goes to the gym.",
+            "fileupload": ""
+          },
+          {
+            "id": 10151,
+            "vanbanphanhoi": "Plays football.",
+            "fileupload": ""
+          },
+          {
+            "id": 10152,
+            "vanbanphanhoi": "Reads books.",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3319,
+        "vanbancauhoi": "Lily is talking about her daily routine. What does she do in the evening?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b71bf43875cbe0ffce893bf0b92aae59.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10153,
+            "vanbanphanhoi": "Goes for a walk.",
+            "fileupload": ""
+          },
+          {
+            "id": 10154,
+            "vanbanphanhoi": "Plays video games.",
+            "fileupload": ""
+          },
+          {
+            "id": 10155,
+            "vanbanphanhoi": "Cooks dinner.",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3320,
+        "vanbancauhoi": "A woman is talking to a police officer. What did she lose?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/40a0fd6b669bd7cd576a9bdceb726572.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10156,
+            "vanbanphanhoi": "Wallet",
+            "fileupload": ""
+          },
+          {
+            "id": 10157,
+            "vanbanphanhoi": "Phone",
+            "fileupload": ""
+          },
+          {
+            "id": 10158,
+            "vanbanphanhoi": "Car",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3321,
+        "vanbancauhoi": "A man and a woman are going shopping. What does he buy in the store?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/68a6e6c31956f4ef7171f7cf22aa65fc.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10159,
+            "vanbanphanhoi": "A T-shirt",
+            "fileupload": ""
+          },
+          {
+            "id": 10160,
+            "vanbanphanhoi": "A suit for the office",
+            "fileupload": ""
+          },
+          {
+            "id": 10161,
+            "vanbanphanhoi": "A pair of shoes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3322,
+        "vanbancauhoi": "A student is talking about housing. Where does he live now?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4d66bee291698462c9a06d56bb5a7244.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10162,
+            "vanbanphanhoi": "In a small village",
+            "fileupload": ""
+          },
+          {
+            "id": 10163,
+            "vanbanphanhoi": "In an apartment",
+            "fileupload": ""
+          },
+          {
+            "id": 10164,
+            "vanbanphanhoi": "In a town hall",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3323,
+        "vanbancauhoi": "\u003cp\u003eListen to a radio man talking about a new popular song. Which is the most attractive part of the song?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/423d8f6a5a291c2191d68dadaf547b20.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10165,
+            "vanbanphanhoi": "The words",
+            "fileupload": ""
+          },
+          {
+            "id": 10166,
+            "vanbanphanhoi": "The instruments",
+            "fileupload": ""
+          },
+          {
+            "id": 10167,
+            "vanbanphanhoi": "The cover art",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3324,
+        "vanbancauhoi": "\u003cp\u003eListen to a saleswoman talking about a property. Which room is the largest?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/79cf1c02301f21006d117d6ca0a0a95f.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10168,
+            "vanbanphanhoi": "Bedroom",
+            "fileupload": ""
+          },
+          {
+            "id": 10169,
+            "vanbanphanhoi": "Kitchen",
+            "fileupload": ""
+          },
+          {
+            "id": 10170,
+            "vanbanphanhoi": "Bathroom",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3325,
+        "vanbancauhoi": "\u003cp\u003eListen to a student talking about his study. What course is the student going to take this year?\u003c/p\u003e",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/13992b1404861d90f858bbdac419ac15.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10171,
+            "vanbanphanhoi": "Math",
+            "fileupload": ""
+          },
+          {
+            "id": 10172,
+            "vanbanphanhoi": "Computer",
+            "fileupload": ""
+          },
+          {
+            "id": 10173,
+            "vanbanphanhoi": "Science",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3326,
+        "vanbancauhoi": "A girl is talking about a show she will attend. What will end with?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2412cc8e60819959e501d1a951a7ce44.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10174,
+            "vanbanphanhoi": "A dance performance",
+            "fileupload": ""
+          },
+          {
+            "id": 10175,
+            "vanbanphanhoi": "A big celebration",
+            "fileupload": ""
+          },
+          {
+            "id": 10176,
+            "vanbanphanhoi": "A surprise performance",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3327,
+        "vanbancauhoi": "A boy is talking about his cat. What does he feed the cat?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0e5ba3106885d51ec153ccd79e26cd99.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10177,
+            "vanbanphanhoi": "Mice",
+            "fileupload": ""
+          },
+          {
+            "id": 10178,
+            "vanbanphanhoi": "Insects",
+            "fileupload": ""
+          },
+          {
+            "id": 10179,
+            "vanbanphanhoi": "Fish",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 637,
+        "title": "Đề 6 - Listening C14",
+        "des": "\u003cp\u003e\u003cstrong\u003eListen to opinions of 4 people A B C D about studying habit. Complete the sentences below.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3471,
+            "vanbancauhoi": "\u003cp\u003ePerson A _\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003ePerson A: Surprisingly, I find that \u003cstrong\u003elate-night hours\u003c/strong\u003e work best for my studying. The quietness of the night really helps me concentrate. While others are winding down, I feel more alert and inspired. Those late hours give me a chance to dive deep into my work without interruptions, turning them into my most productive study sessions.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/710167ae39a258a28691f81bce32cb6d.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11317,
+                "vanbanphanhoi": "Prefer to study at various places",
+                "fileupload": ""
+              },
+              {
+                "id": 11318,
+                "vanbanphanhoi": "Prefer to study in a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 11319,
+                "vanbanphanhoi": "Prefer to study with music",
+                "fileupload": ""
+              },
+              {
+                "id": 11320,
+                "vanbanphanhoi": "Prefer to study late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 11321,
+                "vanbanphanhoi": "Prefer to study with friends",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3472,
+            "vanbancauhoi": "\u003cp\u003ePerson B _\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003ePerson B: I’ve realized that my study environment has a significant impact on my productivity. \u003cstrong\u003eChanging my study space\u003c/strong\u003e has really helped me focus better. The library offers a quiet atmosphere that’s perfect for serious work, but sometimes, a lively cafe is just what I need for a refreshing change. Being outdoors in a park with fresh air can also clear my mind. Each place keeps my study sessions interesting and engaging. \u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b99023d11546621ce1743188398dd762.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11322,
+                "vanbanphanhoi": "Prefer to study at various places",
+                "fileupload": ""
+              },
+              {
+                "id": 11323,
+                "vanbanphanhoi": "Prefer to study in a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 11324,
+                "vanbanphanhoi": "Prefer to study with music",
+                "fileupload": ""
+              },
+              {
+                "id": 11325,
+                "vanbanphanhoi": "Prefer to study late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 11326,
+                "vanbanphanhoi": "Prefer to study with friends",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3629,
+            "vanbancauhoi": "Speaker C_",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003ePerson C: I’ve discovered that the right soundtrack can enhance my study sessions significantly. When I study, having some \u003c/span\u003e\u003cstrong\u003ebackground music makes a noticeable difference\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I tend to choose soft melodies or instrumental tracks that won’t distract me. The right music helps maintain my energy and makes long study sessions feel less tedious. It creates a motivating atmosphere that encourages me to keep pushing through.\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f40ff0c602d27aae407c9190df8e782e.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11327,
+                "vanbanphanhoi": "Prefer to study at various places",
+                "fileupload": ""
+              },
+              {
+                "id": 11328,
+                "vanbanphanhoi": "Prefer to study in a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 11329,
+                "vanbanphanhoi": "Prefer to study with music",
+                "fileupload": ""
+              },
+              {
+                "id": 11330,
+                "vanbanphanhoi": "Prefer to study late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 11331,
+                "vanbanphanhoi": "Prefer to study with friends",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3630,
+            "vanbancauhoi": "Speaker D_",
+            "vanbangiaithich": "\u003cp\u003ePerson D: Finding the right space to study is crucial for effective learning. I usually end up in a \u003cstrong\u003equiet room at home or a secluded corner in the library\u003c/strong\u003e. It’s incredible how much I can absorb without distractions. This kind of environment really allows me to think deeply and connect with the material I’m learning.\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a9d6b6aaf995ba49c442d053832acdb6.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11332,
+                "vanbanphanhoi": "Prefer to study at various places",
+                "fileupload": ""
+              },
+              {
+                "id": 11335,
+                "vanbanphanhoi": "Prefer to study late at night",
+                "fileupload": ""
+              },
+              {
+                "id": 11336,
+                "vanbanphanhoi": "Prefer to study with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 12913,
+                "vanbanphanhoi": "Prefer to study in a quiet place",
+                "fileupload": ""
+              },
+              {
+                "id": 12914,
+                "vanbanphanhoi": "Prefer to study with music",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 638,
+        "title": "Đề 6 - LIstening C15",
+        "des": "\u003cp\u003e\u003cstrong\u003eTwo professional educators are talking about university. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/32e9628b9c5de47f8eee389efe55ec63.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3631,
+            "vanbancauhoi": "\u003cp\u003eThe internet makes education more accessible._\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11337,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 11338,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 11339,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3633,
+            "vanbancauhoi": "\u003cp\u003eSocial interactions are essential to university life._\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11342,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              },
+              {
+                "id": 13142,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 13143,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3634,
+            "vanbancauhoi": "\u003cp\u003eDiverse curriculum is not always a good thing._\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11345,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              },
+              {
+                "id": 13144,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13145,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3635,
+            "vanbancauhoi": "\u003cp\u003eCompetitions between universities should be encouraged._\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eWoman: That looks interesting. What are you up to?\u003cbr\u003eMan\u003c/strong\u003e: Oh, I just came across this interesting report about universities and how they’re evolving in the digital age. \u003cstrong\u003eIt talked about the impact of the internet, student experiences, and even competition between institutions\u003c/strong\u003e. It got me thinking, there’s so much to unpack when it comes to how education is changing, don’t you think?\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e: \u003cstrong\u003eYeah\u003c/strong\u003e, I’ve been reading about similar things lately. It’s amazing how different opinions can be on what makes a good university experience.  I think we can both agree that the internet has made education more accessible. It’s great how people from different backgrounds can now access high-quality education without being physically on campus.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: Absolutely, I agree with that. It’s a game-changer for those who can’t afford to relocate or attend in person.\u003cstrong\u003e But I still believe that social interactions are a crucial part of university life.\u003c/strong\u003e Online education can never truly replace the friendships, group work, and networking that happen in a physical setting.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e:\u003cstrong\u003e Hmm, I’m not so sure.\u003c/strong\u003e While social interactions can be important, I think online learning allows students to focus more on their studies without all the distractions of campus life. Not everyone benefits from that kind of environment.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: I see your point, but I think universities provide a unique space for students to develop their social skills alongside their academic ones. Another thing I’m really in favor of is encouraging competition between universities. When universities compete, it drives innovation and pushes them to offer better resources.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e:\u003cstrong\u003e I disagree there. Competition can sometimes lead to universities focusing too much on rankings and flashy features instead of the quality of education.\u003c/strong\u003e It can become more about marketing than genuine improvement.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eMan\u003c/strong\u003e: That’s a fair concern. But competition also forces universities to constantly improve, which can benefit students in the long run. What about the diversity in curricula? I’m curious where you stand on that.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman\u003c/strong\u003e: To be honest, I’m not a fan of having too many options in the curriculum. A diverse curriculum sounds good in theory, but it can overwhelm students and take away from the depth of learning in core subjects.\u003c/p\u003e\r\n\u003cstrong\u003eMan\u003c/strong\u003e: I can see that perspective, \u003cstrong\u003ebut I think having variety gives students the flexibility to explore different fields.\u003c/strong\u003e It can be especially beneficial for those who are unsure of their career paths.",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11348,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              },
+              {
+                "id": 13146,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 13147,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 639,
+        "title": "Đề 6 - Listening Câu 16",
+        "des": "\u003cp\u003e\u003cstrong\u003eListen to a lecturer talking about two big writers of history, which are Shakespares William and Louis Michael.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9a3a90876beedea44fcc2efc1ef73f79.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3636,
+            "vanbancauhoi": "\u003cp\u003eWhat was the lecturer\u0027s opinion about both authors’ past work?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eToday, I’d like to talk about two of the most influential writers in history: William Shakespeare and Louis Michael. Both of these figures have left a lasting mark on literature, yet,\u003cstrong\u003e interestingly, their contributions have often been overlooked by academics throughout various periods in history.\u003c/strong\u003e Shakespeare, of course, is a household name, known for his plays and sonnets that explore the depths of human emotion and experience. However, there was a time when scholars dismissed his works as \u0027too common,\u0027 underestimating their complexity. On the other hand, Louis Michael, whose works have reshaped modern storytelling, has yet to receive the recognition he truly deserves. His focus on social issues, mixed with poetic symbolism, is often underappreciated in academic circles.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhat these two writers have in common is that they both challenge readers to look beyond the surface. \u003cstrong\u003eIt is not always easy for the meanings in their works to be identified\u003c/strong\u003e. With Shakespeare, the language can be dense, making it difficult to grasp the deeper themes. Louis Michael, in contrast, weaves intricate layers of metaphor and allegory into his writing, requiring careful thought and analysis. Yet, once these hidden meanings are uncovered, the richness of their works becomes undeniable\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11349,
+                "vanbanphanhoi": "They have both been overlooked by ACADEMICS.",
+                "fileupload": ""
+              },
+              {
+                "id": 11350,
+                "vanbanphanhoi": "They make reference to each other\u0027s work.",
+                "fileupload": ""
+              },
+              {
+                "id": 11351,
+                "vanbanphanhoi": "One was less successful than the other.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3637,
+            "vanbancauhoi": "\u003cp\u003e What did the lecturer say about both authors?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11352,
+                "vanbanphanhoi": "Their reputation goes beyond their target audience.",
+                "fileupload": ""
+              },
+              {
+                "id": 11353,
+                "vanbanphanhoi": "They should have been more popular.",
+                "fileupload": ""
+              },
+              {
+                "id": 11354,
+                "vanbanphanhoi": "It is not always easy for the meanings to be IDENTIFIED.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 640,
+        "title": "Đề 6 - Listening câu 17",
+        "des": "\u003cp\u003e\u003cstrong\u003eListen to an educational expert talking about sport competition in school.\u003c/strong\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/image/2162a74dea182059fb1f12f42020cca5.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3638,
+            "vanbancauhoi": "\u003cp\u003eWhat is the expert’s opinion about sport competitions?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11356,
+                "vanbanphanhoi": "Provide school with external investments",
+                "fileupload": ""
+              },
+              {
+                "id": 11357,
+                "vanbanphanhoi": "Nature potential sportsmens for the country.",
+                "fileupload": ""
+              },
+              {
+                "id": 12947,
+                "vanbanphanhoi": "They can cause harmful effects",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3639,
+            "vanbancauhoi": "\u003cp\u003eWhat is the expert’s advice for schools?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eMany people question whether sports are beneficial or harmful to children’s development. This is not an easy question to answer. Sports are often understood as inherently competitive, which makes it debatable whether they are good or bad. However, when the competitive element is excluded, sports play a crucial role in children’s development. They provide opportunities for socializing and learning essential life skills that are not typically taught in the classroom, such as teamwork, communication, and resilience. \u003c/span\u003e\u003cstrong\u003eOn the other hand, competitive sports can have negative effects.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e By this, I mean that constantly comparing one child to another to determine who is better or worse can be harmful. Many students thrive in neutral, active environments where cooperation is encouraged, rather than in competitive settings.  \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIt is extremely important to recognize that \u003c/span\u003e\u003cstrong\u003esports are essential for children’s development, serving as a counterbalance to the academic focus of classrooms\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. Schools should view sports not as a means of fostering competition, but as a way to promote cooperation, physical wellness, and holistic growth.  \u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11358,
+                "vanbanphanhoi": "Should consider sports as a mandatory subject.",
+                "fileupload": ""
+              },
+              {
+                "id": 11359,
+                "vanbanphanhoi": "Provides them with a balance in their lives.",
+                "fileupload": ""
+              },
+              {
+                "id": 11360,
+                "vanbanphanhoi": "Keep students focus on academic subjects",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 537,
+      "title": "Đề 6- Reading part 1",
+      "des": "\u003cp\u003eChoose one word from the list for each gap. The first one is done for you \u003c/p\u003e\r\n\u003cp\u003eDear David, \u003c/p\u003e\r\n\u003cem\u003e I am writing to tell you about my (\u003c/em\u003e\u003cstrong\u003e\u003cem\u003estay,\u003c/em\u003e\u003c/strong\u003e\u003cem\u003e dinner, garden)\u003c/em\u003e\u003cbr\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eLove,\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAnna\u003c/span\u003e\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3054,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eI live\u003c/span\u003e\u003cstrong\u003e _ \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ethe city\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9367,
+              "vanbanphanhoi": "near",
+              "fileupload": ""
+            },
+            {
+              "id": 9368,
+              "vanbanphanhoi": "next",
+              "fileupload": ""
+            },
+            {
+              "id": 9369,
+              "vanbanphanhoi": "far",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3055,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eThe children is _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e to me\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9370,
+              "vanbanphanhoi": "noisy",
+              "fileupload": ""
+            },
+            {
+              "id": 9371,
+              "vanbanphanhoi": "shy",
+              "fileupload": ""
+            },
+            {
+              "id": 9372,
+              "vanbanphanhoi": "friendly",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3057,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eSegmus and Augenus _\u003c/span\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cspan xss\u003dremoved\u003espeaking English with me\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9373,
+              "vanbanphanhoi": "practise",
+              "fileupload": ""
+            },
+            {
+              "id": 9374,
+              "vanbanphanhoi": "forget",
+              "fileupload": ""
+            },
+            {
+              "id": 9375,
+              "vanbanphanhoi": "avoid",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3058,
+          "vanbancauhoi": "Sometimes I also _ books\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9376,
+              "vanbanphanhoi": "jump",
+              "fileupload": ""
+            },
+            {
+              "id": 9377,
+              "vanbanphanhoi": "read",
+              "fileupload": ""
+            },
+            {
+              "id": 9378,
+              "vanbanphanhoi": "cook",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3059,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eI don’t like the food here, _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e yesterday I ate out\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9379,
+              "vanbanphanhoi": "so",
+              "fileupload": ""
+            },
+            {
+              "id": 9380,
+              "vanbanphanhoi": "but",
+              "fileupload": ""
+            },
+            {
+              "id": 9381,
+              "vanbanphanhoi": "unless",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "title": "Đề 6 - Reading part 2",
+      "des": "\u003cspan xss\u003dremoved\u003eThe sentences below are about Buying a house. Put the sentences in the right order. The first sentence is done for you.\u003c/span\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3060,
+          "vanbancauhoi": "\u003cem\u003e When looking for a new home, it’s crucial to follow certain steps.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9382,
+              "vanbanphanhoi": "The first and most important step is to assess your personal needs carefully.",
+              "fileupload": ""
+            },
+            {
+              "id": 9383,
+              "vanbanphanhoi": "In order to choose the right place, you must research the neighborhood thoroughly.",
+              "fileupload": ""
+            },
+            {
+              "id": 9384,
+              "vanbanphanhoi": "The most important factor is the cost of the homes in that area.",
+              "fileupload": ""
+            },
+            {
+              "id": 9385,
+              "vanbanphanhoi": "Other factors to consider are the availability of schools, parks, and shops nearby.",
+              "fileupload": ""
+            },
+            {
+              "id": 9386,
+              "vanbanphanhoi": "Such requirements, of course, will greatly influence your overall satisfaction and happiness.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "title": "Đề 6 - Reading part 3",
+      "des": "\u003cp\u003eThe sentences below are from a biography. Order the sentences to make a story. The first sentence of the story is an example.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3061,
+          "vanbancauhoi": "\u003cp\u003e\u003cem\u003eCharlie Chaplin was born in England and grew up in London\u003c/em\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 9388,
+              "vanbanphanhoi": "He first performed at one of the city’s theater at the age of 5",
+              "fileupload": ""
+            },
+            {
+              "id": 9389,
+              "vanbanphanhoi": "Although he was very young, he was very popular on the stage",
+              "fileupload": ""
+            },
+            {
+              "id": 9390,
+              "vanbanphanhoi": "His popularity grew, he soon appeared in all the theaters of the country.",
+              "fileupload": ""
+            },
+            {
+              "id": 9391,
+              "vanbanphanhoi": "After being famous at home, he moved to America and joined a traveling theater group",
+              "fileupload": ""
+            },
+            {
+              "id": 9392,
+              "vanbanphanhoi": "He traveled widely with this group, then decided there to make it his home.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 540,
+      "title": "Đề 6 - Reading part 4",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eFour people express their opinions about the new station. Read their comments and answer the questions below.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eOriginally, the city planners promised money for building a hospital initially. I don\u0027t understand why they switched to construct a new station then. This new station won\u0027t solve the traffic jams, and it will require the city\u0027s budget every year. Therefore, we won\u0027t have money left to build a hospital while health should be a priority, I believe it\u0027s better to invest in health services instead.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe new station will be in the residential area, close to the hospital and university. We already have buses for getting around, and even though they might be slow sometimes, that\u0027s not a reason for being late. I always go to work on time, and I think everyone should work on their personal schedule. People often blame traffic for being late, but I manage to avoid that.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI take the train to work every day, and I am tired of the overcrowded trains. I believe investing in a new station is worthwhile, as it could enhance the transportation system and alleviate congestion at the current station. We should consider placing the new station in densely populated residential areas, as this would improve train travel and help reduce crowding.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe city planners say that investing in a new station may not be necessary. Both the current station and the bus services appear to work well. Although I don\u0027t use trains regularly, I have found the service to be satisfactory whenever I do. The existing facilities are adequate, and I don\u0027t see a pressing need to spend money on a new station at this time.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3066,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that better medical facilities are needed?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9396,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9398,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9400,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9401,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3067,
+          "vanbancauhoi": "Who thinks that the bus is too busy?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9403,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9404,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9405,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9406,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3068,
+          "vanbancauhoi": "Who thinks that people should plan their journey better?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9410,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9411,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9412,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9413,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3070,
+          "vanbancauhoi": "Who thinks that the station will cost too much to build?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9414,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9415,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9416,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9417,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3072,
+          "vanbancauhoi": "Who thinks that the bus has a good service?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9421,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9422,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9423,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9424,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3074,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that the station will improve train travel?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9425,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9426,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9427,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9428,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3076,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks that the transport doesn’t need to be improved?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 9432,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 9433,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 9434,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 9435,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "title": "Đề 6 - Reading part 5",
+      "des": "\u003cp\u003eRead the text. Match the headings to the paragraphs. There is one heading that you will not use. \u003c/p\u003e\r\n\u003cp xss\u003dremoved\u003e\u003cstrong\u003eRenting a Hotel as a Home\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3079,
+          "vanbancauhoi": "1._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn today\u0027s world, many individuals are opting to live in hotels because it is more affordable than renting a house. The cost of renting a hotel covers all expenses, including water, electricity and even meals, often surpassing what traditional homes offer. Moreover, residents have the opportunity to negotiate long-term stays with hotel managers, making hotel living more cost-effective compared to renting a house. \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13073,
+              "vanbanphanhoi": "The Impact of Losing Freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 13074,
+              "vanbanphanhoi": "The Price of Convenience is High",
+              "fileupload": ""
+            },
+            {
+              "id": 13075,
+              "vanbanphanhoi": "The Challenges that Come with a New Perspective",
+              "fileupload": ""
+            },
+            {
+              "id": 13076,
+              "vanbanphanhoi": "The Benefits of Living Less",
+              "fileupload": ""
+            },
+            {
+              "id": 13077,
+              "vanbanphanhoi": "Competitive Business",
+              "fileupload": ""
+            },
+            {
+              "id": 13078,
+              "vanbanphanhoi": "A Financial Viable Solution",
+              "fileupload": ""
+            },
+            {
+              "id": 13079,
+              "vanbanphanhoi": "The Importance of Planning in Advance",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3080,
+          "vanbancauhoi": "2. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWhile it may seem convenient to have meals readily available with private chefs in hotel restaurants, there are potential downsides to consider. Reliance on outside food options can impact health. Hotel meals often prioritize convenience over nutrition, which can lead to an unhealthy diet. This, in turn, may result in weight gain and nutrient deficiencies, leading to various health issues. As a result, you can have suffered from medical bills in the long term - if you use the food in the restaurant cooked by chief  \u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13080,
+              "vanbanphanhoi": "The Impact of Losing Freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 13081,
+              "vanbanphanhoi": "The Price of Convenience is High",
+              "fileupload": ""
+            },
+            {
+              "id": 13082,
+              "vanbanphanhoi": "The Challenges that Come with a New Perspective",
+              "fileupload": ""
+            },
+            {
+              "id": 13083,
+              "vanbanphanhoi": "The Benefits of Living Less",
+              "fileupload": ""
+            },
+            {
+              "id": 13084,
+              "vanbanphanhoi": "Competitive Business",
+              "fileupload": ""
+            },
+            {
+              "id": 13085,
+              "vanbanphanhoi": "A Financial Viable Solution",
+              "fileupload": ""
+            },
+            {
+              "id": 13086,
+              "vanbanphanhoi": "The Importance of Planning in Advance",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3081,
+          "vanbancauhoi": "3._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eMoving to a hotel for an extended period requires careful planning and preparation. It\u0027s not a decision that can be made overnight. Individuals need to consider what belongings to bring, how to transport them, and how to organize their new living space. It\u0027s important to prioritize essential items and leave behind what is not necessary. By planning ahead, individuals can ensure a smooth transition to hotel living, avoiding unnecessary stress and disruptions.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13087,
+              "vanbanphanhoi": "The Impact of Losing Freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 13088,
+              "vanbanphanhoi": "The Price of Convenience is High",
+              "fileupload": ""
+            },
+            {
+              "id": 13089,
+              "vanbanphanhoi": "The Challenges that Come with a New Perspective",
+              "fileupload": ""
+            },
+            {
+              "id": 13090,
+              "vanbanphanhoi": "The Benefits of Living Less",
+              "fileupload": ""
+            },
+            {
+              "id": 13091,
+              "vanbanphanhoi": "Competitive Business",
+              "fileupload": ""
+            },
+            {
+              "id": 13092,
+              "vanbanphanhoi": "A Financial Viable Solution",
+              "fileupload": ""
+            },
+            {
+              "id": 13093,
+              "vanbanphanhoi": "The Importance of Planning in Advance",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3083,
+          "vanbancauhoi": "4._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eLiving in a hotel comes with certain rules and regulations that residents must follow. They have to adapt to the hotel\u0027s policies and accommodate different lifestyles of fellow residents. This can sometimes mean compromising personal preferences to maintain harmony within the hotel environment. While there may be a loss of certain freedoms compared to living in a house, the trade-off is the convenience and services provided by the hotel.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13094,
+              "vanbanphanhoi": "The Impact of Losing Freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 13095,
+              "vanbanphanhoi": "The Price of Convenience is High",
+              "fileupload": ""
+            },
+            {
+              "id": 13096,
+              "vanbanphanhoi": "The Challenges that Come with a New Perspective",
+              "fileupload": ""
+            },
+            {
+              "id": 13097,
+              "vanbanphanhoi": "The Benefits of Living Less",
+              "fileupload": ""
+            },
+            {
+              "id": 13098,
+              "vanbanphanhoi": "Competitive Business",
+              "fileupload": ""
+            },
+            {
+              "id": 13099,
+              "vanbanphanhoi": "A Financial Viable Solution",
+              "fileupload": ""
+            },
+            {
+              "id": 13100,
+              "vanbanphanhoi": "The Importance of Planning in Advance",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3084,
+          "vanbancauhoi": "5._\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eChoosing to live in a hotel instead of renting a house often means downsizing and living with fewer possessions. This can bring various benefits, such as reduced clutter, easier maintenance, and a simplified lifestyle. Living with less can also lead to greater flexibility and mobility, as individuals are not tied down to a specific location or burdened with extensive belongings. Embracing a minimalist approach can enhance a sense of freedom and offer a more streamlined living experience.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13101,
+              "vanbanphanhoi": "The Impact of Losing Freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 13102,
+              "vanbanphanhoi": "The Price of Convenience is High",
+              "fileupload": ""
+            },
+            {
+              "id": 13103,
+              "vanbanphanhoi": "The Challenges that Come with a New Perspective",
+              "fileupload": ""
+            },
+            {
+              "id": 13104,
+              "vanbanphanhoi": "The Benefits of Living Less",
+              "fileupload": ""
+            },
+            {
+              "id": 13105,
+              "vanbanphanhoi": "Competitive Business",
+              "fileupload": ""
+            },
+            {
+              "id": 13106,
+              "vanbanphanhoi": "A Financial Viable Solution",
+              "fileupload": ""
+            },
+            {
+              "id": 13107,
+              "vanbanphanhoi": "The Importance of Planning in Advance",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3086,
+          "vanbancauhoi": "6. _\u0026nbsp;\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAdjusting to hotel living can be tough, but it brings fresh outlooks. Living with less in a smaller space allows residents to focus on experiences instead of stuff, leading to a simpler and more flexible lifestyle. Plus, being in a hotel exposes people to different cultures and diverse individuals, broadening their minds and promoting openness. This change in perspective encourages personal growth, adaptability, and a deeper appreciation for the transient nature of life.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13108,
+              "vanbanphanhoi": "The Impact of Losing Freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 13109,
+              "vanbanphanhoi": "The Price of Convenience is High",
+              "fileupload": ""
+            },
+            {
+              "id": 13110,
+              "vanbanphanhoi": "The Challenges that Come with a New Perspective",
+              "fileupload": ""
+            },
+            {
+              "id": 13111,
+              "vanbanphanhoi": "The Benefits of Living Less",
+              "fileupload": ""
+            },
+            {
+              "id": 13112,
+              "vanbanphanhoi": "Competitive Business",
+              "fileupload": ""
+            },
+            {
+              "id": 13113,
+              "vanbanphanhoi": "A Financial Viable Solution",
+              "fileupload": ""
+            },
+            {
+              "id": 13114,
+              "vanbanphanhoi": "The Importance of Planning in Advance",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3088,
+          "vanbancauhoi": "7. _\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAs the trend of living in hotels becomes increasingly popular, the hotel industry faces growing competition. Hotels must continually enhance their offerings and services to attract guests and secure their position in the market. The future of hotel living is predicted to be a competitive arena, as establishments strive to captivate customers and meet their evolving needs and preferences. This competition benefits consumers, as it fosters innovation and ensures a diverse range of hotel options to choose from.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 13115,
+              "vanbanphanhoi": "The Impact of Losing Freedom",
+              "fileupload": ""
+            },
+            {
+              "id": 13116,
+              "vanbanphanhoi": "The Price of Convenience is High",
+              "fileupload": ""
+            },
+            {
+              "id": 13117,
+              "vanbanphanhoi": "The Challenges that Come with a New Perspective",
+              "fileupload": ""
+            },
+            {
+              "id": 13118,
+              "vanbanphanhoi": "The Benefits of Living Less",
+              "fileupload": ""
+            },
+            {
+              "id": 13119,
+              "vanbanphanhoi": "Competitive Business",
+              "fileupload": ""
+            },
+            {
+              "id": 13120,
+              "vanbanphanhoi": "A Financial Viable Solution",
+              "fileupload": ""
+            },
+            {
+              "id": 13121,
+              "vanbanphanhoi": "The Importance of Planning in Advance",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 547,
+      "title": "Đề 6- Speaking p1",
+      "des": "\u003cp\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/p\u003e\r\n\u003cp\u003eBegin speaking when you hear this sound.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5e7550b611463f7cff724e1d4eb23052.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3101,
+          "vanbancauhoi": "What is the best way to travel in your country?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eIf you want to travel around my country, I recommend you to travel by motorbike. Motorbikes are small, fast and can go anywhere, any region in my country. Besides, you can watch the beautiful views on the way you are traveling too. That\u0027s all I want to share and thank you for listening\u003c/p\u003e\r\n\u003cp\u003e\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eThe best way to travel around my country is by bus or train. Buses are cheap and easy to use. Trains are a good way to travel long distances. Some people also like to ride motorbikes to get around quickly.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/874ec61e576b575ee9009f9ac9354b42.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 9576,
+              "vanbanphanhoi": "",
+              "fileupload": ""
+            },
+            {
+              "id": 11301,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1f385522874045c6125f14ce03ec2950.mp3"
+            },
+            {
+              "id": 11313,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/42e54f8fa78b79ea4cbb8a1d4f598726.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3103,
+          "vanbancauhoi": "Please tell me about your journey here today",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1:\u003c/strong\u003e I have my own bike so definitely I drove here. I woke up at 8 o’clock, brushed my teeth, washed my face, and got ready. On the way, I stopped by a local food stall to have a quick breakfast. I also got a cup of coffee to keep myself awake during the test.\u003c/p\u003e\r\n\u003cp\u003e\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eTo get here, I left my house early. I took the bus to the city center. After that, I walked for about five minutes to reach the building. I used the stairs to come up to this room, and now I’m ready for the exam.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5e67020d93af9579413948c934e17953.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11302,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f2fb929b33fd4b7680592b5175f43c72.mp3"
+            },
+            {
+              "id": 11303,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7a4847ca2970c3db48356d02d2fbdae7.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3104,
+          "vanbancauhoi": "What do you like to do with your friends?",
+          "vanbangiaithich": "\u003cstrong\u003eVersion 1: \u003c/strong\u003e\u003cbr\u003eWhen I’m with my friends, we enjoy a variety of activities. We often hang out at cafés, play sports, or watch movies together. I also like going on weekend trips with them to explore new places and try different kinds of food. It’s always fun, and we get to create great memories.\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eWhen I’m with my friends, we usually play games together. Sometimes, we play football or basketball in the park. Other times, we stay indoors and play video games. We also like to talk and laugh a lot.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dc4d4bb6b1450e81dab7f8a053221a7c.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 9577,
+              "vanbanphanhoi": "",
+              "fileupload": ""
+            },
+            {
+              "id": 9580,
+              "vanbanphanhoi": "",
+              "fileupload": ""
+            },
+            {
+              "id": 11314,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/51fdec29b8837801059a4d04216c1c2f.mp3"
+            },
+            {
+              "id": 11315,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9aa0859d6b8e5af5fb4c6160846e4142.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "title": "Đề 6- Speaking p2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1fd2baa6c7f574a46fe5d8eb89e9eb0b.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3106,
+          "vanbancauhoi": "Describe this picture\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/42f260087dc3f6a24b9d1b58b260ac4f.png\"\u003e\u003cimg\u003e",
+          "vanbangiaithich": "\u003cp\u003eIn the picture, I can see a man, a woman, and two children sitting on a sofa. \u003c/p\u003e\r\n\u003cp\u003eIn the front, the two kids are sitting beside the adults, all of them looking at a computer screen and smiling. \u003c/p\u003e\r\n\u003cp\u003eIn the background, there’s a white wall and a brown sofa, suggesting they’re in the living room of a house.\u003c/p\u003e\r\n\u003cp\u003eIt’s clear that they are a family of four with mom, dad, and their two children. \u003c/p\u003e\r\n\u003cp\u003eI imagine they’re watching a film on the laptop, possibly on a relaxing weekend afternoon. It seems like they’ve decided to enjoy some quality family time together by watching movies.\u003c/p\u003e\r\n\u003cp\u003eOverall, the picture is heartwarming, and it reminds me of my own small family.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/d5bc03ba1d0102e4ac1844d7a9bd8eca.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 9578,
+              "vanbanphanhoi": "",
+              "fileupload": ""
+            },
+            {
+              "id": 11316,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b2c36b13d4298127274b93326107aed8.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3623,
+          "vanbancauhoi": "What is your experience of using a computer?",
+          "vanbangiaithich": "I\u0026rsquo;ve been using computers for many years, both for work and personal use. At work, I use it for tasks like sending emails, creating documents, and managing data. In my free time, I enjoy using it for entertainment, like watching videos and playing games, as well as learning new things online. Overall, my experience with computers has been positive and rewarding.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/56d98f1fc43153d1904f6d89268dd216.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11528,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2037348f7591338dc753d4cf26f52b92.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3624,
+          "vanbancauhoi": "Technology makes our life easier. Do you agree or disagree?",
+          "vanbangiaithich": "\u003cp\u003eI completely agree that technology makes our lives easier. It helps us communicate more effectively, whether through instant messaging or video calls. Technology also allows us to access information quickly and complete tasks more efficiently. For example, online banking saves time compared to going to a physical bank, and smart home devices can make daily chores simpler.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/97fe02abba4081d3713eeea48411bfec.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11531,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/a770943fafbc598276e0288aef6e07d8.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "title": "Đề 6- Speaking p3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6655f6c6f50dba39c10cd351dd5f775f.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3625,
+          "vanbancauhoi": "Describe 2 pictures\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/e160fe46f854c1602636d03401e9781a.png\"\u003e",
+          "vanbangiaithich": "\u003cp\u003eBoth pictures are about sports,\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eIn terms of the first picture, \u003c/strong\u003e I can see two football teams playing against each other on a sunny day. One team is wearing white uniforms, while the other is in red. They are playing on a green grass field. The weather is clear, making it an ideal day for playing sports outdoors.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eTurning the second picture, \u003c/strong\u003ethere is a young man doing a high jump. He’s wearing red sportswear and seems to be in the middle of the action. His form looks strong, and he appears very focused on his jump.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eRegarding the differences, \u003c/strong\u003ewhile in the first picture, the focus is on a football match between two teams playing outdoors on a sunny day with no spectators, in the second picture, it highlights an individual athlete performing a high jump, showcasing personal skill and determination.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/5d3ba6fc340a53d5960dcdabfb62a55b.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11532,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2318d2b670b5826523242aca986c0a98.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3626,
+          "vanbancauhoi": "What are the attractions of these sports?",
+          "vanbangiaithich": "\u003cp\u003eEach sport has its own attractions.\u003c/p\u003e\r\n\u003cp\u003eFor football, it is exciting because of teamwork and competition; fans love the atmosphere, whether in a stadium or watching on TV. It brings people together and creates a sense of community. \u003c/p\u003e\r\n\u003cp\u003eIn contrast, high jump focuses on individual achievement and skill. It challenges athletes to clear the bar, which requires strength and technique. \u003c/p\u003e\r\n\u003cp\u003eBoth sports allow players to push their limits and achieve personal goals, making them appealing to fans and athletes alike.\u003c/p\u003e\r\n\u003cp\u003eFor me, I do not like playing sports because I don’t have time for this. Instead, I love to read books.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f31a40a1fe1ba6fbd78344f365e0044d.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11533,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/dcf30edf769114e981fccff767f7b428.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3627,
+          "vanbancauhoi": "Which key factors can influence the popularity of sports?",
+          "vanbangiaithich": "\u003cp\u003eThere are several key factors that can influence the popularity of sports. First, media coverage is crucial, in which the more a sport is shown on TV, the more fans it attracts. Second, if a sport is easy to join, more people will participate. Lastly, it really depends on the \u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b56d49141505867cd567da98380d34d2.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11534,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/36bf28b612976c4d9d7c2809f613ab70.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "title": "Đề 6 - Speaking p4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/39dfb0ac1ee0caf729965e60430a247c.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3628,
+          "vanbancauhoi": "\u003cp\u003eDescribe a time you saw an impressive work of art.\u003c/p\u003e\r\n\u003cp\u003eHow did you feel?\u003c/p\u003e\r\n\u003cp\u003eIs it impossible to teach children to be creative? Do you agree?\u003c/p\u003e",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eNow, I am going to answer the three questions that you gave me. \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eDescribe a time you saw an impressive work of art.\u003c/p\u003e\r\n\u003cp\u003eHow did you feel?\u003c/p\u003e\r\n\u003cp\u003eIs it impossible to teach children to be creative? Do you agree?\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eRegarding the first question,\u003c/strong\u003e\u003cstrong\u003e let me \u003c/strong\u003etell you about a time I saw an impressive work of art a\u003cstrong\u003end it was \u003c/strong\u003e\u003cstrong\u003ewhen I traveled to Danang City.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eDa Nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive for me at that time.\u003c/p\u003e\r\n\u003cp\u003eSo in Danang I did a number of things, first of all, I did some sightseeing in the mountains and I had a beautiful view of the city below.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eDuring the trip, I saw the picture “The Lady by the Lilies” at the Museum and I was impressed. The picture is so beautiful.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eTurning to the second question\u003c/strong\u003e, I felt happy when I saw an impressive work of art because it was beautiful.\u003c/p\u003e\r\n\u003cstrong\u003eAs for the final question\u003c/strong\u003e, I agree that it is possible to teach children creativity. First, students are smart. Second, students are quick learners.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4e403515c6f6e38139514a9622ed3695.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11538,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/086fcb19003537be3ccb1735aa1e825b.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 529,
+      "title": "Đề 6 - Writing Part 1",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou want to join a Television club. You have 5 messages from a member of the club. Write short answers (1-5 words) to each message.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3021,
+          "vanbancauhoi": "\u003cp\u003eWhat are you wearing today?  \u003c/p\u003e",
+          "vanbangiaithich": "I\u0026rsquo;m wearing casual clothes.",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9354,
+              "vanbanphanhoi": "I’m wearing casual clothes.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3022,
+          "vanbancauhoi": "\u003cp\u003eWhat is your favorite kind of music? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9355,
+              "vanbanphanhoi": "I’m  keen on jazz.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3024,
+          "vanbancauhoi": "\u003cp\u003eWhich sport is the most popular in your country? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9356,
+              "vanbanphanhoi": "It’s badminton.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3030,
+          "vanbancauhoi": "What is your favorite animal?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9357,
+              "vanbanphanhoi": "I like dogs.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3805,
+          "vanbancauhoi": "\u003cp\u003eWhat is the weather like today?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 12021,
+              "vanbanphanhoi": "It\u0027s hot.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "title": "Đề 6 - Writing Part 2",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou are a new member of a Television club. Fill in the form. Write in sentences. Use 20 – 30 words.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3042,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWhen do you watch TV? What do you usually watch?\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9361,
+              "vanbanphanhoi": "I usually watch TV in the evenings after work or school, which is around 7 or 8 PM. I prefer watching programs such as documentaries, news, and occasionally, some drama series.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "title": "Đề 6 - Writing Part 3",
+      "des": "\u003cp\u003eYou are talking to other members of the club in the chat room. Talk to them using sentences. Use 30 – 40 words per answer. \u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3043,
+          "vanbancauhoi": "\u003cp\u003eA: I usually sit on a comfortable chair and eat something while watching TV. How do you relax when watching TV?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9362,
+              "vanbanphanhoi": "When I watch TV, I like to relax by lying on the couch with a blanket and a warm drink, like tea or hot chocolate. It helps me feel comfortable and fully enjoy the show.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3045,
+          "vanbancauhoi": "B: Which do you prefer: watch alone or with others?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9363,
+              "vanbanphanhoi": "I usually prefer watching TV alone because it allows me to focus more on the program without distractions. However, I also enjoy watching with friends or family when it’s a fun movie or an exciting sports event.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3046,
+          "vanbancauhoi": "\u003cp\u003eC: Children shouldn’t watch too much TV. Do you think so?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9364,
+              "vanbanphanhoi": "I agree that children shouldn’t watch too much TV because it can affect their physical health as well as social skills. Instead, they should balance their screen time with physical development activities such as playing outdoor games with their friends.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "title": "Đề 6 - Writing Part 4",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eYou are a member of the Television club. You received this email from the club’s manager.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eDear member,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eThe Television Club is going to hold an annual meeting. \u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eRecommend when and where to hold.\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eThe manager,\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3047,
+          "vanbancauhoi": "\u003cp\u003e\u003cem\u003eWrite an email to your friend, who is also a member of the group. Tell your friend about how you feel about the situation and what should be done. 50 words.\u003c/em\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9365,
+              "vanbanphanhoi": "Hi Kevin,\r\nHow are things? I hope that you and your family are still doing well.\r\nI just received an email about the Television Club’s annual meeting, and the manager wants to ask our opinions on when and where the meeting should be held. I’m not sure about the best time and place for it. I think we should suggest holding it on a weekend in a large hall to ensure everyone can attend.\r\nWhat do you think? Do you have any ideas about this?\r\nWrite soon,\r\nHenry.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3048,
+          "vanbancauhoi": "\u003cp\u003e\u003cem\u003eWrite an email to the manager of the club. Tell the manager about your opinion. 120 – 150 words.\u003c/em\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9366,
+              "vanbanphanhoi": "Dear Club Manager,\r\nI hope this email finds you well.\r\nMy name is Henry, and I have been a member of our club for 2 months. \r\nI am writing in response to your latest email regarding the annual meeting.\r\nAccording to the news, our club is going to hold an annual meeting. All members are welcome to give suggestions on the time and the location of the meeting.\r\nI am delighted to hear this and would love to venture some ideas. Firstly, I think we should hold the meeting on a weekend, perhaps on a Saturday afternoon. This time would allow more members to attend, especially those who have busy work schedules during the week. Besides, it is advisable that we choose a venue that is centrally located, like the city community hall. This will make it more convenient for members coming from different areas to participate. By implementing these changes, we can ensure better attendance and engagement at the meeting, enhancing the overall experience for everyone involved.\r\nAbove are all of my suggestions. Thank you for your time and consideration.\r\nBest regards,\r\nHenry.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

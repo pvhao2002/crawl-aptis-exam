@@ -1,0 +1,1937 @@
+{
+  "listen": {
+    "singles": [
+      {
+        "id": 3328,
+        "vanbancauhoi": "A woman is talking about her family\u0026rsquo;s weekend. What does the family do most weekends?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b5b38814f9c285841b9882a7a6dbb474.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10180,
+            "vanbanphanhoi": "Goes for a walk",
+            "fileupload": ""
+          },
+          {
+            "id": 10181,
+            "vanbanphanhoi": "Goes picnic",
+            "fileupload": ""
+          },
+          {
+            "id": 10182,
+            "vanbanphanhoi": "Goes to the beach",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3329,
+        "vanbancauhoi": "A man is talking to a shop assistant. What does the man buy in the shop?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/70faa46ed05e4c537c98c41623163fc5.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10183,
+            "vanbanphanhoi": "Mugs",
+            "fileupload": ""
+          },
+          {
+            "id": 10184,
+            "vanbanphanhoi": "Candles",
+            "fileupload": ""
+          },
+          {
+            "id": 10185,
+            "vanbanphanhoi": "Clothes",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3330,
+        "vanbancauhoi": "A man is talking on the phone. What did the man lose?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4ac724802a1ff4fca3b2b8e55a53d73e.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10186,
+            "vanbanphanhoi": "Jacket",
+            "fileupload": ""
+          },
+          {
+            "id": 10187,
+            "vanbanphanhoi": "Glasses",
+            "fileupload": ""
+          },
+          {
+            "id": 10188,
+            "vanbanphanhoi": "Books",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3331,
+        "vanbancauhoi": "Jack is phoning his mom. What does Jack need to buy for his sister?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bc76780c03fadecbc547c806f84d7d61.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10189,
+            "vanbanphanhoi": "Chocolates",
+            "fileupload": ""
+          },
+          {
+            "id": 10190,
+            "vanbanphanhoi": "Milk",
+            "fileupload": ""
+          },
+          {
+            "id": 10191,
+            "vanbanphanhoi": "Fruit",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3333,
+        "vanbancauhoi": "Anna is calling her friend. Where will they meet?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/4edf9f1a5842c5de6fe2de5df3a6241d.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10195,
+            "vanbanphanhoi": "At the marketplace",
+            "fileupload": ""
+          },
+          {
+            "id": 10196,
+            "vanbanphanhoi": "At the mall",
+            "fileupload": ""
+          },
+          {
+            "id": 10197,
+            "vanbanphanhoi": "At the park",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3332,
+        "vanbancauhoi": "Lucy is calling her brother. What does the brother have to drink?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b329496ac149419fc73bc74c03074fb2.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10192,
+            "vanbanphanhoi": "Milk",
+            "fileupload": ""
+          },
+          {
+            "id": 10193,
+            "vanbanphanhoi": "Medicine",
+            "fileupload": ""
+          },
+          {
+            "id": 10194,
+            "vanbanphanhoi": "Water",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3334,
+        "vanbancauhoi": "Listen to an auction man talking about a cabinet. Which part of the cabinet is original?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/1253265d2ce7427f1f4f838971af321c.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10198,
+            "vanbanphanhoi": "The drawer",
+            "fileupload": ""
+          },
+          {
+            "id": 10199,
+            "vanbanphanhoi": "The doors",
+            "fileupload": ""
+          },
+          {
+            "id": 10200,
+            "vanbanphanhoi": "The handles",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3335,
+        "vanbancauhoi": "Listen to a voice message. How does Even feel?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/674668431d902be62eab8c544422fdac.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10201,
+            "vanbanphanhoi": "Sick",
+            "fileupload": ""
+          },
+          {
+            "id": 10202,
+            "vanbanphanhoi": "Happy",
+            "fileupload": ""
+          },
+          {
+            "id": 10203,
+            "vanbanphanhoi": "Tired",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3336,
+        "vanbancauhoi": "Two friends are talking about their trip. What will the weather be like?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6f7e996eba131432d9a7cc6ee65d39ac.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10204,
+            "vanbanphanhoi": "Cold and wet",
+            "fileupload": ""
+          },
+          {
+            "id": 10205,
+            "vanbanphanhoi": "Hot and sunny",
+            "fileupload": ""
+          },
+          {
+            "id": 10206,
+            "vanbanphanhoi": "Warm and dry",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3337,
+        "vanbancauhoi": "A man is talking about his holiday. How is he going to travel to the city?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/05cb4ca2b4a038ff3840c5958a670fd1.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10207,
+            "vanbanphanhoi": "by car",
+            "fileupload": ""
+          },
+          {
+            "id": 12907,
+            "vanbanphanhoi": "by train",
+            "fileupload": ""
+          },
+          {
+            "id": 12908,
+            "vanbanphanhoi": "by bus",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3338,
+        "vanbancauhoi": "Listen to a nutrition expert. What time is the best for children to eat fruit?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e01ae8e1ff2a38b029c301c5136ecf6a.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10210,
+            "vanbanphanhoi": "In the evening",
+            "fileupload": ""
+          },
+          {
+            "id": 10211,
+            "vanbanphanhoi": "In the afternoon",
+            "fileupload": ""
+          },
+          {
+            "id": 10212,
+            "vanbanphanhoi": "In the morning",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3339,
+        "vanbancauhoi": "Greg is talking about a working day in his life. How does he go to work?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/46166d293081bf54949c3f2f60ec8fed.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10213,
+            "vanbanphanhoi": "By bus",
+            "fileupload": ""
+          },
+          {
+            "id": 10214,
+            "vanbanphanhoi": "By bike",
+            "fileupload": ""
+          },
+          {
+            "id": 10215,
+            "vanbanphanhoi": "On foot",
+            "fileupload": ""
+          }
+        ]
+      },
+      {
+        "id": 3340,
+        "vanbancauhoi": "Listen to a tour guide. Where is the office located?",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c6bb356bbbfcd4333c3a6b4587856493.mp3",
+        "code": "TN",
+        "ma": "NGHE",
+        "lstdapan": [
+          {
+            "id": 10216,
+            "vanbanphanhoi": "Next to the park",
+            "fileupload": ""
+          },
+          {
+            "id": 10217,
+            "vanbanphanhoi": "Opposite the hotel",
+            "fileupload": ""
+          },
+          {
+            "id": 10218,
+            "vanbanphanhoi": "Above a restaurant",
+            "fileupload": ""
+          }
+        ]
+      }
+    ],
+    "multiples": [
+      {
+        "id": 667,
+        "title": "Đề 7 - Listening C14",
+        "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eFour people are talking about their journey to work. Complete the sentences below.\u003c/span\u003e\u003c/p\u003e",
+        "des_cuoi": "",
+        "file": "",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3662,
+            "vanbancauhoi": "Speaker A _",
+            "vanbangiaithich": "\u003cp\u003e\"Mornings are actually my favorite time of day. \u003cstrong\u003eI get to catch up with my friends, laugh about silly things, and just share a moment before the real day starts. We’re out there together, moving through the city like it’s our own little world. \u003c/strong\u003eIt’s funny how just talking and walking can make you forget about everything else. Sometimes, we even take a longer route just to keep the conversation going. By the time we get to work, I’m already in a good mood, ready for whatever comes my way.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6f1edcc2ce61acce1e36716673e6bc11.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11477,
+                "vanbanphanhoi": "Go by bus",
+                "fileupload": ""
+              },
+              {
+                "id": 11478,
+                "vanbanphanhoi": "Go by foot",
+                "fileupload": ""
+              },
+              {
+                "id": 11479,
+                "vanbanphanhoi": "Walk with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 11480,
+                "vanbanphanhoi": "Drive car",
+                "fileupload": ""
+              },
+              {
+                "id": 11481,
+                "vanbanphanhoi": "Go by train",
+                "fileupload": ""
+              },
+              {
+                "id": 11482,
+                "vanbanphanhoi": "Walk alone",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3663,
+            "vanbancauhoi": "Speaker B _",
+            "vanbangiaithich": "\u003cp\u003e\"There’s something oddly comforting about my mornings. It’s like this in-between space where I’m not quite at home, not quite at work. \u003cstrong\u003eI hop on the bus, find a seat if I’m lucky, and just watch the world go by. You see all kinds of faces, each with their own story, each heading somewhere.\u003c/strong\u003e It’s not glamorous, but it’s my little escape—time to listen to my favorite songs or daydream out the window. By the time I step off, I’m ready to face whatever the day throws at me.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/b79b8a585dde0f0ac5fd8b1b2d69c958.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11483,
+                "vanbanphanhoi": "Go by bus",
+                "fileupload": ""
+              },
+              {
+                "id": 11484,
+                "vanbanphanhoi": "Go by foot",
+                "fileupload": ""
+              },
+              {
+                "id": 11485,
+                "vanbanphanhoi": "Walk with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 11486,
+                "vanbanphanhoi": "Drive car",
+                "fileupload": ""
+              },
+              {
+                "id": 11487,
+                "vanbanphanhoi": "Go by train",
+                "fileupload": ""
+              },
+              {
+                "id": 11488,
+                "vanbanphanhoi": "Walk alone",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3664,
+            "vanbancauhoi": "Speaker C_",
+            "vanbangiaithich": "\u003cp\u003e\"Mornings are quiet, and that’s how I like it. \u003cstrong\u003eIt’s just me, the fresh air, and the city slowly waking up. \u003c/strong\u003eI take my time, choosing the paths that are less crowded. I guess you could say it’s my way of getting ready for the day. There’s no rush, just the steady rhythm of my own footsteps. It’s my chance to breathe, to think, to just be by myself. By the time I reach work, I feel like I’ve had a small adventure all my own.\"\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2277b09a82462dbab7479c6a38344910.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11489,
+                "vanbanphanhoi": "Go by bus",
+                "fileupload": ""
+              },
+              {
+                "id": 11490,
+                "vanbanphanhoi": "Go by foot",
+                "fileupload": ""
+              },
+              {
+                "id": 11491,
+                "vanbanphanhoi": "Walk with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 11492,
+                "vanbanphanhoi": "Drive car",
+                "fileupload": ""
+              },
+              {
+                "id": 11493,
+                "vanbanphanhoi": "Go by train",
+                "fileupload": ""
+              },
+              {
+                "id": 11494,
+                "vanbanphanhoi": "Walk alone",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3665,
+            "vanbancauhoi": "Speaker D_",
+            "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003e\"\u003c/span\u003e\u003cstrong\u003eEvery morning, it’s just me, my car, and the open road.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e There’s a kind of freedom in it, you know? I get to decide my route, crank up my favorite tunes, and just go. Traffic can be a pain, sure, but it’s worth it for those moments when it’s just me and my thoughts. I like having that bit of control, especially before a busy day. Sometimes, I even take the scenic route, just to stretch out the time a bit. By the time I park, I’m in my zone, ready to take on whatever comes next.\"\u003c/span\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/189ec06ce44421110efbba179994e3e1.mp3",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 11495,
+                "vanbanphanhoi": "Go by bus",
+                "fileupload": ""
+              },
+              {
+                "id": 11496,
+                "vanbanphanhoi": "Go by foot",
+                "fileupload": ""
+              },
+              {
+                "id": 11497,
+                "vanbanphanhoi": "Walk with friends",
+                "fileupload": ""
+              },
+              {
+                "id": 11498,
+                "vanbanphanhoi": "Drive car",
+                "fileupload": ""
+              },
+              {
+                "id": 11499,
+                "vanbanphanhoi": "Go by train",
+                "fileupload": ""
+              },
+              {
+                "id": 11500,
+                "vanbanphanhoi": "Walk alone",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 668,
+        "title": "Đề 7 - Listening C15",
+        "des": "A man and a woman are talking about urban farming. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/image/d374154ba1552a7d653a94cebf5d3924.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3666,
+            "vanbancauhoi": "\u003cp\u003eLiving space is more important than farming space._\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12995,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              },
+              {
+                "id": 13130,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13131,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3667,
+            "vanbancauhoi": "Farming space is appealing._",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12998,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              },
+              {
+                "id": 13132,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 13133,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3668,
+            "vanbancauhoi": "Farming space will benefit the urban economy._",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 12942,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 12943,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 12944,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3669,
+            "vanbancauhoi": "Farming space is in need of more food._",
+            "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eWoman starts\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eWoman: Hey Carlos, have you read the article about urban farming?\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eMan: Urban farming? What exactly is it?\u003c/p\u003e\r\n\u003cp\u003eWoman: Well, it’s about growing food in urban areas, like on rooftops or unused spaces, to help address food supply issues in cities.\u003c/p\u003e\r\n\u003cp\u003eMan: You mean farming in cities? How could that even work? Cities are already overcrowded. There isn’t enough space for housing, let alone farming.\u003cstrong\u003e Urban farming will take up land that could be used for accommodation.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eWoman: I think it makes sense. More people from rural areas are moving to cities, and food has become a critical issue. It’s vital that we adapt over time.\u003c/p\u003e\r\n\u003cp\u003eMan: That’s exactly my point. Where are all these people supposed to live?\u003c/p\u003e\r\n\u003cp\u003eWoman: You don’t have to take \"urban farming\" literally. It’s not about large-scale farming right away. Small changes are necessary. Over time, we need to find ways to balance ecological and economic needs.\u003c/p\u003e\r\n\u003cp\u003eMan: Sure, I support green initiatives, but they need to be practical. How can this approach actually work?\u003c/p\u003e\r\n\u003cp\u003eWoman: Unused spaces that are too small for housing can be converted into farming areas. \u003cstrong\u003eIf done right, this could be both beneficial and visually attractive\u003c/strong\u003e, like turning them into green spaces or local parks.\u003c/p\u003e\r\n\u003cp\u003eMan: I still think this could have negative effects, especially on rural areas where traditional farmers might lose their jobs if urban farming takes over.\u003c/p\u003e\r\n\u003cp\u003eWoman: You should think of it as a supplement, not a replacement. For rural areas, producing vegetables closer to where they’re consumed can actually be beneficial.\u003cstrong\u003e It saves on transportation costs and uses resources more efficiently.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eMan: But this is mostly about food, right? I don’t think urban farming can solve the problem of scarcity.  Cities just can’t realistically support large-scale farming.\u003cstrong\u003eRural farming is still a more practical option.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003eWoman: \u003cstrong\u003eThat’s true, and I agree.\u003c/strong\u003e But changes need to happen. Sooner or later, urban farming will become a key trend for the future.\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "SEL",
+            "lstdapan": [
+              {
+                "id": 13002,
+                "vanbanphanhoi": "Man",
+                "fileupload": ""
+              },
+              {
+                "id": 13003,
+                "vanbanphanhoi": "Woman",
+                "fileupload": ""
+              },
+              {
+                "id": 13004,
+                "vanbanphanhoi": "Both",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 669,
+        "title": "Đề 7 - Listening C16",
+        "des": "Listen to a critic talking about a newly broadcasted TV series.",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f120a04fb1e40d7c9426737ff6188826.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3670,
+            "vanbancauhoi": "\u003cp\u003eWhat happened to the TV series?\u003c/p\u003e",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11513,
+                "vanbanphanhoi": "It didn’t receive enough investment at the early stage.",
+                "fileupload": ""
+              },
+              {
+                "id": 11514,
+                "vanbanphanhoi": "It was overlooked by critics.",
+                "fileupload": ""
+              },
+              {
+                "id": 11516,
+                "vanbanphanhoi": "It caught the audience’s attention from the start.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3671,
+            "vanbancauhoi": "\u003cp\u003eAccording to the expert, what is the series’ potential?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eA famous TV series called \u003cem\u003eMystery City\u003c/em\u003e was recently broadcasted, \u003cstrong\u003eand it caught the audience’s attention from the start\u003c/strong\u003e. The first episode was filled with suspense and surprising twists that left viewers eager for more. The engaging storyline and strong characters made it easy for people to connect with the show, which quickly became a topic of conversation. Social media buzzed with reactions and theories, making it a true phenomenon.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBeyond just entertaining, \u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eMystery City\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e has also helped its network reach new customers\u003c/strong\u003e. The show attracted a diverse audience, including younger viewers who might not have watched traditional TV before. This is important for marketing because it shows how a single series can expand a network’s reach and boost subscriptions. With clever promotions and partnerships, the series brought in new fans who may now explore other shows on the platform.\u003c/p\u003e\r\nOverall, \u003cem\u003eMystery City\u003c/em\u003e is not just a popular series; it’s a powerful tool for building a community around a brand. The combination of captivating storytelling and strategic marketing has made it a success that other networks will likely try to replicate. As the series continues, it will be interesting to see how it evolves and what new customers it brings in!",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11518,
+                "vanbanphanhoi": "New seasons will be produced due to great demand.",
+                "fileupload": ""
+              },
+              {
+                "id": 11519,
+                "vanbanphanhoi": "It inspires young filmmakers to follow a new movie-making style.",
+                "fileupload": ""
+              },
+              {
+                "id": 13013,
+                "vanbanphanhoi": "Series are damaged by overexposure.",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 670,
+        "title": "Đề 7 - Listening C17",
+        "des": "Listen to an advertising expert talking about the advertising industry.",
+        "des_cuoi": "",
+        "file": "https://luyenthi.aptistests.vn/api/source/image/efa6f71a2d896d365f2ae24556453bcd.mp3",
+        "ma": "NGHE",
+        "lstCauHoi": [
+          {
+            "id": 3672,
+            "vanbancauhoi": "What does the expert say about advertising?",
+            "vanbangiaithich": "",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 12969,
+                "vanbanphanhoi": "It helps to reach new customers.",
+                "fileupload": ""
+              },
+              {
+                "id": 12970,
+                "vanbanphanhoi": "Advertisements might sometimes be repetitive which is annoying.",
+                "fileupload": ""
+              },
+              {
+                "id": 12971,
+                "vanbanphanhoi": "Advertising costs the same amount of money to produce a movie.",
+                "fileupload": ""
+              }
+            ]
+          },
+          {
+            "id": 3673,
+            "vanbancauhoi": "\u003cp\u003eIn what way can advertising affect sports?\u003c/p\u003e",
+            "vanbangiaithich": "\u003cp\u003eThe once-every-four-years Champion League is back this year, and it\u0027s creating a wave of excitement among sports fans. This year promises to be more thrilling than ever, especially with a rising star defeating one of the top three teams from last year to advance to the knockout stage. As interest grows among sports fans, advertising plays a crucial role in maintaining the game\u0027s popularity.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eInnovative advertising strategies help brands expand their customer base to other countries, increasing their global reach\u003c/strong\u003e. However, not all commercial advertising activities are beneficial for sports fans. While advertisements may boost the game\u0027s visibility and attract new audiences, they can sometimes detract from the viewing experience, with interruptions or overly commercialized content. \u003cstrong\u003eIt’s important to strike a balance between promoting the sport and maintaining its integrity for true fans\u003c/strong\u003e.\u003c/p\u003e\r\n\u003cp\u003e\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e",
+            "des": "",
+            "file": "",
+            "code": "TN",
+            "lstdapan": [
+              {
+                "id": 11523,
+                "vanbanphanhoi": "They help to attract more fans.",
+                "fileupload": ""
+              },
+              {
+                "id": 11524,
+                "vanbanphanhoi": "They can boost ticket sales and sales of sports related items.",
+                "fileupload": ""
+              },
+              {
+                "id": 12968,
+                "vanbanphanhoi": "They are not always good for sport fans",
+                "fileupload": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "readings": [
+    {
+      "id": 662,
+      "title": "Đề 7 - Reading p1",
+      "des": "Choose one word from the list for each gap. The first one is done for you\u0026nbsp;\u003cbr\u003eHi James,\u003cbr\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eI (\u003c/span\u003e\u003cstrong\u003ework\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e/study/have)\u003c/span\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ein an office in town. \u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "\u003cp\u003eSee you soon,\u003c/p\u003e\r\n\u003cp\u003eAlwyn\u003c/p\u003e",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3641,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI start _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e in the morning at 7:00 a.m\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11364,
+              "vanbanphanhoi": "late",
+              "fileupload": ""
+            },
+            {
+              "id": 11365,
+              "vanbanphanhoi": "early",
+              "fileupload": ""
+            },
+            {
+              "id": 11366,
+              "vanbanphanhoi": "same",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3642,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI have _\u003c/span\u003e\u003cspan xss\u003dremoved\u003e at a cafe near the office.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11367,
+              "vanbanphanhoi": "dinner",
+              "fileupload": ""
+            },
+            {
+              "id": 11368,
+              "vanbanphanhoi": "food",
+              "fileupload": ""
+            },
+            {
+              "id": 11369,
+              "vanbanphanhoi": "lunch",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3643,
+          "vanbancauhoi": "\u003cp\u003eI _ the office at 5:00 p.m and go home\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11370,
+              "vanbanphanhoi": "touch",
+              "fileupload": ""
+            },
+            {
+              "id": 11371,
+              "vanbanphanhoi": "leave",
+              "fileupload": ""
+            },
+            {
+              "id": 11372,
+              "vanbanphanhoi": "wait",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3644,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI drive home in my new _.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11373,
+              "vanbanphanhoi": "car",
+              "fileupload": ""
+            },
+            {
+              "id": 11374,
+              "vanbanphanhoi": "house",
+              "fileupload": ""
+            },
+            {
+              "id": 11375,
+              "vanbanphanhoi": "bike",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3645,
+          "vanbancauhoi": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI go to sleep when I am _.\u003c/span\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11376,
+              "vanbanphanhoi": "sad",
+              "fileupload": ""
+            },
+            {
+              "id": 11377,
+              "vanbanphanhoi": "sleepy",
+              "fileupload": ""
+            },
+            {
+              "id": 11378,
+              "vanbanphanhoi": "good",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "title": "Đề 7 - Reading p2",
+      "des": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe sentences below give information about Zinedine Zidane. Put the sentences in the right order. The first one is done for you.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3646,
+          "vanbancauhoi": "\u003cem\u003e0. Zinedine Zidane\u0027s journey began in Marseille, where he honed his skills.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 11379,
+              "vanbanphanhoi": "As a child, he played for several teams close to his home in Marseille.",
+              "fileupload": ""
+            },
+            {
+              "id": 11380,
+              "vanbanphanhoi": "He then left home to join Cannes Football Club in the south of France.",
+              "fileupload": ""
+            },
+            {
+              "id": 11381,
+              "vanbanphanhoi": "While he was in the club, he was seen as a talented player.",
+              "fileupload": ""
+            },
+            {
+              "id": 11382,
+              "vanbanphanhoi": "Later, he left France to advance his career in Italy and Spain, where he eventually stopped playing.",
+              "fileupload": ""
+            },
+            {
+              "id": 11383,
+              "vanbanphanhoi": "Since retiring, he has worked as a manager for a football club.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 664,
+      "title": "Đề 7 -Reading p3",
+      "des": "\u003cp\u003eThe sentences below are part of a biography of  Milly Brook. Put the sentences in the right order. The first sentence is done for you.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3647,
+          "vanbancauhoi": "\u003cem\u003e0. From a young age, Milly Brook had a strong passion for sports.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SX",
+          "lstdapan": [
+            {
+              "id": 11886,
+              "vanbanphanhoi": "As a child, she spent countless hours practicing her favorite sport every day.",
+              "fileupload": ""
+            },
+            {
+              "id": 11887,
+              "vanbanphanhoi": "Because of this dedication and passion, she quickly improved her skills significantly.",
+              "fileupload": ""
+            },
+            {
+              "id": 11889,
+              "vanbanphanhoi": "The hard work and determination proved to be successful and rewarding.",
+              "fileupload": ""
+            },
+            {
+              "id": 12928,
+              "vanbanphanhoi": "They invited her to join their team, recognizing her exceptional talent and commitment.",
+              "fileupload": ""
+            },
+            {
+              "id": 12929,
+              "vanbanphanhoi": "A year later, after extensive training and dedication, she became a key player.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 665,
+      "title": "Đề 7 - Reading p4",
+      "des": "\u003cp\u003eFour people were interviewed by the local sports center about doing exercise. Read the texts and complete the questions below.\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson A: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eAs we get older, it’s easier to forget things. This is especially true when it comes to working out, particularly when it gets difficult. By this, I don’t mean preparing for things like long-distance events, but rather the routines and workouts we do regularly. To truly gain from these, they need to be done frequently, and ideally at the same time each day. In this way, it becomes an enjoyable and healthy routine.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson B: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eHaving someone by our side can help us when we just don’t feel motivated to exercise. Quite often in this situation, we don’t need expert assistance at the local gym. We just need a little extra encouragement from someone who knows us and understands how to motivate us. Afterwards, we can discuss our aching muscles, and it’s a great opportunity to enjoy a nutritious meal together. This also plays a role in restoring energy to our bodies.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson C: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003e The whole motivation behind doing sport is the benefit for the body. Some people with unhealthy diets want to lose weight, so they constantly push themselves to the extreme. Perspectives on fitness, including frequency and intensity, have evolved. However, it’s better to pay attention to what your body is telling you and take a break if needed. If you’re uncertain, consult a trainer at the local fitness center.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePerson D: \u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe body and the relationship we have with it changes with time. When we’re older, it’s different from how it was in our younger years. However, this doesn’t mean that people should stop being active. Of course, the exercise needs to be gentler and less physically demanding than what we did in school. Older adults simply don’t need to compete or burn off the extra energy that young people often have.\u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3648,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks a routine can help us do more sport?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11389,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11390,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11391,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11392,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3649,
+          "vanbancauhoi": "Who thinks experiencing pain is not necessary?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11393,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 12897,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 12898,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 12899,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3650,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks competitions are not useful for everybody?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11397,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11398,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11399,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11400,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3651,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks working out with a friend is a good idea?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11401,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11402,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11403,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11404,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3652,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks exercise is for both the young and the elderly?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11405,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11406,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11407,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11408,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3653,
+          "vanbancauhoi": "Who thinks eating proper food is very important?_",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11409,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 12900,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 12901,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 12902,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3654,
+          "vanbancauhoi": "\u003cspan xss\u003dremoved\u003eWho thinks at times we should seek expert advice?_\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11413,
+              "vanbanphanhoi": "Person A",
+              "fileupload": ""
+            },
+            {
+              "id": 11414,
+              "vanbanphanhoi": "Person B",
+              "fileupload": ""
+            },
+            {
+              "id": 11415,
+              "vanbanphanhoi": "Person C",
+              "fileupload": ""
+            },
+            {
+              "id": 11416,
+              "vanbanphanhoi": "Person D",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "title": "Đề 7 - Reading p5",
+      "des": "\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003eRead the passage quickly. Choose a heading for each numbered paragraph (1-7) from the drop-down box. There is one more heading than you need. \u003cbr\u003e\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\r\n\u003cp xss\u003dremoved\u003e\u003cstrong\u003eThe Doggett’s Coat and Badge\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003c/em\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "DOC",
+      "LstCauHoi": [
+        {
+          "id": 3655,
+          "vanbancauhoi": "1._\u003cbr\u003eThomas Doggett, an Irish actor and comedian who managed Drury Lane Theatre, created the race. He relied heavily on Thames watermen, who were vital for transportation at the time. With poor roads and crowded city streets, the Thames served as the primary highway. Doggett frequently commuted via the river between his London work locations and his home in Chelsea.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11417,
+              "vanbanphanhoi": "Result of a lucky escape",
+              "fileupload": ""
+            },
+            {
+              "id": 11419,
+              "vanbanphanhoi": "The easiest way to travel",
+              "fileupload": ""
+            },
+            {
+              "id": 11420,
+              "vanbanphanhoi": "A need for change",
+              "fileupload": ""
+            },
+            {
+              "id": 11421,
+              "vanbanphanhoi": "Earning is reputation",
+              "fileupload": ""
+            },
+            {
+              "id": 11423,
+              "vanbanphanhoi": "Origins of what the winner receives",
+              "fileupload": ""
+            },
+            {
+              "id": 11424,
+              "vanbanphanhoi": "Generations of champions",
+              "fileupload": ""
+            },
+            {
+              "id": 11425,
+              "vanbanphanhoi": "Not in it for the money",
+              "fileupload": ""
+            },
+            {
+              "id": 11435,
+              "vanbanphanhoi": "Why do people join Doggett’s Coat",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3656,
+          "vanbancauhoi": "2._\u003cbr\u003e\u003cspan xss\u003dremoved\u003eA popular story suggests that Doggett was saved by a waterman after falling into the Thames in 1715. To show his gratitude, he organized a race for six young watermen, offering a prize for the fastest rower on a 7.4-km course between two pubs named “The Swan” in London Bridge and Chelsea.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11427,
+              "vanbanphanhoi": "Result of a lucky escape",
+              "fileupload": ""
+            },
+            {
+              "id": 11428,
+              "vanbanphanhoi": "The easiest way to travel",
+              "fileupload": ""
+            },
+            {
+              "id": 11429,
+              "vanbanphanhoi": "A need for change",
+              "fileupload": ""
+            },
+            {
+              "id": 11430,
+              "vanbanphanhoi": "Earning is reputation",
+              "fileupload": ""
+            },
+            {
+              "id": 11431,
+              "vanbanphanhoi": "Why do people join Doggett’s Coat",
+              "fileupload": ""
+            },
+            {
+              "id": 11432,
+              "vanbanphanhoi": "Origins of what the winner receives",
+              "fileupload": ""
+            },
+            {
+              "id": 11433,
+              "vanbanphanhoi": "Not in it for the money",
+              "fileupload": ""
+            },
+            {
+              "id": 11434,
+              "vanbanphanhoi": "Generations of champions",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3657,
+          "vanbancauhoi": "3._\u003cbr\u003e\u003cspan xss\u003dremoved\u003eUnlike typical prizes, Doggett awarded a traditional red waterman’s coat with a silver badge inscribed with “Liberty.” This badge commemorated the coronation of George I of the House of Hanover on August 1, 1714. Doggett chose August 1 for the annual race to honor this event. The badge today still includes “Liberty” and an image of the Hanover horse. Doggett managed the race and financed it himself until his death in 1721.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11436,
+              "vanbanphanhoi": "Result of a lucky escape",
+              "fileupload": ""
+            },
+            {
+              "id": 11437,
+              "vanbanphanhoi": "The easiest way to travel",
+              "fileupload": ""
+            },
+            {
+              "id": 11438,
+              "vanbanphanhoi": "A need for change",
+              "fileupload": ""
+            },
+            {
+              "id": 11439,
+              "vanbanphanhoi": "Earning is reputation",
+              "fileupload": ""
+            },
+            {
+              "id": 11440,
+              "vanbanphanhoi": "Why do people join Doggett’s Coat",
+              "fileupload": ""
+            },
+            {
+              "id": 11441,
+              "vanbanphanhoi": "Origins of what the winner receives",
+              "fileupload": ""
+            },
+            {
+              "id": 11442,
+              "vanbanphanhoi": "Generations of champions",
+              "fileupload": ""
+            },
+            {
+              "id": 11443,
+              "vanbanphanhoi": "Not in it for the money",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3658,
+          "vanbancauhoi": "4._\u003cbr\u003eAfter Doggett\u0027s death, the Fishmongers’ Company of London continued the race as specified in his will. However, the event now runs with the incoming tide, and competitors use racing boats instead of commercial vessels. In 1988, due to a decline in watermen, the Fishmongers’ Company allowed competitors three chances to win the race.",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11444,
+              "vanbanphanhoi": "Result of a lucky escape",
+              "fileupload": ""
+            },
+            {
+              "id": 11445,
+              "vanbanphanhoi": "The easiest way to travel",
+              "fileupload": ""
+            },
+            {
+              "id": 11446,
+              "vanbanphanhoi": "A need for change",
+              "fileupload": ""
+            },
+            {
+              "id": 11447,
+              "vanbanphanhoi": "Earning is reputation",
+              "fileupload": ""
+            },
+            {
+              "id": 11448,
+              "vanbanphanhoi": "Why do people join Doggett’s Coat",
+              "fileupload": ""
+            },
+            {
+              "id": 11449,
+              "vanbanphanhoi": "Origins of what the winner receives",
+              "fileupload": ""
+            },
+            {
+              "id": 11450,
+              "vanbanphanhoi": "Generations of champions",
+              "fileupload": ""
+            },
+            {
+              "id": 11451,
+              "vanbanphanhoi": "Not in it for the money",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3659,
+          "vanbancauhoi": "5. _\u003cbr\u003e\u003cspan xss\u003dremoved\u003eThe winner’s prize remains the traditional red waterman’s coat along with a silver badge featuring a horse and the word “Liberty.” Additionally, all competitors who finish the race receive a miniature version of Doggett’s badge for their collars at a ceremony held at Watermen’s Hall. The winner receives a silver badge, while other participants receive bronze ones. Historically, winning the Doggett’s Coat and Badge in the 18th and 19th centuries helped bring in more business for the successful waterman. Although this practical advantage is now somewhat outdated, achieving the Doggett’s Coat and Badge remains a highly respected honor.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11452,
+              "vanbanphanhoi": "Result of a lucky escape",
+              "fileupload": ""
+            },
+            {
+              "id": 11453,
+              "vanbanphanhoi": "The easiest way to travel",
+              "fileupload": ""
+            },
+            {
+              "id": 11454,
+              "vanbanphanhoi": "A need for change",
+              "fileupload": ""
+            },
+            {
+              "id": 11455,
+              "vanbanphanhoi": "Earning is reputation",
+              "fileupload": ""
+            },
+            {
+              "id": 11456,
+              "vanbanphanhoi": "Why do people join Doggett’s Coat",
+              "fileupload": ""
+            },
+            {
+              "id": 11457,
+              "vanbanphanhoi": "Origins of what the winner receives",
+              "fileupload": ""
+            },
+            {
+              "id": 11458,
+              "vanbanphanhoi": "Generations of champions",
+              "fileupload": ""
+            },
+            {
+              "id": 11459,
+              "vanbanphanhoi": "Not in it for the money",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3660,
+          "vanbancauhoi": "6._\u003cbr\u003e\u003cspan xss\u003dremoved\u003eIn 2012, six rowers competed, and the race was won by 23-year-old waterman Merlin Dwan. Dwan comes from a family of watermen; his father won the Doggett’s Coat and Badge in 1977, and his uncle and two cousins have also won the race. However, the Dwan family doesn’t hold the record for the most wins—that title goes to the Phelps family, with ten victories.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11460,
+              "vanbanphanhoi": "Result of a lucky escape",
+              "fileupload": ""
+            },
+            {
+              "id": 11461,
+              "vanbanphanhoi": "The easiest way to travel",
+              "fileupload": ""
+            },
+            {
+              "id": 11462,
+              "vanbanphanhoi": "A need for change",
+              "fileupload": ""
+            },
+            {
+              "id": 11463,
+              "vanbanphanhoi": "Earning is reputation",
+              "fileupload": ""
+            },
+            {
+              "id": 11464,
+              "vanbanphanhoi": "Why do people join Doggett’s Coat",
+              "fileupload": ""
+            },
+            {
+              "id": 11465,
+              "vanbanphanhoi": "Origins of what the winner receives",
+              "fileupload": ""
+            },
+            {
+              "id": 11467,
+              "vanbanphanhoi": "Generations of champions",
+              "fileupload": ""
+            },
+            {
+              "id": 11468,
+              "vanbanphanhoi": "Not in it for the money",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3661,
+          "vanbancauhoi": "7._\u003cbr\u003e\u003cspan xss\u003dremoved\u003eThe tradition of families winning the Doggett’s Coat and Badge highlights its enduring significance. Nowadays, being a waterman is likely viewed less as a career and more as a means of preserving a centuries-old family tradition. This heritage is upheld further by the exclusive group of watermen known as the Royal Watermen. Queen Elizabeth employs 24 watermen to accompany her on ceremonial occasions along the Thames. Each waterman earns a modest annual sum of £3.50 for this role, but the prestige of wearing the iconic red jacket and silver badge on important state occasions is invaluable.\u003c/span\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "SEL",
+          "lstdapan": [
+            {
+              "id": 11469,
+              "vanbanphanhoi": "Result of a lucky escape",
+              "fileupload": ""
+            },
+            {
+              "id": 11470,
+              "vanbanphanhoi": "The easiest way to travel",
+              "fileupload": ""
+            },
+            {
+              "id": 11471,
+              "vanbanphanhoi": "A need for change",
+              "fileupload": ""
+            },
+            {
+              "id": 11472,
+              "vanbanphanhoi": "Earning is reputation",
+              "fileupload": ""
+            },
+            {
+              "id": 11473,
+              "vanbanphanhoi": "Why do people join Doggett’s Coat",
+              "fileupload": ""
+            },
+            {
+              "id": 11474,
+              "vanbanphanhoi": "Origins of what the winner receives",
+              "fileupload": ""
+            },
+            {
+              "id": 11475,
+              "vanbanphanhoi": "Generations of champions",
+              "fileupload": ""
+            },
+            {
+              "id": 11476,
+              "vanbanphanhoi": "Not in it for the money",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakings": [
+    {
+      "id": 671,
+      "title": "Đề 7 - Speaking part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I am going to ask you three short questions about yourself and your interests. You will have 30 seconds to reply to each question.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/7f08bb5d40fb19bd486c1d0d9ba186fe.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3674,
+          "vanbancauhoi": "What activities do you usually do with your friends?",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eI’d like to share with you what I usually do with my friends, especially my best friend, who I’ve known for 5 years. We often hang out at a cafe shop and talk about everything that just pops out in our head, after that we drive around the city on her bike to admire the beauty of our city. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cbr\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eWhen I’m with my friends, we usually play games together. Sometimes, we play football or basketball in the park. Other times, we stay indoors and play video games. We also like to talk and laugh a lot.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/cd032f934b50a3905345adaa20d4a74c.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11539,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bffb9749c3e3256c4f7e5661489aac75.mp3"
+            },
+            {
+              "id": 11540,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/965fbc4ae7de734cdb5f2ccc7ad26db9.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3675,
+          "vanbancauhoi": "Tell me about your hobby.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eLet me tell you about my hobby.Recently, I found out my new hobby is drawing. Drawing is fun, especially when I can share my artwork with my friends, who give me ideas to improve my drawing. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eMy hobby is reading books. I enjoy reading because it helps me relax and learn new things. I like reading stories about adventure and animals. Sometimes, I read for an hour before bed. It’s my favorite way to spend free time.\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/284838d7fdda29e384eb8de88f0c2754.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11541,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/33e8c528ff01bda42f048286df9735a4.mp3"
+            },
+            {
+              "id": 11544,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2066d69f4c52d49b943060cb063ebc43.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3676,
+          "vanbancauhoi": "Describe something you are planning to do in the future.",
+          "vanbangiaithich": "\u003cp\u003e\u003cstrong\u003eVersion 1: \u003c/strong\u003eI’d like to share with you my future plans. In the next 2 years I want to learn a new language, which is Japanese. Also, I want to learn how to love myself more and have an active lifestyle. That\u0027s all I want to share and thank you for listening. \u003c/p\u003e\r\n\u003cbr\u003e\u003cstrong\u003eVersion 2: \u003c/strong\u003eIn the future, I plan to travel to another country. I want to visit Japan because it looks beautiful. I also want to learn more about Japanese culture and food. I hope I can go there with my family one day.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/540531c6df4170ce330666aa4f47cd24.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11545,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/8311e7803f21c3ddbcdcf662969a6bd8.mp3"
+            },
+            {
+              "id": 11551,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f6bbf401d3baf5ef495bfd6178bf2353.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "title": "Đề 7 - Speaking part 2",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to describe a picture. Then I will ask you two questions about it. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fe162e74da6fd60beaad4abed3ee481c.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3678,
+          "vanbancauhoi": "Describe the picture\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/62c6667680f464b9fd3f4c2f6d1e23dc.png\"\u003e",
+          "vanbangiaithich": "I can observe that this picture is a family car trip.\u0026nbsp;\u003cbr\u003eIn the front of the picture, the father, who is wearing a blue shirt, is driving and the mother is talking with her daughter, who is sitting behind them.\u003cbr\u003eIn the background, I cannot see anything because it is too blurry.\u003cbr\u003eIt is clear that they all are smiling and look very happy.\u003cbr\u003eI guess they are on their vacation and on their way to their destination.\u003cbr\u003eI really love this picture because I can feel the happiness and excitement from this family.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/bf5ad284c60893e9aa37324f75c3f98e.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11555,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2057755857d8a5b69857ef69e522ec35.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3681,
+          "vanbancauhoi": "What was the last time you were in a car",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eThe last time I was in a car was\u003c/span\u003e\u003cstrong\u003e last Sunday\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. I went to\u003c/span\u003e\u003cstrong\u003e Cam Ranh\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e to visit\u003c/span\u003e\u003cstrong\u003e our relatives and my father drove me and my mother\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e there. We spent two hours in the car and \u003c/span\u003e\u003cstrong\u003elistening to music\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e was the only way to \u003c/span\u003e\u003cstrong\u003ehelp us feel less bored\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. However, I was\u003c/span\u003e\u003cstrong\u003e admiring the views \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ethrough the window, which is my favorite activity and we didn\u0027t talk much during the trip. The trip was normal to me and kind of boring, I must say.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/6b9c1ac6d95c62d50296e9842feb12d3.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11562,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/21578b6ab562a9215da69bef9ab974af.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3684,
+          "vanbancauhoi": "How can people pass time on a long travel?",
+          "vanbangiaithich": "From my experience, we can listen to music to ease the boredom. The melody will make us feel awake and maybe light up our mood. Another activity is sleeping. Sleeping during the trip will help us feel less tired and it\u0027s an effective way to pass a long trip. However, we can choose to talk or make a conversation with someone to kill time. As for me, I would choose to admire the view while listening to my music. These are my suggestions about how to pass time on a long trip.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/f26e2bfd98f98ea800f34579352f7bc9.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11569,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/0ee2d2e63ce40b1823ed02cf3887902e.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 673,
+      "title": "Đề 7 - Speaking part 3",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to ask you to compare two pictures, and I will then ask you two questions about them. You will have 45 seconds for each response.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/c3cd2304c94808f0f0d92feb584b96cc.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3687,
+          "vanbancauhoi": "Describe the 2 pictures.\u003cbr\u003e\u003cimg src\u003d\"https://demotienganh.aptistests.vn/api//source/image/7e4a52c63e47cbb5ae2bd8c2d5fb9509.png\"\u003e",
+          "vanbangiaithich": "From both pictures, I can observe they are outdoor activities and quite adventurous.\u003cbr\u003eThe first picture shows me a lot of people riding on a small yellow boat, who I assume are a team. \u003cbr\u003eWhile the second one shows a man cycling on his bike.\u003cbr\u003eIn terms of the differences, I can see the first picture is a teamwork sport, and the second is an individual sport. \u003cbr\u003eAs for me, I would choose the first picture because I like teamwork sports and spending time with my friends.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/40410090f01a7f80d081612f267f5cc6.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11580,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/431311eee597bf91e865b73f4c05abac.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3689,
+          "vanbancauhoi": "What are the difficulties of both sports?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eWell from my point of view, both sports are very difficult and I think here are some main ones.\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eFirst\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cspan xss\u003dremoved\u003ethey are \u003c/span\u003e\u003cstrong\u003eboth adventurous sports \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eso you need to be \u003c/span\u003e\u003cstrong\u003ebrave\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e so play those sports. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eSecond\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e,\u003c/span\u003e\u003cspan xss\u003dremoved\u003e they are not  for \u003c/span\u003e\u003cstrong\u003eweak peopl\u003c/strong\u003e\u003cspan xss\u003dremoved\u003ee, you may easily have a\u003c/span\u003e\u003cstrong\u003e heart attack\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e or \u003c/span\u003e\u003cstrong\u003eblood pressure.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e\u003cstrong\u003eFinally\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e, it is \u003c/span\u003e\u003cstrong\u003efinancial. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eYou will need \u003c/span\u003e\u003cstrong\u003ea lot of money to buy necessary requirement\u003c/strong\u003e\u003cspan xss\u003dremoved\u003es and have to \u003c/span\u003e\u003cstrong\u003echeck your health r\u003c/strong\u003e\u003cspan xss\u003dremoved\u003eegularly. \u003c/span\u003e\u003c/p\u003e\r\n\u003cstrong\u003eFor me,\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e I would rather not play those sports because\u003c/span\u003e\u003cstrong\u003e I don’t have the guts\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e to play them.\u003c/span\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/9c5b1e794ca206c1679cf0ef303dcc8b.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11585,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/e6f88fa99bcf377af730e1f30a3e5d36.mp3"
+            }
+          ]
+        },
+        {
+          "id": 3692,
+          "vanbancauhoi": "\u0026nbsp;Why some people prefer team sports than individual sports?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eIn my opinion, some people prefer team sports  \u003c/span\u003e\u003cstrong\u003ebecause they like hanging out with friends. \u003c/strong\u003e\u003cspan xss\u003dremoved\u003eThanks to team sports, they will strengthen their friendship and help them understand each other more. \u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eAnother reason is\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e because they want to \u003c/span\u003e\u003cstrong\u003eexperience and meet more people in the world\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e. With this, a new friendship will be formed and will last long because of the same interest. \u003c/span\u003e\u003c/p\u003e\r\n\u003cstrong\u003eAs for me\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e, I would prefer team sports too because they are\u003c/span\u003e\u003cstrong\u003e fun when playing with my friends.\u003c/strong\u003e\u003cspan xss\u003dremoved\u003e \u003c/span\u003e",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/37d8b8753ac173f4d912955238ff729f.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11594,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/fd62bd63bd95eea42f8836ba5b0bf907.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 674,
+      "title": "Đề 7 - Speaking part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eIn this part, I\u0027m going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will have two minutes to answer all three questions.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eBegin speaking when you hear this sound. Look at the photograph.\u003c/strong\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/042dd7c3be594eaf4e75f34f4a4ec9d7.mp3",
+      "LstCauHoi": [
+        {
+          "id": 3696,
+          "vanbancauhoi": "Describe a time you were very busy\u0026nbsp;\u003cbr\u003eHow do you feel when you are busy?\u003cbr\u003eIf people work less, will their lives become better?",
+          "vanbangiaithich": "Now, I am going to answer the three questions that you gave me.\u0026nbsp;\u003cbr\u003eDescribe a time you were very busy \u003cbr\u003eHow do you feel when you are busy?\u003cbr\u003eIf people work less, will their lives become better? \u003cbr\u003e\u003cbr\u003eRegarding the first question, let me tell you about a time I was busy and it was when I traveled to Danang City.\u003cbr\u003eDa Nang is famous for its beaches, and for example one of them is My Khe, which is one of the most wonderful beaches in the world, so every year, there are many tourists going to the area to see the beauty of the beach. Therefore, going to this city was extremely expensive for me at that time.\u003cbr\u003eSo in Danang I did a number of things, first of all, I did some sightseeing in the mountains and I had a beautiful view of the city below.\u003cbr\u003eDuring the trip, I was busy traveling to a lot of tourist destinations from early in the morning till late in the afternoon\u003cbr\u003e\u003cbr\u003eTurning to the second question, I feel happy when I am busy because it makes me feel more active.\u003cbr\u003eAs for the final question, if people work less, their lives will become better. First, they can spend more time with their loved ones. Second, they can relax after a long day at work.",
+          "des": "",
+          "file": "https://luyenthi.aptistests.vn/api/source/thitructuyen/2a8f2c51aa6ab5695c4bca2ae2117356.mp3",
+          "code": "NOI",
+          "lstdapan": [
+            {
+              "id": 11603,
+              "vanbanphanhoi": "",
+              "fileupload": "https://luyenthi.aptistests.vn/api/source/thitructuyen/181dfb5dff88eab0d0ed7e4274ea9a86.mp3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "writings": [
+    {
+      "id": 559,
+      "title": "Đề 7 - Writing part 1",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou want to join a Food club. You have 5 messages from a member of the club. Write short answers (1–5 words) to each message. Recommended time: 3 minutes.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eExample \u003c/strong\u003eHow are you? I\u0027m fine, thanks.\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3124,
+          "vanbancauhoi": "What is your favorite animal?\u0026nbsp;",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9583,
+              "vanbanphanhoi": "I like cats.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3125,
+          "vanbancauhoi": "Where did you go last night?",
+          "vanbangiaithich": "\u003cp\u003e\u003cspan xss\u003dremoved\u003eI went to a restaurant.\u003c/span\u003e\u003c/p\u003e",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 11891,
+              "vanbanphanhoi": "I went to the zoo",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3126,
+          "vanbancauhoi": "What is your favorite time of year?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9584,
+              "vanbanphanhoi": "It’s summer holiday.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3127,
+          "vanbancauhoi": "What is your job?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9585,
+              "vanbanphanhoi": "I am a student.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3128,
+          "vanbancauhoi": "What is your favorite subject in high school?",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9586,
+              "vanbanphanhoi": "It’s English.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "title": "Đề 7 - Writing part 2",
+      "des": "\u003cstrong\u003eYou are a new member of the Food club. Fill in the form. Write in sentences. Use 20\u003c/strong\u003e–\u003cstrong\u003e30 words. Recommended time: 7 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3130,
+          "vanbancauhoi": "\u003cp\u003eWhen and where do you usually eat meals?\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9587,
+              "vanbanphanhoi": "I usually eat meals at home with my family. I like to eat with my family because we can talk together, which helps us to relax and reduce stress after a long day of work.",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "title": "Đề 7 - Writing part 3",
+      "des": "\u003cstrong\u003eYou are communicating with other members of the club in the chat room. Reply to their questions. Write in sentences. Use 30–40 words per answer. Recommended time: 10 minutes.\u003c/strong\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3131,
+          "vanbancauhoi": "\u003cp\u003eA: Tell me about a time you eat a nice meal? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9588,
+              "vanbanphanhoi": "Let me tell you about a time when I had a nice meal, which was 3 days ago. I went out to eat with my friends in a big restaurant, where the food was delicious. I was most impressed with the perfectly cooked beef.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3132,
+          "vanbancauhoi": "\u003cp\u003eB: Tell me about a place to eat local food (đồ ăn địa phương)? What food? \u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9590,
+              "vanbanphanhoi": "A place to eat local food that I can recall (nhớ lại) is a restaurant selling Pho. I usually eat Pho here, which is my favorite food because it is cheap and convenient. I often eat Pho here on the weekends with my family members or my friends.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3133,
+          "vanbancauhoi": "\u003cp\u003e\u003cem\u003eC: People are likely to eat more and more fast food. It is unhealthy and they should eat less. What do you think? (mọi người thường ăn đồ ăn nhanh,. Nó thì ko tốt cho sức khoẻ và họ nên ăn ít hơn. Bạn nghĩ gì?)\u003c/em\u003e\u003c/p\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9591,
+              "vanbanphanhoi": "People nowadays are likely to eat more fast food, such as fried chicken, pizza, or hamburger, which is definitely unhealthy. I believe that people shouldn’t eat too much fast food because this could affect their health badly. Moreover, fast food can sometimes be very expensive.\r\n-\u003e Sử dụng such as, for example, for instance để đưa ví dụ.\r\n-\u003e Sử dụng từ nối: First, Beside, In addition, Furthermore, Moreover, Plus….",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "title": "Đề 7 - Writing part 4",
+      "des": "\u003cp\u003e\u003cstrong\u003eYou are a member of the Computer Club. You received this email from the club’s manager.\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cem\u003eDear members,\u003c/em\u003e\u003c/p\u003e\r\n\u003cp\u003e\u003cspan xss\u003dremoved\u003eWe are planning a series of meetings on Wednesday, we need volunteers to have a short talk about food.  \u003c/span\u003e\u003cspan xss\u003dremoved\u003eWhat will you talk about? Why do you think it is interesting? \u003c/span\u003e\u003c/p\u003e",
+      "des_cuoi": "",
+      "file": "",
+      "ma": "VIET",
+      "LstCauHoi": [
+        {
+          "id": 3134,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to your friend, who is also a member of this club. Tell your friend about your opinion and why. Write about 50 words\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9593,
+              "vanbanphanhoi": "Hi, Lucy.\r\nHow are things? I hope that you are doing well.\r\nHave you received the email from our club? The club is planning a series of meetings on Wednesday and we need volunteers to give short talks about food.\r\nI am very surprised to hear this. I am interested in knowing more about street food among different cultures and believe that this could be an interesting topic that could last for a few sessions. However, I think we should have a meeting in order to discuss more about this.\r\nWhat about you? What do you think? Do you have any suggestions?\r\nYours,\r\nLeo.",
+              "fileupload": ""
+            }
+          ]
+        },
+        {
+          "id": 3135,
+          "vanbancauhoi": "\u003cem\u003eWrite an email to the manager of the club. Tell the manager about your opinion and why. Write about 120-150 words.\u003c/em\u003e",
+          "vanbangiaithich": "",
+          "des": "",
+          "file": "",
+          "code": "VIET",
+          "lstdapan": [
+            {
+              "id": 9594,
+              "vanbanphanhoi": "Dear Sir,\r\nMy name is Leo. I have been a member of this club for 5 months.\r\nI’m writing this in response to your latest email.\r\nAccording to the email, we are planning a series of meetings on Wednesday, and we need volunteers to have a short talk about food.\r\nI was very surprised when I heard this. \r\nI would like to venture my ideas. My topic of interest is street food cultures around the world, where I’ll explore unique street foods of different places. I think this topic will be interesting for the audience because street food shows the culture of each place in a tasty and simple way. It also helps people enjoy the variety of (đa dạng) foods and see the creative ways local people make them around the world. However, I believe that we should discuss more about this. The club should organize a meeting, so members can share their thoughts on this as well as vote for their favorite ideas. By implementing these changes, we can ensure better attendance and engagement at the meeting, enhancing the overall experience for everyone involved (tóm tắt kết quả).\r\nI hope that my suggestions are useful.\r\nBest regards,\r\nLeo",
+              "fileupload": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
